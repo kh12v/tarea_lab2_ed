@@ -1,33 +1,24 @@
+#ifndef TREE_HPP
+#define TREE_HPP
+
 #include <vector>
 #include <iostream>
 #include <string>
 
-struct SimilarBook {
-    std::string title;
-    std::string isbn;
-    int publication_year;
-};
-
-struct Book {
+struct XmlNodeData {
     std::string id;
-    std::string title;
-    std::string isbn;
-    int publication_year;
-    std::string language_code;
-    std::string description;
-    float average_rating;
-    int num_pages;
-    std::vector<SimilarBook> similar_books;
+    std::string tag;
+    std::string text_content;
 };
 
 class Tree {
 private:
     struct Node {
-        Book data;
+        XmlNodeData data;
         Node* parent;
         std::vector<Node*> children;
 
-        Node(Book value, Node* p = nullptr);
+        Node(XmlNodeData value, Node* p = nullptr);
     };
 
     Node* rootNode;
@@ -37,6 +28,7 @@ private:
     void preOrder(Node* node, std::vector<std::string>& result);
     void postOrder(Node* node, std::vector<std::string>& result);
     void deleteSubtree(Node* node); //si se borra un nodo, se borran todos sus hijos y luego ese nodo.
+    void printTree(Node* node, int depth);
 
 public:
     Tree(int k);
@@ -49,7 +41,7 @@ public:
     std::string parent(std::string id);
     std::vector<std::string> children(std::string id);
 
-    bool insert(std::string parentId, Book value);
+    bool insert(std::string parentId, XmlNodeData value);
     bool remove(std::string id);
     
     Node* search(Node* node, std::string id);
@@ -57,4 +49,8 @@ public:
     std::vector<std::string> preOrder();
     std::vector<std::string> postOrder();
     std::vector<std::string> inOrder();
+    
+    void printTree();
 };
+
+#endif

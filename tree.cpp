@@ -4,7 +4,7 @@
 #include <stdexcept>
 
 // Node
-Tree::Node::Node(Book value, Node* p) {
+Tree::Node::Node(XmlNodeData value, Node* p) {
     data = value;
     parent = p;
 }
@@ -40,7 +40,7 @@ Tree::Node* Tree::search(Node* node, std::string id) {
     return nullptr;
 }
 
-bool Tree::insert(std::string parentId, Book value) {
+bool Tree::insert(std::string parentId, XmlNodeData value) {
     if (!rootNode) {
         rootNode = new Node(value);
         treeSize++;
@@ -109,7 +109,6 @@ bool Tree::remove(std::string id) {
     return true;
 }
 
-
 void Tree::preOrder(Node* node, std::vector<std::string>& result) {
     if (!node) return;
     result.push_back(node->data.id);
@@ -155,4 +154,29 @@ std::vector<std::string> Tree::inOrder() {
 
     inorder(rootNode);
     return result;
+}
+
+void Tree::printTree(Node* node, int depth) {
+    if (!node) return;
+
+    for (int i = 0; i < depth; ++i) {
+        std::cout << "  ";
+    }
+    
+    // Print a connector for children
+    if (depth > 0) std::cout << "|-- ";
+    
+    std::cout << node->data.tag;
+    if (!node->data.text_content.empty()) {
+        std::cout << " -> " << node->data.text_content;
+    }
+    std::cout << "\n";
+
+    for (auto child : node->children) {
+        printTree(child, depth + 1);
+    }
+}
+
+void Tree::printTree() {
+    printTree(rootNode, 0);
 }
