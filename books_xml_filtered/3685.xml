@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>3685</id>
+	<title>Black Beauty</title>
+	<isbn>0439228905</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>A horse is a horse of course unless of course the horse is &lt;i&gt;Black Beauty&lt;/i&gt;. Animal-loving children have been devoted to &lt;i&gt;Black Beauty&lt;/i&gt; throughout this century, and no doubt will continue through the next. &lt;br /&gt;Although &lt;i&gt;Anna Sewell's&lt;/i&gt; classic paints a clear picture of turn-of-the-century London, its message is universal and timeless: animals will serve humans well if they are treated with consideration and kindness.&lt;br /&gt;&lt;i&gt;Black Beauty&lt;/i&gt; tells the story of the horse's own long and varied life, from a well-born colt in a pleasant meadow to an elegant carriage horse for a gentleman to a painfully overworked cab horse. &lt;br /&gt;Throughout, Sewell rails - in a gentle, 19th-century way - against animal maltreatment. Young readers will follow &lt;i&gt;Black Beauty's&lt;/i&gt; fortunes, good and bad, with gentle masters as well as cruel. Children can easily make the leap from horse-human relationships to human-human relationships, and begin to understand how their own consideration of others may be a benefit to all.</description>
+	<average_rating>3.94</average_rating>
+	<num_pages>245</num_pages>
+	<similar_books>
+		<book>
+			<title>Stormy, Misty's Foal (Misty, #3)</title>
+			<isbn>1416927883</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Black Stallion and Satan (The Black Stallion, #5)</title>
+			<isbn>0679813462</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>My Friend Flicka (Flicka, #1)</title>
+			<isbn>0060512628</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>National Velvet</title>
+			<isbn>1405209496</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

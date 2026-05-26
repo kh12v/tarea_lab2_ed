@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>2767793</id>
+	<title>The Hero of Ages (Mistborn, #3)</title>
+	<isbn>0765316897</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Tricked into releasing the evil spirit Ruin while attempting to close the Well of Ascension, new emperor Elend Venture and his wife, the assassin Vin, are now hard-pressed to save the world.</description>
+	<average_rating>4.46</average_rating>
+	<num_pages>572</num_pages>
+	<similar_books>
+		<book>
+			<title>The Crimson Campaign (Powder Mage, #2)</title>
+			<isbn>0356502023</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Cursor's Fury (Codex Alera, #3)</title>
+			<isbn>0441014348</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Blinding Knife (Lightbringer, #2)</title>
+			<isbn>031607991X</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Emerald Storm  (The Riyria Revelations, #4)</title>
+			<isbn>0982514530</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Gathering Storm (Wheel of Time, #12)</title>
+			<isbn>0765302306</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Royal Assassin (Farseer Trilogy, #2)</title>
+			<isbn />
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Warded Man (Demon Cycle, #1)</title>
+			<isbn>0345503805</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>A Betrayal in Winter (Long Price Quartet, #2)</title>
+			<isbn>0765313413</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

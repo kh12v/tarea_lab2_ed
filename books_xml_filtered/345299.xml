@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>345299</id>
+	<title>Midnight Tides (The Malazan Book of the Fallen, #5)</title>
+	<isbn>0553813145</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>After decades of warfare, the five tribes of the Tiste Edur are united under the implacable rule of the Warlock King of the Hiroth. But the price of peace is a pact with a hidden power whose motives may be deadly. To the south, the expansionist kingdom of Lether has devoured all lesser neighbors - except the Tiste Edur.</description>
+	<average_rating>4.34</average_rating>
+	<num_pages>940</num_pages>
+	<similar_books>
+		<book>
+			<title>Return of the Crimson Guard (Malazan Empire, #2)</title>
+			<isbn>0593058097</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Thousandfold Thought (The Prince of Nothing, #3)</title>
+			<isbn>158567883X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dreams of Steel (The Chronicles of the Black Company, #5)</title>
+			<isbn>0812502108</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>An Autumn War (Long Price Quartet, #3)</title>
+			<isbn>0765313421</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

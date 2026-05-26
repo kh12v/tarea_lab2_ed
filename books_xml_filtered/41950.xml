@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>41950</id>
+	<title>Quentins</title>
+	<isbn>0752849522</isbn>
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description />
+	<average_rating>3.88</average_rating>
+	<num_pages>403</num_pages>
+	<similar_books>
+		<book>
+			<title>The End of Summer</title>
+			<isbn>0312961286</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Best of Friends</title>
+			<isbn>0743490258</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Village Matters (Tales from Turnham Malpas #3)</title>
+			<isbn>1857998510</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Week in Winter</title>
+			<isbn>031298667X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>An Irish Country Girl (Irish Country #4)</title>
+			<isbn>0765320711</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Finbar's Hotel</title>
+			<isbn>0156006332</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>181886</id>
+	<title>Ancestors of Avalon (Avalon, #5)</title>
+	<isbn>0451460286</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Marion Zimmer Bradley's beloved Avalon saga continues with the dramatic story of the ancestors of Avalon, from their life on the doomed island of Atlantis to their escape to the mist-shrouded isle of Britain.</description>
+	<average_rating>3.89</average_rating>
+	<num_pages>360</num_pages>
+	<similar_books>
+		<book>
+			<title>Priestess of Avalon (Avalon, #4)</title>
+			<isbn>0451458621</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Out of Avalon</title>
+			<isbn>0451458311</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Knight of the Sacred Lake (Guenevere, #2)</title>
+			<isbn>0609606239</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Twilight of Avalon (Twilight of Avalon, #1)</title>
+			<isbn>1416589899</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

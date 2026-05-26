@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>43326</id>
+	<title>Tell Me Your Dreams</title>
+	<isbn>0446607207</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>Computer whiz Ashley Patterson is convinced she is being stalked. Coworker Toni Prescott has a penchant for Internet dating and little time for anyone else. And Alette Peters prefers quiet weekends in the arms of a beefcake artist. They know virtually nothing about each other--until the three women are linked by a murder investigation that will lead to one of the most bizarre trials of the century.</description>
+	<average_rating>3.93</average_rating>
+	<num_pages>384</num_pages>
+	<similar_books>
+		<book>
+			<title>The Almighty</title>
+			<isbn>0718122143</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Not a Penny More, Not a Penny Less</title>
+			<isbn>0312997132</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Man, Woman, and Child</title>
+			<isbn>0553562355</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Detective</title>
+			<isbn>0517425904</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Malice</title>
+			<isbn>0375433279</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

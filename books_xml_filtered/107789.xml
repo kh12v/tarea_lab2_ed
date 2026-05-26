@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>107789</id>
+	<title>Heartbreaker (Buchanan-Renard, #1)</title>
+	<isbn>1416503811</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.02</average_rating>
+	<num_pages>520</num_pages>
+	<similar_books>
+		<book>
+			<title>Dying to Please</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Fire and Ice (Ice, #5)</title>
+			<isbn>0778325369</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Out of Control (Troubleshooters, #4)</title>
+			<isbn>0345486404</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Moving Target (Rarities Unlimited, #1)</title>
+			<isbn>0061031070</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Untraceable (Tracers, #1)</title>
+			<isbn>1439149194</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Someone to Watch Over Me</title>
+			<isbn>0743499719</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>All Night Long</title>
+			<isbn>0399153055</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

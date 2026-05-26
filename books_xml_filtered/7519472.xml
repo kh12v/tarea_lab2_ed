@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>7519472</id>
+	<title>The Darkest Lie (Lords of the Underworld #6)</title>
+	<isbn>0778303829</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.32</average_rating>
+	<num_pages>442</num_pages>
+	<similar_books>
+		<book>
+			<title>Sin Undone (Demonica #5)</title>
+			<isbn>0446556815</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Dark Desires After Dusk (Immortals After Dark #6)</title>
+			<isbn>1416576754</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Pleasure (Shadowdwellers, #3)</title>
+			<isbn>1420104241</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Seduced by the Storm (ACRO, #3)</title>
+			<isbn>0385340826</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Deeper Than Midnight (Midnight Breed, #9)</title>
+			<isbn>0440246113</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Atlantis Unmasked (Warriors of Poseidon, #4)</title>
+			<isbn>0425223221</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

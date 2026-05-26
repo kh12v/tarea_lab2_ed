@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>16335</id>
+	<title>The Mystery of the Blue Train (Hercule Poirot, #6)</title>
+	<isbn>1579126952</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>A mysterious woman, a legendary cursed jewel, and a night train to the Mediterranean -- ingredients for the perfect romance or the perfect crime? When the train stops, the jewel is missing, and the woman is found dead in her compartment. It's the perfect mystery, filled with passion, greed, deceit. And Hercule Poirot is the perfect detective to solve it...</description>
+	<average_rating>3.77</average_rating>
+	<num_pages>317</num_pages>
+	<similar_books>
+		<book>
+			<title>Clouds of Witness (Lord Peter Wimsey, #2)</title>
+			<isbn>0061043532</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Died in the Wool (Roderick Alleyn, #13)</title>
+			<isbn>0006512399</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Miss Silver Deals With Death (Miss Silver, #6)</title>
+			<isbn>0060974435</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Pearls Before Swine (Albert Campion Mystery #12)</title>
+			<isbn>0553245481</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Prisoner's Base (Nero Wolfe, #21)</title>
+			<isbn>0553242695</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Duplicate Death (Inspector Hemingway Mystery #3)</title>
+			<isbn>0099493756</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Chinese Orange Mystery (Ellery Queen Detective, #8)</title>
+			<isbn>0451087593</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+	</similar_books>
+</book>

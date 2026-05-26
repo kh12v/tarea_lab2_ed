@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>27523</id>
+	<title>Left Behind (Left Behind, #1)</title>
+	<isbn>0842342702</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>An airborne Boeing 747 is headed to London when, without any warning, passengers mysteriously disappear from their seats. Terror and chaos slowly spread not only through the plane but also worldwide as unusual events continue to unfold. For those who have been left behind, the apocalypse has just begun...</description>
+	<average_rating>3.81</average_rating>
+	<num_pages>342</num_pages>
+	<similar_books>
+		<book>
+			<title>Soon: The Beginning of the End (Underground Zealot, #1)</title>
+			<isbn>0842384073</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Piercing the Darkness (Darkness, #2)</title>
+			<isbn>1581345275</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Night Light (Restoration #2)</title>
+			<isbn>0310257689</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Fireproof</title>
+			<isbn>1595547169</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

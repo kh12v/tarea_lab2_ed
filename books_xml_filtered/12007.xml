@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>12007</id>
+	<title>Use of Weapons (Culture, #3)</title>
+	<isbn>185723135X</isbn>
+	<publication_year />
+	<language_code>en-GB</language_code>
+	<description>Cheradenine is an ex-special circumstance agent who had been raised to eminence by a woman named Diziet. Skaffen-Amtiskaw, the drone, had saved her life and it believes Cheradenine to be a burnt-out case. But not even its machine intelligence can see the horrors in his past.</description>
+	<average_rating>4.18</average_rating>
+	<num_pages>411</num_pages>
+	<similar_books>
+		<book>
+			<title>Chasm City</title>
+			<isbn>0441010644</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Technician</title>
+			<isbn>0230708749</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Fallen Dragon</title>
+			<isbn>0330480065</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Cassini Division (The Fall Revolution, #3)</title>
+			<isbn>0812568583</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

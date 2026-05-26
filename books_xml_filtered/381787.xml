@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>381787</id>
+	<title>Truth Will Prevail (The Work and the Glory, #3)</title>
+	<isbn>1590384989</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>4.30</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Far From Home (Children of the Promise, #3)</title>
+			<isbn>1573454060</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Prelude to Glory, Vol. 3: To Decide Our Destiny</title>
+			<isbn>1570086958</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Warriors of Cumorah (Tennis Shoes, #8)</title>
+			<isbn>1577349229</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Faith of Our Fathers: Through the Perilous Fight (Volume Three)</title>
+			<isbn>1591563356</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

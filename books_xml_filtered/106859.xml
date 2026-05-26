@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>106859</id>
+	<title>Superman for All Seasons</title>
+	<isbn>1563895285</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>en-US</language_code>
+	<description>Similar to the premise of the Smallville television series, this hardcover book takes a look at the life of a young Clark Kent as he begins to develop strange powers. Living in a small Kansas town, the boy who would grow to be the Man of Steel must come to terms with his true origin and his uncanny abilities. In this mythic tale, we witness the experiences and adventures that transform a simple country boy into the world's greatest hero.</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>206</num_pages>
+	<similar_books>
+		<book>
+			<title>Superman: Secret Identity</title>
+			<isbn>1401204511</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Superman: Birthright</title>
+			<isbn>1401202527</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Superman: Last Son </title>
+			<isbn>140121343X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Superman: Whatever Happened to the Man of Tomorrow?</title>
+			<isbn>1563893150</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>All-Star Superman, Vol. 2</title>
+			<isbn>1401218377</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Superman: Peace on Earth</title>
+			<isbn>1563894645</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>DC: The New Frontier, Volume 2</title>
+			<isbn>1401204619</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Justice, Volume 3</title>
+			<isbn>1401214673</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Invincible: Ultimate Collection, Vol. 1</title>
+			<isbn>158240500X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Lex Luthor: Man of Steel</title>
+			<isbn>1401204546</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Blue Beetle, Vol. 3: Reach for the Stars </title>
+			<isbn>1401216420</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Blue Beetle, Vol. 2: Road Trip </title>
+			<isbn>1401213618</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Secret Six: Six Degrees of Devastation</title>
+			<isbn>140121231X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

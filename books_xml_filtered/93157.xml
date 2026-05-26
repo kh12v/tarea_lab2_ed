@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>93157</id>
+	<title>The Monk</title>
+	<isbn>0140436030</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>Set in the sinister monastery of the Capuchins in Madrid, this is a violent tale of ambition, murder, and incest. The struggle between maintaining monastic vows and fulfilling personal ambitions tempts its main character into breaking his vows.</description>
+	<average_rating>3.80</average_rating>
+	<num_pages>386</num_pages>
+	<similar_books>
+		<book>
+			<title>Melmoth the Wanderer</title>
+			<isbn>014044761X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Italian: Or the Confessional of the Black Penitents</title>
+			<isbn>0140437541</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Zofloya</title>
+			<isbn>1551111462</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Private Memoirs and Confessions of a Justified Sinner</title>
+			<isbn>0192835904</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Vathek</title>
+			<isbn>0192836560</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Caleb Williams</title>
+			<isbn>0141441232</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Uncle Silas</title>
+			<isbn>0140437460</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Castle of Otranto</title>
+			<isbn>0192834401</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Castle of Wolfenbach: A German Story</title>
+			<isbn>0977784169</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Clermont</title>
+			<isbn>0976604841</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Roderick Random</title>
+			<isbn>0140433325</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Vampyre and Other Tales of the Macabre</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Camilla</title>
+			<isbn>019283908X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Gothic Tales</title>
+			<isbn>014043741X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Oxford Book of Gothic Tales</title>
+			<isbn>0192862197</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Roxana</title>
+			<isbn>0192834592</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>A Simple Story</title>
+			<isbn>019283598X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Man of Feeling</title>
+			<isbn>0192840320</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

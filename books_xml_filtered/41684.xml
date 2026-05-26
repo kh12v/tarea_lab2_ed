@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>41684</id>
+	<title>The Jungle Books</title>
+	<isbn>0451529758</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>The Jungle Books can be regarded as classic stories told by an adult to children. But they also constitute a complex literary work of art in which the whole of Kipling's philosophy of life is expressed in miniature. They are best known for the 'Mowgli' stories; the tale of a baby abandoned and brought up by wolves, educated in the ways and secrets of the jungle by Kaa the python, Baloo the bear, and Bagheera the black panther. The stories, a mixture of fantasy, myth, and magic, are underpinned by Kipling's abiding preoccupation with the theme of self-discovery, and the nature of the 'Law'.</description>
+	<average_rating>4.00</average_rating>
+	<num_pages>368</num_pages>
+	<similar_books>
+		<book>
+			<title>The World of Christopher Robin: The Complete When We Were Very Young and Now We Are Six (Winnie-the-Pooh, #3-4)</title>
+			<isbn>0525444483</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Aesop's Fables</title>
+			<isbn>0192840509</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Maggie: A Girl of the Streets and Other Tales of New York</title>
+			<isbn>0140437975</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Merry Adventures of Robin Hood</title>
+			<isbn>1595406557</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Enchanted Castle and Five Children and It</title>
+			<isbn>1593082746</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Time Machine/The Invisible Man</title>
+			<isbn>1593083254</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Tarzan of the Apes (Tarzan, #1)</title>
+			<isbn>0809599813</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Tale of Samuel Whiskers, or The Roly-Poly Pudding</title>
+			<isbn>0723247854</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Complete Stories and Poems</title>
+			<isbn>0517220776</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Man in the Iron Mask (The D'Artagnan Romances, #3.3)</title>
+			<isbn>0140439242</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Prince and the Pauper</title>
+			<isbn>0451528352</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Золотой Ключик, или Приключения Буратино</title>
+			<isbn>5699009965</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Two Years Before the Mast: A Sailor's Life at Sea</title>
+			<isbn>1402179626</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mutiny on the Bounty (The Bounty Trilogy, #1)</title>
+			<isbn>0316611689</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Talisman</title>
+			<isbn>1592247709</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Pinocchio</title>
+			<isbn>0140382623</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Wonderful Adventures of Nils</title>
+			<isbn>0486286118</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Little Lord Fauntleroy</title>
+			<isbn>1934169234</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

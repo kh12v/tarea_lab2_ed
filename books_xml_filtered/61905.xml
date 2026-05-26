@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>61905</id>
+	<title>Barrayar (Vorkosigan Saga, #7)</title>
+	<isbn>0743468414</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>On opposing sides, Captain Cordelia Naismith and Admiral Lord Aral Vorkosigan marry and live in aristocratic splendor on his home planet Barrayar. Cordelia agrees with the dying old emperor that the Empire would be better if Aral would serve, but he knows secrets she does not.</description>
+	<average_rating>4.31</average_rating>
+	<num_pages>336</num_pages>
+	<similar_books>
+		<book>
+			<title>I Dare (Liaden Universe, #13)</title>
+			<isbn>1892065037</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>They'd Rather Be Right </title>
+			<isbn>0898651654</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Cyteen (Cyteen, #1-3)</title>
+			<isbn>0446671274</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Dreamsnake</title>
+			<isbn>0553296590</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Winning Colors (The Serrano Legacy, #3)</title>
+			<isbn>0671876775</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Snow Queen (The Snow Queen Cycle, #1)</title>
+			<isbn>0446676640</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Better Part of Valor (Confederation #2)</title>
+			<isbn>0756400627</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

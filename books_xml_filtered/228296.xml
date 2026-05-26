@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>228296</id>
+	<title>Rosemary's Baby</title>
+	<isbn>0451194004</isbn>
+	<publication_year>1997</publication_year>
+	<language_code>eng</language_code>
+	<description>Rosemary and Guy Woodhouse, an ordinary young couple, settle into a New York City apartment, unaware that the elderly neighbors and their bizarre group of friends have taken a disturbing interest in them. But by the time Rosemary discovers the horrifying truth, it may be far too late!</description>
+	<average_rating>3.96</average_rating>
+	<num_pages>308</num_pages>
+	<similar_books>
+		<book>
+			<title>The Omen</title>
+			<isbn>0451219422</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Psycho</title>
+			<isbn>0747545251</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Other</title>
+			<isbn>0440167361</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Bad Seed</title>
+			<isbn>0060795484</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Burnt Offerings</title>
+			<isbn>0440009286</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>The Amityville Horror</title>
+			<isbn>0553116606</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>The Exorcist</title>
+			<isbn>0061007226</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Swimming with Giants: My Encounters with Whales, Dolphins and Seals</title>
+			<isbn>1571312447</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Audrey Rose</title>
+			<isbn>0446324825</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Sentinel</title>
+			<isbn>0345304373</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>The Vanishing Newspaper: Saving Journalism in the Information Age</title>
+			<isbn>0826215688</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Novels, 1930-1942: Dance Night / Come Back to Sorrento / Turn, Magic Wheel / Angels on Toast / A Time to Be Born</title>
+			<isbn>1931082014</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Fog</title>
+			<isbn>0330376152</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The House Next Door</title>
+			<isbn>0061008737</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Damien: Omen II</title>
+			<isbn>0451119908</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Falling Angel</title>
+			<isbn>1933618086</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Elementals</title>
+			<isbn>0380783606</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>All Heads Turn When the Hunt Goes By</title>
+			<isbn>0812582640</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

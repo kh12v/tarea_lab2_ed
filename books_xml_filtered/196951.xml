@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>196951</id>
+	<title>The Hat</title>
+	<isbn>0750026049</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.25</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>A Hat for Minerva Louise</title>
+			<isbn>0140556664</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Snowballs</title>
+			<isbn>0152162755</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Tacky the Penguin</title>
+			<isbn>0395562333</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Very Lonely Firefly</title>
+			<isbn>0399227741</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Day Jimmy's Boa Ate the Wash</title>
+			<isbn>0140546235</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Bear Wants More</title>
+			<isbn>068984509X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Little Old Lady Who Was Not Afraid of Anything</title>
+			<isbn>0064431835</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Froggy Gets Dressed</title>
+			<isbn>0140544577</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>It Looked Like Spilt Milk</title>
+			<isbn>0064431592</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Keeping Quilt</title>
+			<isbn>0153052120</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Doorbell Rang</title>
+			<isbn>0688092349</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>A Silly Snowy Day</title>
+			<isbn>0439250013</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Tops &amp; Bottoms</title>
+			<isbn>0152928510</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Panda Bear, Panda Bear, What Do You See?</title>
+			<isbn>0805017585</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Art Lesson</title>
+			<isbn>0698115724</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Duck On A Bike</title>
+			<isbn>0439050235</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Owen</title>
+			<isbn>0688114490</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Snowmen at Christmas</title>
+			<isbn>0803729952</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

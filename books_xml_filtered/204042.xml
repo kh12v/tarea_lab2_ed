@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>204042</id>
+	<title>Naruto, Vol. 01: The Tests of the Ninja (Naruto, #1)</title>
+	<isbn>1569319006</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>In another world, ninja are the ultimate power—and in the village of Konohagakure live the stealthiest ninja in the world. But twelve years ago Konohagakure was attacked by a fearsome threat—a nine-tailed fox demon which claimed the life of the Hokage, the village champion. Today, peace has returned, and a troublemaking orphan named Uzumaki Naruto is struggling to graduate from the Ninja Academy. His goal: to become the next Hokage. But unknown to Naruto and his classmates, within him is a terrifying force...</description>
+	<average_rating>4.35</average_rating>
+	<num_pages>187</num_pages>
+	<similar_books>
+		<book>
+			<title>Bleach, Volume 02</title>
+			<isbn>1591164427</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>One Piece, Volume 09: Tears (One Piece, #9)</title>
+			<isbn>1421501910</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Eyeshield 21, Vol. 1: The Boy With the Golden Legs</title>
+			<isbn>1591167523</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>899962</id>
+	<title>Curious George Goes to the Hospital</title>
+	<isbn>0395181585</isbn>
+	<publication_year>1973</publication_year>
+	<language_code>eng</language_code>
+	<description>Readers learn all about the hospital as George goes in for an operation to remove a puzzle piece he has eaten.</description>
+	<average_rating>4.22</average_rating>
+	<num_pages>48</num_pages>
+	<similar_books>
+		<book>
+			<title>Curious George Takes a Job</title>
+			<isbn>1844285081</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears Go to the Doctor</title>
+			<isbn>0394848357</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Madeline and the Bad Hat</title>
+			<isbn>0670446149</isbn>
+			<publication_year>1957</publication_year>
+		</book>
+		<book>
+			<title>Lyle, Lyle, Crocodile</title>
+			<isbn>0395137209</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Babar the King</title>
+			<isbn>1405204664</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Inside the Human Body (The Magic School Bus, #3)</title>
+			<isbn>0590414275</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Clifford's Halloween</title>
+			<isbn>0590442872</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>A Pocket for Corduroy</title>
+			<isbn>067056172X</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Frog and Toad All Year (Frog and Toad, #3)</title>
+			<isbn>0064440591</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Bargain for Frances</title>
+			<isbn>006444001X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Just Me in the Tub (Mercer Mayer's Little Critter)</title>
+			<isbn>0613026667</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Arthur's Eyes (Arthur Adventure Series)</title>
+			<isbn>0316110698</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Little Bear's Friend</title>
+			<isbn>0064440516</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<book>
+	<id>116295</id>
+	<title>Guards! Guards!: The Play</title>
+	<isbn>0552144312</isbn>
+	<publication_year>1997</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Adapted for the stage by Stephen Briggs, in this book the city of Ankh-Morpork is under threat from a 60 foot fire-breathing dragon, summoned by a secret society of malcontented tradesmen. Defending the city is the underpaid and undervalued City Night Watch.</description>
+	<average_rating>4.35</average_rating>
+	<num_pages>180</num_pages>
+	<similar_books>
+		<book>
+			<title>Maskerade: The Play</title>
+			<isbn>0573018294</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>The Hitchhiker's Guide to the Galaxy: The Primary Phase (Hitchhiker's Guide: Radio Play, #1)</title>
+			<isbn>0563477881</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

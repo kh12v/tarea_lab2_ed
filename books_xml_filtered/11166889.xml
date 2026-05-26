@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>11166889</id>
+	<title>The Funhouse</title>
+	<isbn>0425142485</isbn>
+	<publication_year>1994</publication_year>
+	<language_code>eng</language_code>
+	<description>Once there was a girl who ran away and joined a traveling carnival. She married a man she grew to hate--and gave birth to a child so monstrous that she killed it with her own hands. Twenty-five years later, she has a new life and two normal children. But her past still haunts her--and now the carnival is coming back to town...</description>
+	<average_rating>3.60</average_rating>
+	<num_pages>333</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Fear that Man / Toyman (Ace Double, 23140)</title>
+			<isbn>0202314006</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Demon Child</title>
+			<isbn />
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Nevermore</title>
+			<isbn>0345516184</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Unwanted</title>
+			<isbn>0553266578</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Dean Koontz: A Writer's Biography</title>
+			<isbn>0061053511</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

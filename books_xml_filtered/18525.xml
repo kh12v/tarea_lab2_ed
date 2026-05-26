@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>18525</id>
+	<title>Dr. Faustus</title>
+	<isbn>0486282082</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>The Tragical History of Doctor Faustus An Elizabethan Tragedy By Christopher Marlowe From the Quarto of 1604 Edited by The Rev. Alexander Dyce The Tragical History of the Life and Death of Doctor Faustus, commonly referred to simply as Doctor Faustus, is an Elizabethan tragedy by Christopher Marlowe, based on German stories about the title character Faust, that was first performed sometime between 1588 and Marlowe's death in 1593. Two different versions of the play were published in the Jacobean era, several years later. The powerful effect of early productions of the play is indicated by the legends that quickly accrued around them-that actual devils once appeared on the stage during a performance, "to the great amazement of both the actors and spectators," a sight that was said to have driven some spectators mad. The play may have been entered into the Stationers' Register on 18 December 1592, though the records are confused and appear to indicate a conflict over the rights to the play. A subsequent Stationers' Register entry, dated 7 January 1601, assigns the play to the bookseller Thomas Bushnell, the publisher of the 1604 first edition. Bushnell transferred his rights to the play to John Wright on 13 September 1610.</description>
+	<average_rating>3.79</average_rating>
+	<num_pages>56</num_pages>
+	<similar_books>
+		<book>
+			<title>The Duchess of Malfi</title>
+			<isbn>0393900916</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Spanish Tragedy</title>
+			<isbn>1406500429</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Changeling</title>
+			<isbn>0393900614</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Burial at Thebes: A Version of Sophocles' Antigone</title>
+			<isbn>0374530076</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Volpone</title>
+			<isbn>0486280497</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>King Henry VI, Part 3</title>
+			<isbn>1903436311</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Astrophel and Stella</title>
+			<isbn>1419107887</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>'Tis Pity She's a Whore</title>
+			<isbn>0713650605</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Bacchae</title>
+			<isbn>1854594117</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Samson Agonistes</title>
+			<isbn>076618952X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Maids Tragedy</title>
+			<isbn>1434621774</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Ghosts</title>
+			<isbn>1420927957</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Saint Joan</title>
+			<isbn>0140437916</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

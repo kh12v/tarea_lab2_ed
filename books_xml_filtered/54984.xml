@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>54984</id>
+	<title>La catedral del mar</title>
+	<isbn>0307376656</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>spa</language_code>
+	<description>La Barcelona medieval en tiempos de la construcción del templo de Santa María del Mar conforma el escenario de esta soberbia recreación histórica repleta de intriga, violencia y pasión, en un tiempo convulsionado por las rebeliones contra las injusticias y feudales, el antijudaísmo, los conflictos dinásticos y la férrea represión inquisitorial. La edificación de la iglesia y la devoción por la Virgen marinera se erigirán en símbolos del tortuoso camino que el joven protagonista emprenderá en pos de su libertad.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>672</num_pages>
+	<similar_books>
+		<book>
+			<title>Te daré la tierra</title>
+			<isbn>0307392295</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Iacobus</title>
+			<isbn>8408068571</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>La sangre de los inocentes</title>
+			<isbn>0307391787</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Africanus: El hijo del cónsul (Publio Cornelio Escipión #1)</title>
+			<isbn>8466639322</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Scroll of Seduction</title>
+			<isbn>0060833122</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Last Jew</title>
+			<isbn>0312300530</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Last Kabbalist of Lisbon (The Sephardic Cycle, #1)</title>
+			<isbn>1585670227</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hiobs Brüder</title>
+			<isbn>3431037917</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>El caballero del jubón amarillo (Las aventuras del capitán Alatriste, #5)</title>
+			<isbn>8466315896</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Riña de gatos. Madrid 1936</title>
+			<isbn>8408097253</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>El imperio eres tú</title>
+			<isbn>8408104829</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>El corazón helado</title>
+			<isbn>8483103737</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Die Löwin von Aquitanien</title>
+			<isbn>3442411580</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>La ley de los varones (Los Reyes Malditos, #4)</title>
+			<isbn>8466613269</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

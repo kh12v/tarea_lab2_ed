@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>11987</id>
+	<title>The Myth of Sisyphus and Other Essays</title>
+	<isbn>0679733736</isbn>
+	<publication_year>1991</publication_year>
+	<language_code>eng</language_code>
+	<description>One of the most influential works of this century, this is a crucial exposition of existentialist thought. Influenced by works such as Don Juan and the novels of Kafka, these essays begin with a meditation on suicide: the question of living or not living in an absurd universe devoid of order or meaning. With lyric eloquence, Camus posits a way out of despair, reaffirming the value of personal existence, and the possibility of life lived with dignity and authenticity.</description>
+	<average_rating>4.18</average_rating>
+	<num_pages>212</num_pages>
+	<similar_books>
+		<book>
+			<title>A Kierkegaard Anthology</title>
+			<isbn>0691019789</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>The Ethics of Ambiguity</title>
+			<isbn>080650160X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Existentialism Is a Humanism</title>
+			<isbn>0300115466</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Fear and Trembling</title>
+			<isbn>0143037579</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Gay Science</title>
+			<isbn>0394719859</isbn>
+			<publication_year>1974</publication_year>
+		</book>
+		<book>
+			<title>Being and Time</title>
+			<isbn>0060638508</isbn>
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>Irrational Man: A Study in Existential Philosophy</title>
+			<isbn>0385031386</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Existentialism from Dostoevsky to Sartre </title>
+			<isbn>0452009308</isbn>
+			<publication_year>1975</publication_year>
+		</book>
+		<book>
+			<title>The Writing of the Disaster</title>
+			<isbn>0803261209</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Essays and Aphorisms</title>
+			<isbn>0140442278</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Basic Writings of Existentialism</title>
+			<isbn>0375759891</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Problems of Philosophy</title>
+			<isbn>1421903679</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

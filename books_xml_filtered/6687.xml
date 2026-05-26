@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>6687</id>
+	<title>Charlie and the Great Glass Elevator (Charlie Bucket, #2)</title>
+	<isbn>0142404128</isbn>
+	<publication_year>2005</publication_year>
+	<language_code />
+	<description>Now that Charlie has won the chocolate factory, what's next? Even wilder adventures, that'swhat! Join him, Grandpa Joe, and, of course, Willy Wonka for the amazing, intergalactic sequel to Charlie and the Chocolate Factory!</description>
+	<average_rating>3.64</average_rating>
+	<num_pages>166</num_pages>
+	<similar_books>
+		<book>
+			<title>Me and My Little Brain (Great Brain #3)</title>
+			<isbn>0142400645</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Jip en Janneke </title>
+			<isbn>9029540052</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Hasse Simonsdochter</title>
+			<isbn>9060695402</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Ribsy (Henry, #6)</title>
+			<isbn>0439239214</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Well-Wishers (Tales of Magic, #6)</title>
+			<isbn>0152949941</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Tik-Tok of Oz (Oz, #8)</title>
+			<isbn>068813355X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Mystery of the Cupboard (The Indian in the Cupboard, #4)</title>
+			<isbn>0380720132</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Borrowers Afloat (The Borrowers #3)</title>
+			<isbn>0152047336</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Search for Delicious</title>
+			<isbn>0374465363</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Third Year at Malory Towers (Malory Towers, #3)</title>
+			<isbn>1405224053</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>My Teacher Flunked the Planet (My Teacher is an Alien, #4)</title>
+			<isbn>1416903313</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Martin's Mice</title>
+			<isbn>067989098X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>102868</id>
+	<title>A Study in Scarlet</title>
+	<isbn>1420925539</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;'There's a scarlet thread of murder running through the colourless skein of life, and our duty is to unravel it, and isolate it, and expose every inch of it.'&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;From the moment Dr. John Watson takes lodgings in Baker Street with the consulting detective Sherlock Holmes, he becomes intimately acquainted with the bloody violence and frightening ingenuity of the criminal mind.&lt;br /&gt;&lt;br /&gt;In &lt;i&gt;A Study in Scarlet&lt;/i&gt;, Holmes and Watson's first mystery, the pair are summoned to a south London house where they find a dead man whose contorted face is a twisted mask of horror. The body is unmarked by violence but on the wall a mysterious word has been written in blood.&lt;br /&gt;&lt;br /&gt;The police are baffled by the crime and its circumstances. But when Sherlock Holmes applies his brilliantly logical mind to the problem he uncovers a tragic tale of love and deadly revenge...</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>108</num_pages>
+	<similar_books>
+		<book>
+			<title>Sherlock: The Casebook</title>
+			<isbn>1849904251</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Wisdom of Father Brown (Father Brown, #2)</title>
+			<isbn>1421906015</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>A Study in Emerald</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Secret of Chimneys (Superintendent Battle, #1)</title>
+			<isbn>0007122586</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Unnatural Death (Lord Peter Wimsey, #3)</title>
+			<isbn>0061043583</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sherlock Holmes and the Case of the Hound of the Baskervilles (Illustrated Classic Editions)</title>
+			<isbn>0866114262</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>The Seven-Percent Solution</title>
+			<isbn>0393311198</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Man from Hell (Further Adventures of Sherlock Holmes (Paperback))</title>
+			<isbn>1848565089</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Алмазная колесница (Erast Fandorin Mysteries, #10)</title>
+			<isbn>5815906972</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Riddle of the Third Mile (Inspector Morse, #6)</title>
+			<isbn>0804114889</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>O Jerusalem (Mary Russell, #5)</title>
+			<isbn>0553581058</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Exploits of Sherlock Holmes</title>
+			<isbn>0517203383</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Improbable Adventures of Sherlock Holmes</title>
+			<isbn>1597801607</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

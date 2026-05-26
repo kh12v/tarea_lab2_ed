@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>18545</id>
+	<title>Rosencrantz and Guildenstern Are Dead</title>
+	<isbn>0802132758</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;Hamlet&lt;/i&gt; told from the worm's-eye view of two minor characters, bewildered Rosencrantz and Guildenstern. Echoes of &lt;i&gt;Waiting for Godot&lt;/i&gt; resound, reality and illusion mix, and where fate leads heroes to a tragic but inevitable end.</description>
+	<average_rating>4.06</average_rating>
+	<num_pages>126</num_pages>
+	<similar_books>
+		<book>
+			<title>All in the Timing</title>
+			<isbn>067975928X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Copenhagen</title>
+			<isbn>0385720793</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum of Charenton Under the Direction of the Marquis de Sade</title>
+			<isbn>1577662318</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Bald Soprano and Other Plays</title>
+			<isbn>0802130798</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Vanya and Sonia and Masha and Spike</title>
+			<isbn>0802122388</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Equus</title>
+			<isbn>0140260706</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Pillowman</title>
+			<isbn>0571220320</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Oleanna</title>
+			<isbn>067974536X</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Endgame &amp; Act Without Words</title>
+			<isbn>0802150241</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Birthday Party</title>
+			<isbn>0571160786</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Six Characters in Search of an Author and Other Plays</title>
+			<isbn>014018922X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Red</title>
+			<isbn>1840029447</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Reasons to Be Pretty</title>
+			<isbn>0865479984</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Picasso at the Lapin Agile and Other Plays</title>
+			<isbn>0802135234</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Cloud 9</title>
+			<isbn>1559360992</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>'Art'</title>
+			<isbn>0571190146</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Clean House and Other Plays</title>
+			<isbn>1559362669</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The American Dream &amp; The Zoo Story</title>
+			<isbn>0452278899</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

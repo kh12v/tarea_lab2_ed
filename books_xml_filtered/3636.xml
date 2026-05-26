@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>3636</id>
+	<title>The Giver (The Giver, #1)</title>
+	<isbn>0385732554</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>This haunting story centers on Jonas, who lives in a seemingly ideal, if colorless, world of conformity and contentment. Not until he's given his life assignment as the Receiver of Memory does he begin to understand the dark, complex secrets behind his fragile community.</description>
+	<average_rating>4.12</average_rating>
+	<num_pages>208</num_pages>
+	<similar_books>
+		<book>
+			<title>The Ear, the Eye, and the Arm</title>
+			<isbn>0140376410</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The View from Saturday</title>
+			<isbn>0689862210</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Sahara Special</title>
+			<isbn>0439653703</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lily's Crossing</title>
+			<isbn>0440414539</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Single Shard</title>
+			<isbn>0440418518</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Catherine, Called Birdy</title>
+			<isbn>0060739428</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Page (Protector of the Small, #2)</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Lincoln: A Photobiography</title>
+			<isbn>0395518482</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Many Waters (A Wrinkle in Time Quintet, #4)</title>
+			<isbn>0312368577</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Roll of Thunder, Hear My Cry (Logans, #4)</title>
+			<isbn>014034893X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Bud, Not Buddy</title>
+			<isbn>0385323069</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Juniper (Doran, #2)</title>
+			<isbn>0679833692</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Among the Barons (Shadow Children, #4)</title>
+			<isbn>0689839103</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Beauty: A Retelling of the Story of Beauty and the Beast</title>
+			<isbn>0064404773</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Bloomability</title>
+			<isbn>006440823X</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Home of the Brave</title>
+			<isbn>0312367651</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Gospel According to Larry (Gospel According to Larry, #1)</title>
+			<isbn>0141318341</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Young Fu of the Upper Yangtze</title>
+			<isbn>0805081135</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

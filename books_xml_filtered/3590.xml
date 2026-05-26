@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>3590</id>
+	<title>The Adventures of Sherlock Holmes</title>
+	<isbn>0192835084</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>Complete in nine handsome volumes, each with an introduction by a Doyle scholar, a chronology, a selected bibliography, and explanatory notes, the Oxford Sherlock Holmes series offers a definitive collection of the famous detective's adventures. No home library is complete without it.&lt;br /&gt;&lt;br /&gt;Comprising the series of short stories that made the fortunes of the Strand, the magazine in which they were first published, this volume won even more popularity for Sherlock Holmes and Dr. Watson. Holmes is at the height of his powers in many of his most famous cases, including &lt;i&gt;The Red-Headed League&lt;/i&gt;, &lt;i&gt;The Speckled Band&lt;/i&gt;, and &lt;i&gt;The Blue Carbuncle&lt;/i&gt;.</description>
+	<average_rating>4.29</average_rating>
+	<num_pages>339</num_pages>
+	<similar_books>
+		<book>
+			<title>The Incredulity of Father Brown (Father Brown, #3)</title>
+			<isbn>1600964478</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Three Blind Mice and Other Stories</title>
+			<isbn>0312979762</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Holmes for the Holidays</title>
+			<isbn>0425154734</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Unpleasantness at the Bellona Club (Lord Peter Wimsey, #5)</title>
+			<isbn>0061043540</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Arsène Lupin, Gentleman-Thief (Arsène Lupin)</title>
+			<isbn>0143104861</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Monk's Hood (Chronicles of Brother Cadfael, #3)</title>
+			<isbn>0446403008</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Grimm's Fairy Stories</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Lord Arthur Savile's Crime and Other Stories  </title>
+			<isbn>0140620532</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Purloined Letter</title>
+			<isbn>0886820618</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>King Arthur and His Knights: Selected Tales</title>
+			<isbn>0195019059</isbn>
+			<publication_year>1975</publication_year>
+		</book>
+	</similar_books>
+</book>

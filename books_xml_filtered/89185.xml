@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>89185</id>
+	<title>Chasm City</title>
+	<isbn>0441010644</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>The once-utopian Chasm City -a doomed human settlement on an otherwise inhospitable planet- has been overrun by a virus known as the Melding Plague, capable of infecting any body, organic or computerized. Now, with the entire city corrupted -from the people to the very buildings they inhabit- only the most wretched sort of existence remains. For security operative Tanner Mirabel, it is the landscape of nightmares through which he searches for a low-life postmortal killer. But the stakes are raised when his search brings him face to face with a centuries-old atrocity that history would rather forget.</description>
+	<average_rating>4.12</average_rating>
+	<num_pages>694</num_pages>
+	<similar_books>
+		<book>
+			<title>The Naked God (Night's Dawn, #3)</title>
+			<isbn>0333725034</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Gridlinked (Agent Cormac #1, Polity Universe #3)</title>
+			<isbn>0765349051</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Surface Detail (Culture #9)</title>
+			<isbn>0316123404</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Cosmonaut Keep (Engines Of Light, #1)</title>
+			<isbn>0765340739</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Iron Sunrise (Eschaton, #2)</title>
+			<isbn>1841493368</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

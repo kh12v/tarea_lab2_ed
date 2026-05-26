@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>1728744</id>
+	<title>Sleeping Beauty (Disney Princess, 5)</title>
+	<isbn>1579731813</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>This book tells the tale of Disney's Sleeping Beauty, with stills from the movie as illustrations on every page.</description>
+	<average_rating>4.32</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Little Mermaid</title>
+			<isbn>0307162346</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dumbo: A Little Golden Book</title>
+			<isbn>0736423095</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Beauty and the Beast (Disney)</title>
+			<isbn>0736421971</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Lion King: A little Golden Book</title>
+			<isbn>0736420959</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Peter Pan (A Little Golden Book)</title>
+			<isbn>0307001040</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Finding Nemo</title>
+			<isbn>1591827582</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Three Little Pigs</title>
+			<isbn>0307020916</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Frosty the Snowman (Frosty the Snowman)</title>
+			<isbn>0307960382</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Three Little Pigs (Disney Classic)</title>
+			<isbn>0736423125</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Disney's the Lion King</title>
+			<isbn>1570820872</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Three Bears</title>
+			<isbn>0375825762</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Country Mouse and the City Mouse; The Fox and the Crow; The Dog and His Bone</title>
+			<isbn>0307020754</isbn>
+			<publication_year>1961</publication_year>
+		</book>
+	</similar_books>
+</book>

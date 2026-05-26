@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>13060</id>
+	<title>Nature Girl</title>
+	<isbn>0307262995</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>In his latest New York Times bestseller, Hiaasen introduces impassioned, possibly bipolar, self-proclaimed queen of lost causes Honey Santana, who schemes to help rid the world of irresponsibility, indifference, and dinnertime sales calls.</description>
+	<average_rating>3.61</average_rating>
+	<num_pages>306</num_pages>
+	<similar_books>
+		<book>
+			<title>Torpedo Juice (Serge Storms, #7)</title>
+			<isbn>0060585617</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Tricky Business</title>
+			<isbn>0425192741</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Florida Straits (Key West, #1)</title>
+			<isbn>0440215110</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Dark Light (Doc Ford Mystery, #13)</title>
+			<isbn>0425214443</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

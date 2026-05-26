@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>594361</id>
+	<title>The Lion King: A little Golden Book</title>
+	<isbn>0736420959</isbn>
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description>The exciting tale of Simba, a young cub who earns his place in the Circle of Life, is retold in the classic Little Golden Book format. Boys and girls ages 2-5 will roar with excitement as they read this retelling of Disney's &lt;i&gt;The Lion King,&lt;/i&gt; being released on Diamond Edition Blu Ray and DVD fall 2011.</description>
+	<average_rating>4.46</average_rating>
+	<num_pages>24</num_pages>
+	<similar_books>
+		<book>
+			<title>Sleeping Beauty: a Little Golden Book (Disney Princess)</title>
+			<isbn>073642198X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Beauty and the Beast (Disney)</title>
+			<isbn>0736421971</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Jungle Book (A Little Golden Book)</title>
+			<isbn>0736420967</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Finding Nemo</title>
+			<isbn>1591827582</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Disney's the Lion King</title>
+			<isbn>1570820872</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Sleeping Beauty (Disney Princess, 5)</title>
+			<isbn>1579731813</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Peter Pan (A Little Golden Book)</title>
+			<isbn>0307001040</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Frosty the Snowman (Frosty the Snowman)</title>
+			<isbn>0307960382</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Three Little Pigs</title>
+			<isbn>0307020916</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Winnie The Pooh And The Honey Tree (Little Golden Book)</title>
+			<isbn>030798267X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Three Bears</title>
+			<isbn>0375825762</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Three Little Pigs (Disney Classic)</title>
+			<isbn>0736423125</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

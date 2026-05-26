@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>1015311</id>
+	<title>Love Hina, Vol. 01</title>
+	<isbn>1931514941</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name. Stumbling into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.</description>
+	<average_rating>3.73</average_rating>
+	<num_pages>198</num_pages>
+	<similar_books>
+		<book>
+			<title>Chobits, Vol. 3</title>
+			<isbn>1591820065</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ai Yori Aoshi, Vol. 1</title>
+			<isbn>1591826454</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Ranma ½, Vol. 3 (Ranma ½ (US 2nd), #3)</title>
+			<isbn />
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Azumanga Daioh Vol. 3 (Azumanga Daioh, #3)</title>
+			<isbn>1413900305</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Megatokyo, Volume 2</title>
+			<isbn>1593071183</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>397860</id>
+	<title>The Fog</title>
+	<isbn>0330376152</isbn>
+	<publication_year>1999</publication_year>
+	<language_code />
+	<description>A peaceful village in Wiltshire is shattered by a disaster which strikes without reason or explanation, leaving behind a trail of misery and horror. A yawning, bottomless crack spreads through the earth, out of which creeps a fog that resembles no other. Whatever it is, it must be controlled.</description>
+	<average_rating>3.87</average_rating>
+	<num_pages>345</num_pages>
+	<similar_books>
+		<book>
+			<title>Flesh</title>
+			<isbn>0747235325</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The House That Jack Built</title>
+			<isbn>0843947462</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Slugs (Slugs, #1)</title>
+			<isbn>0751514187</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Howling</title>
+			<isbn>0449138240</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Hungry Moon</title>
+			<isbn>0812516621</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Blood Crazy</title>
+			<isbn>0843948256</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Chasm </title>
+			<isbn>0340666129</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Dweller</title>
+			<isbn>0843963581</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Damien: Omen II</title>
+			<isbn>0451119908</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>They Thirst</title>
+			<isbn>0913165603</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Halloween</title>
+			<isbn>0553132261</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cold Moon Over Babylon</title>
+			<isbn>0380486601</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Ghoul  (Special X, #2)</title>
+			<isbn>0451159594</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+	</similar_books>
+</book>

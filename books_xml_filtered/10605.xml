@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<book>
+	<id>10605</id>
+	<title>Thinner</title>
+	<isbn>0451190750</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Billy Halleck, good husband and loving father, is both beneficiary and victim of the American good life: He has an expensive home, a nice family, and a rewarding career as a lawyer...but he is also fifty pounds overweight and edging into heart attack country.</description>
+	<average_rating>3.66</average_rating>
+	<num_pages>320</num_pages>
+	<similar_books>
+		<book>
+			<title>The Green Mile, Part 3: Coffey's Hands</title>
+			<isbn>0451190548</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

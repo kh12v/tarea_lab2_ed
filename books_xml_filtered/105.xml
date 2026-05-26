@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>105</id>
+	<title>Chapterhouse: Dune (Dune Chronicles #6)</title>
+	<isbn>0441102670</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>eng</language_code>
+	<description>The desert planet Arrakis, called Dune, has been destroyed. Now, the Bene Gesserit, heirs to Dune's power, have colonized a green world--and are turning it into a desert, mile by scorched mile.&lt;br /&gt;Here is the last book &lt;b&gt;Frank Herbert&lt;/b&gt; wrote before his death. A stunning climax to the epic Dune legend that will live on forever...</description>
+	<average_rating>3.89</average_rating>
+	<num_pages>436</num_pages>
+	<similar_books>
+		<book>
+			<title>Hunters of Dune (Dune Chronicles #7)</title>
+			<isbn>0765312921</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dune Encyclopedia</title>
+			<isbn>0425068137</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>A Forest of Stars (The Saga of Seven Suns, #2)</title>
+			<isbn>0446528714</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Foundation's Edge (Foundation #4)</title>
+			<isbn>0553293389</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Battles of Dune</title>
+			<isbn>1559948981</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Magic Labyrinth (Riverworld, #4)</title>
+			<isbn>0345419707</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Gap Into Power: A Dark and Hungry God Arises (Gap, #3)</title>
+			<isbn>0553562606</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Hypérion 1</title>
+			<isbn>2266173278</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

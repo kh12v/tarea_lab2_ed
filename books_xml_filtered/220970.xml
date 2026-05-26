@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>220970</id>
+	<title>Tripwire  (Jack Reacher, #3)</title>
+	<isbn>0515128635</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>Jack Reacher, ex-military policeman relaxed in Key West until Costello turned up dead. The amiable PI was hired in New York by the daughter of Reacher's mentor and former commanding officer, General Garber. Garber's investigation into a Vietnam MIA sets Reacher on collision with hand-less "Hook" Hobie, hours away from his biggest score.</description>
+	<average_rating>4.07</average_rating>
+	<num_pages>432</num_pages>
+	<similar_books>
+		<book>
+			<title>The First Rule (Elvis Cole, #13; Joe Pike, #2)</title>
+			<isbn>0399156135</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Catskill Eagle (Spenser, #12)</title>
+			<isbn>0440111323</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Extremis (John Rain, #5)</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Pale Horse Coming (Earl Swagger, #2)</title>
+			<isbn>0099436841</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Silent Prey (Lucas Davenport #4)</title>
+			<isbn>0425137562</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Executive Power (Mitch Rapp, #6)</title>
+			<isbn>0743453964</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Last Coyote (Harry Bosch, #4; Harry Bosch Universe, #4)</title>
+			<isbn>075280944X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Out on the Cutting Edge (Matthew Scudder, #7)</title>
+			<isbn>0752837494</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>My Dead Body (Joe Pitt, #5)</title>
+			<isbn>0345495896</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Prayers for Rain (Kenzie &amp; Gennaro, #5)</title>
+			<isbn>0380730367</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

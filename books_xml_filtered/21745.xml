@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>21745</id>
+	<title>Without Fail (Jack Reacher, #6)</title>
+	<isbn>1590860624</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Skilled, cautious, and anonymous, Jack Reacher is perfect for the job: to assassinate the vice president of the United States. Theoretically, of course. A female Secret Service agent wants Reacher to find the holes in her system, and fast - because a covert group already has the vice president in their sights. They've planned well. There's just one thing they didn't plan on: Reacher.</description>
+	<average_rating>4.16</average_rating>
+	<num_pages>374</num_pages>
+	<similar_books>
+		<book>
+			<title>Time to Hunt (Bob Lee Swagger, #3)</title>
+			<isbn>0440226457</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Trunk Music (Harry Bosch, #5; Harry Bosch Universe, #6)</title>
+			<isbn>0312941919</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Sentry (Elvis Cole, #14; Joe Pike, #3)</title>
+			<isbn>0399157077</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Executive Power (Mitch Rapp, #6)</title>
+			<isbn>0743453964</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Winner Take All (John Rain, #3)</title>
+			<isbn />
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Heat Lightning (Virgil Flowers, #2)</title>
+			<isbn>0399155279</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>95420</id>
+	<title>Personal History</title>
+	<isbn>0375701044</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.13</average_rating>
+	<num_pages>642</num_pages>
+	<similar_books>
+		<book>
+			<title>A Good Life: Newspapering and Other Adventures</title>
+			<isbn>0684825236</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Edith Wharton</title>
+			<isbn>0880640200</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Madam Secretary: A Memoir</title>
+			<isbn>1401359620</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Benjamin Franklin</title>
+			<isbn>0140152601</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Eleanor and Franklin</title>
+			<isbn>0393349756</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Lindbergh</title>
+			<isbn>0425170411</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>John Keats</title>
+			<isbn>0674478258</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Front Row at the White House : My Life and Times</title>
+			<isbn>0684868091</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Memoirs, 1925-1950</title>
+			<isbn>0394716248</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Growing Up</title>
+			<isbn>0451168380</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Khrushchev: The Man and His Era</title>
+			<isbn>0393324842</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Harriet Beecher Stowe</title>
+			<isbn>0195096398</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Most Famous Man in America: The Biography of Henry Ward Beecher</title>
+			<isbn>0385513976</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Road from Coorain</title>
+			<isbn>0679724362</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Fortunate Son: The Healing of a Vietnam Vet</title>
+			<isbn>0802136907</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Counselor: A Life at the Edge of History</title>
+			<isbn>0060798718</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Henry James: A Life</title>
+			<isbn>0006548687</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Life and Times of Cotton Mather</title>
+			<isbn>1566492068</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>24113</id>
+	<title>Gödel, Escher, Bach: An Eternal Golden Braid</title>
+	<isbn>0465026567</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>Douglas Hofstadter's book is concerned directly with the nature of “maps” or links between formal systems. However, according to Hofstadter, the formal system that underlies all mental activity transcends the system that supports it. If life can grow out of the formal chemical substrate of the cell, if consciousness can emerge out of a formal system of firing neurons, then so too will computers attain human intelligence. Gödel, Escher, Bach is a wonderful exploration of fascinating ideas at the heart of cognitive science: meaning, reduction, recursion, and much more.</description>
+	<average_rating>4.30</average_rating>
+	<num_pages>822</num_pages>
+	<similar_books>
+		<book>
+			<title>Gödel's Proof</title>
+			<isbn>0814758169</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Society of Mind</title>
+			<isbn>0671657135</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>e: the Story of a Number</title>
+			<isbn>0691058547</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Labyrinths of Reason: Paradox, Puzzles and the Frailty of Knowledge</title>
+			<isbn>0385242719</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>How to Solve It: A New Aspect of Mathematical Method</title>
+			<isbn>069111966X</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>The Emperor's New Mind Concerning Computers, Minds and the Laws of Physics</title>
+			<isbn>0192861980</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Colossal Book of Mathematics</title>
+			<isbn>0393020231</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Mathematician's Apology</title>
+			<isbn>0521427061</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine</title>
+			<isbn>0470229055</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Consciousness Explained</title>
+			<isbn>0316180661</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Journey through Genius: The Great Theorems of Mathematics</title>
+			<isbn>014014739X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Mathematics: The Loss of Certainty</title>
+			<isbn>0195030850</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>An Imaginary Tale: The Story of the Square Root of Minus One</title>
+			<isbn>0691127980</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics</title>
+			<isbn>0452285259</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Incompleteness: The Proof and Paradox of Kurt Gödel (Great Discoveries)</title>
+			<isbn>0393327604</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Chaos: Making a New Science</title>
+			<isbn>0140092501</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Music of the Primes: Searching to Solve the Greatest Mystery in Mathematics</title>
+			<isbn>0060935588</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>A History of Mathematics</title>
+			<isbn>0471543977</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+	</similar_books>
+</book>

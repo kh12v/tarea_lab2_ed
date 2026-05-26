@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>3750</id>
+	<title>Moonraker (James Bond, #3)</title>
+	<isbn>0142002062</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Moonraker, Britain's new ICBM-based national defense system, is ready for testing, but something's not quite right. At M's request, Bond begins his investigation with Sir Hugo Drax, the leading card shark at M's club, who is also the head of the Moonraker project. But once Bond delves deeper into the goings-on at the Moonraker base, he discovers that both the project and its leader are something other than they appear to be.</description>
+	<average_rating>3.70</average_rating>
+	<num_pages>247</num_pages>
+	<similar_books>
+		<book>
+			<title>For Special Services (John Gardner's Bond, #2)</title>
+			<isbn>0425058603</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Facts of Death (James Bond, #2)</title>
+			<isbn>0515125504</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Colonel Sun (James Bond, #15)</title>
+			<isbn>0786120762</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>James Bond: The Authorized Biography of 007</title>
+			<isbn>0394621409</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Devil May Care (James Bond, #36)</title>
+			<isbn>0385524285</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

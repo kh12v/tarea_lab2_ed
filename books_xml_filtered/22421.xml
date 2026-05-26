@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>22421</id>
+	<title>Transmetropolitan, Vol. 4: The New Scum (Transmetropolitan, #4)</title>
+	<isbn>1563896273</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>Investigative reporter Spider Jerusalem attacks the injustices of the 23rd Century surroundings while working for the newspaper The Word in this critically-acclaimed graphic novel series written by comics superstar Warren Ellis, the co-creator of PLANETARY and THE AUTHORITY.</description>
+	<average_rating>4.41</average_rating>
+	<num_pages>133</num_pages>
+	<similar_books>
+		<book>
+			<title>Preacher, Volume 4: Ancient History</title>
+			<isbn>156389405X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Invisibles, Vol. 2: Apocalipstick</title>
+			<isbn>1563897024</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Lucifer, Vol. 9: Crux</title>
+			<isbn>1401210058</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>100 Bullets, Vol. 3: Hang Up on the Hang Low</title>
+			<isbn>1563898551</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>DMZ, Vol. 7: War Powers</title>
+			<isbn>140122430X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

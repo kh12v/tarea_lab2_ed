@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>10692</id>
+	<title>The Historian</title>
+	<isbn>0751537284</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;To you, perceptive reader, I bequeath my history…&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Late one night, exploring her father’s library, a young woman finds an ancient book and a cache of yellowing letters addressed ominously to ‘My dear and unfortunate successor’. Her discovery plunges her into a world she never dreamed of – a labyrinth where the secrets of her father’s past and her mother’s mysterious fate connect to an evil hidden in the depths of history.</description>
+	<average_rating>3.77</average_rating>
+	<num_pages>704</num_pages>
+	<similar_books>
+		<book>
+			<title>In Search of Dracula: The History of Dracula and Vampires</title>
+			<isbn>0395657830</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Meaning of Night</title>
+			<isbn>0393062031</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Rossetti Letter (Claire Donovan #1)</title>
+			<isbn>1416527370</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Dracula in Love</title>
+			<isbn>0385528914</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mary, Called Magdalene</title>
+			<isbn>0142002798</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Vlad: The Last Confession</title>
+			<isbn>1552787311</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Angel of Darkness (Dr. Laszlo Kreizler, #2)</title>
+			<isbn>0345427637</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Labyrinth (Languedoc, #1)</title>
+			<isbn>0425213978</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Physick Book of Deliverance Dane</title>
+			<isbn>1401340903</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Mischief of the Mistletoe (Pink Carnation, #7)</title>
+			<isbn>0525951873</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Silent in the Sanctuary (Lady Julia Grey, #2)</title>
+			<isbn>0778324923</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Ghost Writer</title>
+			<isbn>0156032325</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Forever</title>
+			<isbn>0316735698</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Poison (The Poisoner Mysteries, #1)</title>
+			<isbn>0312609833</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The God of the Hive (Mary Russell, #10)</title>
+			<isbn>0553805541</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Last Dickens</title>
+			<isbn>1400066565</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Black Tower</title>
+			<isbn>0061173509</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Tenth Gift</title>
+			<isbn>0385665008</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

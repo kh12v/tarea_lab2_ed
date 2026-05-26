@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>4934</id>
+	<title>The Brothers Karamazov</title>
+	<isbn>0374528373</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>The award-winning translation of Dostoevsky's last and greatest novel.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Brothers Karamazov&lt;/i&gt; is a passionate philosophical novel set in 19th century Russia, that enters deeply into the ethical debates of God, free will, and morality. It is a spiritual drama of moral struggles concerning faith, doubt, and reason, set against a modernizing Russia.</description>
+	<average_rating>4.30</average_rating>
+	<num_pages>796</num_pages>
+	<similar_books>
+		<book>
+			<title>The Death of Ivan Ilych And Other Stories</title>
+			<isbn>0451528808</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Sketches from a Hunter's Album</title>
+			<isbn>0140445226</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Four Major Plays: The Seagull / Uncle Vanya / Three Sisters / Cherry Orchard</title>
+			<isbn>1566636264</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Eugene Onegin</title>
+			<isbn>0192838997</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Dead Souls</title>
+			<isbn>0140448071</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Steppenwolf</title>
+			<isbn>0140282580</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>And Quiet Flows the Don</title>
+			<isbn>0460878905</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Magic Mountain</title>
+			<isbn>0679772871</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The White Guard</title>
+			<isbn>0099490668</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Life and Fate</title>
+			<isbn>0099506165</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Oblomov</title>
+			<isbn>1933480092</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Enchanted Wanderer: Selected Tales</title>
+			<isbn>0812966961</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Time Regained (In Search of Lost Time, #7)</title>
+			<isbn />
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

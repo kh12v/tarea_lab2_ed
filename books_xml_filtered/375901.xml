@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>375901</id>
+	<title>Frédéric</title>
+	<isbn>2211065899</isbn>
+	<publication_year />
+	<language_code>fre</language_code>
+	<description>While other mice are gathering food for the winter, Frederick seems to daydream the summer away. When dreary winter comes, it is Frederick the poet-mouse who warms his friends and cheers them with his words.</description>
+	<average_rating>4.19</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Ella Sarah Gets Dressed (Caldecott Honor Book)</title>
+			<isbn>0152164138</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hot Air: The (Mostly) True Story of the First Hot-Air Balloon Ride</title>
+			<isbn>0689826427</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Red Sings from Treetops: A Year in Colors</title>
+			<isbn>0547014945</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Gone Wild: An Endangered Animal Alphabet</title>
+			<isbn>0802795633</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Noah's Ark</title>
+			<isbn>1587172011</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Sector 7</title>
+			<isbn>0395746566</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Stray Dog</title>
+			<isbn>0439442540</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ben's Trumpet</title>
+			<isbn>0688109888</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Graphic Alphabet</title>
+			<isbn>0531360016</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Peppe the Lamplighter</title>
+			<isbn>0688102689</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Gardener</title>
+			<isbn>0374325170</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Alphabet City</title>
+			<isbn>0670856312</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Amazing Bone</title>
+			<isbn>0374403589</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Snow</title>
+			<isbn>0374370923</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Anatole (Anatole, #1)</title>
+			<isbn>0375839011</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A Couple of Boys Have the Best Week Ever</title>
+			<isbn>0152060200</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Child's Calendar</title>
+			<isbn>0823417662</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>A Tree Is Nice</title>
+			<isbn>0064431479</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+	</similar_books>
+</book>

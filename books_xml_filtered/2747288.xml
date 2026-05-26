@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>2747288</id>
+	<title>Dragonheart (Pern, #21)</title>
+	<isbn>0345491149</isbn>
+	<publication_year>2008</publication_year>
+	<language_code />
+	<description />
+	<average_rating>4.14</average_rating>
+	<num_pages>538</num_pages>
+	<similar_books>
+		<book>
+			<title>Dragon's Fire (Pern, #19)</title>
+			<isbn>0345480287</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The People of Pern</title>
+			<isbn>0898656354</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dragonlover's Guide to Pern</title>
+			<isbn>0345412745</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

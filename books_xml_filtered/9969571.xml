@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>9969571</id>
+	<title>Ready Player One</title>
+	<isbn>030788743X</isbn>
+	<publication_year>2011</publication_year>
+	<language_code>eng</language_code>
+	<description>In the year 2044, reality is an ugly place. The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the  OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. When Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape.</description>
+	<average_rating>4.31</average_rating>
+	<num_pages>374</num_pages>
+	<similar_books>
+		<book>
+			<title>Agent to the Stars</title>
+			<isbn>1596060204</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Daemon (Daemon #1)</title>
+			<isbn>0451228731</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Spell or High Water (Magic 2.0, #2)</title>
+			<isbn>1477823484</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Casting Off (Wool, #3)</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Automatic Detective</title>
+			<isbn>0765318342</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Little Brother</title>
+			<isbn>0765319853</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Railsea</title>
+			<isbn>0345524527</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Doctor Who: Dead Air</title>
+			<isbn>1408426803</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+	</similar_books>
+</book>

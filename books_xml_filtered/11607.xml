@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<book>
+	<id>11607</id>
+	<title>The Running Man</title>
+	<isbn>0451197968</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;The Running Man&lt;/i&gt; is set within a dystopian future in which the poor are seen more by the government as worrisome rodents than actual human beings. The protagonist of The Running Man, Ben Richards, is quick to realize this as he watches his daughter, Cathy, grow more sick by the day and tread closer and closer to death. Desperate for money to pay Cathy’s medical bills, Ben enlists himself in a true reality style game show where the objective is to merely stay alive.</description>
+	<average_rating>3.80</average_rating>
+	<num_pages>336</num_pages>
+	<similar_books>
+		<book>
+			<title>One Past Midnight: The Langoliers</title>
+			<isbn>0453007449</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+	</similar_books>
+</book>

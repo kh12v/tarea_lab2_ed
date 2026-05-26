@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>8248</id>
+	<title>By the Shores of Silver Lake  (Little House, #5)</title>
+	<isbn>0060885416</isbn>
+	<publication_year>2007</publication_year>
+	<language_code />
+	<description>Laura and her family are head to the Dakota Territory for a chance to own their own land--and stop moving. The new town of De Smet is filling up with settlers lured west by the promise of free land, and the Ingalls family must do whatever it takes too defend their claim.</description>
+	<average_rating>4.16</average_rating>
+	<num_pages>357</num_pages>
+	<similar_books>
+		<book>
+			<title>In the Land of the Big Red Apple (Little House: The Rocky Ridge Years, #3)</title>
+			<isbn>0064405745</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Beyond the Heather Hills (Little House: The Martha Years, #4)</title>
+			<isbn>0064407152</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Betsy and Tacy Go Downtown (Betsy-Tacy, #4)</title>
+			<isbn>0064400980</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Little Clearing in the Woods (Little House: The Caroline Years, #3)</title>
+			<isbn>0064406520</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>All-of-a-Kind Family Downtown (All-of-a-Kind Family, #2)</title>
+			<isbn>0929093216</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

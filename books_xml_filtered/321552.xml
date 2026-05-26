@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>321552</id>
+	<title>The Agony and the Ecstasy</title>
+	<isbn>0451171357</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>eng</language_code>
+	<description>Celebrating the 500th anniversary of Michelangelo’s David, New American Library releases a special edition of Irving Stone’s classic biographical novel—in which both the artist and the man are brought to life in full. A masterpiece in its own right, this novel offers a compelling portrait of Michelangelo’s dangerous, impassioned loves, and the God-driven fury from which he wrested the greatest art the world has ever known.</description>
+	<average_rating>4.09</average_rating>
+	<num_pages>776</num_pages>
+	<similar_books>
+		<book>
+			<title>Brunelleschi's Dome: How a Renaissance Genius Reinvented Architecture</title>
+			<isbn>0142000159</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Source</title>
+			<isbn>0375760385</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Lost Painting</title>
+			<isbn>0375759867</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Magnifico: The Brilliant Life and Violent Times of Lorenzo de' Medici</title>
+			<isbn>0743254341</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Clara and Mr. Tiffany</title>
+			<isbn>1400068169</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The King's Agent</title>
+			<isbn>075824682X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Winds of War (The Henry Family, #1)</title>
+			<isbn>0316952664</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>On Photography</title>
+			<isbn>0141187166</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>An Illustrated Life: Drawing Inspiration From The Private Sketchbooks Of Artists, Illustrators And Designers</title>
+			<isbn>1600610862</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Exodus</title>
+			<isbn>0553258478</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Robe</title>
+			<isbn>0395957753</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Last Nude</title>
+			<isbn>1594488134</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Andy Goldsworthy: A Collaboration with Nature</title>
+			<isbn>0810933519</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Scrapbook of Frankie Pratt</title>
+			<isbn>0061966908</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Leonardo's Swans</title>
+			<isbn>0767923065</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Art Through the Ages </title>
+			<isbn>0155050907</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>History of Art</title>
+			<isbn>0500237514</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Man Who Made Vermeers: Unvarnishing the Legend of Master Forger Han van Meegeren</title>
+			<isbn>0151013411</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>32426</id>
+	<title>Icebound</title>
+	<isbn>0553582909</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>The arctic night is endless. The fear is numbing. Screams freeze in the throat. Death arrives in shades of white. Cold-blooded murder seems right at home....the chill of the grave.</description>
+	<average_rating>3.73</average_rating>
+	<num_pages>408</num_pages>
+	<similar_books>
+		<book>
+			<title>Winter Moon</title>
+			<isbn>0553582933</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shadowfires</title>
+			<isbn>0380752136</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Mask</title>
+			<isbn>0425127583</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Face of Fear</title>
+			<isbn>042511984X</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Shattered</title>
+			<isbn>0425099334</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Fear that Man / Toyman (Ace Double, 23140)</title>
+			<isbn>0202314006</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+	</similar_books>
+</book>

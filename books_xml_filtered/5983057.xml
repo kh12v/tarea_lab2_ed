@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>5983057</id>
+	<title>The Swan Thieves</title>
+	<isbn>1847442404</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.53</average_rating>
+	<num_pages>565</num_pages>
+	<similar_books>
+		<book>
+			<title>The Glass of Time (The Meaning of Night, #2)</title>
+			<isbn>0393067734</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Waiting for Columbus</title>
+			<isbn>0385529139</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Man Who Made Vermeers: Unvarnishing the Legend of Master Forger Han van Meegeren</title>
+			<isbn>0151013411</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Dancing for Degas</title>
+			<isbn>0385343868</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Pictures at an Exhibition</title>
+			<isbn>0307266850</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Life Studies: Stories</title>
+			<isbn>0143036106</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Blindspot</title>
+			<isbn>0385526199</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Woman Who Heard Color</title>
+			<isbn>0425243052</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Grave Goods (Mistress of the Art of Death, #3)</title>
+			<isbn>0399155449</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Memorist (Reincarnationist, #2)</title>
+			<isbn>0778325849</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Unfinished Desires</title>
+			<isbn>0345483200</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Devil's Company (Benjamin Weaver #3)</title>
+			<isbn>1400064198</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cézanne's Quarry</title>
+			<isbn>193364883X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Lewis resa</title>
+			<isbn>9113009672</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Sisters Mortland</title>
+			<isbn>0446696013</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Claude &amp; Camille: A Novel of Monet</title>
+			<isbn>0307463214</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Creation of Eve</title>
+			<isbn>0399156100</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>J.W. Waterhouse</title>
+			<isbn>071484232X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

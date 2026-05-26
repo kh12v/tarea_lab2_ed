@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>34310</id>
+	<title>The Glass Lake</title>
+	<isbn>0752876872</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Kit McMahon lives in the small Irish town of Lough Glass, where everyone knows everyone; children who walk to school together grow up and become sweethearts and marry, people gossip and grumble and dream their lives away. For it is a place where change comes slowly. One day, Kit's mother disappears and the town gossips run wild with stories. The consequences for Helen's husband, her son, but above all for her daughter, Kit, are unimaginable and will leave not one of their lives unchanged.</description>
+	<average_rating>3.89</average_rating>
+	<num_pages>704</num_pages>
+	<similar_books>
+		<book>
+			<title>September</title>
+			<isbn>0340752459</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Paradise House</title>
+			<isbn>0752856367</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Village Secrets (Tales from Turnham Malpas #5)</title>
+			<isbn>0752817620</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Ballroom on Magnolia Street</title>
+			<isbn>0515140074</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Mirror, Mirror</title>
+			<isbn>0553812890</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Up Island</title>
+			<isbn>006109921X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Never Too Late</title>
+			<isbn>0747260583</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Secrets We Keep</title>
+			<isbn>1847393349</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+	</similar_books>
+</book>

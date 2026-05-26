@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>106</id>
+	<title>Dune Messiah (Dune Chronicles #2)</title>
+	<isbn>0441172695</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;Dune Messiah&lt;/b&gt; continues the story of the man Muad'dib, heir to a power unimaginable, bringing to completion the centuries-old scheme to create a super-being."Brilliant...It is all that &lt;b&gt;Dune&lt;/b&gt; was, and maybe a little bit more."--&lt;b&gt;Galaxy Magazine&lt;/b&gt;</description>
+	<average_rating>3.86</average_rating>
+	<num_pages>331</num_pages>
+	<similar_books>
+		<book>
+			<title>House Corrino (Prelude to Dune #3)</title>
+			<isbn>0553580337</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Foundation's Edge (Foundation #4)</title>
+			<isbn>0553293389</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Hypérion 2</title>
+			<isbn>2266177478</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Hammer of God</title>
+			<isbn>1857231945</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Gap Into Power: A Dark and Hungry God Arises (Gap, #3)</title>
+			<isbn>0553562606</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Nonborn King (Saga of the Pliocene Exile, #3)</title>
+			<isbn>0345314212</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dune Encyclopedia</title>
+			<isbn>0425068137</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Neutronium Alchemist 2: Conflict (Night's Dawn 2)</title>
+			<isbn>0446605468</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

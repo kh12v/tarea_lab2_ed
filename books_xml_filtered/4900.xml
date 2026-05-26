@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>4900</id>
+	<title>Heart of Darkness</title>
+	<isbn>1892295490</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Dark allegory describes Marlow’s journey up the Congo River and his meeting with, and fascination by, Mr. Kurtz, a mysterious personage who dominates the unruly inhabitants of the region. Masterly blend of adventure, character development, psychological penetration. Considered by many Conrad’s finest, most enigmatic story.</description>
+	<average_rating>3.42</average_rating>
+	<num_pages>188</num_pages>
+	<similar_books>
+		<book>
+			<title>The Good Soldier</title>
+			<isbn>1551113813</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>A Bend in the River</title>
+			<isbn>0330487140</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Studs Lonigan</title>
+			<isbn>1931082553</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Dance to the Music of Time: 4th Movement (A Dance to the Music of Time, #10-12)</title>
+			<isbn>0226677184</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Beast in the Jungle</title>
+			<isbn>1419153765</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Kim</title>
+			<isbn>0140183523</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Zuleika Dobson</title>
+			<isbn>037575248X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Way of All Flesh</title>
+			<isbn>0486434664</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Passage to India</title>
+			<isbn>014144116X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Cousin Bette</title>
+			<isbn>0375759077</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Remembrance of Things Past: Volume I - Swann's Way &amp; Within a Budding Grove </title>
+			<isbn>0394711823</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>The Old Wives' Tale</title>
+			<isbn>0375754903</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Pale Fire</title>
+			<isbn>0141185260</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Common Carnage</title>
+			<isbn>0140587489</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Dubliners</title>
+			<isbn>0192839993</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Death in Venice and Other Tales</title>
+			<isbn>0141181737</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Jude the Obscure</title>
+			<isbn>0486452433</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A High Wind in Jamaica</title>
+			<isbn>0940322153</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>1429082</id>
+	<title>美少女戦士セーラームーン新装版 1 [Bishōjo Senshi Sailor Moon Shinsōban 1]</title>
+	<isbn>4063347761</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>jpn</language_code>
+	<description>大ヒット作「美少女戦士セーラームーン」が新装版に! カバーはすべて描き下ろし!</description>
+	<average_rating>4.28</average_rating>
+	<num_pages>241</num_pages>
+	<similar_books>
+		<book>
+			<title>Cardcaptor Sakura, Omnibus 1</title>
+			<isbn>1595825223</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Sakura Hime: The Legend of Princess Sakura, Vol. 1</title>
+			<isbn>1421538822</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Revolutionary Girl Utena, Vol. 3: To Sprout</title>
+			<isbn>1591162076</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

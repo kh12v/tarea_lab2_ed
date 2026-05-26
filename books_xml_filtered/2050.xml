@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>2050</id>
+	<title>Farewell, My Lovely (Philip Marlowe, #2)</title>
+	<isbn>0394758277</isbn>
+	<publication_year>1992</publication_year>
+	<language_code>eng</language_code>
+	<description>Marlowe's about to give up on a completely routine case when he finds himself in the wrong place at the right time to get caught up in a murder that leads to a ring of jewel thieves, another murder, a fortune-teller, a couple more murders, and more corruption than your average graveyard.</description>
+	<average_rating>4.17</average_rating>
+	<num_pages>292</num_pages>
+	<similar_books>
+		<book>
+			<title>The Continental Op</title>
+			<isbn>0752856170</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Galton Case</title>
+			<isbn>0679768645</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Double Indemnity</title>
+			<isbn>0679723226</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Big Clock</title>
+			<isbn>1590171810</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Real Cool Killers (Harlem Cycle, #2)</title>
+			<isbn>0679720391</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+	</similar_books>
+</book>

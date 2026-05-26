@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>834378</id>
+	<title>A Pocket Full of Rye (Miss Marple, #7)</title>
+	<isbn>0451199863</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>A handful of grain is found in the pocket of a murdered businessman! Rex Fortescue, king of a financial empire, was sipping tea in his 'counting house' when he suffered an agonising and sudden death. On later inspection, the pockets of the deceased were found to contain traces of cereals. Yet, it was the incident in the parlour which confirmed Jane Marple's suspicion that here she was looking at a case of crime by rhyme!</description>
+	<average_rating>3.83</average_rating>
+	<num_pages>220</num_pages>
+	<similar_books>
+		<book>
+			<title>Death at the Bar (Roderick Alleyn, #9)</title>
+			<isbn>0006512356</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Have His Carcase  (Lord Peter Wimsey, #8)</title>
+			<isbn>0061043524</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Miss Silver Deals With Death (Miss Silver, #6)</title>
+			<isbn>0060974435</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>They Found Him Dead (Inspector Hannasyde, #3)</title>
+			<isbn>0553104128</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Pearls Before Swine (Albert Campion Mystery #12)</title>
+			<isbn>0553245481</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Dead of Jericho (Inspector Morse, #5)</title>
+			<isbn>0804114862</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

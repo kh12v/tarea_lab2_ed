@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>228198</id>
+	<title>The Green Mile, Part 3: Coffey's Hands</title>
+	<isbn>0451190548</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>eng</language_code>
+	<description>John Coffey, the brutal killer of two girls, reveals something extraordinary, and life on the Green Mile will never be the same again.</description>
+	<average_rating>4.50</average_rating>
+	<num_pages>90</num_pages>
+	<similar_books>
+		<book>
+			<title>Rage</title>
+			<isbn>0451076451</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>In the Shadow of Evil: The Handkerchief (Blackstone Chronicles, #4)</title>
+			<isbn>044922788X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Uncanny X-Force, Volume 2: Torn and Frayed</title>
+			<isbn>0785167404</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Apollo's Song, Part One</title>
+			<isbn>1935654047</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Fear Itself: The Horror Fiction of Stephen King</title>
+			<isbn>0934438595</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Tutti i racconti: 1923-1926</title>
+			<isbn>8804334487</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Witchcraft of Salem Village</title>
+			<isbn>0394891767</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Drive-in 2</title>
+			<isbn>055327905X</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Stephen King Companion</title>
+			<isbn>0836279786</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Across the Nightingale Floor, Episode 1: The Sword of the Warrior (Tales of the Otori, #1 Ep. 1)</title>
+			<isbn>0142403245</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Stephen King Illustrated Companion Manuscripts, Correspondence, Drawings, and Memorabilia from the Master of Modern Horror</title>
+			<isbn>1435117662</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Girl Who Loved Tom Gordon: A Pop-up Book</title>
+			<isbn>0689862725</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Bram Stoker's Dracula</title>
+			<isbn>0451175751</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>92371</id>
+	<title>Lie Down with Lions</title>
+	<isbn>0451210468</isbn>
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description>Ellis, the American. Jean-Pierre, the Frenchman. They were two men on opposite sides of the cold war, with a woman torn between them. Together, they formed a triangle of passion and deception, racing from terrorist bombs in Paris to the violence and intrigue of Afghanistan - to the moment of truth and deadly decision for all of them...</description>
+	<average_rating>3.78</average_rating>
+	<num_pages>332</num_pages>
+	<similar_books>
+		<book>
+			<title>Edge of Danger (Sean Dillon, #9)</title>
+			<isbn>0425182843</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Matarese Countdown (Matarese #2)</title>
+			<isbn>0752858459</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Negotiator</title>
+			<isbn>0553283936</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Red Fox</title>
+			<isbn>0140083987</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>O Homem de Constantinopla (Kaloust Sarkisian, #1)</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>By the Rivers of Babylon</title>
+			<isbn>0751531235</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Jerusalem Diamond</title>
+			<isbn>039450416X</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Cloak of Darkness</title>
+			<isbn>0449201155</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+	</similar_books>
+</book>

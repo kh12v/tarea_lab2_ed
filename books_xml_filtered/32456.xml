@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>32456</id>
+	<title>Darkfall</title>
+	<isbn>0425214591</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>en-US</language_code>
+	<description>They found four corpses in four days. Each more hideously disfigured than the last, the bodies punctured with dozens of tiny wounds.At first they thought it was a savage psychopath. Then they thought it was a vicious gangland war. Then they thought packs of demonic rats were escaping through the ventilation system.&lt;br /&gt;&lt;br /&gt; Then they saw the nightmare itself, in all its mottled, slimy horror, coming after them from every direction, and they realized that the Gates of Hell had been left open...</description>
+	<average_rating>3.80</average_rating>
+	<num_pages>371</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Dark Symphony</title>
+			<isbn>4477462107</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dance with the Devil</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Brain Child</title>
+			<isbn>0553171712</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The Dean Koontz Companion</title>
+			<isbn>0425141357</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Fountain Society</title>
+			<isbn>0684846608</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

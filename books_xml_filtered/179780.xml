@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>179780</id>
+	<title>The Exorcist</title>
+	<isbn>0061007226</isbn>
+	<publication_year>1994</publication_year>
+	<language_code>en-US</language_code>
+	<description>Four decades after it first shook the nation, then the world, William Peter Blatty's thrilling masterwork of faith and demonic possession returns in an even more powerful form. Raw and profane, shocking and blood-chilling, it remains a modern parable of good and evil and perhaps the most terrifying novel ever written.</description>
+	<average_rating>4.14</average_rating>
+	<num_pages>385</num_pages>
+	<similar_books>
+		<book>
+			<title>The Omen</title>
+			<isbn>0451219422</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Books of Blood: Volume One (Books of Blood #1)</title>
+			<isbn>0425083896</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Jaws</title>
+			<isbn>1400064562</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Other</title>
+			<isbn>0440167361</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Amityville Horror</title>
+			<isbn>0553116606</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>The Sentinel</title>
+			<isbn>0345304373</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>The Wolfen</title>
+			<isbn>0380704404</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>A Stir of Echoes</title>
+			<isbn>0765308711</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Rosemary's Baby</title>
+			<isbn>0451194004</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Burnt Offerings</title>
+			<isbn>0440009286</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>The House Next Door</title>
+			<isbn>0061008737</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Girl Next Door</title>
+			<isbn>0843955430</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Psycho</title>
+			<isbn>0747545251</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Let's Go Play At The Adams'</title>
+			<isbn>0553141392</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Ring (Ring, #1)</title>
+			<isbn>1932234411</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Damien: Omen II</title>
+			<isbn>0451119908</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>The Bad Seed</title>
+			<isbn>0060795484</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Falling Angel</title>
+			<isbn>1933618086</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

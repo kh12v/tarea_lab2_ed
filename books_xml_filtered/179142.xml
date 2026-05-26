@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>179142</id>
+	<title>All My Sons</title>
+	<isbn>0141185465</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.87</average_rating>
+	<num_pages>84</num_pages>
+	<similar_books>
+		<book>
+			<title>Machinal</title>
+			<isbn>1854592114</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>A Moon for the Misbegotten</title>
+			<isbn>0300118155</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Lieutenant of Inishmore</title>
+			<isbn>0413765008</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>I Am My Own Wife</title>
+			<isbn>0571211747</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Fat Pig</title>
+			<isbn>057121150X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Goat, or Who is Sylvia?</title>
+			<isbn>1585676470</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Waiting for Lefty</title>
+			<isbn>0827440197</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>This is Our Youth</title>
+			<isbn>1585670189</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Clean House</title>
+			<isbn>0573633983</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Stop Kiss</title>
+			<isbn>0879517379</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Rabbit Hole</title>
+			<isbn>1559362901</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>True West</title>
+			<isbn>0573617287</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Proof</title>
+			<isbn>0571199976</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Little Foxes</title>
+			<isbn>0856760919</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Bus Stop</title>
+			<isbn>0822201666</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Suddenly Last Summer</title>
+			<isbn>0822210940</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Betrayal</title>
+			<isbn>0571160824</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Private Lives</title>
+			<isbn>0573013578</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

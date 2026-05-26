@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>1934</id>
+	<title>Little Women (Little Women, #1)</title>
+	<isbn>0451529308</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>en-US</language_code>
+	<description>Following the lives of four sisters on a journey out of adolescence, Louisa May Alcott's Little Women explores the difficulties associated with gender roles in a Post-Civil War America.</description>
+	<average_rating>4.04</average_rating>
+	<num_pages>449</num_pages>
+	<similar_books>
+		<book>
+			<title>Betsy and the Great World (Betsy-Tacy, #9)</title>
+			<isbn>0064405451</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Rainbow Valley (Anne of Green Gables, #7)</title>
+			<isbn>0553269216</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Little House in the Big Woods (Little House, #1)</title>
+			<isbn>0060885378</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>A Girl of the Limberlost (Limberlost, #2)</title>
+			<isbn>1576469115</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>What Katy Did at School (Carr Family, #2)</title>
+			<isbn>1406515280</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Christy</title>
+			<isbn>0310241634</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Skating Shoes (Shoes, #7)</title>
+			<isbn>044047731X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Count of Monte Cristo</title>
+			<isbn>0140449264</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Trumpet of the Swan</title>
+			<isbn>0064408671</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Pollyanna (Pollyanna, #1)</title>
+			<isbn>0689849109</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Rebecca of Sunnybrook Farm</title>
+			<isbn>1598183605</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A Lantern in Her Hand</title>
+			<isbn>0140384286</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Tom's Midnight Garden</title>
+			<isbn>0064404455</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+	</similar_books>
+</book>

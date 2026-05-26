@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>588747</id>
+	<title>Lady Audley's Secret</title>
+	<isbn>0192835203</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>eng</language_code>
+	<description>This Victorian bestseller, along with Braddon's other famous novel, Aurora Floyd, established her as the main rival of the master of the sensational novel, Wilkie Collins. A protest against the passive, insipid 19th-century heroine, Lady Audley was described by one critic of the time as "high-strung, full of passion, purpose, and movement." Her crime (the secret of the title) is shown to threaten the apparently respectable middle-class world of Victorian England.</description>
+	<average_rating>3.73</average_rating>
+	<num_pages>455</num_pages>
+	<similar_books>
+		<book>
+			<title>East Lynne </title>
+			<isbn>0192804626</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Armadale</title>
+			<isbn>0140434119</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Miss Marjoribanks (Chronicles of Carlingford, #5)</title>
+			<isbn>0140436308</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Odd Women</title>
+			<isbn>019283312X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Sylvia's Lovers</title>
+			<isbn>0140434224</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>He Knew He Was Right</title>
+			<isbn>0192835408</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Belinda</title>
+			<isbn>0192837095</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Zofloya</title>
+			<isbn>1551111462</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Uncle Silas</title>
+			<isbn>0140437460</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Mysteries of Udolpho</title>
+			<isbn>0140437592</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

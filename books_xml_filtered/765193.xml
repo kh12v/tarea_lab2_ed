@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>765193</id>
+	<title>Amazing Grace</title>
+	<isbn>0803710402</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>Grace loves stories, whether they're from books, movies, or the kind her grandmother tells. So when she gets a chance to play a part in Peter Pan, she knows exactly who she wants to be.</description>
+	<average_rating>4.33</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Tar Beach</title>
+			<isbn>0517885441</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>I Love My Hair!</title>
+			<isbn>0316522759</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Chicken Sunday</title>
+			<isbn>0698116151</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Story of Ruby Bridges</title>
+			<isbn>0439598443</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>My Name Is Yoon</title>
+			<isbn>0374351147</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Freedom Summer</title>
+			<isbn>068987829X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Flossie and the Fox</title>
+			<isbn>0803702507</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Fred Stays With Me!</title>
+			<isbn>0316882690</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mini Mia and Her Darling Uncle</title>
+			<isbn>9129667348</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Colors of Us</title>
+			<isbn>0805071636</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Big Red Lollipop</title>
+			<isbn>0670062871</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Other Side</title>
+			<isbn>0399231161</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Peter's Chair</title>
+			<isbn>1931016070</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Henry's Freedom Box: A True Story from the Underground Railroad</title>
+			<isbn>043977733X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>One Tiny Turtle</title>
+			<isbn>0763623113</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Jamela's Dress</title>
+			<isbn>0374437203</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Chair for My Mother</title>
+			<isbn>0688040748</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Martin's Big Words: The Life of Dr. Martin Luther King Jr.</title>
+			<isbn>0786807148</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

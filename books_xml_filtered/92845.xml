@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>92845</id>
+	<title>The Black Unicorn (Magic Kingdom of Landover, #2)</title>
+	<isbn>1857231082</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>A year had passed since Ben Holiday bought the Magic Kingdom from the wizard, Meeks. But unbeknownst to him, he has been the victim of a trap by Meeks, who has succeeded in stealing the Paladin and appropriating his face. Suddenly none of Ben's friends know him, but all of his enemies do. He must win it all back again--only this time on his own!</description>
+	<average_rating>3.76</average_rating>
+	<num_pages>307</num_pages>
+	<similar_books>
+		<book>
+			<title>Unicorn Point (Apprentice Adept #6)</title>
+			<isbn>0441845630</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>M.Y.T.H. Inc. Link (Myth Adventures, #7)</title>
+			<isbn>0441014496</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Prophet of Akhran (Rose of the Prophet, #3)</title>
+			<isbn>0553281437</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Demon Lord of Karanda (The Malloreon, #3)</title>
+			<isbn>0345363310</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

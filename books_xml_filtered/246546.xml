@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>246546</id>
+	<title>An Old-Fashioned Girl</title>
+	<isbn>1406501069</isbn>
+	<publication_year>2005</publication_year>
+	<language_code />
+	<description>Large Format for easy reading. By the author of Little Women. Tells the story of Polly, the old-fashioned girl, her friendship with the wealthy Shaws of Boston and the lessons she learns about happiness and riches.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>288</num_pages>
+	<similar_books>
+		<book>
+			<title>Betsy in Spite of Herself (Betsy-Tacy, #6)</title>
+			<isbn>0064401111</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Clover (Carr Family, #4)</title>
+			<isbn>142648917X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Pollyanna Grows Up (Pollyanna #2)</title>
+			<isbn>0140367586</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Jane of Lantern Hill</title>
+			<isbn>077106165X</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>A Girl of the Limberlost (Limberlost, #2)</title>
+			<isbn>1576469115</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mother</title>
+			<isbn>1929241178</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>A School of Her Own (Grandma's Attic #6)</title>
+			<isbn>078143291X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Dear Enemy (Daddy-Long-Legs, #2)</title>
+			<isbn>1428045961</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Treasures of the Snow</title>
+			<isbn>0802465757</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

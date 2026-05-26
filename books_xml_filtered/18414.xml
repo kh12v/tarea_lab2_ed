@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>18414</id>
+	<title>Utopia</title>
+	<isbn>0140449108</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Utopia (Libellus vere aureus, nec minus salutaris quam festivus, de optimo rei publicae statu deque nova insula Utopia) is a work of fiction and political philosophy by Thomas More (1478–1535) published in 1516 in Latin. The book is a frame narrative primarily depicting a fictional island society and its religious, social and political customs.</description>
+	<average_rating>3.50</average_rating>
+	<num_pages>135</num_pages>
+	<similar_books>
+		<book>
+			<title>Praise of Folly</title>
+			<isbn>0140446087</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Essays</title>
+			<isbn>0140432167</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The City of the Sun</title>
+			<isbn>1406954705</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Leviathan</title>
+			<isbn>0140431950</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Rhetoric &amp; The Poetics of Aristotle</title>
+			<isbn>0075546027</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>City of God</title>
+			<isbn>0140448942</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Spirit of the Laws (Cambridge Texts in the History of Political Thought)</title>
+			<isbn>0521369746</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>On The Revolutions of Heavenly Spheres (On the Shoulders of Giants)</title>
+			<isbn>0762420219</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Martin Luther's Ninety-Five Theses</title>
+			<isbn>0875525571</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>On Liberty</title>
+			<isbn>0140432078</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Confessions</title>
+			<isbn>0192822756</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>On the Motion of the Heart and Blood in Animals</title>
+			<isbn>1425464971</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Treatise Concerning the Principles of Human Knowledge</title>
+			<isbn>1420926985</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Autobiography and Other Writings</title>
+			<isbn>0140390529</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Discourses</title>
+			<isbn>0140444289</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Rights of Man, Common Sense and Other Political Writings</title>
+			<isbn>0192835572</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Reflections on the Revolution in France </title>
+			<isbn>0192839780</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Trial and Death of Socrates</title>
+			<isbn>0872205541</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

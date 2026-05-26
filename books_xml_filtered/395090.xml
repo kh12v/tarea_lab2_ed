@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>395090</id>
+	<title>Ariel</title>
+	<isbn>0060931728</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>"In these poems...Sylvia Plath becomes herself, becomes something imaginary, newly, wildly and subtly created." &lt;br /&gt;-- From the Introduction by Robert Lowell</description>
+	<average_rating>4.23</average_rating>
+	<num_pages>105</num_pages>
+	<similar_books>
+		<book>
+			<title>Transformations</title>
+			<isbn>061808343X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Diving Into the Wreck</title>
+			<isbn>0393311635</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Crow: From the Life and Songs of the Crow (Faber Library)</title>
+			<isbn>0571176550</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Satan Says (Pitt Poetry Series)</title>
+			<isbn>0822953145</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Averno</title>
+			<isbn>0374530742</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Country Between Us</title>
+			<isbn>0060909269</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Rose</title>
+			<isbn>0918526531</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Lunch Poems</title>
+			<isbn>0872860353</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Geography III</title>
+			<isbn>0374514402</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Glass, Irony and God</title>
+			<isbn>0811213021</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Dream Songs</title>
+			<isbn>0374530661</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

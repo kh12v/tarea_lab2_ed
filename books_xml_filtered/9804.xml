@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>9804</id>
+	<title>The Baron in the Trees</title>
+	<isbn>0156106809</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Cosimo, a young eighteenth-century Italian nobleman, rebels by climbing into the trees to remain there for the rest of his life. He adapts efficiently to an arboreal existence and even has love affairs.</description>
+	<average_rating>4.06</average_rating>
+	<num_pages>217</num_pages>
+	<similar_books>
+		<book>
+			<title>Reeds in the Wind</title>
+			<isbn>0934977631</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>La Compagnia dei Celestini </title>
+			<isbn>8807812797</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Tartar Steppe</title>
+			<isbn>1567923046</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Fontamara</title>
+			<isbn>3462025996</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>La cognizione del dolore</title>
+			<isbn>8811666449</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Cronaca familiare</title>
+			<isbn>0390716812</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>The Late Mattia Pascal</title>
+			<isbn>1590171152</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Lessico famigliare</title>
+			<isbn>8806151681</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Moon and the Bonfire</title>
+			<isbn>0720611199</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>I Malavoglia</title>
+			<isbn>8811582962</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Viceroys</title>
+			<isbn>0002718189</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Uomini e no</title>
+			<isbn>8804495863</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>La variante di Lüneburg</title>
+			<isbn>8845909840</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>To Each His Own</title>
+			<isbn>0940322528</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>L'isola di Arturo</title>
+			<isbn>8806409077</isbn>
+			<publication_year>1975</publication_year>
+		</book>
+	</similar_books>
+</book>

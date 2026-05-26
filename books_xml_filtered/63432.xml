@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>63432</id>
+	<title>3001: The Final Odyssey (Space Odyssey, #4)</title>
+	<isbn>0345438205</isbn>
+	<publication_year>1999</publication_year>
+	<language_code />
+	<description>One thousand years after the Jupiter mission to explore the mysterious Monolith had been destroyed, after Dave Bowman was transformed into the Star Child, Frank Poole drifted in space, frozen and forgotten, leaving the supercomputer HAL inoperable. But now Poole has returned to life, awakening in a world far different from the one he left behind--and just as the Monolith may be stirring once again...</description>
+	<average_rating>3.49</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Fantastic Voyage II:  Destination Brain</title>
+			<isbn>0553273272</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Manifold: Space (Manifold, #2)</title>
+			<isbn>0345430786</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Great Sky River (Galactic Center, #3)</title>
+			<isbn>0446611557</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Legacy (The Way, #3)</title>
+			<isbn>1857238869</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Venus (The Grand Tour, #18)</title>
+			<isbn>0812579402</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Maelstrom (Arthur C. Clarke's Venus Prime, Book 2)</title>
+			<isbn>0671038990</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Mindbridge (Collector's Edition)</title>
+			<isbn>0575071141</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

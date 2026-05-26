@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>24</id>
+	<title>In a Sunburned Country</title>
+	<isbn>0767903862</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;A CLASSIC FROM THE &lt;i&gt;NEW YORK TIMES&lt;/i&gt; BESTSELLING AUTHOR OF &lt;i&gt;ONE SUMMER &lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Every time Bill Bryson walks out the door, memorable travel literature threatens to break out. His previous excursion along the Appalachian Trail resulted in the sublime national bestseller &lt;i&gt;A Walk in the Woods&lt;/i&gt;. &lt;i&gt;In A Sunburned Country&lt;/i&gt; is his report on what he found in an entirely different place: Australia, the country that doubles as a continent, and a place with the friendliest inhabitants, the hottest, driest weather, and the most peculiar and lethal wildlife to be found on the planet. The result is a deliciously funny, fact-filled, and adventurous performance by a writer who combines humor, wonder, and unflagging curiousity.&lt;br /&gt;&lt;br /&gt;Despite the fact that Australia harbors more things that can kill you in extremely nasty ways than anywhere else, including sharks, crocodiles, snakes, even riptides and deserts, Bill Bryson adores the place, and he takes his readers on a rollicking ride far beyond that beaten tourist path. Wherever he goes he finds Australians who are cheerful, extroverted, and unfailingly obliging, and these beaming products of land with clean, safe cities, cold beer, and constant sunshine fill the pages of this wonderful book. Australia is an immense and fortunate land, and it has found in Bill Bryson its perfect guide.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>335</num_pages>
+	<similar_books>
+		<book>
+			<title>Blue Latitudes: Boldly Going Where Captain Cook Has Gone Before</title>
+			<isbn>0312422601</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Sex Lives of Cannibals: Adrift in the Equatorial Pacific</title>
+			<isbn>0767915305</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Pass the Butterworms: Remote Journeys Oddly Rendered</title>
+			<isbn>0375701117</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Himalaya</title>
+			<isbn>0312341628</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Happy Isles of Oceania: Paddling the Pacific</title>
+			<isbn>0449908585</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Cold Beer and Crocodiles: A Bicycle Journey into Australia</title>
+			<isbn>0792263650</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Four Corners: A Journey into the Heart of Papua New Guinea</title>
+			<isbn>0792274172</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Best American Travel Writing 2008</title>
+			<isbn>0618858644</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Terra Incognita: Travels in Antarctica</title>
+			<isbn>0375753389</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Hokkaido Highway Blues. Hitchhiking Japan</title>
+			<isbn>1841952885</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Don't Look Behind You! A Safari Guide's Encounters with Ravenous Lions, Stampeding Elephants, and Lovesick Rhinos</title>
+			<isbn>1599214695</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

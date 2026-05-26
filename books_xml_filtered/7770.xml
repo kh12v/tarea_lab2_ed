@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>7770</id>
+	<title>One Fish, Two Fish, Red Fish, Blue Fish</title>
+	<isbn>0007173687</isbn>
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description>One Fish Two Fish Red Fish Blue Fish is a 1960 children's book by Dr. Seuss (Theodor Seuss Geisel). A simple rhyming book for learner readers, it is a book with a freewheeling plot about a boy and a girl, and the many amazing creatures they have for friends and pets. One Fish Two Fish Red Fish Blue Fish was part of the Beginner Book Video series which included Oh, the Thinks You Can Think! and The Foot Book.</description>
+	<average_rating>4.12</average_rating>
+	<num_pages>64</num_pages>
+	<similar_books>
+		<book>
+			<title>The Berenstain Bears Go to the Doctor</title>
+			<isbn>0394848357</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Horns to Toes and in Between</title>
+			<isbn>0671493191</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Watch Me Throw the Ball! (Elephant &amp; Piggie, #8)</title>
+			<isbn>1423113489</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Go, Dog. Go!</title>
+			<isbn>0394800206</isbn>
+			<publication_year>1961</publication_year>
+		</book>
+		<book>
+			<title>Cars and Trucks and Things That Go</title>
+			<isbn />
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Very Lonely Firefly</title>
+			<isbn>0399227741</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>All by Myself</title>
+			<isbn>0307119386</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Polar Bear, Polar Bear, What Do You Hear?</title>
+			<isbn>0805053883</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Hand, Hand, Fingers, Thumb</title>
+			<isbn>0679890483</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>If You Give a Moose a Muffin</title>
+			<isbn>0060244054</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Serendipity</title>
+			<isbn>084313819X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

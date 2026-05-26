@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>760168</id>
+	<title>Just Me in the Tub (Mercer Mayer's Little Critter)</title>
+	<isbn>0613026667</isbn>
+	<publication_year>2001</publication_year>
+	<language_code />
+	<description>Tub time is fun time with Little Critter! Children will discover the secrets of having good, clean fun as they enjoy the antics of Little Critter in his warm and cozy bath. Full color.</description>
+	<average_rating>4.24</average_rating>
+	<num_pages>22</num_pages>
+	<similar_books>
+		<book>
+			<title>Just Me and My Mom (Little Critter)</title>
+			<isbn>030712584X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears' Trouble at School</title>
+			<isbn>039487336X</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Curious George Visits the Library</title>
+			<isbn>0618065687</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Arthur's Eyes (Arthur Adventure Series)</title>
+			<isbn>0316110698</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Clifford's Halloween</title>
+			<isbn>0590442872</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+	</similar_books>
+</book>

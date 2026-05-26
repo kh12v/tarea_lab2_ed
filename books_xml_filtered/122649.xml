@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>122649</id>
+	<title>Lady Windermere's Fan</title>
+	<isbn>0140621733</isbn>
+	<publication_year>1995</publication_year>
+	<language_code>eng</language_code>
+	<description>Beautiful, aristocratic, an adored wife and young mother, Lady Windermere is 'a fascinating puritan' whose severe moral code leads her to the brink of social suicide. The only one who can save her is the mysterious Mrs Erlynne whose scandalous relationship with Lord Windermere has prompted her fatal impulse. And Mrs Erlynne has a secret - a secret Lady Windermere must never know if she is to retain her peace of mind.</description>
+	<average_rating>3.90</average_rating>
+	<num_pages>70</num_pages>
+	<similar_books>
+		<book>
+			<title>Mrs. Warren's Profession</title>
+			<isbn>159605980X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Rivals</title>
+			<isbn>0486404331</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>King Henry VI, Part 3</title>
+			<isbn>1903436311</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Wild Duck</title>
+			<isbn>0413775755</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Lucia in London (Lucia, #3)</title>
+			<isbn>1559212772</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Pirates of Penzance</title>
+			<isbn>0793525861</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Maria Stuart</title>
+			<isbn>3150000645</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Entertaining Mr. Sloane</title>
+			<isbn>0413413403</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Lois the Witch</title>
+			<isbn>1843910497</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Ancient Mariner; Kubla Khan and Christabel</title>
+			<isbn>0548711429</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Real Thing</title>
+			<isbn>0571125298</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>An American Daughter</title>
+			<isbn>0156006456</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Translations</title>
+			<isbn>0571117422</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>537094</id>
+	<title>The Overcoat</title>
+	<isbn>1419176528</isbn>
+	<publication_year />
+	<language_code />
+	<description>The Overcoat which is generally acknowledged as the finest of Gogol's memorable Saint Petersburg stories, is a tale of the absurd and misplaced obsessions.</description>
+	<average_rating>4.12</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Queen of Spades</title>
+			<isbn>1557424373</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Tree and the Wedding</title>
+			<isbn>1409913589</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Master and Man</title>
+			<isbn>1421803674</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Storm</title>
+			<isbn>1406938556</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Lady with the Little Dog</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Lady Macbeth of Mtsensk</title>
+			<isbn>1843910683</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>On the Eve</title>
+			<isbn>1426450435</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Demon</title>
+			<isbn>1853993166</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

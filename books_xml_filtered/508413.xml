@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>508413</id>
+	<title>The Shunning (The Heritage of Lancaster County, #1)</title>
+	<isbn>0764224735</isbn>
+	<publication_year>2000</publication_year>
+	<language_code />
+	<description>Book 1 in The Heritage of Lancaster County. Katie Lapp only knew the Amish ways, but when she discovers a satin infant gown in her parents' attic, her hidden past devastates the community she has always called home.</description>
+	<average_rating>4.13</average_rating>
+	<num_pages>288</num_pages>
+	<similar_books>
+		<book>
+			<title>The Bishop's Daughter (Daughter of Lancaster County, #3)</title>
+			<isbn>1597890006</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>When the Morning Comes (Sisters of the Quilt, #2)</title>
+			<isbn>140007293X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Plain Perfect (Daughters of the Promise, #1)</title>
+			<isbn>1595546308</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>A Gift of Grace (Kauffman Amish Bakery, #1)</title>
+			<isbn>0310289831</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>An Amish Family Reunion (Miller Family, #4)</title>
+			<isbn>0736944877</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

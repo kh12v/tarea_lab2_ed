@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>1081560</id>
+	<title>The History of the Hobbit, Part One: Mr. Baggins</title>
+	<isbn>0618968474</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>First published in 1938, The Hobbit is a story that “grew in the telling,” and many characters and events in the published book are completely different from what Tolkien first wrote to read aloud to his young sons as part of their “fireside reads.” For the first time, The History of the Hobbit reproduces the original version of one of literature’s most famous stories, and includes many little-known illustrations and previously unpublished maps for The Hobbit created by Tolkien himself. Also featured are extensive annotations and commentaries on the date of composition, how Tolkien’s professional and early mythological writings influenced the story, the imaginary geography he created, and how he came to revise the book in the years after publication to accommodate events in The Lord of the Rings.</description>
+	<average_rating>3.81</average_rating>
+	<num_pages>467</num_pages>
+	<similar_books>
+		<book>
+			<title>Splintered Light: Logos and Language in Tolkien's World</title>
+			<isbn>0873387449</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The War of the Jewels (The History of Middle-earth, #11)</title>
+			<isbn>0395710413</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>J.R.R. Tolkien: Author of the Century</title>
+			<isbn>0618257594</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Journeys of Frodo</title>
+			<isbn>0261102672</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Art of The Hobbit by J.R.R. Tolkien</title>
+			<isbn>0007440812</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Tolkien and the Great War: The Threshold of Middle-earth</title>
+			<isbn>0618574816</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Ring of Words: Tolkien and the Oxford English Dictionary</title>
+			<isbn>0198610696</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A Gateway to Sindarin: A Grammar of an Elvish Language from JRR Tolkien's Lord of the Rings</title>
+			<isbn>0874809126</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

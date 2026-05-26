@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>133017</id>
+	<title>Hellblazer: Original Sins</title>
+	<isbn>1563890526</isbn>
+	<publication_year>1997</publication_year>
+	<language_code>eng</language_code>
+	<description>Paperback Hellblazer #1-9&lt;br /&gt;John Constantine is an unconcerned, amoral occultist with a British working-class background.He's an anti-hero who manages to come out on top through a combination of luck, trickery and genuine magic skill.V FOR VENDETTA illustrator David Lloyd provides painted artwork for the tale of an encounter with a strange woman who is the embodiment of the world's horrors.This volume also features some of Constantine's earliest adventures including his first victory in the long war with the demon Nergal.</description>
+	<average_rating>4.10</average_rating>
+	<num_pages>256</num_pages>
+	<similar_books>
+		<book>
+			<title>Hellblazer: Dangerous Habits</title>
+			<isbn>1563891506</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Hellblazer: All His Engines</title>
+			<isbn>1401203175</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Hellblazer: Haunted</title>
+			<isbn>1563898136</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hellblazer: Freezes Over</title>
+			<isbn>156389971X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Hellblazer: Joyride</title>
+			<isbn>140121651X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Hellblazer: Empathy is the Enemy</title>
+			<isbn>140121066X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Hellblazer: Scab</title>
+			<isbn>1401225012</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>54620</id>
+	<title>Mary Barton</title>
+	<isbn>0192805622</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>This is Elizabeth Gaskell's first novel, a widely acclaimed work based on the actual murder, in 1831, of a progressive mill owner. It follows Mary Barton, daughter of a man implicated in the murder, through her adolescence, when she suffers the advances of the mill owner, and later through love and marriage. Set in Manchester, between 1837-42, it paints a powerful and moving picture of working-class life in Victorian England.</description>
+	<average_rating>3.70</average_rating>
+	<num_pages>437</num_pages>
+	<similar_books>
+		<book>
+			<title>The Absentee</title>
+			<isbn>0140436456</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Hand of Ethelberta</title>
+			<isbn>0140435026</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Miss Marjoribanks (Chronicles of Carlingford, #5)</title>
+			<isbn>0140436308</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>New Grub Street</title>
+			<isbn>0140430326</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Phineas Finn (Palliser, #2)</title>
+			<isbn>0140430857</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Felix Holt: The Radical</title>
+			<isbn>0140434356</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>East Lynne </title>
+			<isbn>0192804626</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>No Name</title>
+			<isbn>019283388X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Evelina</title>
+			<isbn>0192840312</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Doctor's Wife</title>
+			<isbn>0192833014</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

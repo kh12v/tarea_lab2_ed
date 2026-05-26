@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>125662</id>
+	<title>Say Cheese and Die! (Goosebumps, #4)</title>
+	<isbn>0439568420</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Greg thinks there is something wrong with the old camera he found. The photos keep turning out . . . different.&lt;br /&gt;&lt;br /&gt;When Greg takes a picture of his father's brand-new car, it's wrecked in the photo. And then his dad crashes the car.&lt;br /&gt;&lt;br /&gt;It's like the camera can tell the future--or worse. Maybe it makes the future!</description>
+	<average_rating>3.72</average_rating>
+	<num_pages>144</num_pages>
+	<similar_books>
+		<book>
+			<title>Return of the Mummy (Goosebumps Presents TV Episode, #4)</title>
+			<isbn>0590745891</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Mallory on Strike (The Baby-Sitters Club, #47)</title>
+			<isbn>0590449710</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Bruce Coville's Book of Monsters: Tales to Give You the Creeps</title>
+			<isbn>0590461591</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Girl Who Cried Monster (Goosebumps Presents TV Episode, #1)</title>
+			<isbn>0590745867</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>More Scary Stories to Tell in the Dark (Scary Stories, #2)</title>
+			<isbn>0397320825</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Message (Animorphs, #4)</title>
+			<isbn>0590629808</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

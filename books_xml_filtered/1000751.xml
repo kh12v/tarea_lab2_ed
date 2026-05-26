@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>1000751</id>
+	<title>Pollyanna (Pollyanna, #1)</title>
+	<isbn>0689849109</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>When orphaned 11-year-old Pollyanna comes to live with austere and wealthy Aunt Polly, her philosophy of gladness brings happiness to her aunt and other members of the community, somewhat to their surprise.</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>304</num_pages>
+	<similar_books>
+		<book>
+			<title>Rebecca of Sunnybrook Farm</title>
+			<isbn>1598183605</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>What Katy Did Next (Carr Family, #3)</title>
+			<isbn>1406515299</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Five Little Peppers and How They Grew</title>
+			<isbn>1416916172</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Freckles (Limberlost #1)</title>
+			<isbn>0253203635</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Betsy and Tacy Go Downtown (Betsy-Tacy, #4)</title>
+			<isbn>0064400980</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Jane of Lantern Hill</title>
+			<isbn>077106165X</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Hans Brinker, or the Silver Skates</title>
+			<isbn>1596056665</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Little Lord Fauntleroy</title>
+			<isbn>1934169234</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>An Old-Fashioned Girl</title>
+			<isbn>1406501069</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Heidi's Children (Heidi sequel, #3)</title>
+			<isbn>0307122212</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Blue Willow</title>
+			<isbn>0140309241</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Railway Children</title>
+			<isbn>0486410226</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The School at the Chalet (The Chalet School, #1)</title>
+			<isbn>0006925170</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Little Town on the Prairie  (Little House, #7)</title>
+			<isbn>0060885432</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Borrowers Afield (The Borrowers #2)</title>
+			<isbn>0152047328</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

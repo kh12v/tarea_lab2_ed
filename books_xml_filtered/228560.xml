@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>228560</id>
+	<title>Sophie's Choice</title>
+	<isbn>0679736379</isbn>
+	<publication_year>1992</publication_year>
+	<language_code>eng</language_code>
+	<description>Three stories are told: a young Southerner wants to become a writer; a turbulent love-hate affair between a brilliant Jew and a beautiful Polish woman; and of an awful wound in that woman's past--one that impels both Sophie and Nathan toward destruction.</description>
+	<average_rating>4.18</average_rating>
+	<num_pages>562</num_pages>
+	<similar_books>
+		<book>
+			<title>Studs Lonigan</title>
+			<isbn>1931082553</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Dance to the Music of Time: 3rd Movement (A Dance to the Music of Time, #7-9)</title>
+			<isbn>0226677176</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Field of Vision</title>
+			<isbn>0451027612</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Blood Tie</title>
+			<isbn>1570030979</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>From Here to Eternity</title>
+			<isbn>0517223007</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Crown of Feathers</title>
+			<isbn>0374516243</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Magnificent Ambersons (The Growth Trilogy, #2)</title>
+			<isbn>1406935735</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Old Wives' Tale</title>
+			<isbn>0375754903</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Hair of Harold Roux</title>
+			<isbn>160819583X</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Ironweed</title>
+			<isbn>0743263065</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Waters of Kronos</title>
+			<isbn>027102240X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Tobacco Road (Brown Thrasher Books)</title>
+			<isbn>082031661X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ten North Frederick</title>
+			<isbn>0394448146</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Wall</title>
+			<isbn>0394756967</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Naked and the Dead</title>
+			<isbn>0312265050</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Man With the Golden Arm</title>
+			<isbn>1583220089</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Spectator Bird</title>
+			<isbn>0140139400</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Paco's Story</title>
+			<isbn>1400076838</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

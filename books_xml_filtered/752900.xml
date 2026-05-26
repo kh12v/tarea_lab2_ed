@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>752900</id>
+	<title>Medea</title>
+	<isbn>0486275485</isbn>
+	<publication_year>1993</publication_year>
+	<language_code>en-GB</language_code>
+	<description>One of the most powerful and enduring of Greek tragedies, &lt;i&gt;Medea&lt;/i&gt; centers on the myth of Jason, leader of the Argonauts, who has won the dragon-guarded treasure of the Golden Fleece with the help of the sorceress Medea. Having married Medea and fathered her two children, Jason abandons her for a more favorable match, never suspecting the terrible revenge she will take.&lt;br /&gt;Euripides' masterly portrayal of the motives fiercely driving Medea's pursuit of vengeance for her husband's insult and betrayal has held theater audiences spellbound for more than twenty centuries. Rex Warner's authoritative translation brings this great classic of world literature vividly to life.</description>
+	<average_rating>3.83</average_rating>
+	<num_pages>47</num_pages>
+	<similar_books>
+		<book>
+			<title>Philoctetes</title>
+			<isbn>1419141376</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Libation Bearers (Ορέστεια, #2)</title>
+			<isbn>1593772807</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Frogs</title>
+			<isbn>1406936723</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Recognition of Śakuntalā</title>
+			<isbn>019283911X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Three Sisters</title>
+			<isbn>0486275442</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Phèdre</title>
+			<isbn>203034785X</isbn>
+			<publication_year>1971</publication_year>
+		</book>
+	</similar_books>
+</book>

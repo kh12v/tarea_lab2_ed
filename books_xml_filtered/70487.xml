@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>70487</id>
+	<title>Attack of the Deranged Mutant Killer Monster Snow Goons</title>
+	<isbn>1417642165</isbn>
+	<publication_year>1992</publication_year>
+	<language_code>eng</language_code>
+	<description>Calvin and Hobbes are back. The energetic six-year-old and his sidekick tiger endure all the trials of youth and continue to endear themselves to millions of loyal readers in the latest collection of their shenanigans. This latest assembly of Calvin and Hobbes' adventures has never been collected in book form.</description>
+	<average_rating>4.72</average_rating>
+	<num_pages>127</num_pages>
+	<similar_books>
+		<book>
+			<title>Bury My Heart at Fun-Fun Mountain: A FoxTrot Collection</title>
+			<isbn>0836217063</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Hound of The Far Side</title>
+			<isbn>0836220870</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Night of the Mary Kay Commandos: A Bloom County Book</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>I'm Not Anti-Business, I'm Anti-Idiot</title>
+			<isbn>0836251822</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

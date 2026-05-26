@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>1540</id>
+	<title>The Oedipus Cycle: Oedipus Rex/Oedipus at Colonus/Antigone (The Theban Plays, #1–3)</title>
+	<isbn>015602764X</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>(1939 translation)</description>
+	<average_rating>3.96</average_rating>
+	<num_pages>259</num_pages>
+	<similar_books>
+		<book>
+			<title>The Oresteia  (Ορέστεια, #1-3)</title>
+			<isbn>0140443339</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Euripides V: Electra / The Phoenician Women / The Bacchae</title>
+			<isbn>0226307840</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Four Plays: The Clouds/The Birds/Lysistrata/The Frogs</title>
+			<isbn>0452007178</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Pot of Gold and Other Plays</title>
+			<isbn />
+			<publication_year>1965</publication_year>
+		</book>
+	</similar_books>
+</book>

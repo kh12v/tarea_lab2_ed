@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>136116</id>
+	<title>The Scarlet Pimpernel</title>
+	<isbn>1576469239</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Armed with only his wits and his cunning, one man recklessly defies the French revolutionaries and rescues scores of innocent men, women, and children from the deadly guillotine. His friends and foes know him only as the Scarlet Pimpernel. But the ruthless French agent Chauvelin is sworn to discover his identity and to hunt him down.</description>
+	<average_rating>4.06</average_rating>
+	<num_pages>204</num_pages>
+	<similar_books>
+		<book>
+			<title>Scaramouche</title>
+			<isbn>0451527976</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Blue Castle </title>
+			<isbn>0553280511</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Virginian: A Horseman of the Plains</title>
+			<isbn>0743238028</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Mansion</title>
+			<isbn>1410103269</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Great Impersonation</title>
+			<isbn />
+			<publication_year>1920</publication_year>
+		</book>
+		<book>
+			<title>To Have and to Hold: A Tale of Providence and Perseverance in Colonial Jamestown</title>
+			<isbn>0978755936</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Four Feathers</title>
+			<isbn>0142180017</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Black Arrow</title>
+			<isbn>0543896609</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Calico Captive</title>
+			<isbn>0618150765</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Deception of the Emerald Ring (Pink Carnation, #3)</title>
+			<isbn>0525949771</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Men of Iron</title>
+			<isbn>141793977X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Laddie: A True Blue Story</title>
+			<isbn>0253204585</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Grand Sophy</title>
+			<isbn>0099465639</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Mara, Daughter of the Nile</title>
+			<isbn>0140319298</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Lorna Doone</title>
+			<isbn>0143039326</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Prince of Foxes</title>
+			<isbn>1882593642</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Beric the Briton</title>
+			<isbn>1406812331</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

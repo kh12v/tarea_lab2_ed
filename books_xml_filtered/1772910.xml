@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>1772910</id>
+	<title>White Nights</title>
+	<isbn />
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>White Nights, is a short story by Fyodor Dostoevsky that was published in 1848. Set in St. Petersburg, this is the story of a young man fighting his inner restlessness. A light and tender narrative, it delves into the torment and guilt of unrequited love. Both protagonists suffer from a deep sense of alienation that initially brings them together. A blend of romanticism and realism, the story appeals gently to the senses and feelings.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>82</num_pages>
+	<similar_books>
+		<book>
+			<title>Polikuchka</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>پرتره</title>
+			<isbn>9643621820</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Home of the Gentry</title>
+			<isbn>0140442243</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Lady Macbeth of Mtsensk</title>
+			<isbn>1843910683</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Tales of Belkin</title>
+			<isbn>1933633735</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>My Universities</title>
+			<isbn>0140182861</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Duel and Other Stories</title>
+			<isbn>0140444157</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Golovlyov Family</title>
+			<isbn>0940322579</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Dostoevsky: The Seeds of Revolt, 1821-1849</title>
+			<isbn>0691013551</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+	</similar_books>
+</book>

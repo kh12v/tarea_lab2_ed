@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>6614886</id>
+	<title>زغازيغ</title>
+	<isbn />
+	<publication_year>2009</publication_year>
+	<language_code>ara</language_code>
+	<description>من متجر علاج الاكتئاب، أردنا أن نأتيك بدعابات ظريفة .. أو نكات مضحكة .. أو طرائف مسلية .. أو مٌَلح مقرظة، فلم نجد للأسف .. لهذا ابتعنا لك نصف كيلو زغازيغ...</description>
+	<average_rating>3.55</average_rating>
+	<num_pages>182</num_pages>
+	<similar_books>
+		<book>
+			<title>للكبار فقط</title>
+			<isbn />
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>رصف مصر</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>قلمين</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>مصر على كف عفريت</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>فندق الثعالب</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>غرفة العناية المركزة</title>
+			<isbn>9772832879</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>الكتاب التاني</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>حبة هوا...</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>ويسترن يونيون فرع الهرم: ديوان بالعامية المصرية</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>أول مكرر</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>نادمًا خرج القط</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>نقطة النور</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

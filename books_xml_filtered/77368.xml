@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>77368</id>
+	<title>Spindle's End</title>
+	<isbn>0441008658</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>All the creatures of the forest and field and riverbank knew the infant was special. She was the princess, spirited away from the evil fairy Pernicia on her name-day. But the curse was cast: Rosie was fated to prick her finger on the spindle of a spinning wheel and fall into a poisoned sleep-a slumber from which no one would be able to rouse her.</description>
+	<average_rating>3.79</average_rating>
+	<num_pages>354</num_pages>
+	<similar_books>
+		<book>
+			<title>Zel</title>
+			<isbn>0141301163</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Tower at Stony Wood</title>
+			<isbn>0441008291</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Firebird (Fairy Tales #1)</title>
+			<isbn>0812550749</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Never After</title>
+			<isbn>0441009077</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Fitcher's Brides </title>
+			<isbn>0765301954</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Golden:  A Retelling of Rapunzel (Once Upon A Time, #9)</title>
+			<isbn>1416905804</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Rose and the Beast: Fairy Tales Retold</title>
+			<isbn>0064407454</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Briar Rose</title>
+			<isbn>0765342308</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Black Thorn, White Rose</title>
+			<isbn>0809557754</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Thornspell</title>
+			<isbn>0375855815</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Wild Swans (Faerie Tale)</title>
+			<isbn>0446608475</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Snow White and Rose Red</title>
+			<isbn>0812534972</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

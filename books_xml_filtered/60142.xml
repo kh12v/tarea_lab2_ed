@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>60142</id>
+	<title>La ciudad y los perros</title>
+	<isbn>8466309152</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>spa</language_code>
+	<description>En 1962, La ciudad y los perros recibía el Premio Biblioteca Breve. Así comenzaba la andadura literaria de esta obra considerada una de las mejores novelas en español del siglo XX.Los personajes de La ciudad y los perros, un grupo de jóvenes que se «educan» en una disciplina militar implacable y violenta, aprenden a sobrevivir en un ambiente en el que están muy arraigados los prejuicios raciales y las diferencias entre clases sociales y económicas; donde todos se muestran como no son en realidad y la transgresión de las normas establecidas parece ser la única salida.</description>
+	<average_rating>4.09</average_rating>
+	<num_pages>446</num_pages>
+	<similar_books>
+		<book>
+			<title>Un mundo para Julius</title>
+			<isbn>987580004X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>El siglo de las luces</title>
+			<isbn>8432216976</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>La colmena</title>
+			<isbn>8420634395</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>La autopista del sur y otros cuentos</title>
+			<isbn>014025580X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Sobre héroes y tumbas</title>
+			<isbn>9500716054</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>El astillero</title>
+			<isbn>8437604338</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Los ríos profundos</title>
+			<isbn>9500393271</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Tiempo de silencio</title>
+			<isbn>8432203777</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Three Trapped Tigers</title>
+			<isbn>1564783790</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Pedro Páramo / El Llano en llamas</title>
+			<isbn>9703705774</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Abril rojo</title>
+			<isbn>9707704624</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Boquitas pintadas</title>
+			<isbn>0140255796</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Broad and Alien is the World</title>
+			<isbn>0850362822</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>La región más transparente</title>
+			<isbn>9681677889</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Misericordia</title>
+			<isbn>8437603684</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Las muertas</title>
+			<isbn>8425328187</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Here's to You, Jesusa!</title>
+			<isbn>0142001228</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>En busca de Klingsor</title>
+			<isbn>8432216097</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

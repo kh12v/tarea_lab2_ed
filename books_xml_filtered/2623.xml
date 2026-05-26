@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>2623</id>
+	<title>Great Expectations</title>
+	<isbn>0192833596</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>In what may be Dickens's best novel, humble, orphaned Pip is apprenticed to the dirty work of the forge but dares to dream of becoming a gentleman — and one day, under sudden and enigmatic circumstances, he finds himself in possession of "great expectations." In this gripping tale of crime and guilt, revenge and reward, the compelling characters include Magwitch, the fearful and fearsome convict; Estella, whose beauty is excelled only by her haughtiness; and the embittered Miss Havisham, an eccentric jilted bride.</description>
+	<average_rating>3.75</average_rating>
+	<num_pages>505</num_pages>
+	<similar_books>
+		<book>
+			<title>Silas Marner</title>
+			<isbn>1416500340</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Mansfield Park</title>
+			<isbn>0141439807</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Robin Hood</title>
+			<isbn>1853261270</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Vanity Fair</title>
+			<isbn>0141439831</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Far from the Madding Crowd</title>
+			<isbn>0141439653</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The History of Tom Jones, a Foundling</title>
+			<isbn>0140436227</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Cranford</title>
+			<isbn>0141439882</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Richard III</title>
+			<isbn>0192839934</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Phineas Finn (Palliser, #2)</title>
+			<isbn>0140430857</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>No Name</title>
+			<isbn>019283388X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Lord Jim</title>
+			<isbn>1551111721</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Eugénie Grandet</title>
+			<isbn>019280474X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Ragged Trousered Philanthropists</title>
+			<isbn>0586090363</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Villette</title>
+			<isbn>037575850X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Where Angels Fear to Tread</title>
+			<isbn>1419193775</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ivanhoe</title>
+			<isbn>0140436588</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Four Million</title>
+			<isbn>1434625818</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>17487</id>
+	<title>Five Go Adventuring Again (Famous Five, #2)</title>
+	<isbn>0340796154</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>There's a thief at Kirrin Cottage! The Famous Five think they know who it is, but they need to prove it! Where can they find evidence? The discovery of an old map and very unusual hiding place is all they need to get to the bottom of this mystery and uncover the true culprit!</description>
+	<average_rating>3.99</average_rating>
+	<num_pages>246</num_pages>
+	<similar_books>
+		<book>
+			<title>The Third Form at St. Clare's (St. Clare's, #7)</title>
+			<isbn>1405219823</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lima Sekawan: Menaklukkan Agen Rahasia (2)</title>
+			<isbn />
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Secret of Skeleton Island (Alfred Hitchcock and The Three Investigators, #6)</title>
+			<isbn>0394864069</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Sophie's Secret (Sophie, #2)</title>
+			<isbn>0310707579</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Uma Aventura no Teatro</title>
+			<isbn />
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>O Olhar do Dragão</title>
+			<isbn>9724104060</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Mystery of the Invisible Dog (Alfred Hitchcock and The Three Investigators, #23)</title>
+			<isbn>0394844920</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+	</similar_books>
+</book>

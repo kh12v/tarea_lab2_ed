@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>7769</id>
+	<title>Dr. Seuss's ABC: An Amazing Alphabet Book! (Bright and Early Board Books)</title>
+	<isbn>0679882812</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>eng</language_code>
+	<description>This is an adaptation from Dr. Seuss's ABC Published by Random House in 1963.&lt;br /&gt;&lt;br /&gt;Simple, Silly, Sturdy Books for Babies of All Ages!</description>
+	<average_rating>4.07</average_rating>
+	<num_pages>21</num_pages>
+	<similar_books>
+		<book>
+			<title>One, Two, Three!</title>
+			<isbn>1563054442</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Nose Book</title>
+			<isbn>0375812121</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>It's Not Easy Being Big! (Bright &amp; Early Books)</title>
+			<isbn>0679888101</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>A Treasury of Curious George</title>
+			<isbn>0618538224</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>On Beyond Bugs (Cat In The Hat's Learning Library)</title>
+			<isbn>000711110X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>10 Little Rubber Ducks</title>
+			<isbn>0007202423</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Berenstain Bears on the Moon (Bright &amp; Early Books)</title>
+			<isbn>0394871804</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+	</similar_books>
+</book>

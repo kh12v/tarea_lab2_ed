@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>387749</id>
+	<title>Ben-Hur: A Tale of the Christ</title>
+	<isbn>1934648205</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>Ben-Hur: A Tale of the Christ (1880) by Lew Wallace is one of the most popular and beloved 19th century American novels. This faithful New Testament tale combines the events of the life of Jesus with grand historical spectacle in the exciting story of Judah of the House of Hur, a man who finds extraordinary redemption for himself and his family.A classic of faith, fortitude, and inspiration.</description>
+	<average_rating>4.02</average_rating>
+	<num_pages>620</num_pages>
+	<similar_books>
+		<book>
+			<title>The Robe</title>
+			<isbn>0395957753</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Quo Vadis</title>
+			<isbn>0781805503</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Titus: A Comrade of the Cross</title>
+			<isbn>1584740027</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Marius the Epicurean</title>
+			<isbn>0140432361</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Rob Roy</title>
+			<isbn>0140435549</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Master of Ballantrae</title>
+			<isbn>0543896722</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>For the Temple</title>
+			<isbn>1890623075</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Castle Richmond</title>
+			<isbn>1406930245</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Scottish Chiefs</title>
+			<isbn>068419340X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Some Experiences of an Irish R.M.</title>
+			<isbn>1879941406</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Born in Exile</title>
+			<isbn>140680942X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Silver Chalice</title>
+			<isbn>0829423508</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>That Printer of Udell's</title>
+			<isbn>1565541219</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Last Days of Pompeii</title>
+			<isbn>158715739X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Deerslayer (The Leatherstocking Tales, #1)</title>
+			<isbn>0451529391</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Beau Geste</title>
+			<isbn>0899681352</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Captains Courageous</title>
+			<isbn>0543895882</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

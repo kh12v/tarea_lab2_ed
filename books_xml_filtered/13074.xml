@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>13074</id>
+	<title>Strip Tease</title>
+	<isbn>044669567X</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>3.82</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Big Bamboo (Serge Storms, #8)</title>
+			<isbn>0060585633</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Scavenger Reef (Key West, #2)</title>
+			<isbn>0440217970</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Don't Ask (Dortmunder, #8)</title>
+			<isbn>0446400955</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>North of Havana (Doc Ford Mystery, #5)</title>
+			<isbn>042516294X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

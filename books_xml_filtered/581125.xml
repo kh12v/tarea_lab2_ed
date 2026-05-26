@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>581125</id>
+	<title>The Minority Report</title>
+	<isbn>0375421874</isbn>
+	<publication_year>2002</publication_year>
+	<language_code />
+	<description>In the world of The Minority Report, Commissioner John Anderton is the one to thank for the lack of crime. He is the originator of the Precrime System, which uses precogs--people with the power to see into the future--to identify criminals before they can do any harm. Unfortunately for Anderton, his precogs perceive him as the next criminal.</description>
+	<average_rating>3.82</average_rating>
+	<num_pages>103</num_pages>
+	<similar_books>
+		<book>
+			<title>Letters from LA</title>
+			<isbn>2266149601</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>With Morning Comes Mistfall</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>By His Bootstraps</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>House of Meetings</title>
+			<isbn>1400044553</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Press Enter</title>
+			<isbn>1568652798</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Supertoys Last All Summer Long and Other Stories of Future Time</title>
+			<isbn>0312280610</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Strange Days (movie tie-in)</title>
+			<isbn>0452275814</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Terminal Experiment</title>
+			<isbn>0061053104</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Synners</title>
+			<isbn>1568581858</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Pavane</title>
+			<isbn>0345440919</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Machine Stops </title>
+			<isbn>140990329X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Futurological Congress: From the Memoirs of Ijon Tichy</title>
+			<isbn>0156340402</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The Star</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Bicentennial Man and Other Stories</title>
+			<isbn>1857989325</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>More Than Human</title>
+			<isbn>0375703713</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Children's Story</title>
+			<isbn>0440204682</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Twelve Monkeys</title>
+			<isbn>0061056588</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>A History of Violence</title>
+			<isbn>1563893673</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

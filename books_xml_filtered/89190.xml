@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>89190</id>
+	<title>Redemption Ark</title>
+	<isbn>044101173X</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Late in the twenty-sixth century, the human race has advanced enough to accidentally trigger the Inhibitors - alien killing machines designed to detect intelligent life and destroy it. The only hope for humanity lies in the recovery of a secret cache of doomsday weapons -and a renegade named Clavain who is determined to find them. But other factions want the weapons for their own purposes - and the weapons themselves have another agenda altogether...</description>
+	<average_rating>4.13</average_rating>
+	<num_pages>694</num_pages>
+	<similar_books>
+		<book>
+			<title>The Evolutionary Void</title>
+			<isbn>0345496574</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Polity Agent (Agent Cormac, #4)</title>
+			<isbn>0330441523</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Look to Windward (Culture, #7)</title>
+			<isbn>0743421922</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Iron Sunrise (Eschaton, #2)</title>
+			<isbn>1841493368</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

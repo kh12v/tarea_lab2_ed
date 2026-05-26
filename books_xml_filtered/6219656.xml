@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>6219656</id>
+	<title>The Lottery</title>
+	<isbn>1563127873</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>Shirley Jackson's "The Lottery" is a memorable and terrifying masterpiece, fueled by a tension that creeps up on you slowly without any clear indication of why. This is just a townful of people, after all, choosing their numbers for the annual lottery. What's there to be scared of?</description>
+	<average_rating>4.09</average_rating>
+	<num_pages>30</num_pages>
+	<similar_books>
+		<book>
+			<title>The Story of an Hour</title>
+			<isbn>078915479X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Lady or the Tiger? And, the Discourager of Hesitancy</title>
+			<isbn>0874067987</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>An Occurrence at Owl Creek Bridge</title>
+			<isbn>0874068134</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Tell-Tale Heart</title>
+			<isbn>0871917726</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>The Monkey's Paw (Oxford Bookworms)</title>
+			<isbn>0194232638</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Ones Who Walk Away from Omelas</title>
+			<isbn>0886825016</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Yellow Wall-Paper</title>
+			<isbn>1558611584</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>A Rose for Emily and Other Stories</title>
+			<isbn>0675093244</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>The Rocking Horse Winner (Travelman Classics)</title>
+			<isbn>1860920071</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Scarlet Ibis: The Collection of Wonder</title>
+			<isbn>0886820006</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Paul's Case</title>
+			<isbn>142547859X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Monkey's Paw</title>
+			<isbn>1583419195</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Minister's Black Veil</title>
+			<isbn>0895987376</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Lamb to the Slaughter and Other Stories</title>
+			<isbn>0146000552</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Bullet in the Brain</title>
+			<isbn />
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Most Dangerous Game</title>
+			<isbn>1599869691</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Hills Like White Elephants</title>
+			<isbn />
+			<publication_year>1927</publication_year>
+		</book>
+		<book>
+			<title>All Summer in a Day</title>
+			<isbn />
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

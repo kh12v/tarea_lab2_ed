@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>776159</id>
+	<title>The Lady in the Lake (Philip Marlowe, #4)</title>
+	<isbn>0394758250</isbn>
+	<publication_year>1988</publication_year>
+	<language_code>eng</language_code>
+	<description>A couple of missing wives—one a rich man's and one a poor man's—become the objects of Marlowe's investigation. One of them may have gotten a Mexican divorce and married a gigolo and the other may be dead. Marlowe's not sure he cares about either one, but he's not paid to care.</description>
+	<average_rating>4.07</average_rating>
+	<num_pages>266</num_pages>
+	<similar_books>
+		<book>
+			<title>The Continental Op</title>
+			<isbn>0752856170</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Moving Target</title>
+			<isbn>037570146X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Rendezvous in Black</title>
+			<isbn>0812971450</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

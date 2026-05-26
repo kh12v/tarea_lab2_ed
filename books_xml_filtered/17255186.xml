@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>17255186</id>
+	<title>The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</title>
+	<isbn>0988262592</isbn>
+	<publication_year>2013</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Bill is an IT manager at Parts Unlimited. It's Tuesday morning and on his drive into the office, Bill gets a call from the CEO. &lt;br /&gt;&lt;br /&gt;The company's new IT initiative, code named Phoenix Project, is critical to the future of Parts Unlimited, but the project is massively over budget and very late. The CEO wants Bill to report directly to him and fix the mess in ninety days or else Bill's entire department will be outsourced. &lt;br /&gt;&lt;br /&gt;With the help of a prospective board member and his mysterious philosophy of The Three Ways, Bill starts to see that IT work has more in common with manufacturing plant work than he ever imagined. With the clock ticking, Bill must organize work flow streamline interdepartmental communications, and effectively serve the other business functions at Parts Unlimited. &lt;br /&gt;&lt;br /&gt;In a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize. Readers will not only learn how to improve their own IT organizations, they'll never view IT the same way again.</description>
+	<average_rating>4.24</average_rating>
+	<num_pages>345</num_pages>
+	<similar_books>
+		<book>
+			<title>The Visible Ops Handbook: Starting ITIL in 4 Practical Steps</title>
+			<isbn>0975568604</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation</title>
+			<isbn>0321601912</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Web Operations</title>
+			<isbn>1449377440</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)</title>
+			<isbn>0978739213</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Lean from the Trenches</title>
+			<isbn>1934356859</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Kanban: Successful Evolutionary Change for Your Technology Business</title>
+			<isbn>0984521402</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Agile Retrospectives: Making Good Teams Great</title>
+			<isbn>0977616649</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Principles of Product Development Flow: Second Generation Lean Product Development</title>
+			<isbn>1935401009</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Agile Samurai: How Agile Masters Deliver Great Software</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Implementing Lean Software Development: From Concept to Cash</title>
+			<isbn>0321437381</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Team Geek: A Software Developer's Guide to Working Well with Others</title>
+			<isbn>1449302440</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints</title>
+			<isbn>1596590238</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Impact Mapping: Making a Big Impact with Software Products and Projects</title>
+			<isbn>0955683645</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Soft Skills: The Software Developer's Life Manual</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Building Microservices: Designing Fine-Grained Systems</title>
+			<isbn>1491950358</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Management 3.0: Leading Agile Developers, Developing Agile Leaders</title>
+			<isbn>0321718992</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Agile Estimating and Planning</title>
+			<isbn>0131479415</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Personal Kanban: Mapping Work - Navigating Life</title>
+			<isbn>1453802266</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+	</similar_books>
+</book>

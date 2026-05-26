@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>2501455</id>
+	<title>فوضى الحواس</title>
+	<isbn />
+	<publication_year>2010</publication_year>
+	<language_code>ara</language_code>
+	<description />
+	<average_rating>3.83</average_rating>
+	<num_pages>375</num_pages>
+	<similar_books>
+		<book>
+			<title>سقف الكفاية</title>
+			<isbn />
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>سيدة المقام: مراثي الجمعة الحزينة</title>
+			<isbn />
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>أعلنت عليك الحب</title>
+			<isbn />
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>مشاعر مُرهَقة</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>كزهر اللوز أو أبعد</title>
+			<isbn>9953213011</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>الأعمال الشعرية الكاملة</title>
+			<isbn />
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>دروز بلغراد: حكاية حنا يعقوب</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>تحت سماء كوبنهاغن</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>العصفورية</title>
+			<isbn>1855163837</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>ن</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>نقطة النور</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>يوميات امرأة لا مبالية</title>
+			<isbn />
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>ترانيم في ظل تمارا</title>
+			<isbn />
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>مدن تأكل العشب</title>
+			<isbn>1855168839</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>في عينيك عنواني</title>
+			<isbn>9770913197</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

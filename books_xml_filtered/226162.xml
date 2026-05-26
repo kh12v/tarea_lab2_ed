@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>226162</id>
+	<title>The Omen</title>
+	<isbn>0451219422</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>en-US</language_code>
+	<description>Now updated, this classic tale of the antichrist who comes to Earth in the form of a young boy is available in time for 20th Century Fox's contemporary remake of the 1976 classic film, starring Liev Schreiber, Julia Stiles, and Mia Farrow, scheduled for release on June 6, 2006. Reissue.</description>
+	<average_rating>3.99</average_rating>
+	<num_pages>272</num_pages>
+	<similar_books>
+		<book>
+			<title>Damien: Omen II</title>
+			<isbn>0451119908</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Halloween</title>
+			<isbn>0553132261</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Final Conflict: Omen III (The Omen #3)</title>
+			<isbn>0451110420</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Sentinel</title>
+			<isbn>0345304373</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Audrey Rose</title>
+			<isbn>0446324825</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Legion</title>
+			<isbn>0671470450</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Psycho</title>
+			<isbn>0747545251</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Howling</title>
+			<isbn>0449138240</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Other</title>
+			<isbn>0440167361</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Amityville Horror</title>
+			<isbn>0553116606</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>The Bad Seed</title>
+			<isbn>0060795484</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Suffer the Children</title>
+			<isbn>044018293X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Fog</title>
+			<isbn>0330376152</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>'Salem's Lot</title>
+			<isbn>0385516487</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Rosemary's Baby</title>
+			<isbn>0451194004</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Close Encounters Of The Third Kind</title>
+			<isbn>0440114330</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>A Stir of Echoes</title>
+			<isbn>0765308711</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cape Fear</title>
+			<isbn />
+			<publication_year>1965</publication_year>
+		</book>
+	</similar_books>
+</book>

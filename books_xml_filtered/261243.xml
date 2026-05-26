@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>261243</id>
+	<title>History of the Peloponnesian War</title>
+	<isbn>0140440399</isbn>
+	<publication_year>1972</publication_year>
+	<language_code>en-US</language_code>
+	<description>Written four hundred years before the birth of Christ, this detailed contemporary account of the long life-and-death struggle between Athens and Sparta stands an excellent chance of fulfilling its author's ambitious claim. Thucydides himself (c.460-400 BC) was an Athenian and achieved the rank of general in the earlier stages of the war. He applied thereafter a passion for accuracy and a contempt for myth and romance in compiling this factual record of a disastrous conflict.</description>
+	<average_rating>3.87</average_rating>
+	<num_pages>648</num_pages>
+	<similar_books>
+		<book>
+			<title>A History of My Times</title>
+			<isbn>0140441751</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Rise and Fall of Athens</title>
+			<isbn>0140441026</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Campaigns of Alexander</title>
+			<isbn>0140442537</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>A War Like No Other: How the Athenians &amp; Spartans Fought the Peloponnesian War</title>
+			<isbn>0812969707</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The History of Rome, Books XXI-XXX: The War With Hannibal</title>
+			<isbn>014044145X</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>The Annals of Imperial Rome</title>
+			<isbn />
+			<publication_year>1959</publication_year>
+		</book>
+		<book>
+			<title>The Twelve Caesars</title>
+			<isbn>0140449213</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Peloponnesian War</title>
+			<isbn>0142004375</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Civil War</title>
+			<isbn>0140441875</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Rise of the Roman Empire</title>
+			<isbn>0140443622</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Histories</title>
+			<isbn>0140449086</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Civil Wars</title>
+			<isbn>0140445099</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Jewish War</title>
+			<isbn>0140444203</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The History of Alexander</title>
+			<isbn>0140444122</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

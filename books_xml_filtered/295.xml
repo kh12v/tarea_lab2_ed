@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>295</id>
+	<title>Treasure Island</title>
+	<isbn>0753453800</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>The most popular pirate story ever written in English, featuring one of literature’s most beloved “bad guys,” &lt;i&gt;Treasure Island&lt;/i&gt; has been happily devoured by several generations of boys—and girls—and grownups. Its unforgettable characters include: young Jim Hawkins, who finds himself owner of a map to Treasure Island, where the fabled pirate booty is buried; honest Captain Smollett, heroic Dr. Livesey, and the good-hearted but obtuse Squire Trelawney, who help Jim on his quest for the treasure; the frightening Blind Pew, double-dealing Israel Hands, and seemingly mad Ben Gunn, buccaneers of varying shades of menace; and, of course, garrulous, affable, ambiguous Long John Silver, who is one moment a friendly, laughing, one-legged sea-cook . . . and the next a dangerous pirate leader!&lt;br /&gt;&lt;br /&gt;The unexpected and complex relationship that develops between Silver and Jim helps transform what seems at first to be a simple, rip-roaring adventure story into a deeply moving study of a boy’s growth into manhood, as he learns hard lessons about friendship, loyalty, courage and honor—and the uncertain meaning of good and evil.</description>
+	<average_rating>3.82</average_rating>
+	<num_pages>311</num_pages>
+	<similar_books>
+		<book>
+			<title>The Man in the Iron Mask (The D'Artagnan Romances, #3.3)</title>
+			<isbn>0140439242</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Rob Roy</title>
+			<isbn>0140435549</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Captain Blood</title>
+			<isbn>1406800163</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Swiss Family Robinson  </title>
+			<isbn>1402726023</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>La vera storia del pirata Long John Silver</title>
+			<isbn>887091075X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Prisoner of Zenda</title>
+			<isbn>0140621318</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>In Search of the Castaways; or the Children of Captain Grant (Extraordinary Voyages, #5)</title>
+			<isbn>1406923117</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Coral Island</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Puck of Pook's Hill</title>
+			<isbn>048645147X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Black Ships Before Troy</title>
+			<isbn>0711215227</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Last of the Mohicans (The Leatherstocking Tales #2)</title>
+			<isbn>0553213296</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>King Arthur and His Knights of the Round Table</title>
+			<isbn>0140366709</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Il corsaro nero</title>
+			<isbn>8872351898</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Legends of King Arthur and His Knights</title>
+			<isbn />
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Prince and the Pauper</title>
+			<isbn>0451528352</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Moonfleet</title>
+			<isbn>014062144X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>American Boys Handy Book</title>
+			<isbn>0879234490</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>At the Back of the North Wind</title>
+			<isbn>0375413359</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

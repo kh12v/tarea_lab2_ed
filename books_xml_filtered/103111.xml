@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>103111</id>
+	<title>X-Men: The Dark Phoenix Saga</title>
+	<isbn>0785122133</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>Gathered together by Professor Charles Xavier to protect a world that fears and hates them, the X-Men had fought many battles, been on adventures that spanned galaxies, grappled enemies of limitless might, but none of this could prepare them for the most shocking struggle they would ever face. One of their own members, Jean Grey, has gained power beyond all comprehension, and that power has corrupted her absolutely Now they must decide if the life of the woman they cherish is worth the existence of the entire universe.&lt;br /&gt;&lt;br /&gt;Collects &lt;i&gt;X-Men&lt;/i&gt; #129-137.</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>200</num_pages>
+	<similar_books>
+		<book>
+			<title>Astonishing X-Men, Volume 3: Torn</title>
+			<isbn>0785117598</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>X-Men: Age of Apocalypse – The Complete Epic, Book 1</title>
+			<isbn>0785117148</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>New X-Men, Volume 1: E Is for Extinction</title>
+			<isbn>0785108114</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>X-Men: Messiah CompleX</title>
+			<isbn>0785128999</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Wolverine: Weapon X (Marvel Premiere Classic)</title>
+			<isbn>078512327X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>X-Men: Phoenix - Endsong</title>
+			<isbn>0785119248</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>X-Factor, Vol. 1: The Longest Night</title>
+			<isbn>0785118179</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Daredevil Visionaries: Frank Miller, Vol. 2</title>
+			<isbn>0785107711</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>X-Force, Volume 1: Angels And Demons</title>
+			<isbn>0785129766</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>X-Men: Second Coming</title>
+			<isbn>0785146784</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Fantastic Four Visionaries: John Byrne, Vol. 1</title>
+			<isbn>0785107797</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Ultimate X-Men: Ultimate Collection, Book 1</title>
+			<isbn>0785121870</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>X-Men: Season One</title>
+			<isbn>0785156453</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Spider-Man: Birth of Venom</title>
+			<isbn>0785124985</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

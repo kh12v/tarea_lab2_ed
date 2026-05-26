@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>816870</id>
+	<title>Johnny Tremain</title>
+	<isbn>0440442508</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>en-US</language_code>
+	<description>Johnny Tremain, a young apprentice silversmith, is caught up in the danger and excitement of 1775 Boston, just before the Revolutionary War. But even more gripping than living through the drama of Revolutionary Boston is the important discovery Johnny makes in his own life.</description>
+	<average_rating>3.62</average_rating>
+	<num_pages>322</num_pages>
+	<similar_books>
+		<book>
+			<title>Carry On, Mr. Bowditch</title>
+			<isbn>0618250743</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Rifles for Watie</title>
+			<isbn>006447030X</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Tales From Silver Lands</title>
+			<isbn>0385048157</isbn>
+			<publication_year>1924</publication_year>
+		</book>
+		<book>
+			<title>Young Fu of the Upper Yangtze</title>
+			<isbn>0805081135</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Dark Frigate</title>
+			<isbn>0316350095</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Gay Neck: The Story of a Pigeon</title>
+			<isbn>0525304002</isbn>
+			<publication_year>1968</publication_year>
+		</book>
+		<book>
+			<title>Roller Skates</title>
+			<isbn>0140303588</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Waterless Mountain</title>
+			<isbn>067984502X</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Shadow Of A Bull</title>
+			<isbn>1416948309</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Bronze Bow</title>
+			<isbn>0395137195</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dobry</title>
+			<isbn>0140363343</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>Daniel Boone</title>
+			<isbn>0670255904</isbn>
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>I, Juan de Pareja</title>
+			<isbn>0374435251</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The White Stag</title>
+			<isbn>0140312587</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Adam of the Road</title>
+			<isbn>0142406597</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Matchlock Gun</title>
+			<isbn>0698116801</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Amos Fortune, Free Man</title>
+			<isbn>0140341587</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>...And Now Miguel</title>
+			<isbn>006440143X</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>47922</id>
+	<title>Because I'm Worth It (Gossip Girl, #4)</title>
+	<isbn>0316909688</isbn>
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description>With the college applications complete and summer in full bloom, Serena, Dan, Vanessa, Blair, and Jenny have got an interesting vacation ahead in New York City before heading off to college where they plan to fulfill all of their dreams.</description>
+	<average_rating>3.57</average_rating>
+	<num_pages>234</num_pages>
+	<similar_books>
+		<book>
+			<title>Girls on Film (A-List, #2)</title>
+			<isbn>0316734756</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Invitation Only (Private, #2)</title>
+			<isbn>1416918744</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Kristen (Clique Summer Collection, #4)</title>
+			<isbn>0316027529</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

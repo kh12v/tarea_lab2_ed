@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>22326</id>
+	<title>Virtual Light (Bridge, #1)</title>
+	<isbn>0140157727</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>eng</language_code>
+	<description>Berry Rydell, an ex-cop, signs on with IntenSecure Armed Response in Los Angeles. He finds himself on a collision course that results in a desperate romance, and a journey into the ecstasy and dread that mirror each other at the heart of the postmodern experience.</description>
+	<average_rating>3.84</average_rating>
+	<num_pages>304</num_pages>
+	<similar_books>
+		<book>
+			<title>Islands in the Net</title>
+			<isbn>0441374239</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>A Fire in the Sun</title>
+			<isbn>0765313596</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Voice of the Whirlwind (Hardwired, #2)</title>
+			<isbn>0812519248</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Software (Ware, #1)</title>
+			<isbn>0380701774</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Ambient</title>
+			<isbn>0802134947</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Eclipse Penumbra (A Song Called Youth, #2)</title>
+			<isbn>1930235011</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Rim</title>
+			<isbn>1857235460</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Broken Angels (Takeshi Kovacs, #2)</title>
+			<isbn>0345457714</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

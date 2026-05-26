@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>217436</id>
+	<title>On Mystic Lake</title>
+	<isbn>0345471172</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Annie Colwater’s husband has just confessed that he’s in love with a younger woman. Devastated, Annie retreats to the small town where she grew up. There, she is reunited with her first love, Nick Delacroix, a recent widower who is unable to cope with his silent, emotionally scarred young daughter. Together, the three of them begin to heal. But just when Annie believes she’s been given a second chance at happiness, her world is turned upside down again, and she is forced to make a choice that no woman in love should ever have to make.</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>448</num_pages>
+	<similar_books>
+		<book>
+			<title>With Love</title>
+			<isbn>0515137308</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Coast Road</title>
+			<isbn>0743467175</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Beach Girls</title>
+			<isbn>0553587242</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Nantucket Nights</title>
+			<isbn>0312989768</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Ocean Between Us</title>
+			<isbn>0778321479</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Between Friends</title>
+			<isbn>155166674X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Summer's Child</title>
+			<isbn>1551665093</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Driftwood Summer</title>
+			<isbn>0451226887</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Beachcombers</title>
+			<isbn>0345518284</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

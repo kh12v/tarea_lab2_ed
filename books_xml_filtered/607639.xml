@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>607639</id>
+	<title>The Beach</title>
+	<isbn>1573226521</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>After discovering a seemingly Edenic paradise on an island in a Thai national park, Richard soon finds that since civilized behavior tends to dissolve without external restraints, the utopia is hard to maintain. (Nancy Pearl)</description>
+	<average_rating>3.91</average_rating>
+	<num_pages>436</num_pages>
+	<similar_books>
+		<book>
+			<title>Dead Babies</title>
+			<isbn>067973449X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Now and on Earth</title>
+			<isbn>0316403946</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Leaving Las Vegas</title>
+			<isbn>0802134459</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Clown Girl</title>
+			<isbn>0976631156</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Room</title>
+			<isbn>0714530387</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Skagboys</title>
+			<isbn>0224087916</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Hey Nostradamus!</title>
+			<isbn>1582344159</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Be My Enemy  (Jack Parlabane, #4)</title>
+			<isbn>0349116814</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Stonemouth</title>
+			<isbn>1408702509</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Basketball Diaries</title>
+			<isbn />
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Guts</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Furnace</title>
+			<isbn>0002257157</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Family Values</title>
+			<isbn>0446605948</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Informers</title>
+			<isbn>0330339184</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Contortionist's Handbook</title>
+			<isbn>1931561486</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Stanley Kubrick's Clockwork Orange</title>
+			<isbn>1901680479</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Fuck-Up</title>
+			<isbn>0671027638</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Are You Experienced?</title>
+			<isbn>0140283587</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

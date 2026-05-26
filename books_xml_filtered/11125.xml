@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>11125</id>
+	<title>Digital Fortress</title>
+	<isbn>0552151696</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Before the multi-million, runaway bestseller &lt;i&gt;The Da Vinci Code&lt;/i&gt;, Dan Brown set his razor-sharp research and storytelling skills on the most powerful intelligence organization on earth--the National Security Agency (NSA), an ultra-secret, multibillion-dollar agency many times more powerful than the CIA.&lt;p&gt;When the NSA's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant and beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage...not by guns or bombs, but by a code so ingeniously complex that if released it would cripple U.S. intelligence.&lt;/p&gt;&lt;p&gt;Caught in an accelerating tempest of secrecy and lies, Susan Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves.&lt;/p&gt;&lt;p&gt;From the underground hallways of power to the skyscrapers of Tokyo to the towering cathedrals of Spain, a desperate race unfolds. It is a battle for survival--a crucial bid to destroy a creation of inconceivable genius...an impregnable code-writing formula that threatens to obliterate the post-cold war balance of power. Forever.&lt;/p&gt;</description>
+	<average_rating>3.60</average_rating>
+	<num_pages>510</num_pages>
+	<similar_books>
+		<book>
+			<title>The Amber Room</title>
+			<isbn>034548343X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Last Man Standing</title>
+			<isbn>0446611778</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Ruthless.com (Tom Clancy's Power Plays, #2)</title>
+			<isbn>0425165701</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Judas Strain (Sigma Force, #4)</title>
+			<isbn>0060763892</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Apocalypse Watch</title>
+			<isbn>0553569570</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Righteous Men</title>
+			<isbn>0007203306</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Scarecrow Returns (Shane Schofield, #4)</title>
+			<isbn>1416577599</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Codex</title>
+			<isbn>076534629X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Race the Pale Horse</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Lost City (NUMA Files, #5)</title>
+			<isbn>0141017716</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Dark Matter</title>
+			<isbn>0340822740</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Vector (Jack Stapleton &amp; Laurie Montgomery, #4)</title>
+			<isbn>0425172996</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Windmills of the Gods</title>
+			<isbn>0006174426</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Point of Impact (Tom Clancy's Net Force, #5)</title>
+			<isbn>0425179230</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

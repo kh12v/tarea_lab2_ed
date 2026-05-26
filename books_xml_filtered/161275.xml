@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>161275</id>
+	<title>Superman: Whatever Happened to the Man of Tomorrow?</title>
+	<isbn>1563893150</isbn>
+	<publication_year>1997</publication_year>
+	<language_code>eng</language_code>
+	<description>/Alan Moore /Curt Swan, George Perez, and /Kurt Schaffenberger, illustrators Written by the author of WATCHMEN and BATMAN: THE KILLING JOKE. This acclaimed story projects the final fate of The M</description>
+	<average_rating>4.14</average_rating>
+	<num_pages>47</num_pages>
+	<similar_books>
+		<book>
+			<title>JLA: Earth 2</title>
+			<isbn>1563896311</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Superman for All Seasons</title>
+			<isbn>1563895285</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Superman and the Legion of Super-Heroes</title>
+			<isbn>1401218199</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Superman: Secret Identity</title>
+			<isbn>1401204511</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>DC: The New Frontier, Volume 2</title>
+			<isbn>1401204619</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Justice League International, Vol. 1</title>
+			<isbn>1401216668</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Starman Omnibus, Vol. 1</title>
+			<isbn>1401216994</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Superman: Peace on Earth</title>
+			<isbn>1563894645</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Jack Kirby's Fourth World Omnibus, Volume One</title>
+			<isbn>1401213448</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Crisis on Infinite Earths</title>
+			<isbn>1563897504</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Legion of Super-Heroes: The Great Darkness Saga</title>
+			<isbn>0930289439</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+	</similar_books>
+</book>

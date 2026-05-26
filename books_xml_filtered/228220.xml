@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>228220</id>
+	<title>The House of Thunder</title>
+	<isbn>0425132951</isbn>
+	<publication_year>1992</publication_year>
+	<language_code>eng</language_code>
+	<description>Susan Thorton awakens in a hospital, after a near-fatal car crash, to see four men lurking outside her door--men who exactly resemble those who killed her boyfriend years before. Can these be the same men? As she tries to uncover the identities of those stalking her, Susan enters a terrifying nightmare--one from which she may never escape. Previously published by Pocket under the pseudonym Leigh Nichols (1982).</description>
+	<average_rating>3.78</average_rating>
+	<num_pages>360</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Haunted Earth</title>
+			<isbn>0447754459</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dance with the Devil</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Second Child</title>
+			<isbn>0553287303</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Nevermore</title>
+			<isbn>0345516184</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Dean Koontz Companion</title>
+			<isbn>0425141357</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

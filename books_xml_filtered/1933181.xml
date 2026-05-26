@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>1933181</id>
+	<title>The Lady Elizabeth</title>
+	<isbn>0345495357</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Following the tremendous success of her first novel, Innocent Traitor, which recounted the riveting tale of the doomed Lady Jane Grey, acclaimed historian and New York Times bestselling author Alison Weir turns her masterly storytelling skills to the early life of young Elizabeth Tudor, who would grow up to become England's most intriguing and powerful queen. Even at age two, Elizabeth is keenly aware that people in the court of her father, King Henry VIII, have stopped referring to her as "Lady Princess" and now call her "the Lady Elizabeth." Before she is three, she learns of the tragic fate that has befallen her mother, the enigmatic and seductive Anne Boleyn, and that she herself has been declared illegitimate, an injustice that will haunt her.</description>
+	<average_rating>3.97</average_rating>
+	<num_pages>473</num_pages>
+	<similar_books>
+		<book>
+			<title>In the Shadow of the Crown (Queens of England, #6)</title>
+			<isbn>0609810197</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Plain Jane</title>
+			<isbn>0515141550</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>My Lady of Cleves: A Novel of Henry VIII and Anne of Cleves</title>
+			<isbn>1402214316</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Queen's Governess</title>
+			<isbn>0399156186</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Virgin Queen's Daughter</title>
+			<isbn>0307394808</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Between Two Queens (Secrets of the Tudor Court, #2)</title>
+			<isbn>1416583270</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Secret Diary of Anne Boleyn</title>
+			<isbn>0684849690</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The King's Daughter. A Novel of the First Tudor Queen (Rose of York)</title>
+			<isbn>042522144X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Last Wife of Henry VIII</title>
+			<isbn>0312352182</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Secret Bride (In The Court of Henry VIII, #1)</title>
+			<isbn>0451223136</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Her Mother's Daughter: A Novel of Queen Mary Tudor</title>
+			<isbn>0425230082</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Queen's Lady (Thornleigh, #1)</title>
+			<isbn>0758241690</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

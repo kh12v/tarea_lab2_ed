@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>386421</id>
+	<title>I Was So Mad</title>
+	<isbn>0307119394</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>en-GB</language_code>
+	<description />
+	<average_rating>4.21</average_rating>
+	<num_pages>24</num_pages>
+	<similar_books>
+		<book>
+			<title>The Berenstain Bears Forget Their Manners</title>
+			<isbn>0394873335</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Just a Bully</title>
+			<isbn>0613279212</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Arthur's Halloween (Arthur Adventure Series)</title>
+			<isbn>0316110590</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>17184</id>
+	<title>The Invisible Man</title>
+	<isbn>0451528522</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>This masterpiece of science fiction is the fascinating story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows.</description>
+	<average_rating>3.62</average_rating>
+	<num_pages>192</num_pages>
+	<similar_books>
+		<book>
+			<title>Mosses from an Old Manse</title>
+			<isbn>0812966058</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Complete Roderick</title>
+			<isbn>1585675873</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Shrinking Man</title>
+			<isbn>0575074639</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Out of Time's Abyss (Caspak, #3)</title>
+			<isbn>1595402284</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Round the Moon (Extraordinary Voyages, #7)</title>
+			<isbn>1598183044</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Penultimate Truth</title>
+			<isbn>0575074817</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Metropolis</title>
+			<isbn>1592249787</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Last Man</title>
+			<isbn>0192838652</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Old Curiosity Shop</title>
+			<isbn>0140437428</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Lost World (Professor Challenger, #1)</title>
+			<isbn>0812967259</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Best of the Best: 20 Years of the Year's Best Science Fiction</title>
+			<isbn>031233656X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>More Than Human</title>
+			<isbn>0375703713</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Midwich Cuckoos</title>
+			<isbn>0345299116</isbn>
+			<publication_year>1958</publication_year>
+		</book>
+		<book>
+			<title>Non-Stop</title>
+			<isbn>1585676837</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Jem</title>
+			<isbn>8445074679</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>City</title>
+			<isbn>188296828X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Dhalgren</title>
+			<isbn>0375706682</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Complete Short Stories of Mark Twain</title>
+			<isbn>0553211951</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+	</similar_books>
+</book>

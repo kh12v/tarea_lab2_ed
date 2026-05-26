@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>18342</id>
+	<title>It</title>
+	<isbn>0451169514</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>The story follows the exploits of seven children as they are terrorized by an eponymous being, which exploits the fears and phobias of its victims in order to disguise itself while hunting its prey. "It" primarily appears in the form of a clown in order to attract its preferred prey of young children. The novel is told through narratives alternating between two time periods, and is largely told in the third-person omniscient mode. It deals with themes which would eventually become King staples: the power of memory, childhood trauma, and the ugliness lurking behind a façade of traditional small-town values.</description>
+	<average_rating>4.18</average_rating>
+	<num_pages>1093</num_pages>
+	<similar_books>
+		<book>
+			<title>The Running Man</title>
+			<isbn>0451197968</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Mine</title>
+			<isbn>0671739441</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Watchers</title>
+			<isbn />
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Everville (Book of the Art #2)</title>
+			<isbn>0060933151</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Floating Dragon</title>
+			<isbn>0425189643</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Keep (Adversary Cycle, #1)</title>
+			<isbn>0765357054</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Transition of H. P. Lovecraft: The Road to Madness</title>
+			<isbn>0345384229</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Suffer the Children</title>
+			<isbn>044018293X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Creepshow</title>
+			<isbn>0452253802</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Hell House</title>
+			<isbn>0727860992</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

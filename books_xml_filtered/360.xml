@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>360</id>
+	<title>Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)</title>
+	<isbn>0345418778</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>en-US</language_code>
+	<description>It’s easy to get disheartened when your planet has been blown up, the woman you love has vanished in a misunderstanding about space/time, the spaceship you are on crashes on a remote and Bob-fearing planet, and all you have to fall back on is a few simple sandwich-making skills. However, instead of being disheartened, Arthur Dent makes the terrible mistake of starting to enjoy life a bit and, immediately, all hell breaks loose.&lt;br /&gt;&lt;br /&gt;Hell takes a number of forms: there’s the usual Ford Prefect form of hell, fresh hell in the form of an all-new version of &lt;i&gt;The Hitchhiker’s Guide to the Galaxy&lt;/i&gt;, and a totally unexpected hell in the form of a teenage girl who startles Arthur Dent by being his daughter when he didn’t even know he had one.&lt;br /&gt;&lt;br /&gt;Can Arthur save the Earth from total multidimensional obliteration? Can he save the &lt;i&gt;Guide&lt;/i&gt; from a hostile alien takeover? Can he save his daughter, Random, from herself? &lt;br /&gt;&lt;br /&gt;Of course not. He never works out what is going on, exactly. Will you?</description>
+	<average_rating>3.96</average_rating>
+	<num_pages>240</num_pages>
+	<similar_books>
+		<book>
+			<title>And Another Thing...</title>
+			<isbn>1401323588</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Starship Titanic</title>
+			<isbn>2290053651</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Better than Life (Red Dwarf #2)</title>
+			<isbn>0451452313</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Suburban Book of the Dead: Armageddon III: The Remake</title>
+			<isbn>0552139238</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Last Human (Red Dwarf #3)</title>
+			<isbn>0140143882</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Road to Mars: A Post-Modem Novel</title>
+			<isbn>0375703128</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Interesting Times: The Play</title>
+			<isbn>0413772195</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Dark Side of the Sun</title>
+			<isbn>0552133264</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Time Ships</title>
+			<isbn>0061056480</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Don't Panic: The Official Hitchhiker's Guide to the Galaxy Companion</title>
+			<isbn>0671664263</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Backwards (Red Dwarf #4)</title>
+			<isbn>0140171509</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mona Lisa Overdrive (Sprawl, #3)</title>
+			<isbn>0553281747</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Prelude to Foundation</title>
+			<isbn />
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Voices</title>
+			<isbn>0440220572</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

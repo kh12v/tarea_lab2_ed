@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>4600</id>
+	<title>Moo, Baa, La La La!</title>
+	<isbn>0689861133</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Serious silliness for all ages. Artist Sandra Boynton is back and better than ever with completely redrawn versions of her multi-million selling board books. These whimsical and hilarious books, featuring nontraditional texts and her famous animal characters, have been printed on thick board pages, and are sure to educate and entertain children of all ages.</description>
+	<average_rating>4.19</average_rating>
+	<num_pages>14</num_pages>
+	<similar_books>
+		<book>
+			<title>Quiet Loud (Leslie Patricelli board books)</title>
+			<isbn>0763619523</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Peek-a-Who?</title>
+			<isbn>0811826023</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Where Is Baby's Belly Button?</title>
+			<isbn>0689835604</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Global Babies</title>
+			<isbn>1580891748</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Tails</title>
+			<isbn>0152167730</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I Kissed the Baby!</title>
+			<isbn>0763624438</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Gossie</title>
+			<isbn>0618176748</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>I Love You Through and Through</title>
+			<isbn>0439673631</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Llama Llama Nighty-Night</title>
+			<isbn>0670013277</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Bright Baby Colors</title>
+			<isbn>0312492472</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Toes, Ears, &amp; Nose! (A Lift-the-Flap Book)</title>
+			<isbn>0689847122</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Sheep in a Jeep</title>
+			<isbn>039586786X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Black on White</title>
+			<isbn>0688119182</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Good Night, Gorilla</title>
+			<isbn>0399230033</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>What's Up, Duck?: A Book of Opposites</title>
+			<isbn>0375847383</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>That's Not My Dinosaur (Usborne Touchy-Feely Books)</title>
+			<isbn>079450129X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Chicky Chicky Chook Chook</title>
+			<isbn>1905417403</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Waddle!</title>
+			<isbn>0761151125</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

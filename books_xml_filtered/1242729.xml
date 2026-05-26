@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>1242729</id>
+	<title>Kambing Jantan: Sebuah Catatan Harian Pelajar Bodoh </title>
+	<isbn>9793600691</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>ind</language_code>
+	<description>Blogs/Journal Book</description>
+	<average_rating>3.59</average_rating>
+	<num_pages>236</num_pages>
+	<similar_books>
+		<book>
+			<title>The Naked Traveler</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Jomblo: Sebuah Komedi Cinta</title>
+			<isbn>9799778492</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Test Pack</title>
+			<isbn>9793600969</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Pesan dari Bintang (Hanafiah, #2)</title>
+			<isbn>9793750146</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Sang Pemimpi (Tetralogi Laskar Pelangi, #2)</title>
+			<isbn>9793062924</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Nguping Jakarta</title>
+			<isbn>6028864374</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Benabook</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Ayat-Ayat Cinta</title>
+			<isbn>9832672368</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Kedai 1001 Mimpi: Kisah Nyata Seorang Penulis yang Menjadi TKI</title>
+			<isbn>9797804976</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Filosofi Kopi: Kumpulan Cerita dan Prosa Satu Dekade</title>
+			<isbn>9799625734</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Hai, Miiko! Vol. 21</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Kicau Kacau: Curahan Hati Penulis Galau</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>5 cm</title>
+			<isbn>9797591514</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

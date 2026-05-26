@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>30016</id>
+	<title>The Naked Sun (Robot #2)</title>
+	<isbn>0586010165</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>en-US</language_code>
+	<description>A millennium into the future, two advancements have altered the course of human history: the colonization of the Galaxy and the creation of the positronic brain. &lt;br /&gt;&lt;br /&gt;On the beautiful Outer World planet of Solaria, a handful of human colonists lead a hermit-like existence, their every need attended to by their faithful robot servants. To this strange and provocative planet comes Detective Elijah Baley, sent from the streets of New York with his positronic partner, the robot R. Daneel Olivaw, to solve an incredible murder that has rocked Solaria to its foundations. The victim had been so reclusive that he appeared to his associates only through holographic projection. Yet someone had gotten close enough to bludgeon him to death while robots looked on. Now Baley and Olivaw are faced with two clear impossibilities: Either the Solarian was killed by one of his robots--unthinkable under the laws of Robotics--or he was killed by the woman who loved him so much that she never came into his presence!</description>
+	<average_rating>4.12</average_rating>
+	<num_pages>208</num_pages>
+	<similar_books>
+		<book>
+			<title>Utopia (Isaac Asimov's Caliban, #3)</title>
+			<isbn>0441002455</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Earthlight</title>
+			<isbn>0345248880</isbn>
+			<publication_year>1975</publication_year>
+		</book>
+		<book>
+			<title>Citizen of the Galaxy</title>
+			<isbn>1416505520</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Humanoids (Humanoids #1)</title>
+			<isbn>0312852533</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Footfall</title>
+			<isbn>0345418425</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Planet of Adventure (Planet of Adventure, #1-4)</title>
+			<isbn>0312854889</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

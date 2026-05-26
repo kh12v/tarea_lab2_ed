@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>5797</id>
+	<title>Vanity Fair</title>
+	<isbn>0141439831</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Edited by John Carey.&lt;br /&gt;&lt;br /&gt;Vanity Fair: A Novel without a Hero is a novel by William Makepeace Thackeray, first published in 1847–48, satirizing society in early 19th-century Britain. The book's title comes from John Bunyan's allegorical story The Pilgrim's Progress, first published in 1678 and still widely read at the time of Thackeray's novel. Vanity fair refers to a stop along the pilgrim's progress: a never-ending fair held in a town called Vanity, which is meant to represent man's sinful attachment to worldly things. The novel is now considered a classic, and has inspired several film adaptations.</description>
+	<average_rating>3.76</average_rating>
+	<num_pages>867</num_pages>
+	<similar_books>
+		<book>
+			<title>Phineas Finn (Palliser, #2)</title>
+			<isbn>0140430857</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>No Name</title>
+			<isbn>019283388X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Adam Bede</title>
+			<isbn>0375759018</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Dombey and Son</title>
+			<isbn>0812967437</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Clarissa, or, the History of a Young Lady</title>
+			<isbn>0140432159</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Shirley</title>
+			<isbn>0141439866</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The History of Tom Jones, a Foundling</title>
+			<isbn>0140436227</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Cranford</title>
+			<isbn>0141439882</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Evelina</title>
+			<isbn>0192840312</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Trumpet-Major</title>
+			<isbn>0192836358</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

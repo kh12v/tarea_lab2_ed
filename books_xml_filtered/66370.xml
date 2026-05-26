@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<book>
+	<id>66370</id>
+	<title>Rage</title>
+	<isbn>0451076451</isbn>
+	<publication_year>1977</publication_year>
+	<language_code>eng</language_code>
+	<description>A disturbed high-school student with authority problems kills one of his teachers and takes the rest of his class hostage. Over the course of one long, tense and unbearable hot afternoon, Charlie Decker explains what led him to this drastic sequence of events, while at the same time deconstructing the personalities of his classmates, forcing each one to justify his or her existence.</description>
+	<average_rating>3.80</average_rating>
+	<num_pages>131</num_pages>
+	<similar_books>
+		<book>
+			<title>Three Past Midnight: The Library Policeman</title>
+			<isbn>0453007481</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+	</similar_books>
+</book>

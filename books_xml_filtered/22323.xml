@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>22323</id>
+	<title>Burning Chrome (Sprawl, #0)</title>
+	<isbn>0060539828</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Ten tales, from the computer-enhanced hustlers of &lt;i&gt;Johnny Mnemonic&lt;/i&gt; to the technofetishist blues of &lt;i&gt;Burning Chrome&lt;/i&gt;. &lt;br /&gt;&lt;br /&gt;Johnny Mnemonic (1981)&lt;br /&gt;The Gernsback Continuum (1981)&lt;br /&gt;Fragments of a Hologram Rose (1977)&lt;br /&gt;The Belonging Kind (1981) with John Shirley&lt;br /&gt;Hinterlands (1981)&lt;br /&gt;&lt;br /&gt;Red Star, Winter Orbit (1983) with Bruce Sterling&lt;br /&gt;New Rose Hotel (1984)&lt;br /&gt;The Winter Market (1985)&lt;br /&gt;Dogfight (1985) with Michael Swanwick&lt;br /&gt;Burning Chrome (1982)</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>Mirrorshades: The Cyberpunk Anthology</title>
+			<isbn>0441533825</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Exile Kiss</title>
+			<isbn>076531360X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Eclipse (A Song Called Youth, #1)</title>
+			<isbn>1930235003</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Hardwired (Hardwired, #1)</title>
+			<isbn>1597800627</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Software (Ware, #1)</title>
+			<isbn>0380701774</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Synners</title>
+			<isbn>1568581858</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Rewired: The Post-Cyberpunk Anthology</title>
+			<isbn>1892391538</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Shockwave Rider</title>
+			<isbn>0345467175</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Five Great Novels (The Three Stigmata of Palmer Eldritch, Martian Time-Slip, Do Androids Dream of Electric Sheep?, Ubik, A Scanner Darkly)</title>
+			<isbn>0575075813</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

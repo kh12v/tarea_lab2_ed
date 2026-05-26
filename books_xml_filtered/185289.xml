@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>185289</id>
+	<title>Dragon Prince (Dragon Prince, #1)</title>
+	<isbn>0756403014</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Deadly dragons hold the secret to unimaginable wealth for mutual peace, or a bloody tyrant's reign. An idealistic young ruler struggles to civilize a culture that understands the strength of the sword-but has yet to discover the true power of knowledge.</description>
+	<average_rating>3.94</average_rating>
+	<num_pages>576</num_pages>
+	<similar_books>
+		<book>
+			<title>Shapechangers (Chronicles of the Cheysuli #1)</title>
+			<isbn>0886771404</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>King's Dragon (Crown of Stars, #1)</title>
+			<isbn>0886777712</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Uncrowned King (The Sun Sword, #2)</title>
+			<isbn>0886778018</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Last Dragonlord (Dragonlord, #1)</title>
+			<isbn>0812545419</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Copper Crown (The Tales of Aeron, #1)</title>
+			<isbn>0451450507</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Medalon (Hythrun Chronicles: Demon Child, #1)</title>
+			<isbn>0765348667</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Painter Knight (Branion, #2)</title>
+			<isbn>0886777801</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Dragonsbane (Winterlands #1)</title>
+			<isbn>0345349393</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+	</similar_books>
+</book>

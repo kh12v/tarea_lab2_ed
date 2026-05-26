@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>93101</id>
+	<title>The Arabian Nights</title>
+	<isbn>0812972147</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Full of mischief, valor, ribaldry, and romance, &lt;b&gt;The Arabian Nights&lt;/b&gt; has enthralled readers for centuries. These are the tales that saved the life of Shahrazad, whose husband, the king, executed each of his wives after a single night of marriage. Beginning an enchanting story each evening, Shahrazad always withheld the ending: A thousand and one nights later, her life was spared forever.</description>
+	<average_rating>4.06</average_rating>
+	<num_pages>1049</num_pages>
+	<similar_books>
+		<book>
+			<title>The Red Fairy Book</title>
+			<isbn>048621673X</isbn>
+			<publication_year>1966</publication_year>
+		</book>
+		<book>
+			<title>African Folktales</title>
+			<isbn>0394721179</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Tale of Genji</title>
+			<isbn>014243714X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Bulfinch's Mythology</title>
+			<isbn>0375751475</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Perrault's Fairy Tales</title>
+			<isbn>0486223116</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Tanglewood Tales: A Wonder-Book for Girls and Boys</title>
+			<isbn>1402166516</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Japanese Tales</title>
+			<isbn>0375714510</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>An Ethiopian Romance</title>
+			<isbn>0812216725</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Monkey: The Journey to the West</title>
+			<isbn>0802130860</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Recognition of Śakuntalā</title>
+			<isbn>019283911X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Complete Fairy Tales</title>
+			<isbn>0517092913</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>بوستان سعدی</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Folktales from India</title>
+			<isbn>0679748326</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Enchanted Castle and Five Children and It</title>
+			<isbn>1593082746</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Classic Fairy Tales</title>
+			<isbn>0393972771</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>839263</id>
+	<title>David Goes To School</title>
+	<isbn>0590480871</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>David's teacher has her hands full. From running in the halls to chewing gum in class, David's high-energy antics fill each schoolday with trouble -- and are sure to bring a smile to even the best- bahaved reader.</description>
+	<average_rating>4.16</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Wemberly Worried</title>
+			<isbn>0688170277</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Teacher from the Black Lagoon (Black Lagoon, #1)</title>
+			<isbn>0590419625</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Walk On!: A Guide for Babies of All Ages</title>
+			<isbn>0152055738</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Snow Day!</title>
+			<isbn>1561454184</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>How Do Dinosaurs Get Well Soon?</title>
+			<isbn>0439241006</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Too Loud Lily</title>
+			<isbn>0439579139</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Pigeon Wants a Puppy!</title>
+			<isbn>1423109600</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>First Day Jitters (Mrs. Hartwells classroom adventures)</title>
+			<isbn>158089061X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Pirates Don't Change Diapers</title>
+			<isbn>0152053530</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>There Was an Old Lady Who Swallowed Some Books!</title>
+			<isbn>0545402875</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Parts (Parts, #1)</title>
+			<isbn>0140565337</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>If You Take a Mouse to School</title>
+			<isbn>0060283289</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>A Pirate's Guide to First Grade</title>
+			<isbn>031236928X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Be Good to Eddie Lee</title>
+			<isbn>0399219935</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I Wanna Iguana</title>
+			<isbn>0399237178</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Llama Llama Misses Mama</title>
+			<isbn>0670061980</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>"Slowly, Slowly, Slowly," said the Sloth</title>
+			<isbn>0142408476</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

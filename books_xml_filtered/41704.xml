@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>41704</id>
+	<title>Shock Wave (Dirk Pitt, #13)</title>
+	<isbn>0743449673</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>en-GB</language_code>
+	<description>From an island off the coast of Australia, a diamond tycoon heads a reign of terror, but he has never come up against the fury of a man like Dirk Pitt</description>
+	<average_rating>3.93</average_rating>
+	<num_pages>537</num_pages>
+	<similar_books>
+		<book>
+			<title>Charon's Landing (Philip Mercer, #2)</title>
+			<isbn>0451412117</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Shark Mutiny (Admiral Arnold Morgan, #5)</title>
+			<isbn>0060196319</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Night of the Hawk (Patrick McLanahan, #2)</title>
+			<isbn>0425136612</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>SSN: A Strategy Guide to Submarine Warfare</title>
+			<isbn>0425173534</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Intruders (Jake Grafton #2)</title>
+			<isbn>1591141281</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The White House Connection (Sean Dillon, #7)</title>
+			<isbn>0425175413</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Games of State (Tom Clancy's Op-Center, #3)</title>
+			<isbn>0006498442</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Cold War (Tom Clancy's Power Plays, #5)</title>
+			<isbn>0743505816</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Instinct (Chess Team Adventure, #2)</title>
+			<isbn>0312540299</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hidden Agendas (Tom Clancy's Net Force, #2)</title>
+			<isbn>0425171396</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

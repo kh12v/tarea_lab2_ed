@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>21436</id>
+	<title>Cat and Mouse (Alex Cross, #4)</title>
+	<isbn>1570425779</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Two killers - one operating in America, one in Europe - believe Alex Cross is the only worthy opponent in the deadly game each has planned. And Alex must contend with something he hasn't known since the loss of his wife: he's falling deeply in love, and this romance will make him, and her, all the more vulnerable...</description>
+	<average_rating>3.96</average_rating>
+	<num_pages>450</num_pages>
+	<similar_books>
+		<book>
+			<title>Certain Prey (Lucas Davenport, #10)</title>
+			<isbn>0743484193</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Short Forever (Stone Barrington, #8)</title>
+			<isbn>0451208080</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Stone Monkey (Lincoln Rhyme, #4)</title>
+			<isbn>1410400964</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Book of the Dead (Kay Scarpetta, #15)</title>
+			<isbn>0399153934</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Over the Edge (Alex Delaware, #3)</title>
+			<isbn>0345466624</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Q is for Quarry (Kinsey Millhone, #17)</title>
+			<isbn>0739429337</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Angels Flight (Harry Bosch, #6; Harry Bosch Universe, #7)</title>
+			<isbn>0446607274</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Angel Maker (Boldt/Matthews, #2)</title>
+			<isbn>0786890088</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

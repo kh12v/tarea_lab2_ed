@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>239381</id>
+	<title>Just a Mess (Little Critter)</title>
+	<isbn>0307119483</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>Mercer Mayer's Little Critter has made quite the mess in this classic, funny, and heartwarming book. Whether he's shoving junk under the bed, cramming toys in the closet, or overstuffing drawers with clothes, both parents and children alike will relate to this beloved story. A perfect way to teach kids about picking up after themselves!</description>
+	<average_rating>4.23</average_rating>
+	<num_pages>24</num_pages>
+	<similar_books>
+		<book>
+			<title>The Berenstain Bears' Moving Day </title>
+			<isbn>0394848381</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Just a Bully</title>
+			<isbn>0613279212</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Amelia Bedelia and the Surprise Shower</title>
+			<isbn>0064440192</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Clifford’s Birthday Party</title>
+			<isbn>0833520555</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Curious George Visits the Zoo</title>
+			<isbn>0395390303</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Calling Doctor Amelia Bedelia</title>
+			<isbn>0060087803</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Arthur Writes a Story (Arthur Adventure Series)</title>
+			<isbn>0316111643</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lost in the Solar System (The Magic School Bus, #4)</title>
+			<isbn>0590414291</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Magic School Bus Plants Seeds: A Book About How Living Things Grow</title>
+			<isbn>0590222961</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

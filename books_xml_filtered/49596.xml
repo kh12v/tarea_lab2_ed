@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>49596</id>
+	<title>The Secret Adversary (Tommy and Tuppence #1)</title>
+	<isbn>1600963943</isbn>
+	<publication_year>2008</publication_year>
+	<language_code>eng</language_code>
+	<description>Tommy and Tuppence, two young people short of money and restless for excitement, embark on a daring business scheme – Young Adventurers Ltd.&lt;br /&gt;&lt;br /&gt;Their advertisement says they are ‘willing to do anything, go anywhere’. But their first assignment, for the sinister Mr Whittington, plunges them into more danger than they ever imagined…</description>
+	<average_rating>3.82</average_rating>
+	<num_pages>268</num_pages>
+	<similar_books>
+		<book>
+			<title>Lord Peter (Lord Peter Wimsey Mysteries)</title>
+			<isbn>0060913800</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Circular Staircase</title>
+			<isbn>0809593475</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Enter a Murderer (Roderick Alleyn, #2)</title>
+			<isbn>0312966709</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Wisdom of Father Brown (Father Brown, #2)</title>
+			<isbn>1421906015</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Miss Silver Deals With Death (Miss Silver, #6)</title>
+			<isbn>0060974435</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Mystery Mile (Albert Campion Mystery #2)</title>
+			<isbn>0099474697</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Great Impersonation</title>
+			<isbn />
+			<publication_year>1920</publication_year>
+		</book>
+		<book>
+			<title>The Eye of Osiris</title>
+			<isbn>0755103564</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

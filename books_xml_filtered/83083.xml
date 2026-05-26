@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>83083</id>
+	<title>Birds of a Feather (Maisie Dobbs, #2)</title>
+	<isbn>0143035304</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>en-US</language_code>
+	<description>It is the spring of 1930, and Maisie has been hired to find a runaway heiress. When three of the heiress's old friends are found dead, Maisie must race to find out who would want to kill these seemingly respectable young women before it's too late. As Maisie investigates, she discovers that the answers lie in the unforgettable agony of the Great War.</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>320</num_pages>
+	<similar_books>
+		<book>
+			<title>An Impartial Witness (Bess Crawford, #2)</title>
+			<isbn>0061791784</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Twelve Clues of Christmas (Her Royal Spyness Mysteries, #6)</title>
+			<isbn>0425252787</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>His Majesty's Hope (Maggie Hope Mystery, #3)</title>
+			<isbn>0345536738</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Shoulder the Sky (World War I, #2)</title>
+			<isbn>0345456556</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Justice Hall (Mary Russell, #6)</title>
+			<isbn>000711138X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

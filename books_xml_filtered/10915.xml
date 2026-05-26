@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>10915</id>
+	<title>Salem Falls</title>
+	<isbn>0743418719</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>Jack St. Bride was once a beloved teacher and soccer coach at a girls' prep school - until a student's crush sparked a powder keg of accusation and robbed him of his career and reputation. Now, after a devastatingly public ordeal that left him with an eight-month jail sentence and no job, Jack resolves to pick up the pieces of his life. He takes a job washing dishes at Addie Peabody's diner and slowly starts to form a relationship with her in the quiet New England village of Salem Falls. But just when Jack thinks he has outrun his past, a quartet of teenage girls with a secret turn his world upside down once again, triggering a modern-day witch hunt in a town haunted by its own history…</description>
+	<average_rating>3.80</average_rating>
+	<num_pages>434</num_pages>
+	<similar_books>
+		<book>
+			<title>Summer's Child</title>
+			<isbn>1551665093</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Angel Falls</title>
+			<isbn>0345484274</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Body Surfing</title>
+			<isbn>0316059854</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Ice Cream Girls</title>
+			<isbn>1847443648</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Secret Between Us</title>
+			<isbn>0385518684</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Novels by Jodi Picoult</title>
+			<isbn>115524057X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Family Baggage</title>
+			<isbn>0345490126</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>How to Be Lost</title>
+			<isbn>0345483170</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

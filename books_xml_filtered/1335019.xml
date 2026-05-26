@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>1335019</id>
+	<title>Necronomicon: The Best Weird Tales</title>
+	<isbn>0575081562</isbn>
+	<publication_year>2008</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Originally written for the pulp magazines of the 1920s and 1930s, H. P. Lovecraft's astonishing tales blend elements of horror, science fiction, and cosmology that are as powerful today as they were when first published. This tome presents original versions of many of his most harrowing stories, including the complete Cthulhu Mythos cycle, in order of publication.</description>
+	<average_rating>4.29</average_rating>
+	<num_pages>878</num_pages>
+	<similar_books>
+		<book>
+			<title>The Complete Chronicles of Conan</title>
+			<isbn>0575077662</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Taint and Other Novellas</title>
+			<isbn>1596061251</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Dunwich Cycle: Where the Old Gods Wait (Cthulhu Cycle Book, #9)</title>
+			<isbn>156882047X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Book of Cthulhu</title>
+			<isbn>1597802328</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Necronomicon: The Wanderings of Alhazred (Necronomicon Series)</title>
+			<isbn>0738706272</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Encyclopedia Cthulhiana: A Guide to Lovecraftian Horror</title>
+			<isbn>1568821190</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Tales of Unease</title>
+			<isbn>1840224061</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Lovecraft Unbound</title>
+			<isbn>1595821465</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shadows over Innsmouth</title>
+			<isbn>0345444078</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Books of Blood, Volumes 4-6</title>
+			<isbn>0747401659</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>HG Wells Classic Collection</title>
+			<isbn>0575095202</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Season in Carcosa</title>
+			<isbn>1937408000</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Cthulhu 2000</title>
+			<isbn>0345422031</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The White People and Other Weird Stories</title>
+			<isbn>0143105590</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Dracula's Guest</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>An H. P. Lovecraft Encyclopedia</title>
+			<isbn>097487891X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Shotguns v. Cthulhu</title>
+			<isbn>1908983019</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Mask of Cthulhu</title>
+			<isbn>0586041397</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+	</similar_books>
+</book>

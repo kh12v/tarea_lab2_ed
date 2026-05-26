@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>4009</id>
+	<title>Nine Stories</title>
+	<isbn>0316767727</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>"A Perfect Day for Bananafish" (1948)&lt;br /&gt;"Uncle Wiggily in Connecticut" (1948)&lt;br /&gt;"Just Before the War with the Eskimos" (1948)&lt;br /&gt;"The Laughing Man" (1949)&lt;br /&gt;"Down at the Dinghy" (1949)&lt;br /&gt;"For Esmé – with Love and Squalor" (1950)&lt;br /&gt;"Pretty Mouth and Green My Eyes" (1951)&lt;br /&gt;"De Daumier-Smith's Blue Period" (1952)&lt;br /&gt;"Teddy" (1953)</description>
+	<average_rating>4.19</average_rating>
+	<num_pages>198</num_pages>
+	<similar_books>
+		<book>
+			<title>Cathedral</title>
+			<isbn>0679723692</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Complete Stories</title>
+			<isbn>0374515360</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Stories of John Cheever</title>
+			<isbn>0375724427</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>In the Garden of the North American Martyrs</title>
+			<isbn>0880014970</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Rock Springs</title>
+			<isbn>0099448971</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Collected Stories</title>
+			<isbn>0312420811</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Girl with Curious Hair</title>
+			<isbn />
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Like Life</title>
+			<isbn>0375719164</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Complete Stories</title>
+			<isbn>0805210555</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Among the Missing</title>
+			<isbn>0345441613</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Jesus' Son</title>
+			<isbn>0060975776</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Forty Stories</title>
+			<isbn>0141180943</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Pigeon Feathers and Other Stories</title>
+			<isbn>0449912256</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Selected Stories</title>
+			<isbn>0679767304</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Stories of Breece D'J Pancake</title>
+			<isbn>0316715972</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Winesburg, Ohio</title>
+			<isbn>0192839772</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Complete Stories of Truman Capote</title>
+			<isbn>140009691X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Stories of Vladimir Nabokov</title>
+			<isbn>0679729976</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

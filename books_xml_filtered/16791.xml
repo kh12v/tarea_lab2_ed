@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>16791</id>
+	<title>Death: The High Cost of Living Collected</title>
+	<isbn>1852864982</isbn>
+	<publication_year>1994</publication_year>
+	<language_code>eng</language_code>
+	<description>From the pages of Neil Gaiman's SANDMAN comes the young, pale, perky, and genuinely likable Death. One day in every century, Death walks the Earth to better understand those to whom she will be the final visitor. Today is that day. As a young mortal girl named Didi, Death befriends a teenager and helps a 250-year old homeless woman find her missing heart. What follows is a sincere musing on love, life and (of course) death.</description>
+	<average_rating>4.20</average_rating>
+	<num_pages>104</num_pages>
+	<similar_books>
+		<book>
+			<title>Lucifer, Vol. 4: The Divine Comedy</title>
+			<isbn>1401200095</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Books of Magic, Volume 1: Bindings</title>
+			<isbn>1563891875</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Fables: 1001 Nights of Snowfall</title>
+			<isbn>1401203671</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Promethea, Vol. 3</title>
+			<isbn>140120094X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Strangers in Paradise, Volume 3: It's A Good Life</title>
+			<isbn>1892597020</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Hellblazer: Dangerous Habits</title>
+			<isbn>1563891506</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Transmetropolitan, Vol. 7: Spider's Thrash (Transmetropolitan, #7)</title>
+			<isbn>1563898942</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>630621</id>
+	<title>The Incredible Hulk: Planet Hulk</title>
+	<isbn>0785122451</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>Savage alien planet. Oppressed barbarian tribes. Currupt emperor. Deadly woman warrior. Gladiators and slaves. Battle axes and hand blasters. Monsters and heroes - and the Incredible Hulk! Let the smashing commence!</description>
+	<average_rating>4.23</average_rating>
+	<num_pages>416</num_pages>
+	<similar_books>
+		<book>
+			<title>Captain America, by Ed Brubaker: Omnibus, Volume 1</title>
+			<isbn>0785128662</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Hulk: The End</title>
+			<isbn>0785130268</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>World War Hulk: X-Men</title>
+			<isbn>0785128883</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Annihilation, Book One</title>
+			<isbn>0785125116</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Ultimates 2, Volume 2: Grand Theft America</title>
+			<isbn>0785117903</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Thor, by J. Michael Straczynski, Volume 1</title>
+			<isbn>078513011X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Green Lantern, Volume 4: The Sinestro Corps War, Volume 1</title>
+			<isbn>1401216501</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The New Avengers, Volume 1: Breakout</title>
+			<isbn>0785118144</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>X-Force, Volume 1: Angels And Demons</title>
+			<isbn>0785129766</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Civil War: Wolverine</title>
+			<isbn>0785119809</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Iron Man: Extremis</title>
+			<isbn>0785122583</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Annihilation: Conquest, Book Two</title>
+			<isbn>078512716X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>X-Men: Days of Future Past</title>
+			<isbn>0785115609</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Incredible Hulk: Prelude To Planet Hulk</title>
+			<isbn>0785119531</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>X-Men: Age of Apocalypse – The Complete Epic, Book 1</title>
+			<isbn>0785117148</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

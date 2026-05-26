@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>334286</id>
+	<title>Equus</title>
+	<isbn>0140260706</isbn>
+	<publication_year>1984</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.94</average_rating>
+	<num_pages>112</num_pages>
+	<similar_books>
+		<book>
+			<title>The Pillowman</title>
+			<isbn>0571220320</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>All in the Timing</title>
+			<isbn>067975928X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Cloud 9</title>
+			<isbn>1559360992</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Seven Plays: Buried Child / Curse of the Starving Class / The Tooth of Crime / La Turista / Tongues / Savage Love / True West</title>
+			<isbn>0553346113</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum of Charenton Under the Direction of the Marquis de Sade</title>
+			<isbn>1577662318</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Invention of Love</title>
+			<isbn>0802135811</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Goat, or Who is Sylvia?</title>
+			<isbn>1585676470</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>How I Learned to Drive</title>
+			<isbn>082221623X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Betrayal</title>
+			<isbn>0571160824</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Proof</title>
+			<isbn>0571199976</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Rabbit Hole</title>
+			<isbn>1559362901</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Bug</title>
+			<isbn>0810123487</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Bent</title>
+			<isbn>1557833362</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>I Am My Own Wife</title>
+			<isbn>0571211747</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Clean House and Other Plays</title>
+			<isbn>1559362669</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Angels in America, Part Two: Perestroika</title>
+			<isbn>1559360739</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>'night, Mother</title>
+			<isbn>0822208210</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+	</similar_books>
+</book>

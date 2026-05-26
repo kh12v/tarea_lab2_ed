@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>55398</id>
+	<title>House of Chains (The Malazan Book of the Fallen, #4)</title>
+	<isbn>0765348810</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>In Northern Genabackis, tribal mountain warriors raid southern flatlands. Years later, Tavore, Adjunct to the Empress, enters the last Malazan stronghold. New to command, she must hone 12,000 recruits to resist the Whirlwind of her sister Sha in the Holy Desert. The power struggle of the seer's warlords threatens the soul of the rebellion.</description>
+	<average_rating>4.32</average_rating>
+	<num_pages>1021</num_pages>
+	<similar_books>
+		<book>
+			<title>Stonewielder (Malazan Empire, #3)</title>
+			<isbn>0593064445</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Soldiers Live (The Chronicles of the Black Company, #9)</title>
+			<isbn>0812566556</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Warrior Prophet (The Prince of Nothing, #2)</title>
+			<isbn>1585677280</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

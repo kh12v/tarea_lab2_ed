@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>46306</id>
+	<title>The Complete Fairy Tales</title>
+	<isbn>0517092913</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>eng</language_code>
+	<description>Lily Owens, ed. Illustrated edition of 159 cherished tales that have enchanted readers for generations. Includes "The Ugly Duckling", "The Emperor's New Clothes", "Snow Queen", all uncut with beautiful illustrations.</description>
+	<average_rating>4.28</average_rating>
+	<num_pages>803</num_pages>
+	<similar_books>
+		<book>
+			<title>Perrault's Fairy Tales</title>
+			<isbn>0486223116</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>The Lilac Fairy Book</title>
+			<isbn>0486219070</isbn>
+			<publication_year>1968</publication_year>
+		</book>
+		<book>
+			<title>The Complete Grimm's Fairy Tales</title>
+			<isbn>0394709306</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Yellow Fairy Book</title>
+			<isbn>0486216748</isbn>
+			<publication_year>1966</publication_year>
+		</book>
+		<book>
+			<title>The Complete Fairy Tales</title>
+			<isbn>1934169579</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Russian Fairy Tales</title>
+			<isbn>0394730909</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Thumbelina</title>
+			<isbn>0803728123</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>East o' the Sun and West o' the Moon</title>
+			<isbn>1564020495</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Complete Tales</title>
+			<isbn>072325804X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Irish Fairy and Folk Tales</title>
+			<isbn>158663609X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Wonderful Adventures of Nils</title>
+			<isbn>0486286118</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>English Fairy Tales</title>
+			<isbn>1853261335</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Complete Tales and Poems of Winnie-the-Pooh (Winnie-the-Pooh, #1-4)</title>
+			<isbn>0525467262</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Enchanted Castle and Five Children and It</title>
+			<isbn>1593082746</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Peter Pan in Kensington Gardens / Peter and Wendy</title>
+			<isbn>0192839292</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

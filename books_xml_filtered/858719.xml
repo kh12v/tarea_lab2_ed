@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>858719</id>
+	<title>Clifford the Big Red Dog</title>
+	<isbn>059044297X</isbn>
+	<publication_year>1995</publication_year>
+	<language_code />
+	<description>Emily Elizabeth describes the activities she enjoys with her very big red dog and how they take care of each other.</description>
+	<average_rating>4.09</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>The Berenstain Bears and the Messy Room</title>
+			<isbn>0394856392</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Inside the Human Body (The Magic School Bus, #3)</title>
+			<isbn>0590414275</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Arthur's Eyes (Arthur Adventure Series)</title>
+			<isbn>0316110698</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Pocket for Corduroy</title>
+			<isbn>067056172X</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Curious George Rides a Bike</title>
+			<isbn>1844285073</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Just Me and My Mom (Little Critter)</title>
+			<isbn>030712584X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Curious George Goes to the Hospital</title>
+			<isbn>0395181585</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Miss Nelson Is Back (Miss Nelson, #2)</title>
+			<isbn>039541668X</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Lyle, Lyle, Crocodile</title>
+			<isbn>0395137209</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+	</similar_books>
+</book>

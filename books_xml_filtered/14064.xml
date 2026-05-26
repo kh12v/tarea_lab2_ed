@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>14064</id>
+	<title>I Am Legend</title>
+	<isbn>1857988094</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>Robert Neville is the last living man on Earth... but he is not alone. Every other man, woman and child on the planet has become a vampire, and they are hungry for Neville's blood.&lt;br /&gt;&lt;br /&gt;By day he is the hunter, stalking the undead through the ruins of civilisation. By night, he barricades himself in his home and prays for the dawn.&lt;br /&gt;&lt;br /&gt;How long can one man survive like this?&lt;br /&gt;&lt;br /&gt;</description>
+	<average_rating>4.07</average_rating>
+	<num_pages>160</num_pages>
+	<similar_books>
+		<book>
+			<title>The Book of Skulls</title>
+			<isbn>0345471385</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Non-Stop</title>
+			<isbn>1585676837</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Mockingbird</title>
+			<isbn>0345431626</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Rediscovery of Man</title>
+			<isbn>1857988191</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Dark Universe</title>
+			<isbn>0575071370</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Variable Man and Other Stories</title>
+			<isbn>0722129629</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>The Death of Grass</title>
+			<isbn>0722122977</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Life During Wartime</title>
+			<isbn>0575077344</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Drowning Towers</title>
+			<isbn>038078601X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Fifth Head of Cerberus</title>
+			<isbn>0312890206</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Emphyrio</title>
+			<isbn>0440023459</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Il ciclo delle Fondazioni</title>
+			<isbn>8804520736</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Nicolas Eymerich, inquisitore</title>
+			<isbn>8804528826</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Where Late the Sweet Birds Sang</title>
+			<isbn>0060146540</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>The Genocides</title>
+			<isbn>0375705465</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Arslan</title>
+			<isbn>0312879105</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Purple Cloud (Frontiers of Imagination)</title>
+			<isbn>0803292791</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>This Is the Way the World Ends</title>
+			<isbn>0156002086</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

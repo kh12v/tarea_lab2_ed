@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>25100</id>
+	<title>Dream Country (The Sandman #3)</title>
+	<isbn>156389226X</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>The third volume of the Sandman collection is a series of four short comic book stories. In each of these otherwise unrelated stories, Morpheus serves only as a minor character. Here we meet the mother of Morpheus's son, find out what cats dream about, and discover the true origin behind Shakespeare's A Midsummer's Night Dream. The latter won a World Fantasy Award for best short story, the first time a comic book was given that honor. collecting The Sandman #17–20</description>
+	<average_rating>4.28</average_rating>
+	<num_pages>160</num_pages>
+	<similar_books>
+		<book>
+			<title>Lucifer, Vol. 2: Children and Monsters</title>
+			<isbn>1563898004</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Fables, Vol. 3: Storybook Love</title>
+			<isbn>140120256X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Transmetropolitan, Vol. 9: The Cure (Transmetropolitan, #9)</title>
+			<isbn>1563899884</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Swamp Thing, Vol. 4: A Murder of Crows</title>
+			<isbn>1563897199</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

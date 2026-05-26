@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>16299</id>
+	<title>And Then There Were None</title>
+	<isbn>0312330871</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>First, there were ten - a curious assortment of strangers summoned as weekend guests to a private island off the coast of Devon. Their host, an eccentric millionaire unknown to all of them, is nowhere to be found. All that the guests have in common is a wicked past they're unwilling to reveal - and a secret that will seal their fate. For each has been marked for murder. One by one they fall prey. Before the weekend is out, there will be none. And only the dead are above suspicion.</description>
+	<average_rating>4.23</average_rating>
+	<num_pages>264</num_pages>
+	<similar_books>
+		<book>
+			<title>Gaudy Night (Lord Peter Wimsey, #12)</title>
+			<isbn>0061043494</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Vintage Murder (Roderick Alleyn, #5)</title>
+			<isbn>0312971796</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Sanctuary Sparrow (Chronicles of Brother Cadfael #7)</title>
+			<isbn>0751502170</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Doorbell Rang (Nero Wolfe, #41)</title>
+			<isbn>0553237217</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Mystery of the Yellow Room</title>
+			<isbn>0486449289</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Deeds of the Disturber (Amelia Peabody, #5)</title>
+			<isbn>0380731959</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Man With a Load of Mischief (Richard Jury, #1)</title>
+			<isbn>0451410815</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>His Last Bow: 8 Stories</title>
+			<isbn>0755334434</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Black Tower (Adam Dalgliesh #5)</title>
+			<isbn>0743219619</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Arsène Lupin, Gentleman-Thief (Arsène Lupin)</title>
+			<isbn>0143104861</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

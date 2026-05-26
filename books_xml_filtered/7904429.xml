@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>7904429</id>
+	<title>Scott Pilgrim, Volume 6: Scott Pilgrim's Finest Hour</title>
+	<isbn>1934964387</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description>It's finally here! Six years and almost one-thousand pages have all led to this epic finale! With six of Ramona's seven evil exes dispatched, it should be time for Scott Pilgrim to face Gideon Graves, the biggest and baddest of her former beaus. But didn't Ramona take off at the end of Book 5? Shouldn't that let Scott off the hook? Maybe it should, maybe it shouldn't, but one thing is for certain -- all of this has been building to Scott Pilgrim's Finest Hour!</description>
+	<average_rating>4.41</average_rating>
+	<num_pages>245</num_pages>
+	<similar_books>
+		<book>
+			<title>Runaways, Vol. 4: True Believers (Runaways, #4)</title>
+			<isbn>0785117059</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Fables, Vol. 10: The Good Prince</title>
+			<isbn>1401216862</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Umbrella Academy, Vol. 2: Dallas</title>
+			<isbn>159582345X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Essex County, Vol. 2: Ghost Stories</title>
+			<isbn>1891830945</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Hit-Girl</title>
+			<isbn>0785165975</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Chew, Vol. 4: Flambé</title>
+			<isbn>1607063980</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Phonogram, Vol. 2: The Singles Club (Phonogram, #2)</title>
+			<isbn>1607061791</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Dr. Horrible and Other Horrible Stories</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Hawkeye, Volume 2: Little Hits</title>
+			<isbn>0785165630</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Buffy the Vampire Slayer: Last Gleaming (Season 8, #8)</title>
+			<isbn>1595826106</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+	</similar_books>
+</book>

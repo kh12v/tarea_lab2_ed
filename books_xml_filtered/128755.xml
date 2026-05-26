@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>128755</id>
+	<title>Cross Bones (Temperance Brennan, #8)</title>
+	<isbn>0743453026</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>3.86</average_rating>
+	<num_pages>453</num_pages>
+	<similar_books>
+		<book>
+			<title>More Bitter than Death (An Emma Fielding Mystery #5)</title>
+			<isbn>0060554630</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Bones of Betrayal (Body Farm #4)</title>
+			<isbn>0061284742</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cold Hit (Alexandra Cooper, #3)</title>
+			<isbn>0671019554</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Black Notice (Kay Scarpetta, #10)</title>
+			<isbn>0425175405</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Keepsake (Rizzoli &amp; Isles, #7)</title>
+			<isbn>0345497627</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Twelfth Card (Lincoln Rhyme, #6)</title>
+			<isbn>0739455834</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Dead Run (Monkeewrench, #3)</title>
+			<isbn>0451218159</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Blood Born (Dr. Anya Crichton, #4)</title>
+			<isbn>0061353345</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>902</id>
+	<title>The Westing Game</title>
+	<isbn>014240120X</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>A bizarre chain of events begins when sixteen unlikely people gather for the reading of Samuel W. Westing's will. And though no one knows why the eccentric, game-loving millionaire has chosen a virtual stranger - and a possible murderer - to inherit his vast fortune, one thing's for sure: Sam Westing may be dead... but that won't stop him from playing one last game!</description>
+	<average_rating>4.03</average_rating>
+	<num_pages>182</num_pages>
+	<similar_books>
+		<book>
+			<title>Shadow Of A Bull</title>
+			<isbn>1416948309</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Onion John</title>
+			<isbn>0064401448</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Amos Fortune, Free Man</title>
+			<isbn>0140341587</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The White Stag</title>
+			<isbn>0140312587</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>The Cat Who Went to Heaven</title>
+			<isbn>0689714335</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>M.C. Higgins, the Great</title>
+			<isbn>1416914072</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Summer of the Swans</title>
+			<isbn>0142404411</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Waterless Mountain</title>
+			<isbn>067984502X</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Twenty-One Balloons</title>
+			<isbn>0140320970</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Story of Mankind</title>
+			<isbn>1406838160</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The View from Saturday</title>
+			<isbn>0689862210</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Dicey's Song (Tillerman Cycle, #2)</title>
+			<isbn>0689863624</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Up a Road Slowly</title>
+			<isbn>0425202054</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Secret of the Andes</title>
+			<isbn>0140309268</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Jacob Have I Loved</title>
+			<isbn />
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Invincible Louisa: The Story of the Author of Little Women</title>
+			<isbn>0316565946</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>A Single Shard</title>
+			<isbn>0440418518</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Egypt Game (Game, #1)</title>
+			<isbn>0808553038</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

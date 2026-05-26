@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>7186</id>
+	<title>La Dame aux Camélias</title>
+	<isbn>0192836382</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>One of the greatest love stories of all time, this novel has fascinated generations of readers. Dumas's subtle and moving portrait of a woman in love is based on his own love affair with one of the most desirable courtesans in Paris. This is a completely new translation commissioned for the World's Classics.</description>
+	<average_rating>3.97</average_rating>
+	<num_pages>256</num_pages>
+	<similar_books>
+		<book>
+			<title>Queen Margot, or Marguerite de Valois (The Last Valois, #1)</title>
+			<isbn>0786880821</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>A Harlot High and Low</title>
+			<isbn>0140442324</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Gautier Récits Fantastiques</title>
+			<isbn>2081207214</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Manon Lescaut</title>
+			<isbn>0140445595</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Devil in the Flesh</title>
+			<isbn>0714534021</isbn>
+			<publication_year>1968</publication_year>
+		</book>
+		<book>
+			<title>The Ladies' Paradise (Les Rougon-Macquart, #11)</title>
+			<isbn>0192836021</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Une vie</title>
+			<isbn>0543893790</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Aphrodite</title>
+			<isbn>2070385329</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Mysteries of Paris</title>
+			<isbn>0865274878</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lorelei</title>
+			<isbn>9732102683</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Invitaţia la vals</title>
+			<isbn />
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>La confession d'un enfant du siècle</title>
+			<isbn>0543897788</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

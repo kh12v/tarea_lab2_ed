@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>28547</id>
+	<title>Dragonsinger (Harper Hall, #2)</title>
+	<isbn>0689860072</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Pursuing her dream to be a Harper of Pern, Menolly studies under the Masterharper learning that more is required than a facility with music and a clever way with words.</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>288</num_pages>
+	<similar_books>
+		<book>
+			<title>The People of Pern</title>
+			<isbn>0898656354</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Atlas of Pern</title>
+			<isbn>0345314344</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Dragonlover's Guide to Pern</title>
+			<isbn>0345412745</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Anne McCaffrey's Dragonflight #2</title>
+			<isbn>1560600756</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Magic's Price (Valdemar: Last Herald-Mage #3)</title>
+			<isbn>0886774268</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Forbidden Tower (Darkover, #12)</title>
+			<isbn>0727845896</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Heart's Blood (Pit Dragon Chronicles, #2)</title>
+			<isbn>015205118X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>A Dragon-Lover's Treasury of the Fantastic</title>
+			<isbn>0446670634</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

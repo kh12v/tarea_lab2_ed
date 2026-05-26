@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>18007564</id>
+	<title>The Martian</title>
+	<isbn>0804139024</isbn>
+	<publication_year>2014</publication_year>
+	<language_code>eng</language_code>
+	<description>Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. &lt;br /&gt;&lt;br /&gt;Now, he’s sure he’ll be the first person to die there.&lt;br /&gt;&lt;br /&gt;After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive — and even if he could get word out, his supplies would be gone long before a rescue could arrive. &lt;br /&gt;&lt;br /&gt;Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. &lt;br /&gt;&lt;br /&gt;But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills — and a relentless, dogged refusal to quit — he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?&lt;br /&gt;&lt;br /&gt;</description>
+	<average_rating>4.39</average_rating>
+	<num_pages>369</num_pages>
+	<similar_books>
+		<book>
+			<title>Fuzzy Nation</title>
+			<isbn>0765328542</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>First Shift: Legacy (Shift, #1)</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Abaddon's Gate (The Expanse, #3)</title>
+			<isbn>0316129070</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Great North Road</title>
+			<isbn>034552666X</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Freedom™ (Daemon #2)</title>
+			<isbn>0451231899</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Ancillary Sword (Imperial Radch, #2)</title>
+			<isbn>0316246654</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Love Minus Eighty</title>
+			<isbn>0316217786</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Nexus (Nexus, #1)</title>
+			<isbn>0857662937</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Pushing Ice</title>
+			<isbn>0441014011</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

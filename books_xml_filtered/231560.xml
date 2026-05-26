@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>231560</id>
+	<title>Uncle Vanya</title>
+	<isbn>1406507881</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>Famous play by the Russian short story writer and playwright. His major plays are frequently revived in modern productions.</description>
+	<average_rating>3.84</average_rating>
+	<num_pages>76</num_pages>
+	<similar_books>
+		<book>
+			<title>The Inspector General</title>
+			<isbn>0486285006</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Master Builder</title>
+			<isbn>0486419282</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Mourning Becomes Electra</title>
+			<isbn>185459138X</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Vanya and Sonia and Masha and Spike</title>
+			<isbn>0802122388</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Krapp's Last Tape and Other Dramatic Pieces</title>
+			<isbn>0802151345</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Father</title>
+			<isbn>0486432173</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Little Tragedies</title>
+			<isbn>0300080255</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Lower Depths</title>
+			<isbn>048641115X</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Time Stands Still</title>
+			<isbn>1559363657</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>A Delicate Balance</title>
+			<isbn>0452278090</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Cripple of Inishmaan</title>
+			<isbn>0375705236</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Electra</title>
+			<isbn>0195085760</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Far Away</title>
+			<isbn>1559361999</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Curse of the Starving Class</title>
+			<isbn>0822202611</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Threepenny Opera</title>
+			<isbn>1559702524</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Clean House and Other Plays</title>
+			<isbn>1559362669</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Asya / First Love</title>
+			<isbn>5768402306</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Oleanna</title>
+			<isbn>067974536X</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>95144</id>
+	<title>In the Night Kitchen</title>
+	<isbn>0099417472</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>Sendak's hero Mickey falls through the dark into the Night Kitchen where three fat bakers are making the morning cake. So begins an intoxicating dream fantasy, described by the artist himself as 'a fantasy ten feet deep in reality'.</description>
+	<average_rating>4.06</average_rating>
+	<num_pages>40</num_pages>
+	<similar_books>
+		<book>
+			<title>A Hole is to Dig</title>
+			<isbn>006443205X</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Crictor</title>
+			<isbn>0064430448</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Amazing Bone</title>
+			<isbn>0374403589</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Brundibar</title>
+			<isbn>1844280284</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sector 7</title>
+			<isbn>0395746566</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Madlenka</title>
+			<isbn>0374399697</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>What Do You Say, Dear?</title>
+			<isbn>0064431126</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Garden of Abdul Gasazi</title>
+			<isbn>039527804X</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>The Big Orange Splot</title>
+			<isbn>0590445103</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Goggles!</title>
+			<isbn>0140564403</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Cow Who Fell in the Canal</title>
+			<isbn>0749704977</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Dear Mili</title>
+			<isbn>0060543124</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Alfie Gets in First</title>
+			<isbn>0099256053</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Avocado Baby</title>
+			<isbn>0099200619</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Peter in Blueberry Land</title>
+			<isbn>0863154980</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Harold and the Purple Crayon</title>
+			<isbn>006029129X</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>More More More Said the Baby</title>
+			<isbn>0688147364</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Tar Beach</title>
+			<isbn>0517885441</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

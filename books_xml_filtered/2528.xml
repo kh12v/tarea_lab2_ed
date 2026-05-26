@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>2528</id>
+	<title>All the Names</title>
+	<isbn>0156010593</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>O protagonista é um homem de meia idade, funcionário inferior do Arquivo do Registo Civil. Este funcionário cultiva a pequena mania de coleccionar notícias de jornais e revistas sobre gente célebre. Um dia reconhece a falta, nas suas colecções, de informações exactas sobre o nascimento (data, naturalidade, nome dos pais, etc.) dessas pessoas. Dedica-se portanto a copiar os respectivos dados das fichas que se encontram no arquivo. Casualmente, a ficha de uma pessoa comum (uma mulher) mistura-se com outras que estás copiando. O súbito contraste entre o que é conhecido e o que é desconhecido faz surgir nele a necessidade de conhecer a vida dessa mulher. Começa assim uma busca, a procura do outro.</description>
+	<average_rating>3.88</average_rating>
+	<num_pages>245</num_pages>
+	<similar_books>
+		<book>
+			<title>The Crime of Father Amaro</title>
+			<isbn>0811215326</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Jerusalém (O Reino, #3)</title>
+			<isbn>9722117041</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Implacable Order of Things</title>
+			<isbn>0385524463</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Inquisitors' Manual</title>
+			<isbn>0802140521</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Morgadinha dos Canaviais</title>
+			<isbn>9720042036</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>O Filho de Mil Homens</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>A Queda dum Anjo</title>
+			<isbn>9720042133</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Sonetos</title>
+			<isbn>9721021024</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Balada da Praia dos Cães</title>
+			<isbn>9722007165</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>A Sibila</title>
+			<isbn>9726653134</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Manhã Submersa</title>
+			<isbn>9722502654</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>O que diz Molero</title>
+			<isbn>9722506927</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>O Retorno</title>
+			<isbn>9896710988</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Era Bom Que Trocássemos Umas Ideias Sobre O Assunto</title>
+			<isbn>9722110195</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Para Onde Vão Os Guarda-Chuvas</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+	</similar_books>
+</book>

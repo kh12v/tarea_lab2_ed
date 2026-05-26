@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>87264</id>
+	<title>Memórias Póstumas de Brás Cubas</title>
+	<isbn>0850515025</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>por</language_code>
+	<description>One of the greatest novels of Brazilian Literature, Memorias Postumas de Bras Cubas is narrated by a dead man who recounts the amorous misadventures of his unheroic life and explains his half-hearted political ambitions. While it is considered the first novel of Brazilian realism, its quirks seem refreshingly modern and make it unforgettably unlike anything written before or after it.</description>
+	<average_rating>4.23</average_rating>
+	<num_pages>165</num_pages>
+	<similar_books>
+		<book>
+			<title>Vidas Secas</title>
+			<isbn>8501067342</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Morte e Vida Severina</title>
+			<isbn>8520910629</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sagarana </title>
+			<isbn>9871156642</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>O Triste Fim de Policarpo Quaresma</title>
+			<isbn>085051505X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>O Continente - Volume II</title>
+			<isbn>8535905626</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A rosa do povo</title>
+			<isbn>8501061360</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Capitães da Areia</title>
+			<isbn>8510053065</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Noite na taverna</title>
+			<isbn>8525408646</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>O Cortiço</title>
+			<isbn>8574805793</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Memórias de um Sargento de Milícias</title>
+			<isbn>0850515041</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Auto da Compadecida </title>
+			<isbn>8522002657</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Libertinagem / Estrela da Manhã</title>
+			<isbn>8520917941</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Macunaíma</title>
+			<isbn>0394534123</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Lavoura Arcaica</title>
+			<isbn>8571640335</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Rebellion in the Backlands</title>
+			<isbn>0226124444</isbn>
+			<publication_year>1957</publication_year>
+		</book>
+		<book>
+			<title>O Primo Basílio</title>
+			<isbn>8588916193</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Vestido de Noiva</title>
+			<isbn>8520916198</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Passion According to G.H.</title>
+			<isbn>0816617120</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+	</similar_books>
+</book>

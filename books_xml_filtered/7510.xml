@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>7510</id>
+	<title>The Beach House</title>
+	<isbn>0446612545</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Jack Mullen is a driven student of the law. His brother Peter is a servant of the rich, parking the cars of the Hamptons' elite --- and perhaps satisfying their more intimate needs as well. Then Peter's body is found on the beach. Jack knows the drowning was no accident, but someone's unlimited power and money have bought the cops, the judges, the system. Now Jack is learning a lesson in justice he never got in law school ... and his astonishing plan to beat the billionaires will have you reeling --- and cheering --- to the very last page.</description>
+	<average_rating>3.82</average_rating>
+	<num_pages>356</num_pages>
+	<similar_books>
+		<book>
+			<title>Stalemate (Eve Duncan, #7)</title>
+			<isbn>055380345X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Last Precinct (Kay Scarpetta, #11)</title>
+			<isbn>0751525359</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Dead in the Water (Stone Barrington, #3)</title>
+			<isbn>0061093491</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>No Place Like Home</title>
+			<isbn>0743497287</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Praying for Sleep</title>
+			<isbn>0451203054</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Other Daughter</title>
+			<isbn>0553576798</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Therapy (Alex Delaware, #18)</title>
+			<isbn>0345452607</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Blue Zone</title>
+			<isbn>0061143405</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Face</title>
+			<isbn>0553584480</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Blow Out (FBI Thriller, #9)</title>
+			<isbn>0515139254</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

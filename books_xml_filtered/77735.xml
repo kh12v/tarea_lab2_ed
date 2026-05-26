@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>77735</id>
+	<title>The Honor of the Queen (Honor Harrington, #2)</title>
+	<isbn>0671721720</isbn>
+	<publication_year>2001</publication_year>
+	<language_code />
+	<description>It's hard to give peace a chance when the other side regards war as a prelude to conquest. That's why Manticore needs allies against Haven, and planet Grayson is placed to make a good ally. But the Foreign Office overlooked a cultural difference when they sent Honor Harrington to carry the flag.</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>422</num_pages>
+	<similar_books>
+		<book>
+			<title>Gust Front (Posleen War, #2)</title>
+			<isbn>0743435257</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Deserter (Kris Longknife, #2)</title>
+			<isbn>0441012272</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Command Decision (Vatta's War, #4)</title>
+			<isbn>0345491599</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Far Side of the Stars (Lt. Leary, #3)</title>
+			<isbn>0743488644</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Heart of Valor (Confederation, #3)</title>
+			<isbn>0756404355</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

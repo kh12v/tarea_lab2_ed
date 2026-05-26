@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>900070</id>
+	<title>The Berenstain Bears Go to School</title>
+	<isbn>0394837363</isbn>
+	<publication_year>1978</publication_year>
+	<language_code>en-US</language_code>
+	<description>Illus. in full color. A sympathetic story about Sister Bear, who conquers her fear of starting kindergarten.</description>
+	<average_rating>4.28</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Just Me and My Puppy (Little Critter)</title>
+			<isbn>0307119378</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Clifford The Small Red Puppy</title>
+			<isbn>0439725267</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Franklin Goes to School</title>
+			<isbn>1550744240</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Curious George Flies a Kite</title>
+			<isbn>0395259371</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Arthur's New Puppy (Arthur Adventure Series)</title>
+			<isbn>0316109215</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Curious George Learns the Alphabet</title>
+			<isbn>0395137187</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Trick or Treat, Little Critter (Little Critter)</title>
+			<isbn>0307127915</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears: Sick Days</title>
+			<isbn>0060573929</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>5659</id>
+	<title>The Wind in the Willows</title>
+	<isbn>0143039091</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;One of the most celebrated works of classic literature for children&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Meet little Mole, willful Ratty, Badger the perennial bachelor, and petulant Toad. Over one hundred years since their first appearance in 1908, they've become emblematic archetypes of eccentricity, folly, and friendship. And their misadventures-in gypsy caravans, stolen sports cars, and their Wild Wood-continue to capture readers' imaginations and warm their hearts long after they grow up. Begun as a series of letters from Kenneth Grahame to his son, &lt;i&gt;The Wind in the Willows&lt;/i&gt; is a timeless tale of animal cunning and human camaraderie. This Penguin Classics edition features an appendix of the letters in which Grahame first related the exploits of Toad.</description>
+	<average_rating>3.98</average_rating>
+	<num_pages>256</num_pages>
+	<similar_books>
+		<book>
+			<title>The Mouse and His Child</title>
+			<isbn>0439098262</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>When We Were Very Young (Winnie-the-Pooh, #3)</title>
+			<isbn>0525444459</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Just So Stories</title>
+			<isbn>0517266555</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Tale of Two Bad Mice</title>
+			<isbn>0723247749</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Story of the Treasure Seekers (Bastable Children, #1)</title>
+			<isbn>0140367063</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Borrowers Afield (The Borrowers #2)</title>
+			<isbn>0152047328</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Arabel's Raven (Arabel and Mortimer, #1)</title>
+			<isbn>1903015146</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Willows in Winter (Tales of the Willows, #1)</title>
+			<isbn>0312113544</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Winter Holiday (Swallows and Amazons, #4)</title>
+			<isbn>0879236612</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Moominvalley in November (The Moomins, #9)</title>
+			<isbn>0374453098</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Voyages of Doctor Dolittle (Doctor Dolittle, #2)</title>
+			<isbn>0060776005</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Weirdstone of Brisingamen (Tales of Alderley, #1)</title>
+			<isbn>0152017666</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

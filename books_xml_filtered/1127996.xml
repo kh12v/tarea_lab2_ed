@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>1127996</id>
+	<title>Betty Crocker's Cookbook</title>
+	<isbn>0307098222</isbn>
+	<publication_year>1981</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.25</average_rating>
+	<num_pages>575</num_pages>
+	<similar_books>
+		<book>
+			<title>The Taste of Home Cookbook</title>
+			<isbn>0898214971</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Cake Mix Doctor</title>
+			<isbn>0761117199</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Best Recipes from the Backs of Boxes, Bottles, Cans, and Jars</title>
+			<isbn>0883657376</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>30-Minute Meals 2</title>
+			<isbn>1891105108</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Ultimate Southern Living Cookbook</title>
+			<isbn>084871816X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Fannie Farmer Cookbook: Anniversary</title>
+			<isbn>0679450815</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Top Secret Restaurant Recipes: Creating Kitchen Clones from America's Favorite Restaurant Chains</title>
+			<isbn>0452275873</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Complete Cooking Light Cookbook</title>
+			<isbn>084871945X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Better Homes and Gardens New Cook Book  </title>
+			<isbn>0696215322</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Frugal Gourmet</title>
+			<isbn>0517203650</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Fix-It and Forget-It Cookbook: Feasting with Your Slow Cooker</title>
+			<isbn>1561483397</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Weight Watchers New Complete Cookbook</title>
+			<isbn>0764573500</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The New Best Recipe</title>
+			<isbn />
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Paula Deen &amp; Friends</title>
+			<isbn>0743267222</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The King Arthur Flour Baker's Companion: The All-Purpose Baking Cookbook</title>
+			<isbn>0881505811</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Fix-It and Forget-It Lightly: Healthy, Low-Fat Recipes for Your Slow Cooker</title>
+			<isbn>1561484318</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The King Arthur Flour 200th Anniversary Cookbook: All the joy and variety of baking-the experience and tradition of America's most historic flour company</title>
+			<isbn>0881502472</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Ben &amp; Jerry's Homemade Ice Cream &amp; Dessert Book</title>
+			<isbn>0894803123</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>233691</id>
+	<title>The Far Side Gallery 3</title>
+	<isbn>0836218310</isbn>
+	<publication_year>1988</publication_year>
+	<language_code />
+	<description>The third &lt;i&gt;Far Side&lt;/i&gt; treasury.&lt;br /&gt;&lt;br /&gt;1988 FarWorks, Inc. All Rights Reserved.&lt;br /&gt;&lt;i&gt;The Far Side&lt;/i&gt; and the &lt;i&gt;Larson&lt;/i&gt; signature are registered trademarks of FarWorks, Inc.</description>
+	<average_rating>4.45</average_rating>
+	<num_pages>192</num_pages>
+	<similar_books>
+		<book>
+			<title>'Toons for Our Times: A Bloom County Book of Heavy Meadow Rump 'n Roll</title>
+			<isbn>0316107093</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>It's a Magical World: A Calvin and Hobbes Collection</title>
+			<isbn>0836221362</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Fugitive from the Cubicle Police</title>
+			<isbn>0836221192</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Groovitude: A Get Fuzzy Treasury</title>
+			<isbn>0740728946</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Enormously FoxTrot</title>
+			<isbn>0836217594</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Garfield Gains Weight (Garfield, #2)</title>
+			<isbn>0345320085</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

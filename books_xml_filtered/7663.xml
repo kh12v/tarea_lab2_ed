@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>7663</id>
+	<title>A Case of Need</title>
+	<isbn>0451210638</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>en-US</language_code>
+	<description>Written as Jeffery Hudson in 1968.&lt;br /&gt;&lt;i&gt;A Case of Need&lt;/i&gt; is Michael Crichton's award-winning debut novel, written shortly after he completed his medical internship. Set against the ever-building pressure and pace of a large Boston medical center, the tensions flare-and explode-when a surgical operation tragically ends in death, raising countless questions. Was it accidental malpractice? A violation of the Hippocratic oath? Or cold-blooded murder?</description>
+	<average_rating>3.60</average_rating>
+	<num_pages>416</num_pages>
+	<similar_books>
+		<book>
+			<title>Five Patients</title>
+			<isbn>0345354648</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Recoil</title>
+			<isbn>0316403806</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Binary</title>
+			<isbn>1783291257</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Implant</title>
+			<isbn>0812544706</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

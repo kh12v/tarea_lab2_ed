@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>1031461</id>
+	<title>Stone Soup</title>
+	<isbn>0590416022</isbn>
+	<publication_year>1986</publication_year>
+	<language_code>en-US</language_code>
+	<description>A clever young man tricks an old woman into believing that soup can be made from a stone. As the pot of water boils with the stone in it, he urges her to add more and more ingredients until the soup is a feast "fit for a king".</description>
+	<average_rating>4.28</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Miss Nelson Is Back (Miss Nelson, #2)</title>
+			<isbn>039541668X</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Stone Soup</title>
+			<isbn>0689878362</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Three Billy Goats Gruff</title>
+			<isbn>0899190359</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Little Red Hen (Little Golden Book)</title>
+			<isbn>0307960307</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Madeline's Rescue</title>
+			<isbn>0670447161</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Country Mouse and the City Mouse; The Fox and the Crow; The Dog and His Bone</title>
+			<isbn>0307020754</isbn>
+			<publication_year>1961</publication_year>
+		</book>
+		<book>
+			<title>Just for You (Little Critter)</title>
+			<isbn>030711838X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Real Mother Goose</title>
+			<isbn>0590225170</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Lyle, Lyle, Crocodile</title>
+			<isbn>0395137209</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Mixed-Up Chameleon</title>
+			<isbn>0694011479</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Babar the King</title>
+			<isbn>1405204664</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Johnny Appleseed: A Tall Tale</title>
+			<isbn>0688064175</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Come Back, Amelia Bedelia</title>
+			<isbn>0060266880</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Day Jimmy's Boa Ate the Wash</title>
+			<isbn>0140546235</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Ugly Duckling</title>
+			<isbn>068815932X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Frog and Toad All Year (Frog and Toad, #3)</title>
+			<isbn>0064440591</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Gregory the Terrible Eater</title>
+			<isbn>0590433504</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Saggy Baggy Elephant (A Little Golden Book)</title>
+			<isbn>0307021106</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

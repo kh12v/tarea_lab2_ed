@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>92375</id>
+	<title>Hornet Flight</title>
+	<isbn>0451210743</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>en-US</language_code>
+	<description>Ken Follett follows his bestsellers &lt;i&gt;Jackdaws&lt;/i&gt; and &lt;i&gt;Code to Zero&lt;/i&gt; with an extraordinary novel of early days of World War II...It is June 1941 and the war is not going well for England.  Across the North Sea, eighteen-year-old Harald Olufsen takes a shortcut on the German-occupied Danish island of Sande an discovers an astonishing sight that will change the momentum of the war.  He must get word to England-except that he has no way to get there.  He has only an old derelict Hornet Moth biplane rusting away in a ruined church: a plane so decrepit that it is unlikely ever to get off the ground...even if Harald knew how to fly it.</description>
+	<average_rating>3.83</average_rating>
+	<num_pages>518</num_pages>
+	<similar_books>
+		<book>
+			<title>Flight of Eagles (Dougal Munro and Jack Carter, #3)</title>
+			<isbn>0425169685</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Black Cross</title>
+			<isbn>0451204727</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Double Agents (Men at War, #6)</title>
+			<isbn>0399154205</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Gathering of Spies</title>
+			<isbn>0515131105</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Pacific Glory (World War 2 Navy)</title>
+			<isbn>0312599447</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Kilo Class (Admiral Arnold Morgan, #2)</title>
+			<isbn>0061096857</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Unlikely Spy</title>
+			<isbn>0451209303</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cuba (Jake Grafton #7)</title>
+			<isbn>0312971397</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

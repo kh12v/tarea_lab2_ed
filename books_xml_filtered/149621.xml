@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>149621</id>
+	<title>Ice Station Zebra</title>
+	<isbn>0006161413</isbn>
+	<publication_year>1980</publication_year>
+	<language_code>eng</language_code>
+	<description>A classic thriller from the bestselling master of action and suspense.&lt;br /&gt;&lt;br /&gt;The atomic submarine Dolphin has impossible orders: to sail beneath the ice-floes of the Arctic Ocean to locate and rescue the men of weather-station Zebra, gutted by fire and drifting with the ice-pack somewhere north of the Arctic Circle.&lt;br /&gt;&lt;br /&gt;But the orders do not say what the Dolphin will find if she succeeds – that the fire at Ice Station Zebra was sabotage, and that one of the survivors is a killer…</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>254</num_pages>
+	<similar_books>
+		<book>
+			<title>Running Blind</title>
+			<isbn>1842320165</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Alistair MacLean's Air Force One Is Down</title>
+			<isbn>0449200876</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Firefox (Mitchell Gant, #1)</title>
+			<isbn>0722105673</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Funeral in Berlin</title>
+			<isbn>0007115237</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Rhinemann Exchange</title>
+			<isbn>0752858602</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Agent in Place</title>
+			<isbn>0449208591</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The Dogs of War</title>
+			<isbn>0553268465</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>The Wreck Of The Mary Deare</title>
+			<isbn>0006154018</isbn>
+			<publication_year>1956</publication_year>
+		</book>
+		<book>
+			<title>Night of the Fox (Dougal Munro and Jack Carter #1)</title>
+			<isbn>0671728202</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Alistair MacLean's Red Alert</title>
+			<isbn>0449218961</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+	</similar_books>
+</book>

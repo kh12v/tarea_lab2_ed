@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>15730101</id>
+	<title>The Call of Cthulhu</title>
+	<isbn />
+	<publication_year>2011</publication_year>
+	<language_code>eng</language_code>
+	<description>One of the feature stories of the Cthulhu Mythos, H.P. Lovecraft's 'the Call of Cthulhu' is a harrowing tale of the weakness of the human mind when confronted by powers and intelligences from beyond our world.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>43</num_pages>
+	<similar_books>
+		<book>
+			<title>The Phoenix on the Sword</title>
+			<isbn>1406572152</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Willows</title>
+			<isbn>1587156520</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>H.P. Lovecraft's the Dunwich Horror</title>
+			<isbn>1613771800</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Classics Mutilated</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Taint and Other Novellas</title>
+			<isbn>1596061251</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Shadows over Innsmouth</title>
+			<isbn>0345444078</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Gold Bug</title>
+			<isbn>1843911442</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>الغرفة الحمراء</title>
+			<isbn>9771633945</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Ponies</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Space Eldritch</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Underdwelling</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Monkey's Paw</title>
+			<isbn>1583419195</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Great God Pan</title>
+			<isbn>1871592119</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Trail of Cthulhu</title>
+			<isbn>0786703415</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Veldt </title>
+			<isbn>0886821088</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Rain Dancers</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Horrorscape (Horrorscape, #2)</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+	</similar_books>
+</book>

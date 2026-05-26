@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>5805</id>
+	<title>V for Vendetta</title>
+	<isbn>1401207928</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;"Remember, remember the fifth of November..."&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;A frightening and powerful tale of the loss of freedom and identity in a chillingly believable totalitarian world, &lt;i&gt;V for Vendetta&lt;/i&gt; stands as one of the highest achievements of the comics medium and a defining work for creators Alan Moore and David Lloyd.&lt;br /&gt;&lt;br /&gt;Set in an imagined future England that has given itself over to fascism, this groundbreaking story captures both the suffocating nature of life in an authoritarian police state and the redemptive power of the human spirit which rebels against it. Crafted with sterling clarity and intelligence, &lt;i&gt;V for Vendetta&lt;/i&gt; brings an unequaled depth of characterization and verisimilitude to its unflinching account of oppression and resistance.</description>
+	<average_rating>4.25</average_rating>
+	<num_pages>296</num_pages>
+	<similar_books>
+		<book>
+			<title>Transmetropolitan, Vol. 4: The New Scum (Transmetropolitan, #4)</title>
+			<isbn>1563896273</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Sin City, Vol. 6: Booze, Broads, and Bullets (Sin City, #6)</title>
+			<isbn>1593072988</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Invisibles, Vol. 5: Counting to None</title>
+			<isbn>1563894890</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Y: The Last Man, Vol. 7: Paper Dolls (Y: The Last Man, #7)</title>
+			<isbn>1401210090</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A Game of You (The Sandman #5)</title>
+			<isbn>1563890933</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Preacher, Volume 5: Dixie Fried</title>
+			<isbn>1563894289</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hellboy, Vol. 6: Strange Places (Hellboy, #6)</title>
+			<isbn>1593074751</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

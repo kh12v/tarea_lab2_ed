@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>13642</id>
+	<title>A Wizard of Earthsea (Earthsea Cycle, #1)</title>
+	<isbn>0553383043</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>Ged, the greatest sorcerer in all Earthsea, was called Sparrowhawk in his reckless youth. &lt;br /&gt;&lt;br /&gt;Hungry for power and knowledge, Sparrowhawk tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tale of his testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death's threshold to restore the balance.</description>
+	<average_rating>3.99</average_rating>
+	<num_pages>183</num_pages>
+	<similar_books>
+		<book>
+			<title>The Riddle-Master of Hed (Riddle-Master, #1)</title>
+			<isbn>0345331044</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>The Chronicles of Chrestomanci, Vol. 1 (Chrestomanci, #1-2)</title>
+			<isbn>006447268X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Broken Sword</title>
+			<isbn>0575074256</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Curse of Chalion (World of the Five Gods, #1)</title>
+			<isbn>0007133618</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Elric of Melniboné (Elric, #1)</title>
+			<isbn>0441203981</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Bridge of Birds (The Chronicles of Master Li and Number Ten Ox, #1)</title>
+			<isbn>0345321383</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The Guns of Avalon (The Chronicles of Amber #2)</title>
+			<isbn>0380000830</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Etched City</title>
+			<isbn>0553382918</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Lavondyss (Mythago Wood, #2)</title>
+			<isbn>0765307316</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Song for Arbonne</title>
+			<isbn>0451458974</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Swords and Deviltry (Fafhrd and the Gray Mouser, #1)</title>
+			<isbn>1595820795</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>In the Night Garden (The Orphan's Tales, #1)</title>
+			<isbn>0553384031</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

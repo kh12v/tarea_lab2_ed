@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>138395</id>
+	<title>The Walking Dead, Vol. 06: This Sorrowful Life</title>
+	<isbn>1582406847</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>Trapped in a town surrounded by madmen, Rick must find a way out or die trying. Meanwhile, back at the prison, the rest of the survivors come to grips with the fact Rick may be dead, and a major turning point in the series is reached. Collects issues #31-#36.</description>
+	<average_rating>4.32</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Y: The Last Man, Vol. 6: Girl on Girl (Y: The Last Man, #6)</title>
+			<isbn>1401205011</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Chew, Vol. 4: Flambé</title>
+			<isbn>1607063980</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Locke &amp; Key, Vol. 3: Crown of Shadows</title>
+			<isbn>1600106951</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Revival, Vol. 3: A Faraway Place</title>
+			<isbn>1607068605</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Fables, Vol. 9: Sons of Empire</title>
+			<isbn>1401213162</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>DMZ, Vol. 4: Friendly Fire</title>
+			<isbn>1401216625</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>American Vampire, Vol. 4</title>
+			<isbn>1401237185</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

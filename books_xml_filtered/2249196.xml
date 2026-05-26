@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>2249196</id>
+	<title>All-Star Superman, Vol. 2</title>
+	<isbn>1401218377</isbn>
+	<publication_year>2009</publication_year>
+	<language_code>eng</language_code>
+	<description>In this follow-up to the award-winning All-Star Superman, the Man of Steel goes toe-to-toe with Bizarro, his oddball twin, and the new character Zibarro, also from the Bizarro planet.</description>
+	<average_rating>4.33</average_rating>
+	<num_pages>154</num_pages>
+	<similar_books>
+		<book>
+			<title>Superman for All Seasons</title>
+			<isbn>1563895285</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>DC: The New Frontier, Volume 2</title>
+			<isbn>1401204619</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Green Lantern, Volume 4: The Sinestro Corps War, Volume 1</title>
+			<isbn>1401216501</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Superman: Birthright</title>
+			<isbn>1401202527</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Superman: Secret Identity</title>
+			<isbn>1401204511</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Superman: Whatever Happened to the Man of Tomorrow?</title>
+			<isbn>1401223478</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Planetary, Volume 3: Leaving the 20th Century</title>
+			<isbn>1401202942</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Blue Beetle, Vol. 2: Road Trip </title>
+			<isbn>1401213618</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Starman Omnibus, Vol. 1</title>
+			<isbn>1401216994</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>68378</id>
+	<title>Dragons of Spring Dawning (Dragonlance: Chronicles, #3)</title>
+	<isbn>0786930705</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Finally armed with dragonlances, a group of heroes, composed of a knight, barbarian, dwarf, and half-elf, faces a deadly showdown with the evil dragons and Takhisis, the Queen of Darkness.</description>
+	<average_rating>4.12</average_rating>
+	<num_pages>352</num_pages>
+	<similar_books>
+		<book>
+			<title>Firstborn (Dragonlance:  Elven Nations, #1)</title>
+			<isbn>0786933674</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Kinslayer Wars (Dragonlance: Elven Nations, #2)</title>
+			<isbn>0786933704</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Legend of Huma (Dragonlance: Heroes, #1)</title>
+			<isbn>078693137X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Flint the King (Dragonlance: Preludes, #5; Preludes II, #2)</title>
+			<isbn>0786930217</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Stormblade (Dragonlance: Heroes, #2)</title>
+			<isbn>0786931493</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Companions (Dragonlance: Meetings Sextet, #6)</title>
+			<isbn>156076340X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Steel and Stone (Dragonlance: Meetings Sextet, #5)</title>
+			<isbn>1560763396</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Brothers Majere (Dragonlance: Preludes, #3)</title>
+			<isbn>0786929715</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Galen Beknighted (Dragonlance: Heroes, #6, Heroes II, #3)</title>
+			<isbn />
+			<publication_year>1990</publication_year>
+		</book>
+	</similar_books>
+</book>

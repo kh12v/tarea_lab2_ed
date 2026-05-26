@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>656</id>
+	<title>War and Peace</title>
+	<isbn>0192833987</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>Tolstoy's epic masterpiece intertwines the lives of private and public individuals during the time of the Napoleonic wars and the French invasion of Russia. The fortunes of the Rostovs and the Bolkonskys, of Pierre, Natasha, and Andrei, are intimately connected with the national history that is played out in parallel with their lives. Balls and soirees alternate with councils of war and the machinations of statesmen and generals, scenes of violent battles with everyday human passions in a work whose extraordinary imaginative power has never been surpassed. &lt;br /&gt;&lt;br /&gt;The prodigious cast of characters, seem to act and move as if connected by threads of destiny as the novel relentlessly questions ideas of free will, fate, and providence. Yet Tolstoy's portrayal of marital relations and scenes of domesticity is as truthful and poignant as the grand themes that underlie them.</description>
+	<average_rating>4.11</average_rating>
+	<num_pages>1392</num_pages>
+	<similar_books>
+		<book>
+			<title>Eugene Onegin</title>
+			<isbn>0192838997</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Life and Fate</title>
+			<isbn>0099506165</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Demons</title>
+			<isbn>0679734511</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Rudin</title>
+			<isbn>1426450427</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Petersburg</title>
+			<isbn>0253202191</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>A Hero of Our Time</title>
+			<isbn>014044176X</isbn>
+			<publication_year>1966</publication_year>
+		</book>
+		<book>
+			<title>The Collected Tales of Nikolai Gogol</title>
+			<isbn>0375706151</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Red and the Black</title>
+			<isbn>0140447644</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Oblomov</title>
+			<isbn>1933480092</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Our Mutual Friend</title>
+			<isbn>0375761144</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Ulysses</title>
+			<isbn>0679722769</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Gargantua and Pantagruel</title>
+			<isbn>0140445501</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The History of Tom Jones, a Foundling</title>
+			<isbn>0140436227</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Buddenbrooks: The Decline of a Family</title>
+			<isbn>0679417370</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Enchanted Wanderer: Selected Tales</title>
+			<isbn>0812966961</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

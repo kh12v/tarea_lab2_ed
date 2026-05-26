@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>12009</id>
+	<title>The Algebraist</title>
+	<isbn>1597800449</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>It is 4034. Humanity has made it to the stars. Fassin Taak, a Slow Seer at the Court of the Nasqueron Dwellers, will be fortunate if he makes it to the end of the year. The Nasqueron Dwellers inhabit a gas giant on the outskirts of the galaxy, in a system awaiting its wormhole connection to the rest of civilization. In the meantime, they are dismissed as decadents living in a state of highly developed barbarism, hoarding data without order, hunting their own young &amp;amp; fighting pointless formal wars. Seconded to a military-religious order he's barely heard of—part of the baroque hierarchy of the Mercatoria, the latest galactic hegemony— Taak has to travel again amongst the Dwellers. He is in search of a secret hidden for half a billion years. But with each day that passes a war draws closer—a war threatening to overwhelm everything &amp;amp; everyone he's ever known.</description>
+	<average_rating>3.99</average_rating>
+	<num_pages>434</num_pages>
+	<similar_books>
+		<book>
+			<title>Diamond Dogs, Turquoise Days</title>
+			<isbn>0575075163</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Iron Sunrise (Eschaton, #2)</title>
+			<isbn>1841493368</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>A Second Chance at Eden</title>
+			<isbn>0330351826</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Learning the World: A Scientific Romance</title>
+			<isbn>0765351773</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Polity Agent (Agent Cormac, #4)</title>
+			<isbn>0330441523</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

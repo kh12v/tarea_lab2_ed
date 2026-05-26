@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>62111</id>
+	<title>The Swiss Family Robinson  </title>
+	<isbn>1402726023</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>Shipwrecked passengers on a deserted island: how will they survive? After their ship founders at sea, the Robinsons—father, mother, and four sons—find themselves stranded in an uninhabited, idyllic land. Young readers will enjoy watching them handle every crisis with cleverness and skill.</description>
+	<average_rating>3.92</average_rating>
+	<num_pages>352</num_pages>
+	<similar_books>
+		<book>
+			<title>Seek: Reports from the Edges of America and Beyond</title>
+			<isbn>0060930470</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Young Man's Guide</title>
+			<isbn>1437806813</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Boy Scouts of America : The Official Handbook for Boys (Reprint of Original 1911 Edition)</title>
+			<isbn>1557094411</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Book of Deeds of Arms and of Chivalry</title>
+			<isbn>027101881X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Strenuous Life</title>
+			<isbn>1557091420</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>The Coral Island</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>American Boys Handy Book</title>
+			<isbn>0879234490</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Merry Adventures of Robin Hood</title>
+			<isbn>1595406557</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Essential Manners for Men: What to Do, When to Do It, and Why</title>
+			<isbn>0060539801</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Captains Courageous</title>
+			<isbn>0543895882</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Crisis</title>
+			<isbn>1426418361</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Frontier in American History</title>
+			<isbn>0486291677</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Kidnapped (David Balfour, #1)</title>
+			<isbn>0439295785</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Hans Brinker, or the Silver Skates</title>
+			<isbn>1596056665</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Story of Doctor Dolittle (Doctor Dolittle, #1)</title>
+			<isbn>0060775971</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Tales from Shakespeare</title>
+			<isbn>0140621598</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Toby Tyler, or Ten Weeks with a Circus</title>
+			<isbn>0486293491</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Lassie Come-Home</title>
+			<isbn>0805072063</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

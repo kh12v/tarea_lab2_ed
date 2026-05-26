@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>11570</id>
+	<title>Dreamcatcher</title>
+	<isbn>2226131906</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>fre</language_code>
+	<description>Au cœur de la forêt de Derry, quatre amis d'enfance, unis pour le meilleur et pour le pire, confrontés à un phénomène terrifiant qu'ils ne risquent pas d'oublier... Stephen King, au sommet de son talent, cerne au plus profond de l'inconscient collectif les peurs de notre temps. Dans la lignée de &lt;i&gt;Ça&lt;/i&gt; et d'&lt;i&gt;Insomnie&lt;/i&gt;, un très grand King.</description>
+	<average_rating>3.59</average_rating>
+	<num_pages>688</num_pages>
+	<similar_books>
+		<book>
+			<title>The Regulators</title>
+			<isbn>0451191013</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Girl Who Loved Tom Gordon: A Pop-up Book</title>
+			<isbn>0689862725</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Hideaway</title>
+			<isbn>0425203891</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Inhuman Condition (Books of Blood, #4)</title>
+			<isbn>0743417348</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shattered</title>
+			<isbn>0425099334</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Necroscope: The Lost Years Volume I (Necroscope, #9)</title>
+			<isbn>0812553632</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

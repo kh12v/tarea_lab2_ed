@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>6662883</id>
+	<title>Oz: The Wonderful Wizard of Oz</title>
+	<isbn>0785129219</isbn>
+	<publication_year>2009</publication_year>
+	<language_code>eng</language_code>
+	<description>When Kansas farm girl Dorothy flies away to the magical Land of Oz, she fatally flattens a wicked witch, liberates a living scarecrow and is hailed by the Munchkin people as a great sorceress but all she really wants to know is: how does she get home?</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>216</num_pages>
+	<similar_books>
+		<book>
+			<title>Wonderland</title>
+			<isbn>142310451X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Stuff of Legend, Book 1: The Dark (The Stuff of Legend, #1)</title>
+			<isbn>0345521005</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Humming Room</title>
+			<isbn>0312644388</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Mouse Guard: Winter 1152 (Mouse Guard, #2)</title>
+			<isbn>1932386742</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Tiny Titans, Volume 1: Welcome to the Treehouse</title>
+			<isbn>1401220789</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Bayou, Vol. 1</title>
+			<isbn>1401223826</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Korgi, Book 2: The Cosmic Collector</title>
+			<isbn>160309010X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Sign of the Black Rock (Three Thieves, #2)</title>
+			<isbn>155453416X</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Secret of the Stone Frog: A TOON Graphic</title>
+			<isbn>1935179187</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Monster on the Hill</title>
+			<isbn>1603090754</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Rutabaga the Adventure Chef (Adventure Chef #1)</title>
+			<isbn>1419713809</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Owly, Vol. 2: Just a Little Blue (Owly, #2)</title>
+			<isbn>1891830643</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Dragons Beware! (Chronicles of Claudette, #2)</title>
+			<isbn>1596438789</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>The Return of Zita the Spacegirl (Zita the Spacegirl, #3)</title>
+			<isbn>1596438762</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Herobear and the Kid Volume 1: The Inheritance</title>
+			<isbn>0972125914</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Hilda and the Bird Parade</title>
+			<isbn>1909263060</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Cow Boy: A Boy and His Horse</title>
+			<isbn>1936393670</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Flight, Vol. 5 (Flight, #5)</title>
+			<isbn>0345505891</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

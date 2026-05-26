@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>205476</id>
+	<title>Our Town</title>
+	<isbn>0060512636</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>&lt;em&gt;Our Town&lt;/em&gt; was first produced and published in 1938 to wide acclaim. This Pulitzer Prize-winning drama of life in the small village of Grover's Corners, an allegorical representation of all life, has become a classic. It is Thornton Wilder's most renowned and most frequently performed play.</description>
+	<average_rating>3.63</average_rating>
+	<num_pages>181</num_pages>
+	<similar_books>
+		<book>
+			<title>Three Tall Women</title>
+			<isbn>0452274001</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>I Am My Own Wife</title>
+			<isbn>0571211747</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Clean House</title>
+			<isbn>0573633983</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>You Can't Take it With You</title>
+			<isbn>0822212870</isbn>
+			<publication_year>1937</publication_year>
+		</book>
+		<book>
+			<title>Anna Christie</title>
+			<isbn>1420927981</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Kentucky Cycle</title>
+			<isbn>0822213095</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dinner With Friends</title>
+			<isbn>1559361948</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Piano Lesson</title>
+			<isbn>0452265347</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>'night, Mother</title>
+			<isbn>0822208210</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Talley's Folly</title>
+			<isbn>0374521573</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Assassins</title>
+			<isbn>1559360380</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Topdog/Underdog</title>
+			<isbn>1559362014</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Clybourne Park</title>
+			<isbn>184842132X</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Ruined</title>
+			<isbn>155936355X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Stop Kiss</title>
+			<isbn>0879517379</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Brighton Beach Memoirs</title>
+			<isbn>0452275288</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Homebody/Kabul</title>
+			<isbn>1559362391</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>24800</id>
+	<title>House of Leaves</title>
+	<isbn>038560310X</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>A blind old man, a young apprentice working in a tattoo shop, and a mad woman haunting an Ohio institute narrate this story of a family that encounters an endlessly shifting series of hallways in their new home, eventually coming face to face with the awful darkness lying at its heart.</description>
+	<average_rating>4.13</average_rating>
+	<num_pages>705</num_pages>
+	<similar_books>
+		<book>
+			<title>The Raw Shark Texts</title>
+			<isbn>1841959111</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Red Tree</title>
+			<isbn>0451462769</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Cipher</title>
+			<isbn>0440207827</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Pilo Family Circus</title>
+			<isbn>0980226023</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>S.</title>
+			<isbn>0316201642</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Croning</title>
+			<isbn>1597802301</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Instructions</title>
+			<isbn>1934781827</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Cold Hand in Mine: Strange Stories</title>
+			<isbn>0899684165</isbn>
+			<publication_year>1975</publication_year>
+		</book>
+		<book>
+			<title>Drawing Blood</title>
+			<isbn>0440214920</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Dhalgren</title>
+			<isbn>0375706682</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>A Choir of Ill Children</title>
+			<isbn>0553587196</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>One Bloody Thing After Another</title>
+			<isbn>1550229168</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Little, Big</title>
+			<isbn>0061120057</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Naomi's Room</title>
+			<isbn>0061004138</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Bleeding Season</title>
+			<isbn>1929653778</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Let's Go Play At The Adams'</title>
+			<isbn>0553141392</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Celestial Harmonies</title>
+			<isbn>0060501049</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Unfortunates</title>
+			<isbn>0330353292</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

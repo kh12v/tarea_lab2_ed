@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>2371</id>
+	<title>The Johnstown Flood</title>
+	<isbn>0844662925</isbn>
+	<publication_year>1990</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.11</average_rating>
+	<num_pages>302</num_pages>
+	<similar_books>
+		<book>
+			<title>A Crack in the Edge of the World</title>
+			<isbn>0060572000</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Circus Fire: A True Story of an American Tragedy</title>
+			<isbn>0385496850</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Firestorm at Peshtigo: A Town, Its People, and the Deadliest Fire in American History</title>
+			<isbn>0805072934</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Ship Ablaze: The Tragedy of the Steamboat General Slocum</title>
+			<isbn>0767909062</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Sudden Sea: The Great Hurricane of 1938</title>
+			<isbn>0316832111</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Triangle: The Fire That Changed America</title>
+			<isbn>080214151X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Under a Flaming Sky: The Great Hinckley Firestorm of 1894</title>
+			<isbn>006123625X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Rising Tide: The Great Mississippi Flood of 1927 and How It Changed America</title>
+			<isbn>0684840022</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dark Tide: The Great Boston Molasses Flood of 1919</title>
+			<isbn>0807050210</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Children's Blizzard</title>
+			<isbn>0060520760</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Curse of the Narrows: The Halifax Explosion 1917</title>
+			<isbn>0002007878</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Nothing Like It in the World: The Men Who Built the Transcontinental Railroad 1863-69</title>
+			<isbn>0743203178</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History</title>
+			<isbn>0375708278</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>To Sleep with the Angels: The Story of a Fire</title>
+			<isbn>156663217X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Killer Colt: Murder, Disgrace, and the Making of an American Legend</title>
+			<isbn>0345476816</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Sinking of the Eastland</title>
+			<isbn>0806526289</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The White Cascade: The Great Northern Railway Disaster and America's Deadliest Avalanche</title>
+			<isbn>0805077057</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>American Passage: The History of Ellis Island</title>
+			<isbn>0060742739</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

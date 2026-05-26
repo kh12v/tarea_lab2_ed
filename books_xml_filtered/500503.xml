@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>500503</id>
+	<title>Sailor Moon, #1 (Sailor Moon, #1)</title>
+	<isbn>189221301X</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>One of the most-beloved of all Japanese manga titles, Naoko Takeuchi's Sailor Moon has enthralled millions of readers worldwide since its debut in book form in early 1992. When Usagi Tsukino adopts a stray cat, she gets more than she bargains for The talking cat, Luna, informs Usagi that she is actually Sailor Moon, a magical princess from the future and protector of the Solar System. With the help of her new friends, the Sailor Scouts, and the mysterious Tuxedo Mask, Sailor Moon embarks on a quest to save us all from the evil powers of the Negaverse.</description>
+	<average_rating>4.29</average_rating>
+	<num_pages>200</num_pages>
+	<similar_books>
+		<book>
+			<title>Cardcaptor Sakura, Vol. 1 (Cardcaptor Sakura, #1)</title>
+			<isbn>1591828783</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Alice 19th, Vol. 1 (Alice 19th, #1)</title>
+			<isbn>1591162157</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Kamikaze Kaito Jeanne, Vol. 1</title>
+			<isbn>1401205550</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Paradise Kiss, Vol. 3 (Paradise Kiss, #3)</title>
+			<isbn>1591820537</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

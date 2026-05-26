@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>92160</id>
+	<title>London</title>
+	<isbn>0345455681</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>en-US</language_code>
+	<description>Now in a handsome new trade paperback edition, here is Edward Rutherfurd's classic novel of London, a glorious pageant spanning two thousand years. He brings this vibrant city's long and noble history alive through the ever-shifting fortunes, fates, and intrigues of half-a-dozen families, from the age of Julius Caesar to the twentieth century. &lt;br /&gt;Generation after generation, these families embody the passion, struggle, wealth, and verve of the greatest city in the world.</description>
+	<average_rating>4.06</average_rating>
+	<num_pages>1152</num_pages>
+	<similar_books>
+		<book>
+			<title>Time and Chance (Henry II &amp; Eleanor of Aquitaine, #2)</title>
+			<isbn>0345396723</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Caesar's Women (Masters of Rome, #4)</title>
+			<isbn>0380710846</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Poland</title>
+			<isbn>0449205878</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Mary Queen of Scotland and The Isles</title>
+			<isbn>0312155859</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Greatest Knight (William Marshal, #2)</title>
+			<isbn>0751536601</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Roma (Roma, #1)</title>
+			<isbn>0312328311</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Warriors (Kent Family Chronicles, #6)</title>
+			<isbn>0451213815</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Lady Macbeth</title>
+			<isbn>0307341747</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>City of Dreams: A Novel of Nieuw Amsterdam and Early Manhattan (Old New York, #1)</title>
+			<isbn>0684871734</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Great Stink</title>
+			<isbn>0156030888</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>51496</id>
+	<title>The Strange Case of Dr. Jekyll and Mr. Hyde</title>
+	<isbn>0451528956</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>In this harrowing tale of good and evil, the mild-mannered Dr. Jekyll develops a potion that unleashes his secret, inner persona—the loathsome, twisted Mr. Hyde.</description>
+	<average_rating>3.79</average_rating>
+	<num_pages>144</num_pages>
+	<similar_books>
+		<book>
+			<title>The Private Memoirs and Confessions of a Justified Sinner</title>
+			<isbn>0192835904</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>In a Glass Darkly</title>
+			<isbn>0192839470</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Old Curiosity Shop</title>
+			<isbn>0140437428</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Castle of Otranto</title>
+			<isbn>0192834401</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Lady Audley's Secret</title>
+			<isbn>0192835203</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Vampyre; A Tale</title>
+			<isbn>1846372828</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Melmoth the Wanderer</title>
+			<isbn>014044761X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Fall of the House of Usher</title>
+			<isbn>1594561796</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Wendigo</title>
+			<isbn>1406905925</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Nightmare Abbey </title>
+			<isbn>155111416X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Moonstone</title>
+			<isbn>0375757856</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Quattrocento</title>
+			<isbn>0385721307</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Island of Dr. Moreau</title>
+			<isbn>0553214322</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Lisa and David</title>
+			<isbn>0020535708</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>News from Nowhere</title>
+			<isbn>0192801775</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>A Modest Proposal and Other Satirical Works</title>
+			<isbn>0486287599</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Poison Belt (Professor Challenger, #2)</title>
+			<isbn>0803266340</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Diary of a Nobody</title>
+			<isbn>0192833278</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

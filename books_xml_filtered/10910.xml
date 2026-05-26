@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>10910</id>
+	<title>Mercy</title>
+	<isbn>0743422449</isbn>
+	<publication_year />
+	<language_code>en-GB</language_code>
+	<description />
+	<average_rating>3.57</average_rating>
+	<num_pages>400</num_pages>
+	<similar_books>
+		<book>
+			<title>Novels by Jodi Picoult</title>
+			<isbn>115524057X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>If You Believe</title>
+			<isbn>0345467108</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Woman Next Door</title>
+			<isbn>0743411250</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Deep Blue Sea for Beginners (Newport, Rhode Island, #2)</title>
+			<isbn>0553805142</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>A Theory of Relativity</title>
+			<isbn>0007139853</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Marshmallows for Breakfast</title>
+			<isbn>075153708X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Kiss River (Kiss River #2)</title>
+			<isbn>0778320022</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Woman in Red</title>
+			<isbn>1593154445</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Happiness Sold Separately</title>
+			<isbn>0446533068</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Art of Saying Goodbye</title>
+			<isbn>0062033689</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Crazy in Love</title>
+			<isbn>0340937041</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Eden Close</title>
+			<isbn>0156031337</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Coming Back to Me</title>
+			<isbn>0312305540</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

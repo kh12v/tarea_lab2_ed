@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>11991</id>
+	<title>The Fall</title>
+	<isbn>0679720227</isbn>
+	<publication_year>1991</publication_year>
+	<language_code>eng</language_code>
+	<description>Elegantly styled, Camus' profoundly disturbing novel of a Parisian lawyer's confessions is a searing study of modern amorality.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>147</num_pages>
+	<similar_books>
+		<book>
+			<title>The Wall</title>
+			<isbn>184391400X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Mandarins</title>
+			<isbn>0007203942</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Strait is the Gate</title>
+			<isbn>159569062X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Death on the Installment Plan</title>
+			<isbn>0811200175</isbn>
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>Albert Camus: A Life</title>
+			<isbn>0786707399</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Either/Or: A Fragment of Life</title>
+			<isbn>0140445773</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Holy Terrors</title>
+			<isbn>0811200213</isbn>
+			<publication_year>1966</publication_year>
+		</book>
+		<book>
+			<title>Malone Dies</title>
+			<isbn>0802151175</isbn>
+			<publication_year>1956</publication_year>
+		</book>
+		<book>
+			<title>The Gods Will Have Blood</title>
+			<isbn>0140184570</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Sodom and Gomorrah (In Search of Lost Time, #4)</title>
+			<isbn>0143039318</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Man's Fate</title>
+			<isbn>0679725741</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+	</similar_books>
+</book>

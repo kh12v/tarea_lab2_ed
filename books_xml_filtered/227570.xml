@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>227570</id>
+	<title>Lady Cottington's Pressed Fairy Book</title>
+	<isbn>1857933362</isbn>
+	<publication_year>1994</publication_year>
+	<language_code>eng</language_code>
+	<description>This is a reproduction of the diary of Lady Angelica Cottingham, which features pressed garden fairies. Or rather the psychic images of the fairies, who quickly turned it into a game, where they leapt between the closing pages in an effort to outdo each other to produce the most outrageous poses.</description>
+	<average_rating>3.99</average_rating>
+	<num_pages>64</num_pages>
+	<similar_books>
+		<book>
+			<title>Lady Cottington's Pressed Fairy Letters</title>
+			<isbn>0810957884</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Gnomes</title>
+			<isbn>0810909650</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Art of Faery</title>
+			<isbn>1843400952</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>A Midsummer Night's Faery Tale</title>
+			<isbn>0684855593</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Fairyopolis: A Flower Fairies Journal</title>
+			<isbn>0723257248</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Fairies: Photographic Evidence of the Existence of Another World</title>
+			<isbn>0060282347</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Winter Child</title>
+			<isbn>0743202341</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Great Encyclopedia Of Faeries</title>
+			<isbn>0684869578</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>How to Draw and Paint Fairies: From Finding Inspiration to Capturing Diaphanous Detail, a Step-By-Step Guide to Fairy Art</title>
+			<isbn>0823023834</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Art of Amy Brown</title>
+			<isbn>0974461229</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Subversive Beauty</title>
+			<isbn>1932413448</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Amphigorey Also (Amphigorey, #3)</title>
+			<isbn>0156056720</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

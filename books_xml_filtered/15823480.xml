@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>15823480</id>
+	<title>Anna Karenina</title>
+	<isbn>0345803922</isbn>
+	<publication_year>2012</publication_year>
+	<language_code>eng</language_code>
+	<description>Leo Tolstoy’s classic story of doomed love is one of the most admired novels in world literature. Generations of readers have been enthralled by his magnificent heroine, the unhappily married Anna Karenina, and her tragic affair with dashing Count Vronsky.&lt;br /&gt;&lt;br /&gt;In their world frivolous liaisons are commonplace, but Anna and Vronsky’s consuming passion makes them a target for scorn and leads to Anna’s increasing isolation. The heartbreaking trajectory of their relationship contrasts sharply with the colorful swirl of friends and family members who surround them, especially the newlyweds Kitty and Levin, who forge a touching bond as they struggle to make a life together. &lt;i&gt;Anna Karenina&lt;/i&gt; is a masterpiece not only because of the unforgettable woman at its core and the stark drama of her fate, but also because it explores and illuminates the deepest questions about how to live a fulfilled life.&lt;br /&gt; &lt;br /&gt;Translated by Louise and Aylmer Maude&lt;br /&gt; </description>
+	<average_rating>4.02</average_rating>
+	<num_pages>964</num_pages>
+	<similar_books>
+		<book>
+			<title>Middlemarch</title>
+			<isbn>0451529170</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Notes from Underground</title>
+			<isbn>067973452X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Our Mutual Friend</title>
+			<isbn>0375761144</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Sketches from a Hunter's Album</title>
+			<isbn>0140445226</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Finnegans Wake</title>
+			<isbn>0571217354</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Swann's Way (In Search of Lost Time, #1)</title>
+			<isbn>0142437964</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Eugene Onegin</title>
+			<isbn>0192838997</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Ada, or Ardor: A Family Chronicle</title>
+			<isbn>0679725229</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Charterhouse of Parma</title>
+			<isbn>0679783180</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Cousin Bette</title>
+			<isbn>0375759077</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Selected Stories</title>
+			<isbn>0553381008</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Buddenbrooks: The Decline of a Family</title>
+			<isbn>0679417370</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

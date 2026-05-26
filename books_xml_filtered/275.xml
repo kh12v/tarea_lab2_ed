@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>275</id>
+	<title>The Lover</title>
+	<isbn>0375700528</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Set in the prewar Indochina of Marguerite Duras’s childhood, this is the haunting tale of a tumultuous affair between an adolescent French girl and her Chinese lover. In spare yet luminous prose, Duras evokes life on the margins of Saigon in the waning days of France’s colonial empire, and its representation in the passionate relationship between two unforgettable outcasts.</description>
+	<average_rating>3.76</average_rating>
+	<num_pages>117</num_pages>
+	<similar_books>
+		<book>
+			<title>The Devil in the Flesh</title>
+			<isbn>0714534021</isbn>
+			<publication_year>1968</publication_year>
+		</book>
+		<book>
+			<title>Simple Passion</title>
+			<isbn>1583225749</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Cheri and The Last of Cheri</title>
+			<isbn>0374528012</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>L'Abbé C</title>
+			<isbn>071452848X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Jealousy</title>
+			<isbn>0714503118</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>W, or the Memory of Childhood</title>
+			<isbn>1567921582</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Enfance</title>
+			<isbn />
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Strait is the Gate</title>
+			<isbn>159569062X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Manon des Sources (L'eau des collines, #2)</title>
+			<isbn>287706512X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Henry and June: From "A Journal of Love"--The Unexpurgated Diary of Anaïs Nin (1931-1932)</title>
+			<isbn>015640057X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Flanders Road</title>
+			<isbn>0714539945</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Thomas the Obscure</title>
+			<isbn>0882680765</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>La Prisonnière (À la recherche du temps perdu, #5)</title>
+			<isbn>2070381773</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>La confession d'un enfant du siècle</title>
+			<isbn>0543897788</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Blue Flowers</title>
+			<isbn>0811209458</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Bonjour tristesse</title>
+			<isbn>2266127748</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Holy Terrors</title>
+			<isbn>0811200213</isbn>
+			<publication_year>1966</publication_year>
+		</book>
+	</similar_books>
+</book>

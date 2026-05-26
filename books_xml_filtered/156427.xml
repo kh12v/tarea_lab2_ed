@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>156427</id>
+	<title>Psycho</title>
+	<isbn>0747545251</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>It was a dark and stormy night when Mary Crane glimpsed the unlit neon sign announcing the vacancy at the Bates motel. Exhausted, lost, and at the end of her rope, she was eager for a hot shower and a bed for the night. Her room was musty but clean and the plumbing worked. Norman Bates, the manager, seemed nice, if a little odd.</description>
+	<average_rating>4.09</average_rating>
+	<num_pages>208</num_pages>
+	<similar_books>
+		<book>
+			<title>The Omen</title>
+			<isbn>0451219422</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Bad Seed</title>
+			<isbn>0060795484</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>A Stir of Echoes</title>
+			<isbn>0765308711</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ring (Ring, #1)</title>
+			<isbn>1932234411</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Burnt Offerings</title>
+			<isbn>0440009286</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>The Face That Must Die</title>
+			<isbn>1933618027</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Invasion of the Body Snatchers</title>
+			<isbn>0684852586</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Falling Angel</title>
+			<isbn>1933618086</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Halloween</title>
+			<isbn>0553132261</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Damien: Omen II</title>
+			<isbn>0451119908</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Cape Fear</title>
+			<isbn />
+			<publication_year>1965</publication_year>
+		</book>
+		<book>
+			<title>The Other</title>
+			<isbn>0440167361</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Hellbound Heart</title>
+			<isbn>0061002828</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Lottery and Other Stories; The Haunting of Hill House; We Have Always Lived in the Castle</title>
+			<isbn>0965011798</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Summer I Died (The Roger Huntington Saga, #1)</title>
+			<isbn>1897217404</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Let's Go Play At The Adams'</title>
+			<isbn>0553141392</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>The Fog</title>
+			<isbn>0330376152</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>What Ever Happened to Baby Jane?</title>
+			<isbn>0881847259</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

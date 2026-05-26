@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>27</id>
+	<title>Neither Here nor There: Travels in Europe</title>
+	<isbn>0380713802</isbn>
+	<publication_year>1993</publication_year>
+	<language_code>en-US</language_code>
+	<description>Bill Bryson's first travel book, &lt;i&gt;The Lost Continent&lt;/i&gt;, was unanimously acclaimed as one of the funniest books in years. In &lt;i&gt;Neither Here nor There&lt;/i&gt; he brings his unique brand of humour to bear on Europe as he shoulders his backpack, keeps a tight hold on his wallet, and journeys from Hammerfest, the northernmost town on the continent, to Istanbul on the cusp of Asia. Fluent in, oh, at least one language, he retraces his travels as a student twenty years before.&lt;br /&gt;&lt;br /&gt;Whether braving the homicidal motorist of Paris, being robbed by gypsies in Florence, attempting not to order tripe and eyeballs in a German restaurant, window-shopping in the sex shops of the Reeperbahn or disputing his hotel bill in Copenhagen, Bryson takes in the sights, dissects the culture and illuminates each place and person with his hilariously caustic observations. He even goes to Liechtenstein.</description>
+	<average_rating>3.88</average_rating>
+	<num_pages>254</num_pages>
+	<similar_books>
+		<book>
+			<title>Pole to Pole</title>
+			<isbn>0563521988</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Pillars of Hercules</title>
+			<isbn>0449910857</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Size of the World</title>
+			<isbn>034540551X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Driving Over Lemons: An Optimist in Andalucía</title>
+			<isbn>0953522709</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>In Xanadu: A Quest</title>
+			<isbn>1864501731</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Baghdad without a Map and Other Misadventures in Arabia</title>
+			<isbn>0452267455</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lost on Planet China: The Strange and True Story of One Man's Attempt to Understand the World's Most Mystifying Nation, or How He Became Comfortable Eating Live Squid</title>
+			<isbn>076792200X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Hokkaido Highway Blues. Hitchhiking Japan</title>
+			<isbn>1841952885</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>A Yank Back to England: The Prodigal Tourist Returns</title>
+			<isbn>1934848247</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Pecked To Death By Ducks</title>
+			<isbn>0552771600</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Holidays in Hell: In Which Our Intrepid Reporter Travels to the World's Worst Places and Asks, "What's Funny About This" (O'Rourke, P. J.)</title>
+			<isbn>0802137016</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Off the Tourist Trail: 1,000 Unexpected Travel Alternatives</title>
+			<isbn>0756653991</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Do Not Pass Go</title>
+			<isbn>0099433869</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Educating Alice: Adventures of a Curious Woman</title>
+			<isbn>0812973607</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

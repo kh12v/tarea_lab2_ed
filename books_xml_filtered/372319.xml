@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>372319</id>
+	<title>Jo's Boys (Little Women, #3)</title>
+	<isbn>1406501077</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Beginning ten years after Little Men, Jo’s Boys revisits Plumfield, the New England school still presided over by Jo and her husband, Professor Bhaer. Jo remains at the center of the tale, surrounded by her boys—including rebellious Dan, sailor Emil, and promising musician Nat—as they experience shipwreck and storm, disappointment and even murder. [Bantam Classics Synopsis]</description>
+	<average_rating>3.81</average_rating>
+	<num_pages>268</num_pages>
+	<similar_books>
+		<book>
+			<title>Emily of Deep Valley (Deep Valley, #2)</title>
+			<isbn>0064408582</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>What Katy Did Next (Carr Family, #3)</title>
+			<isbn>1406515299</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Further Chronicles of Avonlea</title>
+			<isbn>0553213814</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ella of All-of-a-Kind Family (All-of-a-Kind Family, #5)</title>
+			<isbn>0929093054</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>A School of Her Own (Grandma's Attic #6)</title>
+			<isbn>078143291X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

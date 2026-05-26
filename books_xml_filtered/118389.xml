@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>118389</id>
+	<title>The Love Song of J. Alfred Prufrock and Other Poems</title>
+	<isbn>0848809971</isbn>
+	<publication_year>1976</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.32</average_rating>
+	<num_pages>44</num_pages>
+	<similar_books>
+		<book>
+			<title>My Last Duchess and Other Poems</title>
+			<isbn>0486277836</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Stopping by Woods on a Snowy Evening</title>
+			<isbn>0525467343</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>John Donne's Poetry</title>
+			<isbn>0393926486</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Complete Sonnets and Poems</title>
+			<isbn>019281933X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>In Memoriam</title>
+			<isbn>0393979261</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Songs of Innocence and of Experience</title>
+			<isbn>1420925806</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Goblin Market</title>
+			<isbn>0811816494</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Lyrical Ballads</title>
+			<isbn>0140424628</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Rime of the Ancient Mariner</title>
+			<isbn>0486223051</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>The Rape of the Lock</title>
+			<isbn>1557429162</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Selected Poetry</title>
+			<isbn>0192834932</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Highwayman</title>
+			<isbn>0192723707</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Selected Poems</title>
+			<isbn>0679724834</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>The Complete Poems</title>
+			<isbn>0679601112</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Selected Poems</title>
+			<isbn>0140424504</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Poems of Gerard Manley Hopkins</title>
+			<isbn>0192810944</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Duino Elegies</title>
+			<isbn>0393328848</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Dover Beach and Other Poems</title>
+			<isbn>0486280373</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

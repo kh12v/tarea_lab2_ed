@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>10959</id>
+	<title>Sophie's World</title>
+	<isbn>1857993284</isbn>
+	<publication_year>1995</publication_year>
+	<language_code>eng</language_code>
+	<description>Sophie finds two questions in her mailbox: "Who are you?" and "Where does the world come from?" This is the start of her journey through the history of philosophy, guided by a mysterious mentor. To find the truth, we must understand the questions, but the truth is stranger than Sophie can imagine.</description>
+	<average_rating>3.88</average_rating>
+	<num_pages>403</num_pages>
+	<similar_books>
+		<book>
+			<title>الأخوة كارامازوف #2</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>روح الدين: من ضيق العلمانية إلى سعة الائتمانية</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Child of All Nations</title>
+			<isbn>0140256334</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>حي بن يقظان: النصوص الأربعة ومبدعوها</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>هروبي إلى الحرية</title>
+			<isbn />
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>رحلة عقل</title>
+			<isbn>9789776278</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>عالم بلا خرائط</title>
+			<isbn />
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>وعاظ السلاطين</title>
+			<isbn />
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Zeno and the Tortoise: How to Think Like a Philosopher</title>
+			<isbn>0802139175</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Leo Africanus</title>
+			<isbn>1561310220</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>اللوح الأزرق</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Wisdom of the West</title>
+			<isbn>1870630726</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>A History of Reading</title>
+			<isbn>0140166548</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>What Does It All Mean? A Very Short Introduction to Philosophy</title>
+			<isbn>0195052161</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>أقدم لك الفلسفة</title>
+			<isbn />
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Philosophy: The Basics</title>
+			<isbn>0415327733</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Train</title>
+			<isbn>1935554468</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>دين الفطرة</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

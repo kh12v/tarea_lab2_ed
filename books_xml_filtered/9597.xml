@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>9597</id>
+	<title>Player Piano</title>
+	<isbn>0385333781</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>Kurt Vonnegut’s first novel spins the chilling tale of engineer Paul Proteus, who must find a way to live in a world dominated by a supercomputer and run completely by machines. Paul’s rebellion is vintage Vonnegut—wildly funny, deadly serious, and terrifyingly close to reality.</description>
+	<average_rating>3.85</average_rating>
+	<num_pages>341</num_pages>
+	<similar_books>
+		<book>
+			<title>Venus on the Half-Shell</title>
+			<isbn>0352398469</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Eden Express: A Memoir of Insanity</title>
+			<isbn>1583225439</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Wanting Seed</title>
+			<isbn>0393315088</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Criminal</title>
+			<isbn>0316403962</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Conversations with Kurt Vonnegut</title>
+			<isbn>0878053581</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>When the Sleeper Wakes</title>
+			<isbn>0812970004</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Hawkline Monster</title>
+			<isbn>0671221566</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Now Wait for Last Year</title>
+			<isbn>0679742204</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ecotopia</title>
+			<isbn>0553348477</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Daring Spectacle: Adventures in Deviant Journalism</title>
+			<isbn>098429970X</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>V.</title>
+			<isbn>2020418770</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Is Anyone There?</title>
+			<isbn>0441374174</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>The Collected Writings Of Ambrose Bierce</title>
+			<isbn>0806501804</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Iron Heel</title>
+			<isbn>1556520719</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>A Child Again</title>
+			<isbn>1932416226</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>4214</id>
+	<title>Life of Pi</title>
+	<isbn>0770430074</isbn>
+	<publication_year>2006</publication_year>
+	<language_code />
+	<description>Life of Pi is a fantasy adventure novel by Yann Martel published in 2001. The protagonist, Piscine Molitor "Pi" Patel, a Tamil boy from Pondicherry, explores issues of spirituality and practicality from an early age. He survives 227 days after a shipwreck while stranded on a boat in the Pacific Ocean with a Bengal tiger named Richard Parker.</description>
+	<average_rating>3.88</average_rating>
+	<num_pages>460</num_pages>
+	<similar_books>
+		<book>
+			<title>The Brief Wondrous Life of Oscar Wao</title>
+			<isbn>1594489580</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Small Island</title>
+			<isbn>0312424671</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Life and Times of Michael K</title>
+			<isbn>009947915X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Snow Flower and the Secret Fan</title>
+			<isbn>0812968069</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Bone People</title>
+			<isbn>0140089225</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Obasan</title>
+			<isbn>0385468865</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The God of Animals</title>
+			<isbn>1416533249</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The White Tiger</title>
+			<isbn>1416562591</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>How Late it Was, How Late</title>
+			<isbn>039332799X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Half of a Yellow Sun</title>
+			<isbn>1400044162</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Englishman's Boy</title>
+			<isbn>0312195443</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Three Day Road</title>
+			<isbn>0143017861</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Vernon God Little</title>
+			<isbn>0571215165</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>When God Was a Rabbit</title>
+			<isbn>0755379284</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Blind Assassin</title>
+			<isbn>1860498809</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>How the Light Gets In</title>
+			<isbn>1841956112</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>True History of the Kelly Gang</title>
+			<isbn>0375724672</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Buddha of Suburbia</title>
+			<isbn>014013168X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+	</similar_books>
+</book>

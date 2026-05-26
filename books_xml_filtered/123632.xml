@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>123632</id>
+	<title>Man and His Symbols</title>
+	<isbn>0440351839</isbn>
+	<publication_year>1968</publication_year>
+	<language_code>eng</language_code>
+	<description>Illustrated throughout with revealing images, this is the first and only work in which the world-famous Swiss psychologist explains to the layperson his enormously influential theory of symbolism as revealed in dreams.</description>
+	<average_rating>4.18</average_rating>
+	<num_pages>432</num_pages>
+	<similar_books>
+		<book>
+			<title>Ego and Archetype: Individuation and the Religious Function of the Psyche</title>
+			<isbn />
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Alchemy: An Introduction to the Symbolism and the Psychology (Studies in Jungian Psychology by Jungian Analysts, 5)</title>
+			<isbn>091912304X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Origins and History of Consciousness (Bollingen Series, 42)</title>
+			<isbn>0691017611</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Myths to Live By</title>
+			<isbn>0140194614</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Owning Your Own Shadow: Understanding the Dark Side of the Psyche</title>
+			<isbn>0062507540</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Gnostic Jung and the Seven Sermons to the Dead</title>
+			<isbn>083560568X</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Motivation and Personality</title>
+			<isbn>0060419873</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Jung's Map of the Soul: An Introduction</title>
+			<isbn>0812693760</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Politics of Experience/The Bird of Paradise</title>
+			<isbn>039471475X</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Boundaries of the Soul: The Practice of Jung's Psychology</title>
+			<isbn>0385475292</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Re-Visioning Psychology</title>
+			<isbn>0060905638</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Totem and Taboo </title>
+			<isbn>041525387X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Middle Passage: From Misery to Meaning in Midlife (Studies in Jungian Psychology by Jungian Analysts, 59)</title>
+			<isbn>0919123600</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

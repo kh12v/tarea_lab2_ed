@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>714711</id>
+	<title>You Can Win: A Step by Step Tool for Top Achievers</title>
+	<isbn>1904910033</isbn>
+	<publication_year>2010</publication_year>
+	<language_code />
+	<description>Presents an approach that takes you from ancient wisdom to contemporary thinking. This book helps you to dispel confusion in daily life and clarify values.</description>
+	<average_rating>3.83</average_rating>
+	<num_pages>290</num_pages>
+	<similar_books>
+		<book>
+			<title>Stay Hungry Stay Foolish</title>
+			<isbn>9381626715</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Inspired Talks</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Science of Religion</title>
+			<isbn>0876120044</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Megaliving!: 30 Days to a Perfect Life - The Ultimate Action Plan for Total Mastery of Your Mind, Body and Character</title>
+			<isbn>0969822502</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Wings of Fire: An Autobiography</title>
+			<isbn>8173711461</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>It Happened In India: The Story of Pantaloons, Big Bazaar, Central and the Great Indian Consumer</title>
+			<isbn>8129111373</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>High-Performance Entrepreneur</title>
+			<isbn>0670999180</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Habit of Winning</title>
+			<isbn>0143068288</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Word Power Made Easy</title>
+			<isbn>067174190X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+	</similar_books>
+</book>

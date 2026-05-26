@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>31300</id>
+	<title>A Caribbean Mystery (Miss Marple, #10)</title>
+	<isbn>0451199928</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;There is no rest or relaxation for Miss Marple. &lt;/b&gt; &lt;br /&gt;&lt;br /&gt; Miss Jane Marple, Agatha Christie's most appealing sleuth, returns in this classic baffler of a vacation-turned-deadly.</description>
+	<average_rating>3.77</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>Death and the Dancing Footman (Roderick Alleyn, #11)</title>
+			<isbn>0006512372</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>In the Teeth of the Evidence (Lord Peter Wimsey, #14)</title>
+			<isbn>0450002489</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>They Found Him Dead (Inspector Hannasyde, #3)</title>
+			<isbn>0553104128</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>The Mother Hunt (Nero Wolfe #38)</title>
+			<isbn>0553247379</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Scoop and Behind the Screen</title>
+			<isbn>0575032251</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

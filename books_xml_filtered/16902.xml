@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>16902</id>
+	<title>Walden</title>
+	<isbn>0691096120</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;Walden&lt;/i&gt;, or, &lt;i&gt;Life in the Woods&lt;/i&gt;, is an American book written by noted transcendentalist Henry David Thoreau. The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and manual for self-reliance. Published in 1854, it details Thoreau's experiences over the course of two years in a cabin he built near Walden Pond, amid woodland owned by his friend and mentor Ralph Waldo Emerson, near Concord, Massachusetts.</description>
+	<average_rating>3.79</average_rating>
+	<num_pages>352</num_pages>
+	<similar_books>
+		<book>
+			<title>Self-Reliance and Other Essays</title>
+			<isbn>0486277909</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Essential Manners for Men: What to Do, When to Do It, and Why</title>
+			<isbn>0060539801</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>My First Summer in the Sierra</title>
+			<isbn>0486437353</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Henry Thoreau: A Life of the Mind</title>
+			<isbn>0520063465</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Young Man's Guide</title>
+			<isbn>1437806813</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Seek: Reports from the Edges of America and Beyond</title>
+			<isbn>0060930470</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Strenuous Life</title>
+			<isbn>1557091420</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>A Sand County Almanac and Sketches Here and There</title>
+			<isbn>0195007778</isbn>
+			<publication_year>1968</publication_year>
+		</book>
+		<book>
+			<title>The Book of Deeds of Arms and of Chivalry</title>
+			<isbn>027101881X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Frontier in American History</title>
+			<isbn>0486291677</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Pilgrim at Tinker Creek</title>
+			<isbn>0072434171</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>A Year in the Maine Woods</title>
+			<isbn>0201489392</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>American Boys Handy Book</title>
+			<isbn>0879234490</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+	</similar_books>
+</book>

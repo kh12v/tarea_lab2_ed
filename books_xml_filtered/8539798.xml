@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>8539798</id>
+	<title>Blue exorcist, Tome 2</title>
+	<isbn>2849659266</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>fre</language_code>
+	<description>Sous l'oeil attentif de son frère Yukio, Rin poursuit son apprentissage du métier d'exorciste. Mais au cours d'un stage spécial censé préparer les étudiants à l'examen d'été, de puissantes entités démoniaques parviennent à s'introduire sur les lieux !</description>
+	<average_rating>4.48</average_rating>
+	<num_pages>192</num_pages>
+	<similar_books>
+		<book>
+			<title>D.Gray-man, Volume 06</title>
+			<isbn>1421510545</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Black Butler, Vol. 7 (Black Butler, #7)</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Pandora Hearts, Volume 6</title>
+			<isbn>475752367X</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Soul Eater, Vol. 03 (Soul Eater, #3)</title>
+			<isbn>0759530645</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Bakuman, Volume 2: Chocolate and Akamaru (Bakuman, #2)</title>
+			<isbn>1421535149</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+	</similar_books>
+</book>

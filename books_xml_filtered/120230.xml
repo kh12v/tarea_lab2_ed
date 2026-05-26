@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>120230</id>
+	<title>Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again</title>
+	<isbn>1400054346</isbn>
+	<publication_year>2006</publication_year>
+	<language_code />
+	<description />
+	<average_rating>4.16</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Giada's Family Dinners</title>
+			<isbn>030723827X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Tyler's Ultimate: Brilliant Simple Food to Make Any Time</title>
+			<isbn>1400052386</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Martha Stewart's Baking Handbook</title>
+			<isbn>0307236722</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Food You Crave: Luscious Recipes for a Healthy Life</title>
+			<isbn>1600850219</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Silver Palate Cookbook</title>
+			<isbn>0894802046</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Nigella Bites: From Family Meals to Elegant Dinners -- Easy, Delectable Recipes For Any Occasion</title>
+			<isbn>0786868694</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The New Best Recipe</title>
+			<isbn />
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Bon Appetit Cookbook: Fast Easy Fresh</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Molto Italiano: 327 Simple Italian Recipes to Cook at Home</title>
+			<isbn>0060734922</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Vegetarian Cooking for Everyone</title>
+			<isbn>0767900146</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

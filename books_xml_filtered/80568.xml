@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>80568</id>
+	<title>Sam's Letters to Jennifer</title>
+	<isbn>0446613347</isbn>
+	<publication_year>2006</publication_year>
+	<language_code />
+	<description>Grief-stricken by a recent tragedy, Jennifer returns to the resort village where she grew up to help her beloved grandmother. There, Jennifer will discover new meaning in life and experience not one, but two of the most amazing love stories ever.</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>263</num_pages>
+	<similar_books>
+		<book>
+			<title>The Locket (The Locket, #1)</title>
+			<isbn>0671004239</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>True Blue  </title>
+			<isbn>055358829X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Between Sisters</title>
+			<isbn>0345450744</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Smoke Jumper</title>
+			<isbn>0440235162</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Shoes (Christmas Hope #1)</title>
+			<isbn>0312289510</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Safe Harbour</title>
+			<isbn>0739437585</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Even Now (Lost Love, #1)</title>
+			<isbn>0310247535</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>204 Rosewood Lane (Cedar Cove, #2)</title>
+			<isbn>0778322602</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Rescue</title>
+			<isbn>0446696129</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Where the River Ends</title>
+			<isbn>0767926986</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Flirting With Pete</title>
+			<isbn>0743489608</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>What You Wish For</title>
+			<isbn>082176828X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Don't Die, My Love</title>
+			<isbn>0553567152</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

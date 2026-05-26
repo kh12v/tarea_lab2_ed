@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>50001</id>
+	<title>The Complete Guide to Middle-Earth</title>
+	<isbn>0345465296</isbn>
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description>Now in a gorgeous new hardcover format with a four-color map of Middle-earth, this is the completely revised guide to every creature, place, and event from the great fantasy epic.</description>
+	<average_rating>4.17</average_rating>
+	<num_pages>592</num_pages>
+	<similar_books>
+		<book>
+			<title>The Peoples of Middle-earth (The History of Middle-earth, #12)</title>
+			<isbn>0261103482</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Atlas of Middle-Earth</title>
+			<isbn>0618126996</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Languages of Tolkien's Middle-Earth</title>
+			<isbn>0395291305</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Tolkien: The Illustrated Encyclopaedia</title>
+			<isbn>0684839792</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Journeys of Frodo</title>
+			<isbn>0261102672</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Maps of Tolkien's Middle-earth</title>
+			<isbn>061839110X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>J.R.R. Tolkien: Artist and Illustrator</title>
+			<isbn>0618083618</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Road to Middle-Earth: How J.R.R. Tolkien Created A New Mythology</title>
+			<isbn>0618257608</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Tolkien Companion</title>
+			<isbn>0517146487</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Origins of Tolkien's Middle-Earth for Dummies</title>
+			<isbn>0764541862</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Splintered Light: Logos and Language in Tolkien's World</title>
+			<isbn>0873387449</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

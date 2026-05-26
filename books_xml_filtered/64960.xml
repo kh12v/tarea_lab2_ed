@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>64960</id>
+	<title>The Face of Fear</title>
+	<isbn>042511984X</isbn>
+	<publication_year>1985</publication_year>
+	<language_code>eng</language_code>
+	<description>DON'T LOOK DOWN&lt;br /&gt;&lt;br /&gt;Because you're trapped. With a beautiful, terrified woman. On the 40th floor of a deserted office building. By the psyshopath they call "The Butcher."&lt;br /&gt;&lt;br /&gt;DON'T LOOK DOWN&lt;br /&gt;&lt;br /&gt;Because you're an ex-mountain climber. Because a fall from Everest left you with a bad leg... and a paralyzing fear of heights.&lt;br /&gt;&lt;br /&gt;DON'T LOOK DOWN&lt;br /&gt;&lt;br /&gt;Because he has slaughtered the guards and short-circuited the elevators. Because the stairways are blocked, and for you and the woman with you, there's only one escape route.&lt;br /&gt;&lt;br /&gt;DON'T LOOK DOWN&lt;br /&gt;&lt;br /&gt;Because 600 feet of empty space are looking back at you.&lt;br /&gt;&lt;br /&gt;"A real breath-taker... should hold you glued to its pages till the wee small hours." --West Coast Review of Books</description>
+	<average_rating>3.80</average_rating>
+	<num_pages>206</num_pages>
+	<similar_books>
+		<book>
+			<title>The Vision</title>
+			<isbn>0425098605</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Mask</title>
+			<isbn>0425127583</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shadowfires</title>
+			<isbn>0380752136</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Shattered</title>
+			<isbn>0425099334</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Icebound</title>
+			<isbn>0553582909</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Haunted Earth</title>
+			<isbn>0447754459</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+	</similar_books>
+</book>

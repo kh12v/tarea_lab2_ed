@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>675614</id>
+	<title>Book of Shadows (Sweep, #1)</title>
+	<isbn>0142409863</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>Something is happening to me that I don't understand.&lt;br /&gt;&lt;br /&gt;I see things, feel things in a new way. I can do things normal people can't do. Powerful things. Magical things. It scares me.&lt;br /&gt;&lt;br /&gt;I never chose to learn witchcraft. But I'm starting to wonder if witchcraft is choosing me.</description>
+	<average_rating>4.04</average_rating>
+	<num_pages>176</num_pages>
+	<similar_books>
+		<book>
+			<title>The Challenge Box (Circle of Three, #14)</title>
+			<isbn>0060006064</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Witches' Night of Fear</title>
+			<isbn>1567187188</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Witch Ball (The Seer, #3)</title>
+			<isbn>0738708216</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Goddess of the Night (Daughters of the Moon, #1)</title>
+			<isbn>0786806532</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>White Is for Magic (Blue is for Nightmares, #2)</title>
+			<isbn>0738704431</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Revelations (Fingerprints, #6)</title>
+			<isbn>0064472833</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

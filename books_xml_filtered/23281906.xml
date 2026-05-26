@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>23281906</id>
+	<title>The Liar</title>
+	<isbn>0399170863</isbn>
+	<publication_year>2015</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;The extraordinary new novel by the #1 &lt;i&gt;New York Times&lt;/i&gt;–bestselling author of &lt;i&gt;The Collector&lt;/i&gt;.&lt;/b&gt;&lt;br /&gt; &lt;br /&gt;Shelby Foxworth lost her husband. Then she lost her illusions …&lt;br /&gt; &lt;br /&gt;The man who took her from Tennessee to an exclusive Philadelphia suburb left her in crippling debt. He was an adulterer and a liar, and when Shelby tracks down his safe-deposit box, she finds multiple IDs. The man she loved wasn’t just dead. He never really existed.&lt;br /&gt; &lt;br /&gt;Shelby takes her three-year-old daughter and heads south to seek comfort in her hometown, where she meets someone new: Griff Lott, a successful contractor. But her husband had secrets she has yet to discover. Even in this small town, surrounded by loved ones, danger is closer than she knows—and threatens Griff, as well. And an attempted murder is only the beginning …</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>501</num_pages>
+	<similar_books>
+		<book>
+			<title>Devoted in Death (In Death, #41)</title>
+			<isbn>039917088X</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Trust No One</title>
+			<isbn>0399165134</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Hush</title>
+			<isbn>1476766584</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Troublemaker</title>
+			<isbn>0062418971</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Dead By Midnight: An I-Team Christmas (I-Team #7.5)</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Virtue Falls (Virtue Falls, #1)</title>
+			<isbn>1250028418</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>On Thin Ice (Ice, #6)</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Hot Zone (Rainshadow, #3; Ghost Hunters, #11)</title>
+			<isbn>0515154725</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>4035</id>
+	<title>The Burden of Proof</title>
+	<isbn>0446677124</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>Turow's acclaimed second novel, which topped international bestseller lists, is now available in trade paperback. Sandy Stern, the brilliant defense attorney from &lt;em&gt;Presumed Innocent&lt;/em&gt;, faces an event so emotionally shattering that no part of his life is left untouched. It reveals a family caught in a maelstrom of hidden crimes, shocking secrets, and warring passions.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>608</num_pages>
+	<similar_books>
+		<book>
+			<title>Degree of Guilt (Christopher Paget, #2)</title>
+			<isbn>034538184X</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Prime Witness (Paul Madriani, #2)</title>
+			<isbn>051511264X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The 13th Juror (Dismas Hardy, #4)</title>
+			<isbn>0451215931</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Juror</title>
+			<isbn>0553504878</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Total Control</title>
+			<isbn>0446604844</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Reversible Error (Butch Karp, #4)</title>
+			<isbn>0451175190</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>After Dark</title>
+			<isbn>0553569082</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Tenth Justice</title>
+			<isbn>0446606243</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Inner Sanctum</title>
+			<isbn>0451190149</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

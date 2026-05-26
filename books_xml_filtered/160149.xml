@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>160149</id>
+	<title>The Call of Cthulhu and Other Weird Stories</title>
+	<isbn>0141182342</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>en-US</language_code>
+	<description>The birth of the modern horror story can be traced to the dark visions that crept from the febrile imagination of H. P. Lovecraft at the beginning of the last century. The alien gods, death cults and forbidden tomes that cast their maddening shadows over of his fictitious New England would introduce the world to a new set of terrors, reflecting the strange, uncaring universe being unraveled by physics and cosmology. These ‘weird’ tales, and their vast influence, have since carved their creator a tentacle-shaped throne among the monoliths of American literature.</description>
+	<average_rating>4.25</average_rating>
+	<num_pages>420</num_pages>
+	<similar_books>
+		<book>
+			<title>Shadows over Innsmouth</title>
+			<isbn>0345444078</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Count Magnus and Other Ghost Stories</title>
+			<isbn>0143039393</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Dark Eidolon and Other Fantasies</title>
+			<isbn>0143107380</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The White People and Other Weird Stories</title>
+			<isbn>0143105590</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>H.P. Lovecraft: Against the World, Against Life</title>
+			<isbn>1932416188</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Call of Cthulhu: Horror Roleplaying (Call of Cthulhu RPG)</title>
+			<isbn>1568821816</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Imago Sequence and Other Stories</title>
+			<isbn>1597800880</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Ancient Sorceries and Other Weird Stories</title>
+			<isbn>0142180157</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>New Tales of the Cthulhu Mythos</title>
+			<isbn>0870540858</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>The Weird: A Compendium of Strange and Dark Stories</title>
+			<isbn>1848876874</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>My Work is Not Yet Done: Three Tales of Corporate Horror</title>
+			<isbn>0965943372</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Black Wings: New Tales of Lovecraftian Horror</title>
+			<isbn>1848630611</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Lovecraft Unbound</title>
+			<isbn>1595821465</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The King in Yellow and Other Horror Stories</title>
+			<isbn>0486437507</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Book of Cthulhu</title>
+			<isbn>1597802328</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+	</similar_books>
+</book>

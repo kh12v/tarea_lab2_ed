@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>17150</id>
+	<title>My Ántonia</title>
+	<isbn>1583485090</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>Through Jim Burden's endearing, smitten voice, we revisit the remarkable vicissitudes of immigrant life in the Nebraska heartland, with all its insistent bonds. Guiding the way are some of literature's most beguiling characters: the Russian brothers plagued by memories of a fateful sleigh ride, Antonia's desperately homesick father and self-indulgent mother, and the coy Lena Lingard. Holding the pastoral society's heart, of course, is the bewitching, free-spirited Antonia.</description>
+	<average_rating>3.76</average_rating>
+	<num_pages>232</num_pages>
+	<similar_books>
+		<book>
+			<title>Giants in the Earth</title>
+			<isbn>0060931930</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Country of the Pointed Firs and Other Stories</title>
+			<isbn>0451527577</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Babbitt</title>
+			<isbn>142640607X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Reef</title>
+			<isbn>1426468911</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Washington Square</title>
+			<isbn>0451528719</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Magnificent Ambersons (The Growth Trilogy, #2)</title>
+			<isbn>1406935735</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>One Lonely Night</title>
+			<isbn>0792721055</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Winter Wheat</title>
+			<isbn>0803297416</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Sentimental Education</title>
+			<isbn>0140447970</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Alcoholics</title>
+			<isbn>0316403954</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Wife (Kristin Lavransdatter, #2)</title>
+			<isbn>0141181281</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Awakening and Selected Stories</title>
+			<isbn>0743487672</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Look Homeward, Angel</title>
+			<isbn>0743297318</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Shane</title>
+			<isbn>0395941164</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Prairie (Leatherstocking Tales, #5)</title>
+			<isbn>0873953630</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+	</similar_books>
+</book>

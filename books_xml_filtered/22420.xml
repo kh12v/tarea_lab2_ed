@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>22420</id>
+	<title>Transmetropolitan, Vol. 5: Lonely City (Transmetropolitan, #5)</title>
+	<isbn>1563897229</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.40</average_rating>
+	<num_pages>144</num_pages>
+	<similar_books>
+		<book>
+			<title>Preacher, Volume 7: Salvation</title>
+			<isbn>1563895196</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Invisibles, Vol. 7: The Invisible Kingdom</title>
+			<isbn>1401200192</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Lucifer, Vol. 8: The Wolf Beneath the Tree</title>
+			<isbn>140120502X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>100 Bullets, Vol. 6: Six Feet Under the Gun</title>
+			<isbn>1563899965</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>DMZ, Vol. 4: Friendly Fire</title>
+			<isbn>1401216625</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Ex Machina, Vol. 3: Fact v. Fiction  (Ex Machina, #3)</title>
+			<isbn>1401209882</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

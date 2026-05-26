@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>336245</id>
+	<title>A Dangerous Path (Warriors, #5)</title>
+	<isbn>0060525657</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.42</average_rating>
+	<num_pages>313</num_pages>
+	<similar_books>
+		<book>
+			<title>The Shattering (Guardians of Ga'Hoole, #5)</title>
+			<isbn>0439405610</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Varjak Paw  (Varjak Paw #1)</title>
+			<isbn>0440420768</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Sight (Sight, #1)</title>
+			<isbn>014250047X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Ratha and Thistle-Chaser (The Named, #3)</title>
+			<isbn>0142409448</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Cry of the Wolf (Avalon: Web of Magic #3)</title>
+			<isbn />
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

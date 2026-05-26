@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>271199</id>
+	<title>Fruits Basket, Vol. 1</title>
+	<isbn>1591826039</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>A family with an ancient curse...&lt;br /&gt;&lt;br /&gt;And the girl who will change their lives forever...&lt;br /&gt;&lt;br /&gt;Tohru Honda was an orphan with no place to go until the mysterious Sohma family offered her a place to call home. Now her ordinary high school life is turned upside down as she's introduced to the Sohma's world of magical curses and family secrets.</description>
+	<average_rating>4.23</average_rating>
+	<num_pages>216</num_pages>
+	<similar_books>
+		<book>
+			<title>Ouran High School Host Club, Vol. 5 (Ouran High School Host Club, #5)</title>
+			<isbn>1421503298</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>MeruPuri, Vol. 2 (MeruPuri, #2)</title>
+			<isbn>142150121X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Hana-Kimi, Vol. 4 (Hana-Kimi, #4)</title>
+			<isbn>1591164583</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Full Moon O Sagashite, Vol. 3</title>
+			<isbn>1421500590</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Fushigi Yûgi: The Mysterious Play, Vol. 9: Lover</title>
+			<isbn>1591160960</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Skip Beat!, Vol. 12</title>
+			<isbn>1421517523</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

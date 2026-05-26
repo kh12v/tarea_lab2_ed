@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>42697</id>
+	<title>Exodus</title>
+	<isbn>0553258478</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;Exodus&lt;/i&gt; is an international publishing phenomenon--the towering novel of the twentieth century's most dramatic geopolitical event.  &lt;br /&gt;&lt;br /&gt;Leon Uris magnificently portrays the birth of a new nation in the midst of enemies--the beginning of an earthshaking struggle for power. Here is the tale that swept the world with its fury: the story of an American nurse, an Israeli freedom fighter caught up in a glorious, heartbreaking, triumphant era. Here is &lt;i&gt;Exodus&lt;/i&gt;</description>
+	<average_rating>4.33</average_rating>
+	<num_pages>608</num_pages>
+	<similar_books>
+		<book>
+			<title>The Winds of War (The Henry Family, #1)</title>
+			<isbn>0316952664</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Source</title>
+			<isbn>0375760385</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Tai-Pan (Asian Saga, #2)</title>
+			<isbn>0440184622</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Robe</title>
+			<isbn>0395957753</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Captains and the Kings</title>
+			<isbn>0449205622</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Far Pavilions</title>
+			<isbn>031215125X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Advise and Consent (Advise and Consent, #1)</title>
+			<isbn>0380010070</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Wall</title>
+			<isbn>0394756967</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Promise</title>
+			<isbn>1400095417</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>54539</id>
+	<title>Silas Marner</title>
+	<isbn>1416500340</isbn>
+	<publication_year>2005</publication_year>
+	<language_code />
+	<description>Embittered by a false accusation, disappointed in friendship and love, the weaver Silas Marner retreats into a long twilight life alone with his loom. . . and his gold. Silas hoards a treasure that kills his spirit until fate steals it from him and replaces it with a golden-haired founding child. Where she came from, who her parents were, and who really stole the gold are the secrets that permeate this moving tale of guilt and innocence. A moral allegory of the redemptive power of love, it is also a finely drawn picture of early nineteenth-century England in the days when spinning wheels hummed busily in the farmhouses, and of a simple way of life that was soon to disappear.</description>
+	<average_rating>3.60</average_rating>
+	<num_pages>262</num_pages>
+	<similar_books>
+		<book>
+			<title>Castle Rackrent</title>
+			<isbn>087220877X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Return of the Native  </title>
+			<isbn>037575718X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Mary Barton</title>
+			<isbn>0192805622</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>New Grub Street</title>
+			<isbn>0140430326</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Dombey and Son</title>
+			<isbn>0812967437</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Marius the Epicurean</title>
+			<isbn>0140432361</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Expedition of Humphry Clinker</title>
+			<isbn>0140430210</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>The Life and Death of Harriett Frean</title>
+			<isbn>0860681068</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

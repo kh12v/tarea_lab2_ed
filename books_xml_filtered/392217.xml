@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>392217</id>
+	<title>Hornet's Nest (Andy Brazil, #1)</title>
+	<isbn>042516098X</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.28</average_rating>
+	<num_pages>369</num_pages>
+	<similar_books>
+		<book>
+			<title>Nido vuoto</title>
+			<isbn>8838922047</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Survival of the Fittest (Alex Delaware, #12)</title>
+			<isbn>0345458842</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Il Premio</title>
+			<isbn>8807815761</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I delitti di via Medina-Sidonia</title>
+			<isbn>8838912343</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Complete Patricia Cornwell Companion</title>
+			<isbn>0425201317</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>McNally's Caper (Archy McNally, #4)</title>
+			<isbn>0425145301</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Ad occhi chiusi</title>
+			<isbn>8838919054</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Venere privata (Duca Lamberti, #1)</title>
+			<isbn>8811668565</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

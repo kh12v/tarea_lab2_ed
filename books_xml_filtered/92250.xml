@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>92250</id>
+	<title>Angels in America, Part One: Millennium Approaches</title>
+	<isbn>1559360615</isbn>
+	<publication_year>1993</publication_year>
+	<language_code>en-US</language_code>
+	<description>Pulitzer Prize-winner for Drama, 1993. The first part of Tony Kushner's epic drama of America in the 1980s.</description>
+	<average_rating>4.27</average_rating>
+	<num_pages>119</num_pages>
+	<similar_books>
+		<book>
+			<title>The Laramie Project</title>
+			<isbn>0375727191</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Bent</title>
+			<isbn>1557833362</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Torch Song Trilogy</title>
+			<isbn>0960472401</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Goat, or Who is Sylvia?</title>
+			<isbn>1585676470</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>I Am My Own Wife</title>
+			<isbn>0571211747</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Cloud 9</title>
+			<isbn>1559360992</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>How I Learned to Drive</title>
+			<isbn>082221623X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Topdog/Underdog</title>
+			<isbn>1559362014</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Normal Heart</title>
+			<isbn>0452257980</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Buried Child</title>
+			<isbn>0307274977</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Pillowman</title>
+			<isbn>0571220320</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Proof</title>
+			<isbn>0571199976</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ruined</title>
+			<isbn>155936355X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Clean House and Other Plays</title>
+			<isbn>1559362669</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Jeffrey</title>
+			<isbn>0822214024</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Company: A Musical Comedy</title>
+			<isbn>1559361085</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>August: Osage County</title>
+			<isbn>1559363304</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>All in the Timing</title>
+			<isbn>067975928X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

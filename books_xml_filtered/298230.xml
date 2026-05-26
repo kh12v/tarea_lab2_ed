@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>298230</id>
+	<title>Agnes Grey</title>
+	<isbn>0140432108</isbn>
+	<publication_year>1988</publication_year>
+	<language_code />
+	<description>At age 19 Anne Brontë left home and worked as a governess for a few years before becoming a writer. Agnes Grey was an 1847 novel based on her experience as a governess. Bronte depicts the precarious position of a governess and how that can affect a young woman. Agnes was the daughter of a minister whose family was in financial difficulty. She has only a few choices for employment. Agnes experiences the difficulty of reining in spoiled children and how wealth can corrupt morals.</description>
+	<average_rating>3.65</average_rating>
+	<num_pages>251</num_pages>
+	<similar_books>
+		<book>
+			<title>The Professor</title>
+			<isbn>1582870950</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Life of Charlotte Brontë</title>
+			<isbn>0192838059</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Evelina</title>
+			<isbn>0192840312</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Absentee</title>
+			<isbn>0140436456</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>East Lynne </title>
+			<isbn>0192804626</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Castle Richmond</title>
+			<isbn>1406930245</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Glimpses of the Moon</title>
+			<isbn>0451526686</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Law and the Lady</title>
+			<isbn>1592244068</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Lady Audley's Secret</title>
+			<isbn>0192835203</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Our Mutual Friend</title>
+			<isbn>0375761144</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Lorna Doone</title>
+			<isbn>0143039326</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Juvenilia of Jane Austen and Charlotte Brontë</title>
+			<isbn>0140432671</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Maggie: A Girl of the Streets and Other Tales of New York</title>
+			<isbn>0140437975</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

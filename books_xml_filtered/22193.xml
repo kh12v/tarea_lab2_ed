@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>22193</id>
+	<title>You're the One That I Want (Gossip Girl, #6)</title>
+	<isbn>0316735167</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Welcome to New York City's Upper East Side, where my friends and I live in gorgeous apartments, go to exclusive private schools, and make Manhattan our own personal playground. It might look hard to be this fabulous, but for us it's as easy as sleeping with your best friend's boyfriend.</description>
+	<average_rating>3.71</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>Some Like It Hot (A-List, #6)</title>
+			<isbn>0316010936</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Untouchable (Private, #3)</title>
+			<isbn>1416918752</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Pass It On (Insiders, #2)</title>
+			<isbn>1582349541</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Dylan (Clique Summer Collection, #2)</title>
+			<isbn>0316035653</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

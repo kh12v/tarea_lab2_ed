@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>505304</id>
+	<title>The Poky Little Puppy (A Little Golden Book)</title>
+	<isbn>0307021343</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>One of the original 12 Little Golden Books, The Poky Little Puppy has sold nearly 15 million copies since 1942, making it one of the most popular children's' books of all time.</description>
+	<average_rating>4.08</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Saggy Baggy Elephant (A Little Golden Book)</title>
+			<isbn>0307021106</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Scuffy the Tugboat (Big Little Golden Book)</title>
+			<isbn>0307105474</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Little Red Hen (Little Golden Book)</title>
+			<isbn>0307960307</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Shy Little Kitten (Big Little Golden Book)</title>
+			<isbn>0375828990</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears No Girls Allowed</title>
+			<isbn>0394873319</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Little Engine That Could</title>
+			<isbn>0448405202</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Little Red Caboose (Little Golden Book)</title>
+			<isbn>0307021521</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Color Kittens</title>
+			<isbn>0307021416</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Bambi</title>
+			<isbn>0736423087</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Three Little Kittens</title>
+			<isbn>0307111547</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>My Big Little Golden Book About God (a Big Little Golden Book)</title>
+			<isbn>0375835512</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Baby Animals (A Little Golden Book)</title>
+			<isbn>0375829334</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Fire Engine Book (Little Golden Book)</title>
+			<isbn>0307960242</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Leo the Lop</title>
+			<isbn>0843177233</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Danny and the Dinosaur (An I Can Read Book)</title>
+			<isbn>0064440028</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Just for You (Little Critter)</title>
+			<isbn>030711838X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Prayers for Children (Little Golden Book)</title>
+			<isbn>0307021068</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

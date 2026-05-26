@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>6393082</id>
+	<title>Ender's Game, Volume 1: Battle School (Ender's Saga)</title>
+	<isbn>0785135804</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.37</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Ender's Shadow: Battle School</title>
+			<isbn>0785135960</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ender's Game: War of Gifts</title>
+			<isbn>0785135901</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Formic Wars: Burning Earth</title>
+			<isbn>0785136096</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Complete Guide to Middle-Earth</title>
+			<isbn>0345465296</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Code Geass: Lelouch of the Rebellion, Vol. 6 (Code Geass: Lelouch of the Rebellion, #6)</title>
+			<isbn>1604961600</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Hobbit: Graphic Novel</title>
+			<isbn>0345368584</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Anomaly</title>
+			<isbn>0985334207</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Peoples of Middle-earth (The History of Middle-earth, #12)</title>
+			<isbn>0261103482</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

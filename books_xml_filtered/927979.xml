@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>927979</id>
+	<title>Small Favor (The Dresden Files, #10)</title>
+	<isbn>0451461894</isbn>
+	<publication_year>2008</publication_year>
+	<language_code>en-US</language_code>
+	<description>&lt;b&gt;THE &lt;i&gt;New York Times&lt;/i&gt; Bestseller&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Harry Dresden's life finally seems to be calming down -- until a shadow from the past returns. Mab, monarch of the Sidhe Winter Court, calls in an old favor from Harry -- one small favor that will trap him between a nightmarish foe and an equally deadly ally, and that will strain his skills -- and loyalties -- to their very limits.</description>
+	<average_rating>4.43</average_rating>
+	<num_pages>420</num_pages>
+	<similar_books>
+		<book>
+			<title>Thicker Than Water (Felix Castor, #4)</title>
+			<isbn>1841496561</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Good, the Bad, and the Uncanny (Nightside, #10)</title>
+			<isbn>0441018165</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Circle of Enemies (Twenty Palaces, #3)</title>
+			<isbn>0345508912</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Chosen (Alex Verus, #4)</title>
+			<isbn>0425264920</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Deathwish (Cal Leandros, #4)</title>
+			<isbn>0451462629</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Monster Hunter Alpha (Monster Hunter International, #3)</title>
+			<isbn>1439134588</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Late Eclipses (October Daye, #4)</title>
+			<isbn>0756406668</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Tricked (The Iron Druid Chronicles, #4)</title>
+			<isbn>0345533623</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

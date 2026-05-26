@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>64948</id>
+	<title>Whispers</title>
+	<isbn>042520992X</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>en-US</language_code>
+	<description>For thirty-five years, Bruno Frye has lived in the shadow of the mother who made his heart beat with constant fear. And even though she died five years ago, the whispers still haunt him in the dark…enough to make him kill—and kill again…Hilary Thomas is one of his intended victims. And she’s about to learn that even death can’t keep a bad man down…</description>
+	<average_rating>3.90</average_rating>
+	<num_pages>464</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Dark Symphony</title>
+			<isbn>4477462107</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shadows</title>
+			<isbn>0553560271</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Demon Child</title>
+			<isbn />
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>The Dean Koontz Companion</title>
+			<isbn>0425141357</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Fountain Society</title>
+			<isbn>0684846608</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

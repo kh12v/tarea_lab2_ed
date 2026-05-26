@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>291364</id>
+	<title>Curious George Rides a Bike</title>
+	<isbn>1844285073</isbn>
+	<publication_year>2004</publication_year>
+	<language_code />
+	<description>Today is a special day for George because he gets his first bike. He does tricks, he helps the paper boy with his round and then he sees a river... and George is curious. And that's when his exciting adventure begins.</description>
+	<average_rating>4.24</average_rating>
+	<num_pages>48</num_pages>
+	<similar_books>
+		<book>
+			<title>Curious George Flies a Kite</title>
+			<isbn>0395259371</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Sammy the Seal</title>
+			<isbn>0064442705</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Little Bear's Friend</title>
+			<isbn>0064440516</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>No Roses for Harry!</title>
+			<isbn>0064430111</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Clifford The Small Red Puppy</title>
+			<isbn>0439725267</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears' Trouble at School</title>
+			<isbn>039487336X</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Babar the King</title>
+			<isbn>1405204664</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Madeline and the Bad Hat</title>
+			<isbn>0670446149</isbn>
+			<publication_year>1957</publication_year>
+		</book>
+		<book>
+			<title>A Bargain for Frances</title>
+			<isbn>006444001X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Tale of Benjamin Bunny</title>
+			<isbn>0723247730</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

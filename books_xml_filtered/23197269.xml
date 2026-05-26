@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>23197269</id>
+	<title>Aurora</title>
+	<isbn>0316098108</isbn>
+	<publication_year>2015</publication_year>
+	<language_code>eng</language_code>
+	<description>A major new novel from one of science fiction's most powerful voices, AURORA tells the incredible story of our first voyage beyond the solar system. &lt;br /&gt;&lt;br /&gt;Brilliantly imagined and beautifully told, it is the work of a writer at the height of his powers. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Our voyage from Earth began generations ago.&lt;br /&gt;&lt;br /&gt;Now, we approach our new home.&lt;br /&gt;&lt;br /&gt;AURORA.&lt;/b&gt;</description>
+	<average_rating>3.73</average_rating>
+	<num_pages>466</num_pages>
+	<similar_books>
+		<book>
+			<title>Dark Orbit</title>
+			<isbn>0765336294</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>New Moon (Luna #1)</title>
+			<isbn>0765375516</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Children of Time</title>
+			<isbn>1447273281</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Planetfall</title>
+			<isbn />
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>The Red: First Light (The Red #1)</title>
+			<isbn>1937197131</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Slow Bullets</title>
+			<isbn>1616961937</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Edge of Infinity</title>
+			<isbn>1781080569</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Arkwright</title>
+			<isbn>0765382156</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Lightless (Lightless, #1)</title>
+			<isbn>0553394444</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>The Dark Forest (Remembrance of Earth’s Past, #2)</title>
+			<isbn>076537708X</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Central Station</title>
+			<isbn>1616962143</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>On a Red Station, Drifting</title>
+			<isbn>0956392458</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Proxima</title>
+			<isbn>0575116838</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Ninefox Gambit (The Machineries of Empire #1)</title>
+			<isbn />
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Time Salvager (Time Salvager #1)</title>
+			<isbn>0765377187</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Radiance</title>
+			<isbn>0765335298</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Tracer (Outer Earth #1)</title>
+			<isbn>0356505138</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Infomocracy (The Centenal Cycle, #1)</title>
+			<isbn>0765385155</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

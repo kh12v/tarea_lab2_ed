@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>391724</id>
+	<title>The Black Cat</title>
+	<isbn>1594561753</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>"The Black Cat" is one of Edgar Allan Poe's most memorable stories. The tale centers around a black cat and the subsequent deterioration of a man. The story is often linked with "The Tell-Tale Heart" because of the profound psychological elements these two works share.</description>
+	<average_rating>4.07</average_rating>
+	<num_pages>24</num_pages>
+	<similar_books>
+		<book>
+			<title>The Birthmark</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Čudnovate zgode šegrta Hlapića</title>
+			<isbn>9530601786</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sadako will leben</title>
+			<isbn>3401027247</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Musgrave Ritual (The Memoirs of Sherlock Holmes, #5)</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Thing on the Doorstep</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Tena</title>
+			<isbn>9531562555</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Ruke</title>
+			<isbn>9531530947</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Rose for Emily</title>
+			<isbn>1563127881</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Cvijet sa raskršća i druge pripovijetke</title>
+			<isbn>9536511045</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Poor Clare</title>
+			<isbn>1612192181</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Ježeva kućica</title>
+			<isbn>953171326X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Družba Pere Kvržice</title>
+			<isbn />
+			<publication_year>1933</publication_year>
+		</book>
+		<book>
+			<title>The Ice Palace</title>
+			<isbn>1419167006</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Gospoda Glembajevi</title>
+			<isbn>8642706449</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Memento mori</title>
+			<isbn />
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Judita</title>
+			<isbn>9531967652</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Bez trećega</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Nightingale and the Rose</title>
+			<isbn>1430439866</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

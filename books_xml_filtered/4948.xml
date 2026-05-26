@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>4948</id>
+	<title>The Very Hungry Caterpillar Board Book</title>
+	<isbn>0241003008</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Eric Carle's &lt;i&gt;The Very Hungry Caterpillar&lt;/i&gt; is a perennial favorite with children and adults alike. Its imaginative illustration and clever cut-out detail charts the progress of a very hungry caterpillar as he eats his way through the week.</description>
+	<average_rating>4.29</average_rating>
+	<num_pages>26</num_pages>
+	<similar_books>
+		<book>
+			<title>The Pigeon Wants a Puppy!</title>
+			<isbn>1423109600</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Yummy Yucky</title>
+			<isbn>0744593387</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Barnyard Dance</title>
+			<isbn>1563054426</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Llama Llama Mad at Mama</title>
+			<isbn>0670062405</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Press Here</title>
+			<isbn>0811879542</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Growing Vegetable Soup</title>
+			<isbn>0152325751</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Piggies</title>
+			<isbn>015202638X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Doorbell Rang</title>
+			<isbn>0688092349</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Chicka Chicka Boom Boom</title>
+			<isbn>068983568X</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Room on the Broom</title>
+			<isbn>0142501123</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Dear Zoo: A Lift-the-Flap Book</title>
+			<isbn>141694737X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Ten Little Fingers and Ten Little Toes</title>
+			<isbn>015206057X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Peek-a-Who?</title>
+			<isbn>0811826023</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Baby Beluga</title>
+			<isbn>0517709775</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

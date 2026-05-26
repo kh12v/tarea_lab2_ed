@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>182425</id>
+	<title>False Memory</title>
+	<isbn>0553580221</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>en-US</language_code>
+	<description>It's a fear more paralyzing than falling. More terrifying than darkness. More horrifying than anything you can imagine. It's the one fear you cannot escape, no matter where you run . . . no matter where you hide. It's the fear of yourself. It's real. It can happen to you. And facing it can be deadly. "Fear for your mind".</description>
+	<average_rating>3.87</average_rating>
+	<num_pages>751</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Fall of the Dream Machine / The Star Venturers (Ace Double, 22600)</title>
+			<isbn>0441226000</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Demon Child</title>
+			<isbn />
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Homing</title>
+			<isbn>0345454073</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Dean Koontz Companion</title>
+			<isbn>0425141357</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Dean Koontz's Frankenstein, Volume 1: Prodigal Son</title>
+			<isbn>0345506405</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Life Is Good: Lessons in Joyful Living</title>
+			<isbn>0972942777</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>1420</id>
+	<title>Hamlet</title>
+	<isbn>0521618746</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>One of the greatest plays of all time, the compelling tragedy of the tormented young prince of Denmark continues to capture the imaginations of modern audiences worldwide. Confronted with evidence that his uncle murdered his father, and with his mother’s infidelity, Hamlet must find a means of reconciling his longing for oblivion with his duty as avenger. The ghost, Hamlet’s feigned madness, Ophelia’s death and burial, the play within a play, the “closet scene” in which Hamlet accuses his mother of complicity in murder, and breathtaking swordplay are just some of the elements that make Hamlet an enduring masterpiece of the theater.</description>
+	<average_rating>4.00</average_rating>
+	<num_pages>289</num_pages>
+	<similar_books>
+		<book>
+			<title>The Spanish Tragedy</title>
+			<isbn>1406500429</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Angels in America, Part One: Millennium Approaches</title>
+			<isbn>1559360615</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Tartuffe</title>
+			<isbn>1854596373</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Rosencrantz and Guildenstern Are Dead</title>
+			<isbn>0802132758</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Endgame</title>
+			<isbn>0571070671</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Medea</title>
+			<isbn>0486275485</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Dr. Faustus</title>
+			<isbn>0486282082</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Uncle Vanya</title>
+			<isbn>1406507881</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Threepenny Opera</title>
+			<isbn>1559702524</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Major Barbara</title>
+			<isbn>140695716X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Lieutenant of Inishmore</title>
+			<isbn>0413765008</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Oedipus Cycle: Oedipus Rex/Oedipus at Colonus/Antigone (The Theban Plays, #1–3)</title>
+			<isbn>015602764X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Copenhagen</title>
+			<isbn>0385720793</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Doll's House</title>
+			<isbn>1406914835</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Cyrano de Bergerac</title>
+			<isbn>0451528921</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>M. Butterfly</title>
+			<isbn>0822207125</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Mourning Becomes Electra</title>
+			<isbn>185459138X</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>'Tis Pity She's a Whore</title>
+			<isbn>0713650605</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

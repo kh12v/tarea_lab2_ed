@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>20253</id>
+	<title>House Harkonnen (Prelude to Dune #2)</title>
+	<isbn>0553580302</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>Brian Herbert and Kevin J. Anderson return to the vivid universe of Frank Herbert's &lt;b&gt;Dune&lt;/b&gt;, bringing a vast array of rich and complex characters into conflict to shape the destiny of worlds....&lt;br /&gt;&lt;br /&gt;As Shaddam sits at last on the Golden Lion Throne, Baron Vladimir Harkonnen plots against the new Emperor and House Atreides -- and against the mysterious Sisterhood of the Bene Gesserit. For Leto Atreides, grown complacent and comfortable as ruler of his House, it is a time of momentous choice: between friendship and duty, safety and destiny. But for the survival of House Atreides, there is just one choice -- strive for greatness or be crushed.</description>
+	<average_rating>3.63</average_rating>
+	<num_pages>733</num_pages>
+	<similar_books>
+		<book>
+			<title>The Road to Dune (Dune Universe)</title>
+			<isbn>0765353709</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Dune Encyclopedia</title>
+			<isbn>0425068137</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Of Fire and Night (The Saga of Seven Suns, #5)</title>
+			<isbn>0446577189</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Battles of Dune</title>
+			<isbn>1559948981</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>25893709</id>
+	<title>My Name Is Lucy Barton</title>
+	<isbn>1400067693</isbn>
+	<publication_year>2016</publication_year>
+	<language_code>eng</language_code>
+	<description>Lucy Barton is recovering slowly from what should have been a simple operation. Her mother, to whom she hasn't spoken for many years, comes to see her. Gentle gossip about people from Lucy's childhood in Amgash, Illinois, seems to reconnect them, but just below the surface lies the tension and longing that have informed every aspect of Lucy's life: her escape from her troubled family, her desire to become a writer, her marriage, her love for her two daughters.</description>
+	<average_rating>3.51</average_rating>
+	<num_pages>193</num_pages>
+	<similar_books>
+		<book>
+			<title>Everybody's Fool (Sully, #2)</title>
+			<isbn>0307270645</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Commonwealth</title>
+			<isbn>0062491792</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>LaRose</title>
+			<isbn>0062277022</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>The Mare</title>
+			<isbn>0307379744</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Thirteen Ways of Looking</title>
+			<isbn>1443446254</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>The Excellent Lombards</title>
+			<isbn>1455564222</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Only Love Can Break Your Heart</title>
+			<isbn>161620382X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Summer Before the War</title>
+			<isbn>0812993101</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>The Past</title>
+			<isbn>0345816110</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>The Turner House</title>
+			<isbn>0544303164</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Children's Crusade</title>
+			<isbn>1476710457</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Best Boy</title>
+			<isbn>163149192X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>At the Edge of the Orchard</title>
+			<isbn>0525953000</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Miller's Valley</title>
+			<isbn>0812996089</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>The Lightkeepers</title>
+			<isbn>1619026007</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>The Sympathizer</title>
+			<isbn>0802123457</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Britt-Marie Was Here</title>
+			<isbn>1501142534</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Black River</title>
+			<isbn>0544309871</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+	</similar_books>
+</book>

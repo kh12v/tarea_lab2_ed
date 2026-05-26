@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>836611</id>
+	<title>Fruits Basket, Vol. 4</title>
+	<isbn>1591826063</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>When the infamous Akito makes an in-class appearance at the start of the school year, the Sohma family worries that his arrival will be an uncensored exercise of show-and-tell about Yuki's past. Meanwhile, when Ayame vows to rekindle his brother's lost friendship, he begins to realize that you can choose your friends but you can't choose your family - especially when they're acting like animals!</description>
+	<average_rating>4.39</average_rating>
+	<num_pages>196</num_pages>
+	<similar_books>
+		<book>
+			<title>Hana-Kimi, Vol. 5  (Hana-Kimi, #5)</title>
+			<isbn>1591164974</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Ouran High School Host Club, Vol. 8 (Ouran High School Host Club, #8)</title>
+			<isbn>1421511614</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Mars, Volume 06</title>
+			<isbn>159182057X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Alice 19th, Vol. 2 (Alice 19th, #2)</title>
+			<isbn>1591162297</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Tsubasa: RESERVoir CHRoNiCLE, Vol. 08</title>
+			<isbn>0345484282</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

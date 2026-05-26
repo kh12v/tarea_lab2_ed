@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>921651</id>
+	<title>Just Go to Bed</title>
+	<isbn>0307119408</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>en-US</language_code>
+	<description>One of the classic Little Critter picture book titles by Mercer Mayer, this simple story shows our preschool hero resisting his father's efforts to get him ready for bed. By the end of the book Little Critter's understanding father has finally succeeded in moving his energetic, imaginative son through bath-time and pajama-time into sleep-time.</description>
+	<average_rating>4.22</average_rating>
+	<num_pages>24</num_pages>
+	<similar_books>
+		<book>
+			<title>The Berenstain Bears' Trouble at School</title>
+			<isbn>039487336X</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Just a Bully</title>
+			<isbn>0613279212</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Clifford The Small Red Puppy</title>
+			<isbn>0439725267</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Inside the Human Body (The Magic School Bus, #3)</title>
+			<isbn>0590414275</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Arthur's Halloween (Arthur Adventure Series)</title>
+			<isbn>0316110590</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>If You Give a Pig a Party</title>
+			<isbn>0060283262</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Curious George Visits the Library</title>
+			<isbn>0618065687</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

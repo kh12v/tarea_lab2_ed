@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>404562</id>
+	<title>Henry &amp; Ramona</title>
+	<isbn>0871297485</isbn>
+	<publication_year />
+	<language_code />
+	<description>A short play for children based on the characters Henry Huggins and Beezus and Ramona Quimby, created by Beverly Cleary.</description>
+	<average_rating>4.14</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Henry and the Paper Route (Henry, #4)</title>
+			<isbn>038070921X</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Hello, Mrs. Piggle-Wiggle (Mrs. Piggle Wiggle, #4)</title>
+			<isbn>0064401499</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Come Back, Amelia Bedelia</title>
+			<isbn>0060266880</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Ralph S. Mouse by Beverly Cleary: Teacher Guide (Novel Units)</title>
+			<isbn>1561371734</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Anastasia at Your Service (Anastasia Krupnik, #3)</title>
+			<isbn>0440402905</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Pippi Goes on Board</title>
+			<isbn>0140309594</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Otherwise Known as Sheila the Great (Fudge #2)</title>
+			<isbn>0142408794</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Littles</title>
+			<isbn>0590462253</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Calling Doctor Amelia Bedelia</title>
+			<isbn>0060087803</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Nothing's Fair in Fifth Grade</title>
+			<isbn>0140344438</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+	</similar_books>
+</book>

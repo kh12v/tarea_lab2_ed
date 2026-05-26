@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>34941</id>
+	<title>Star Wars - Episode I: The Phantom Menace</title>
+	<isbn>0099409968</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;A long time ago in a galaxy far, far away, an evil legacy long believed dead is stirring. Now the dark side of the Force threatens to overwhelm the light, and only an ancient Jedi prophecy stands between hope and doom for the entire galaxy.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;On the green, unspoiled world of Naboo, Jedi Master Qui-Gon Jinn and his apprentice, Obi-Wan Kenobi, arrive to protect the realm’s young queen as she seeks a diplomatic solution to end the siege of her planet by Trade Federation warships. At the same time, on desert-swept Tatooine, a slave boy named Anakin Skywalker, who possesses a strange ability for understanding the “rightness” of things, toils by day and dreams by night—of becoming a Jedi Knight and finding a way to win freedom for himself and his beloved mother. It will be the unexpected meeting of Jedi, Queen, and a gifted boy that will mark the start of a drama that will become legend.</description>
+	<average_rating>3.55</average_rating>
+	<num_pages>255</num_pages>
+	<similar_books>
+		<book>
+			<title>Star Wars - Episode II: Attack of the Clones</title>
+			<isbn>0099410575</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Star Wars: Episode III - Revenge of the Sith</title>
+			<isbn>0345428838</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shadow Hunter (Star Wars: Darth Maul, #2)</title>
+			<isbn>0345435419</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Rogue Planet (Star Wars)</title>
+			<isbn>0345435400</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Return of the Jedi</title>
+			<isbn>0345307674</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Approaching Storm</title>
+			<isbn>0345443004</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Cloak of Deception (Star Wars)</title>
+			<isbn>0099439972</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Cestus Deception</title>
+			<isbn>0099472627</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Clone Wars (Star Wars: The Clone Wars, #1)</title>
+			<isbn>034550898X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Empire Strikes Back (Star Wars - Episode V)</title>
+			<isbn>0345283929</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Balance Point (Star Wars: The New Jedi Order, #6)</title>
+			<isbn>009941029X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Conquest (Edge of Victory, #1) (Star Wars: The New Jedi Order, #7)</title>
+			<isbn>0345428641</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Remnant (Force Heretic, #1) (Star Wars: The New Jedi Order, #15)</title>
+			<isbn>0345428706</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Wild Space (Star Wars: The Clone Wars, #2)</title>
+			<isbn>0345509013</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Unseen Queen (Star Wars: Dark Nest, #2)</title>
+			<isbn>034546303X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Outbound Flight (Star Wars)</title>
+			<isbn>034545684X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

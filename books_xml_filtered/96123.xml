@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>96123</id>
+	<title>All the President's Men</title>
+	<isbn>1416522913</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>This landmark book details all the events of the biggest political scandal in the history of this nation--Watergate. Woodward and Bernstein kept the headlines coming, delivering revelation after amazing revelation to a shocked public. Black-and-white photograph section.</description>
+	<average_rating>4.17</average_rating>
+	<num_pages>480</num_pages>
+	<similar_books>
+		<book>
+			<title>Blind Ambition: The White House Years</title>
+			<isbn>0671224387</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Making of the President 1960</title>
+			<isbn>0760762899</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Secret Man: The Story of Watergate's Deep Throat</title>
+			<isbn>0743287150</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Nixonland: The Rise of a President and the Fracturing of America</title>
+			<isbn>0743243021</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Best and the Brightest</title>
+			<isbn>0449908704</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Thirteen Days: A Memoir of the Cuban Missile Crisis</title>
+			<isbn>0393318346</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Against All Enemies</title>
+			<isbn>0743268237</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Boys on the Bus</title>
+			<isbn>0812968204</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>A Thousand Days: John F. Kennedy in the White House</title>
+			<isbn>1579124496</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Death of a President: November 1963</title>
+			<isbn>0671049607</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>What It Takes: The Way to the White House</title>
+			<isbn>0679746498</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Price of Loyalty: George W. Bush, the White House, and the Education of Paul O'Neill</title>
+			<isbn>0743255461</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Bright Shining Lie</title>
+			<isbn>0679724141</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

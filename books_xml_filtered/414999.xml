@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>414999</id>
+	<title>Childhood's End</title>
+	<isbn>0345347951</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>Without warning, giant silver ships from deep space appear in the skies above every major city on Earth. Manned by the Overlords, in fifty years, they eliminate ignorance, disease, and poverty. Then this golden age ends--and then the age of Mankind begins....</description>
+	<average_rating>4.09</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>Last and First Men</title>
+			<isbn>0486466825</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Non-Stop</title>
+			<isbn>1585676837</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The End of Eternity</title>
+			<isbn>0449016196</isbn>
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>The Mote in God's Eye</title>
+			<isbn>156865054X</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Mission of Gravity (Mesklin, #1)</title>
+			<isbn>0515034797</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Babel-17</title>
+			<isbn>0839823282</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Dragon's Egg</title>
+			<isbn>034543529X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>More Than Human</title>
+			<isbn>0375703713</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Way Station</title>
+			<isbn>0020248717</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Methuselah's Children</title>
+			<isbn>0671655973</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Camp Concentration</title>
+			<isbn>0375705457</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>A Case of Conscience (After Such Knowledge, #4)</title>
+			<isbn>0345438353</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Mockingbird</title>
+			<isbn>0345431626</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Inverted World</title>
+			<isbn>0060134216</isbn>
+			<publication_year>1974</publication_year>
+		</book>
+		<book>
+			<title>A Canticle for Leibowitz</title>
+			<isbn>0060892994</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Man Plus (Man Plus #1)</title>
+			<isbn>1857989465</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

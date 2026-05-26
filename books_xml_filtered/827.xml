@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>827</id>
+	<title>The Diamond Age: or, A Young Lady's Illustrated Primer</title>
+	<isbn>0553380966</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>The Diamond Age: Or, A Young Lady's Illustrated Primer is a postcyberpunk novel by Neal Stephenson. It is to some extent a science fiction coming-of-age story, focused on a young girl named Nell, and set in a future world in which nanotechnology affects all aspects of life. The novel deals with themes of education, social class, ethnicity, and the nature of artificial intelligence.</description>
+	<average_rating>4.19</average_rating>
+	<num_pages>499</num_pages>
+	<similar_books>
+		<book>
+			<title>Count Zero (Sprawl, #2)</title>
+			<isbn>0441013678</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Schismatrix Plus</title>
+			<isbn>0441003702</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Rainbows End</title>
+			<isbn>0812536363</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>They'd Rather Be Right </title>
+			<isbn>0898651654</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Altered Carbon (Takeshi Kovacs, #1)</title>
+			<isbn>0345457692</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Schild's Ladder</title>
+			<isbn>006107344X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Accelerando (Singularity)</title>
+			<isbn>0441014151</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Look to Windward (Culture, #7)</title>
+			<isbn>0743421922</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>River of Gods (India 2047, #1)</title>
+			<isbn>1591024366</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Barrayar (Vorkosigan Saga, #7)</title>
+			<isbn>0743468414</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

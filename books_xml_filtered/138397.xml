@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>138397</id>
+	<title>The Walking Dead, Vol. 04: The Heart's Desire</title>
+	<isbn>1582405301</isbn>
+	<publication_year>2009</publication_year>
+	<language_code>eng</language_code>
+	<description>Life in the prison starts to get interesting for Rick Grimes and the rest of our survivors. Relationships heat up, fizzle out, and change entirely almost overnight. By the end of this volume, relationships between key characters are radically changed, setting the stage for future events in The Walking Dead.</description>
+	<average_rating>4.23</average_rating>
+	<num_pages>136</num_pages>
+	<similar_books>
+		<book>
+			<title>Y: The Last Man, Vol. 6: Girl on Girl (Y: The Last Man, #6)</title>
+			<isbn>1401205011</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Chew, Vol. 8: Family Recipes</title>
+			<isbn>1607069385</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Locke &amp; Key, Vol. 3: Crown of Shadows</title>
+			<isbn>1600106951</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Sin City, Vol. 6: Booze, Broads, and Bullets (Sin City, #6)</title>
+			<isbn>1593072988</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Fables, Vol. 7: Arabian Nights [and Days] (Fables, #7)</title>
+			<isbn>1401210007</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Preacher, Volume 4: Ancient History</title>
+			<isbn>156389405X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Revival, Vol. 3: A Faraway Place</title>
+			<isbn>1607068605</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>DMZ, Vol. 6: Blood in the Game</title>
+			<isbn>1401221300</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Buffy the Vampire Slayer: Wolves at the Gate (Season 8, #3)</title>
+			<isbn>1595821651</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>100 Bullets, Vol. 3: Hang Up on the Hang Low</title>
+			<isbn>1563898551</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

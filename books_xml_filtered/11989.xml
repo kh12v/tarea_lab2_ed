@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>11989</id>
+	<title>The Plague</title>
+	<isbn>0679720219</isbn>
+	<publication_year>1991</publication_year>
+	<language_code>eng</language_code>
+	<description>A gripping tale of human unrelieved horror, of survival and resilience, and of the ways in which humankind confronts death, &lt;i&gt;The Plague&lt;/i&gt; is at once a masterfully crafted novel, eloquently understated and epic in scope, and a parable of ageless moral resonance, profoundly relevant to our times. In Oran, a coastal town in North Africa, the plague begins as a series of portents, unheeded by the people. It gradually becomes a omnipresent reality, obliterating all traces of the past and driving its victims to almost unearthly extremes of suffering, madness, and compassion.</description>
+	<average_rating>3.97</average_rating>
+	<num_pages>308</num_pages>
+	<similar_books>
+		<book>
+			<title>The Reprieve</title>
+			<isbn>0679740783</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Zazie in the Metro</title>
+			<isbn>0142180041</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Counterfeiters</title>
+			<isbn>0394718429</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Man's Fate</title>
+			<isbn>0679725741</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Tango</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Holy Terrors</title>
+			<isbn>0811200213</isbn>
+			<publication_year>1966</publication_year>
+		</book>
+		<book>
+			<title>In the Shadow of Young Girls in Flower (In Search of Lost Time, #2)</title>
+			<isbn>0143039075</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>A Very Easy Death</title>
+			<isbn>0394728998</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Thérèse Desqueyroux</title>
+			<isbn>2253004219</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ficciones</title>
+			<isbn>0802130305</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Nana (Les Rougon-Macquart, #9)</title>
+			<isbn>3746611091</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Black Sheep</title>
+			<isbn>0140442375</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Inny świat</title>
+			<isbn>8308032303</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>L'Œuvre au noir</title>
+			<isbn />
+			<publication_year>1989</publication_year>
+		</book>
+	</similar_books>
+</book>

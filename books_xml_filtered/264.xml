@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>264</id>
+	<title>The Portrait of a Lady</title>
+	<isbn>0141439637</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>When Isabel Archer, a beautiful, spirited American, is brought to Europe by her wealthy Aunt Touchett, it is expected that she will soon marry. But Isabel, resolved to determine her own fate, does not hesitate to turn down two eligible suitors. She then finds herself irresistibly drawn to Gilbert Osmond, who, beneath his veneer of charm and cultivation, is cruelty itself. A story of intense poignancy, Isabel's tale of love and betrayal still resonates with modern audiences.&lt;br /&gt;&lt;br /&gt;</description>
+	<average_rating>3.76</average_rating>
+	<num_pages>656</num_pages>
+	<similar_books>
+		<book>
+			<title>The History of Tom Jones, a Foundling</title>
+			<isbn>0140436227</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Custom of the Country</title>
+			<isbn>0143039709</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Clarissa, or, the History of a Young Lady</title>
+			<isbn>0140432159</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The Life of Charlotte Brontë</title>
+			<isbn>0192838059</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Poor Miss Finch</title>
+			<isbn>0192823221</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Dombey and Son</title>
+			<isbn>0812967437</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Mill on the Floss</title>
+			<isbn>0141439629</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Portrait of a Novel: Henry James and the Making of an American Masterpiece</title>
+			<isbn>0871404087</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Villette</title>
+			<isbn>037575850X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Barchester Towers (Chronicles of Barsetshire #2)</title>
+			<isbn>1406923044</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Where Angels Fear to Tread</title>
+			<isbn>1419193775</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Blithedale Romance</title>
+			<isbn>1406501336</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Return of the Native  </title>
+			<isbn>037575718X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Sybil, or the Two Nations</title>
+			<isbn>0809594447</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Doctor's Wife</title>
+			<isbn>0192833014</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

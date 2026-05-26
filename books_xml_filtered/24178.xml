@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>24178</id>
+	<title>Charlotte's Web</title>
+	<isbn>0064410935</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>This beloved book by E. B. White, author of Stuart Little and The Trumpet of the Swan, is a classic of children's literature that is "just about perfect."&lt;br /&gt;Some Pig. Humble. Radiant. These are the words in Charlotte's Web, high up in Zuckerman's barn. Charlotte's spiderweb tells of her feelings for a little pig named Wilbur, who simply wants a friend. They also express the love of a girl named Fern, who saved Wilbur's life when he was born the runt of his litter.&lt;br /&gt;E. B. White's Newbery Honor Book is a tender novel of friendship, love, life, and death that will continue to be enjoyed by generations to come. This edition contains color illustrations by Garth Williams, the acclaimed illustrator of E.B. White's Stuart Little and Laura Ingalls Wilder's Little House series, among many other books.&lt;br /&gt;Supports the Common Core State Standards</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>184</num_pages>
+	<similar_books>
+		<book>
+			<title>Ramona Quimby, Age 8 (Ramona, #6)</title>
+			<isbn>0440800463</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>By the Shores of Silver Lake  (Little House, #5)</title>
+			<isbn>0060885416</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Madeline</title>
+			<isbn>0590133373</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Mr. Popper's Penguins</title>
+			<isbn>0316058432</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears and the Messy Room</title>
+			<isbn>0394856392</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Linnea in Monet's Garden </title>
+			<isbn>9129583144</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Harriet the Spy (Harriet the Spy #1)</title>
+			<isbn>0440416795</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Hundred Dresses</title>
+			<isbn>0152052607</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Amelia Bedelia  (Amelia Bedelia #1)</title>
+			<isbn>0064441555</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tales of a Fourth Grade Nothing (Fudge, #1)</title>
+			<isbn>0425193799</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Tale of Mrs. Tiggy-Winkle</title>
+			<isbn>0723247757</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Boxcar Children (The Boxcar Children, #1)</title>
+			<isbn>0807508527</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Polar Express</title>
+			<isbn>0395389496</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>7987</id>
+	<title>The Legend of Luke (Redwall, #12)</title>
+	<isbn>0142501093</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>3.99</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Urchin and the Heartstone (The Mistmantle Chronicles, #2)</title>
+			<isbn>078685488X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Seven Songs (Merlin Saga, #2)</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Hork-Bajir Chronicles (Animorphs Chronicles, #2)</title>
+			<isbn>043999652X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Iron Ring</title>
+			<isbn>0141303484</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Perloo The Bold</title>
+			<isbn>0590110039</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Dinotopia: The World Beneath</title>
+			<isbn>0060530650</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

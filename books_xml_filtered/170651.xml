@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>170651</id>
+	<title>A Stranger Is Watching</title>
+	<isbn>0743484371</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Ronald Thompson knows he is not guilty of the murder for which he is about to be executed. There are only two days left to unmask the real villain - a terrifying psychopath who has killed before and has unfinished business with his victim's family.</description>
+	<average_rating>3.91</average_rating>
+	<num_pages>322</num_pages>
+	<similar_books>
+		<book>
+			<title>Silent Night: The Remarkable Christmas Truce of 1914</title>
+			<isbn>0743450302</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Hitched (Regan Reilly Mystery, #9)</title>
+			<isbn>0743289420</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Box</title>
+			<isbn>158288143X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Let Me Whisper In Your Ear (KEY News #3)</title>
+			<isbn>0312938098</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Unforgiven</title>
+			<isbn>0743423658</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

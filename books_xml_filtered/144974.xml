@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>144974</id>
+	<title>The Velveteen Rabbit</title>
+	<isbn>0380002558</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>eng</language_code>
+	<description>Nursery magic is very strange and wonderful, and only those playthings that are old and wise and experienced like the Skin Horse understand all about it.&lt;br /&gt;&lt;br /&gt;Like the Skin Horse, Margery Williams understood how toys--and people--become real through the wisdom and experience of love. This reissue of a favorite classic, with the original story and illustrations as they first appeared in 1922, will work its magic for all who read it.</description>
+	<average_rating>4.29</average_rating>
+	<num_pages>40</num_pages>
+	<similar_books>
+		<book>
+			<title>The Tale of Tom Kitten</title>
+			<isbn>0723247773</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Little House</title>
+			<isbn>0395181569</isbn>
+			<publication_year>1942</publication_year>
+		</book>
+		<book>
+			<title>Leo the Lop</title>
+			<isbn>0843177233</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Mad About Madeline: The Complete Tales</title>
+			<isbn>0670888168</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>And to Think That I Saw it on Mulberry Street</title>
+			<isbn>0007169922</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Little Red Hen (Little Golden Book)</title>
+			<isbn>0307960307</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Story of Ferdinand</title>
+			<isbn>0670674249</isbn>
+			<publication_year>1936</publication_year>
+		</book>
+		<book>
+			<title>The Little Engine That Could</title>
+			<isbn>0448405202</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Make Way for Ducklings</title>
+			<isbn>0670035386</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Bread and Jam for Frances</title>
+			<isbn>0064430960</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Little Red Hen Big Book</title>
+			<isbn>0618836845</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Story of Little Black Sambo</title>
+			<isbn>0397300069</isbn>
+			<publication_year>1923</publication_year>
+		</book>
+		<book>
+			<title>Inside the Earth (The Magic School Bus, #2)</title>
+			<isbn>0590407600</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears and Too Much Junk Food</title>
+			<isbn>0394872177</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The Little Rabbit Who Wanted Red Wings</title>
+			<isbn>0448190893</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>What Do People Do All Day?</title>
+			<isbn>0394818237</isbn>
+			<publication_year>1968</publication_year>
+		</book>
+		<book>
+			<title>Days with Frog and Toad (Frog and Toad, #4)</title>
+			<isbn>0064440583</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Miss Rumphius</title>
+			<isbn>0140505393</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+	</similar_books>
+</book>

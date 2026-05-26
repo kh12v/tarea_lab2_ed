@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>16148398</id>
+	<title>Saga #1</title>
+	<isbn />
+	<publication_year>2012</publication_year>
+	<language_code>eng</language_code>
+	<description>Star Wars-style action collides with Game of Thrones-esque drama in this original sci-fi/fantasy epic for mature readers, as new parents Marko and Alana risk everything to raise their child amidst a never-ending galactic war.</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>48</num_pages>
+	<similar_books>
+		<book>
+			<title>Sex Criminals #5: Going Down</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Wicked + The Divine #4</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Ms. Marvel, #3: Side Entrance</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Rat Queens #3</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Sandman: Overture #1</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Unwritten, Vol. 7: The Wound</title>
+			<isbn>1401238068</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Locke &amp; Key, Vol. 4: Keys to the Kingdom</title>
+			<isbn>1600108865</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Manhattan Projects #1</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Kill Shakespeare, Vol. 2: The Blast of War</title>
+			<isbn>1613770251</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Princeless, Vol. 2: Get Over Yourself</title>
+			<isbn>098596524X</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+	</similar_books>
+</book>

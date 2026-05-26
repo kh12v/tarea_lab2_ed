@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>8253</id>
+	<title>Little Town on the Prairie  (Little House, #7)</title>
+	<isbn>0060885432</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>en-GB</language_code>
+	<description>The long winter is finally over, and with spring comes a new job for Laura, town parties, and more time to spend with Almanzo Wilder. Laura also tries to help Pa and Ma save money for Mary to go to college.</description>
+	<average_rating>4.18</average_rating>
+	<num_pages>374</num_pages>
+	<similar_books>
+		<book>
+			<title>In the Land of the Big Red Apple (Little House: The Rocky Ridge Years, #3)</title>
+			<isbn>0064405745</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Down to the Bonny Glen (Little House: The Martha Years, #3)</title>
+			<isbn>0064407144</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>More All-of-a-Kind Family (All-of-a-Kind Family, #3)</title>
+			<isbn>0929093100</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Little Clearing in the Woods (Little House: The Caroline Years, #3)</title>
+			<isbn>0064406520</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Betsy Was a Junior (Betsy-Tacy, #7)</title>
+			<isbn>0064405478</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Little City by the Lake (Little House: The Caroline Years, #6)</title>
+			<isbn>0064407357</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

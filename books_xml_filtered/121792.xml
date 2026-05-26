@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>121792</id>
+	<title>The Revenge of the Baby-Sat</title>
+	<isbn>1417642122</isbn>
+	<publication_year>1991</publication_year>
+	<language_code />
+	<description>The praise and popularity of Calvin and Hobbes continue to escalate as the hottest comic strip around reaches its fifth birthday. With keen insight, Bill Watterson depicts life through the eyes of a child, and the limits of our imaginations are challenged as we accompany Calvin and Hobbes while they stir up trouble, travel through time, transmogrify themselves--and just have fun in everything they do.</description>
+	<average_rating>4.71</average_rating>
+	<num_pages>128</num_pages>
+	<similar_books>
+		<book>
+			<title>Tales Too Ticklish to Tell: Bloom County</title>
+			<isbn>0316107352</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Wiener Dog Art: A Far Side Collection</title>
+			<isbn>0836218655</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Say Hello to Cactus Flats: A FoxTrot Collection</title>
+			<isbn>0836217209</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

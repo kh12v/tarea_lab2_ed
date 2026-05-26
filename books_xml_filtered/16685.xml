@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>16685</id>
+	<title>The Cat Who Walks Through Walls (The World As Myth)</title>
+	<isbn>0441094996</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>When a stranger attempting to deliver a cryptic message is shot dead at his table, Dr. Richard Ames is thrown headfirst into danger, intrigue, and other dimensions, where a plot to rescue a sentient computer could alter human history...</description>
+	<average_rating>3.70</average_rating>
+	<num_pages>388</num_pages>
+	<similar_books>
+		<book>
+			<title>Callahan's Key (The Place #1, Callahan's Series #8)</title>
+			<isbn>0553580604</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Smoke Ring (The State, #3)</title>
+			<isbn>0345302575</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Magic Labyrinth (Riverworld, #4)</title>
+			<isbn>0345419707</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Statesman (Bio of a Space Tyrant, #5)</title>
+			<isbn>0380898357</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Dosadi Experiment (ConSentiency Universe, #2)</title>
+			<isbn>0765342537</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Earthlight</title>
+			<isbn>0345248880</isbn>
+			<publication_year>1975</publication_year>
+		</book>
+		<book>
+			<title>The Boat of a Million Years</title>
+			<isbn>0765310244</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Tar-Aiym Krang (Pip &amp; Flinx #1)</title>
+			<isbn>0345908570</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

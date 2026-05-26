@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>73297</id>
+	<title>The Scarlet Thread </title>
+	<isbn>0842342710</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>This best-selling novel by popular author Francine Rivers is now available in mass paper. When Sierra discovers her young ancestor's handcrafted quilt and reads her journal, she finds that their lives are very similar. By following her ancestor's example, she learns to surrender to God's sovereignty and unconditional love.</description>
+	<average_rating>4.14</average_rating>
+	<num_pages>462</num_pages>
+	<similar_books>
+		<book>
+			<title>Sophie's Heart (Contemporary Romance)</title>
+			<isbn>0736912916</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Oceans Apart</title>
+			<isbn>0310247497</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Strength of His Hand (Chronicles of the Kings, #3)</title>
+			<isbn>0764229915</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Light in Zion (Zion Chronicles #4)</title>
+			<isbn>1414301057</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Whence Came a Prince (Lowlands of Scotland, #3)</title>
+			<isbn>1578561280</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

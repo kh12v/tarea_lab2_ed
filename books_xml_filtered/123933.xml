@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>123933</id>
+	<title>No Exit</title>
+	<isbn>0573613052</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description>Jean-Paul Sartre, the great French existentialist, displays his mastery of drama in NO EXIT, an unforgettable portrayal of hell.&lt;br /&gt;The play is a depiction of the afterlife in which three deceased characters are punished by being locked into a room together for eternity. It is the source of Sartre's especially famous and often misinterpreted quotation "L'enfer, c'est les autres" or "Hell is other people", a reference to Sartre's ideas about the Look and the perpetual ontological struggle of being caused to see oneself as an object in the world of another consciousness.</description>
+	<average_rating>4.13</average_rating>
+	<num_pages>60</num_pages>
+	<similar_books>
+		<book>
+			<title>Rhinocéros</title>
+			<isbn>2070368165</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Maids &amp; Deathwatch</title>
+			<isbn>080215056X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ghosts</title>
+			<isbn>1420927957</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Dead Man's Cell Phone (TCG Edition)</title>
+			<isbn>1559363258</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Birthday Party</title>
+			<isbn>0571160786</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum of Charenton Under the Direction of the Marquis de Sade</title>
+			<isbn>1577662318</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Caligula</title>
+			<isbn>2070386708</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Six Characters in Search of an Author and Other Plays</title>
+			<isbn>014018922X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Zoo Story and Other Plays</title>
+			<isbn>0140251138</isbn>
+			<publication_year>1960</publication_year>
+		</book>
+		<book>
+			<title>The Father</title>
+			<isbn>0486432173</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>In the Blood</title>
+			<isbn>0822217562</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Mother Courage and Her Children</title>
+			<isbn>155970361X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Becket</title>
+			<isbn>1573225088</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>I Am My Own Wife</title>
+			<isbn>0571211747</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Le Malade imaginaire</title>
+			<isbn>2038716668</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

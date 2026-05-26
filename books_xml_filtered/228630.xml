@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>228630</id>
+	<title>Black Boy</title>
+	<isbn>0060929782</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>en-US</language_code>
+	<description>&lt;i&gt;Black Boy&lt;/i&gt; is a classic of American autobiography, a subtly crafted narrative of Richard Wright's journey from innocence to experience in the Jim Crow South. An enduring story of one young man's coming of age during a particular time and place, &lt;i&gt;Black Boy&lt;/i&gt; remains a seminal text in our history about what it means to be a man, black, and Southern in America.</description>
+	<average_rating>4.02</average_rating>
+	<num_pages>419</num_pages>
+	<similar_books>
+		<book>
+			<title>Notes of a Native Son</title>
+			<isbn>0807064319</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Manchild in the Promised Land</title>
+			<isbn>0684864185</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Souls of Black Folk</title>
+			<isbn>014018998X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Dust Tracks on a Road</title>
+			<isbn>0060854081</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Contours of American History</title>
+			<isbn>0393305619</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Autobiography of an Ex-Colored Man</title>
+			<isbn>0809000326</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Sweeter the Juice: A Family Memoir in Black and White</title>
+			<isbn>0671899333</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Big Sea</title>
+			<isbn>0809015498</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Carry Me Home: Birmingham, Alabama: The Climactic Battle of the Civil Rights Revolution</title>
+			<isbn>0743217721</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mumbo Jumbo</title>
+			<isbn>0684824779</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shadow and Act</title>
+			<isbn>0679760008</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Before the Mayflower: A History of Black America</title>
+			<isbn>0140178228</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>An American Dilemma: The Negro Problem and Modern Democracy Vol. 1</title>
+			<isbn>1560008563</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Cane</title>
+			<isbn>0871401517</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Soledad Brother: The Prison Letters of George Jackson</title>
+			<isbn>1556522304</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Soul on Ice</title>
+			<isbn>038533379X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>A Grave for a Dolphin</title>
+			<isbn />
+			<publication_year>1956</publication_year>
+		</book>
+		<book>
+			<title>When and Where I Enter: The Impact of Black Women on Race and Sex in America</title>
+			<isbn>0688146503</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

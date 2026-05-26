@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>32979</id>
+	<title>The Secret of the Old Clock (Nancy Drew, #1)</title>
+	<isbn>1557091552</isbn>
+	<publication_year>1991</publication_year>
+	<language_code>eng</language_code>
+	<description>This is a facsimile reprint of the first ever Nancy Drew book, published 1930.&lt;br /&gt;&lt;br /&gt;Nancy Drew's keen mind is tested when she searches for Mr. Crowley's missing will.</description>
+	<average_rating>3.98</average_rating>
+	<num_pages>210</num_pages>
+	<similar_books>
+		<book>
+			<title>The Red Trailer Mystery (Trixie Belden, #2)</title>
+			<isbn>0375824111</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Black Jacket Mystery (Trixie Belden, #8)</title>
+			<isbn>0375829792</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Tower Treasure (Hardy Boys, #1)</title>
+			<isbn>1557091447</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Bobbsey Twins of Lakeport (Bobbsey Twins, #1)</title>
+			<isbn>044843752X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Surprise Island (The Boxcar Children, #2)</title>
+			<isbn>0807576743</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

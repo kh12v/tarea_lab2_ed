@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>1275105</id>
+	<title>A Charlie Brown Christmas</title>
+	<isbn>0606300538</isbn>
+	<publication_year>2004</publication_year>
+	<language_code />
+	<description>It's Christmas! Everyone is getting into the Christmas spirit -- except for Charlie Brown. It seems like everybody has forgotten what Christmas is truly about. But Lucy, Linus, and the whole Peanuts gang have some holiday surprises that will make even Charlie Brown feel merry!</description>
+	<average_rating>4.48</average_rating>
+	<num_pages>128</num_pages>
+	<similar_books>
+		<book>
+			<title>The Berenstain Bears' Christmas Tree</title>
+			<isbn>0394845668</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Yes, Virginia, There Is A Santa Claus</title>
+			<isbn>0762411201</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Littlest Angel</title>
+			<isbn>0824953320</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Santa's Favorite Story</title>
+			<isbn>0689817231</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Froggy's Best Christmas</title>
+			<isbn>0140567356</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Snowmen at Christmas</title>
+			<isbn>0803729952</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Crippled Lamb</title>
+			<isbn>0849910056</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Bear Stays Up for Christmas</title>
+			<isbn>0689852789</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>You're a Good Man, Charlie Brown</title>
+			<isbn>0793549701</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Olivia Helps with Christmas</title>
+			<isbn>1416907866</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Santa's Toy Shop (a Big Little Golden Book)</title>
+			<isbn>0375833617</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Madeline's Christmas</title>
+			<isbn>0670806668</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Christmas Oranges</title>
+			<isbn>1591560985</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Frosty the Snow Man</title>
+			<isbn>0307140210</isbn>
+			<publication_year>1950</publication_year>
+		</book>
+		<book>
+			<title>Olive, the Other Reindeer</title>
+			<isbn>0811818071</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Frosty the Snowman (Frosty the Snowman)</title>
+			<isbn>0307960382</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Eloise at Christmastime</title>
+			<isbn>0689830394</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Clifford's Christmas</title>
+			<isbn>0590442880</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+	</similar_books>
+</book>

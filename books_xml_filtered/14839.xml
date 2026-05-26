@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>14839</id>
+	<title>Last Man Standing</title>
+	<isbn>0446611778</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>When Web London's FBI Hostage Rescue Team is ambushed in a dark alley, Web is the only survivor. As the FBI investigates, suspicion surrounding Web deepens. Now, he needs help from an unlikely ally in his desperate search for the killer of his friends, and finds himself up against a force intent on finishing the job that began in the alley.</description>
+	<average_rating>4.03</average_rating>
+	<num_pages>656</num_pages>
+	<similar_books>
+		<book>
+			<title>The Millionaires</title>
+			<isbn>0446611921</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Critical Mass</title>
+			<isbn>0515126489</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The First Commandment (Scot Harvath, #6)</title>
+			<isbn>1416543791</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The First Billion</title>
+			<isbn>0440234697</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Memorial Day (Mitch Rapp, #7)</title>
+			<isbn>1416548009</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Ambler Warning</title>
+			<isbn>0312990693</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Lion (John Corey, #5)</title>
+			<isbn>044658083X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Secret Sanction (Sean Drummond, #1)</title>
+			<isbn>0752848283</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Liberty (Jake Grafton #10)</title>
+			<isbn>0312989709</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

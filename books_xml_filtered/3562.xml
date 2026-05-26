@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>3562</id>
+	<title>Emily of New Moon (Emily, #1)</title>
+	<isbn>055323370X</isbn>
+	<publication_year>1983</publication_year>
+	<language_code>eng</language_code>
+	<description>Emily Starr never knew what it was to be lonely -- until her beloved father died. Now Emily's an orphan, and her mother's snobbish relatives are taking her to live with them at New Moon Farm. She's sure she won't be happy. Emily deals with stiff, stern Aunt Elizabeth and her malicious classmates by holding her head high and using her quick wit. Things begin to change when she makes friends: with Teddy, who does marvelous drawings; with Perry, who's sailed all over the world with his father yet has never been to school; and above all, with Ilse, a tomboy with a blazing temper. Amazingly, Emily finds New Moon beautiful and fascinating. With new friends and adventures, Emily might someday think of herself as Emily of New Moon.</description>
+	<average_rating>4.09</average_rating>
+	<num_pages>339</num_pages>
+	<similar_books>
+		<book>
+			<title>Emily of Deep Valley (Deep Valley, #2)</title>
+			<isbn>0064408582</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Eight Cousins (Eight Cousins, #1)</title>
+			<isbn>0486455599</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Sky Is Falling (The Guests of War Trilogy, #1)</title>
+			<isbn>0140341897</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Theater Shoes (Shoes, #4)</title>
+			<isbn>0679854347</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Just Patty</title>
+			<isbn>159462951X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Opium w rosole (Jeżycjada, #5)</title>
+			<isbn>8387463477</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Spiderweb for Two: A Melendy Maze</title>
+			<isbn>080507063X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

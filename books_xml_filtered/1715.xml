@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>1715</id>
+	<title>Metamorphoses</title>
+	<isbn>014044789X</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Metamorphoses (from Greek μετά meta and μορφή morphē, meaning "changes of shape"), is a Latin narrative poem in fifteen books describing the history of the world from its creation to the deification of Julius Caesar within a loose mythico-historical framework. Completed in AD 8, it is recognized as a masterpiece of Golden Age Latin literature. &lt;br /&gt;&lt;br /&gt;This cohesive collection of stories from Greek and Roman mythology recounts tales of recorded transformations. Comprised of over fifty stories, it chronicles the legends of King Midas, Daedalus, Icarus, Hercules, and the Trojan War.</description>
+	<average_rating>4.03</average_rating>
+	<num_pages>723</num_pages>
+	<similar_books>
+		<book>
+			<title>The Complete Poems</title>
+			<isbn>0192835874</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Satyricon</title>
+			<isbn>0192839527</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Golden Ass</title>
+			<isbn>0253200369</isbn>
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>The Eclogues and The Georgics</title>
+			<isbn>0192837680</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Poems</title>
+			<isbn>0192835734</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Odes of Horace</title>
+			<isbn>0374224250</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Sixteen Satires</title>
+			<isbn>0140447040</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Homeric Hymns</title>
+			<isbn>0140437827</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Theogony/Works and Days</title>
+			<isbn>0192839411</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Way Things Are: The De Rerum Natura</title>
+			<isbn>025320125X</isbn>
+			<publication_year>1968</publication_year>
+		</book>
+		<book>
+			<title>An Ethiopian Romance</title>
+			<isbn>0812216725</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Medea and Other Plays</title>
+			<isbn>0140449299</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Pharsalia: The Civil War</title>
+			<isbn>0192839497</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Epigrams</title>
+			<isbn>0375760423</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Idylls</title>
+			<isbn>0192839845</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

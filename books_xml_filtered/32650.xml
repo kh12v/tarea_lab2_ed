@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>32650</id>
+	<title>The Return of the Native  </title>
+	<isbn>037575718X</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;The Return of the Native&lt;/i&gt; is a work by Thomas Hardy now brought to you in this new edition of the timeless classic.</description>
+	<average_rating>3.84</average_rating>
+	<num_pages>448</num_pages>
+	<similar_books>
+		<book>
+			<title>Phineas Finn (Palliser, #2)</title>
+			<isbn>0140430857</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Born in Exile</title>
+			<isbn>140680942X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Adam Bede</title>
+			<isbn>0375759018</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Dombey and Son</title>
+			<isbn>0812967437</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The History of Henry Esmond, Esq.</title>
+			<isbn>1406821373</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Monastery</title>
+			<isbn>1406932531</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Expedition of Humphry Clinker</title>
+			<isbn>0140430210</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>Some Experiences of an Irish R.M.</title>
+			<isbn>1879941406</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Marble Faun</title>
+			<isbn>0192839764</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

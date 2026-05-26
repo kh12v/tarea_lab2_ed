@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>10766509</id>
+	<title>The Best of Me</title>
+	<isbn>0446547654</isbn>
+	<publication_year>2011</publication_year>
+	<language_code>en-US</language_code>
+	<description>THE BEST OF ME is the heart-rending story of two small-town former high school sweethearts from opposite sides of the tracks. Now middle-aged, they've taken wildly divergent paths, but neither has lived the life they imagined . . . and neither can forget the passionate first love that forever altered their world. When they are both called back to their hometown for the funeral of the mentor who once gave them shelter, they will be forced to confront the choices each has made, and ask whether love can truly rewrite the past.</description>
+	<average_rating>3.91</average_rating>
+	<num_pages>292</num_pages>
+	<similar_books>
+		<book>
+			<title>Nicholas Sparks</title>
+			<isbn>1159203482</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lost December</title>
+			<isbn>1451628005</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Vow: The Kim &amp; Krickitt Carpenter Story</title>
+			<isbn>0805421300</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>A Turn in the Road (Blossom Street, #8)</title>
+			<isbn>0778329836</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>One Summer</title>
+			<isbn>0446583146</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Take Three (Above the Line, #3)</title>
+			<isbn>0310266262</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Wokini: A Lakota Journey to Happiness and Self-Understanding</title>
+			<isbn>1561706604</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Amazing Grace</title>
+			<isbn>0385340230</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Reader's Digest Select Editions, Volume 291, 2007 #3: Dear John / The Two Minute Rule / Can't Wait to Get to Heaven / A Whole New Life</title>
+			<isbn>1606520962</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Summer Island</title>
+			<isbn>0345483448</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Ocean Between Us</title>
+			<isbn>0778321479</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

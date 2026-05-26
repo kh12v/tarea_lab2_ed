@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>115130</id>
+	<title>A Stranger In The Mirror</title>
+	<isbn>0006471250</isbn>
+	<publication_year>1995</publication_year>
+	<language_code>eng</language_code>
+	<description>Toby Temple is a superstar, the world's funniest man. He gets any woman that he wants, but under the superstar image is a lonely man. Jill Castle is a sensuous starlet. She has a dark and mysterious past and has an ambition even greater than Toby's. Together they rule Hollywood.</description>
+	<average_rating>3.61</average_rating>
+	<num_pages>352</num_pages>
+	<similar_books>
+		<book>
+			<title>Remembrance</title>
+			<isbn>0751505552</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hollywood Wives (Hollywood Series, #1)</title>
+			<isbn>0743403835</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>79 Park Avenue</title>
+			<isbn>0671818244</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>The Second Lady</title>
+			<isbn>0752999729</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Dazzle</title>
+			<isbn>0553293761</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Prizes</title>
+			<isbn>0449908593</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Fourth Estate</title>
+			<isbn>0061092037</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Once Is Not Enough</title>
+			<isbn>0802135455</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Voice of the Heart</title>
+			<isbn>0312353278</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

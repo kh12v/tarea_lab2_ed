@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>7352220</id>
+	<title>Black Butler, Vol. 3 (Black Butler, #3)</title>
+	<isbn />
+	<publication_year>2009</publication_year>
+	<language_code>ind</language_code>
+	<description>Sebastian est un majordome au service de Ciel Phantomhive, héritier d'une grande famille de la noblesse anglaise. Distingué et irréprochable, il cache sa véritable nature.</description>
+	<average_rating>4.53</average_rating>
+	<num_pages>190</num_pages>
+	<similar_books>
+		<book>
+			<title>Pandora Hearts, Volume 6</title>
+			<isbn>475752367X</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>D.Gray-man, Volume 06</title>
+			<isbn>1421510545</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Soul Eater, Vol. 02 (Soul Eater, #2)</title>
+			<isbn>0759530483</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Loveless, Volume 7</title>
+			<isbn>1427804575</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hetalia: Axis Powers, Vol. 2 (Hetalia: Axis Powers, #2)</title>
+			<isbn>1427818878</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Godchild, Volume 03</title>
+			<isbn>1421504774</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Alice in the Country of Hearts, Vol. 02 (Alice in the Country of Hearts, #2)</title>
+			<isbn>1427817707</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+	</similar_books>
+</book>

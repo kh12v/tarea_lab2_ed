@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>92373</id>
+	<title>The Third Twin</title>
+	<isbn>033034837X</isbn>
+	<publication_year>1997</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Dr Ferrami is on the verge of uncovering an extraordinary secret...'A high-tech read about genetic engineering, with emotional depth' Telegraph</description>
+	<average_rating>3.64</average_rating>
+	<num_pages>640</num_pages>
+	<similar_books>
+		<book>
+			<title>The Last Pope</title>
+			<isbn>0399154892</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Ausgebrannt</title>
+			<isbn>3785722745</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>A Mão do Diabo</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Die dunkle Seite</title>
+			<isbn>344245879X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Resurrection Day</title>
+			<isbn>0340657480</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Messiah</title>
+			<isbn>0451409000</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Scorpion's Gate</title>
+			<isbn>0399152946</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Day of Reckoning (Cascades Concealed #2)</title>
+			<isbn>0373227612</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Inner Sanctum</title>
+			<isbn>0451190149</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Written in Bone (David Hunter, #2)</title>
+			<isbn>0593055241</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Der Dativ ist dem Genitiv sein Tod: Ein Wegweiser durch den Irrgarten der deutschen Sprache (Der Dativ ist dem Genitiv sein Tod, #1)</title>
+			<isbn>3462034480</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Nemesis</title>
+			<isbn>031293680X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Il mercante di libri maledetti</title>
+			<isbn>8854131946</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Even Steven</title>
+			<isbn>0671786733</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Trilogia del ritorno: L'amico ritrovato; Un'anima non vile; Niente resurrezioni, per favore</title>
+			<isbn>8877463775</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Death Committee</title>
+			<isbn>075150792X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Run The Risk (Alex Delillo, #1)</title>
+			<isbn>0425208427</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Die letzte Spur</title>
+			<isbn>3442464587</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

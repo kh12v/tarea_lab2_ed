@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>1317181</id>
+	<title>Harry Potter and the Order of the Phoenix (Harry Potter, #5, Part 1)</title>
+	<isbn>185549664X</isbn>
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description />
+	<average_rating>4.56</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Mad Dogs (Cherub, #8)</title>
+			<isbn>0340911719</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Double or Die (Young Bond, #3)</title>
+			<isbn>0141322039</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Extreme Kissing</title>
+			<isbn>0552556815</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Hobbit: An Unexpected Journey - Annual 2013</title>
+			<isbn>0007487347</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Stealing Princes</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Adventures of a Wimpy Werewolf: Hairy But Not Scary</title>
+			<isbn>1843178567</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Harry Potter and the Chamber of Secrets: Sheet Music for Flute with C.D</title>
+			<isbn>075791084X</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

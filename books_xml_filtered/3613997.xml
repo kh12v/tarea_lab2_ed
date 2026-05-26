@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>3613997</id>
+	<title>The Associate</title>
+	<isbn>0385517831</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>3.64</average_rating>
+	<num_pages>373</num_pages>
+	<similar_books>
+		<book>
+			<title>Judge &amp; Jury</title>
+			<isbn>0316013935</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>First Family (Sean King &amp; Michelle Maxwell, #4)</title>
+			<isbn>0446539759</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Case Of The Crying Swallow: A Perry Mason Novelette And Other Stories</title>
+			<isbn>0688012744</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Rip-Off</title>
+			<isbn>0316404020</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Guilt (Abe Glitsky, #2)</title>
+			<isbn>0440222818</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Skyhook</title>
+			<isbn>051513712X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Double Tap (Paul Madriani, #8)</title>
+			<isbn>0515139734</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Brass Verdict (Harry Bosch, #14; Mickey Haller, #2; Harry Bosch Universe, #17)</title>
+			<isbn>0316166294</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Reversible Errors</title>
+			<isbn>0446612626</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Bones (Alex Delaware, #23)</title>
+			<isbn>0345495136</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Conviction (Christopher Paget, #4)</title>
+			<isbn>0345450205</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

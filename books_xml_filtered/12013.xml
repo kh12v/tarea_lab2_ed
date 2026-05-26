@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>12013</id>
+	<title>Excession (Culture, #5)</title>
+	<isbn>0553575376</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>en-US</language_code>
+	<description>The international sensation Iain M. Banks offers readers a deeply imaginative, wittily satirical tale, proving once again that he is "a talent to be reckoned with" ("Locus"). In "Excession", the Culture's espionage and dirty tricks section orders Diplomat Byr Gen-Hofoen to steal the soul of a long-dead starship captain. By accepting the mission, Byr irrevocably plunges himself into a conspiracy: one that could either lead the universe into an age of peace or to the brink of annihilation.</description>
+	<average_rating>4.19</average_rating>
+	<num_pages>499</num_pages>
+	<similar_books>
+		<book>
+			<title>Galactic North</title>
+			<isbn>0441015131</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Iron Sunrise (Eschaton, #2)</title>
+			<isbn>1841493368</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Brass Man (Agent Cormac, #3)</title>
+			<isbn>0765317311</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Sky Road (The Fall Revolution, #4)</title>
+			<isbn>0812577590</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Neutronium Alchemist (Night's Dawn, #2)</title>
+			<isbn>0330351435</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

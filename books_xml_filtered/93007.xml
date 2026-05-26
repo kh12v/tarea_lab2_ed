@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>93007</id>
+	<title>The Merry Adventures of Robin Hood</title>
+	<isbn>1595406557</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>He stole from the rich and gave to the poor, and in so doing became an undying symbol of virtue. But most important, Robin Hood and his band of Merry Men offer young readers more than enough adventure and thrills to keep them turning the pages. Who could resist the arrows flying, danger lurking, and medieval intrigue?</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>400</num_pages>
+	<similar_books>
+		<book>
+			<title>King Arthur and His Knights: Selected Tales</title>
+			<isbn>0195019059</isbn>
+			<publication_year>1975</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Robin Hood</title>
+			<isbn>0140367004</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Robin Hood</title>
+			<isbn>0762421975</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Burgess Animal Book for Children</title>
+			<isbn>0486437450</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Tanglewood Tales: A Wonder-Book for Girls and Boys</title>
+			<isbn>1402166516</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Black Arrow</title>
+			<isbn>0543896609</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Legends of King Arthur and His Knights</title>
+			<isbn />
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Jungle Book</title>
+			<isbn>0812504690</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Joan of Arc</title>
+			<isbn>0064437485</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Little Duke</title>
+			<isbn>1406955302</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Little Lame Prince</title>
+			<isbn>1426407556</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Viking Tales</title>
+			<isbn>1599150042</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Robin Hood, The Prince of Thieves</title>
+			<isbn>3704313173</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Robin Hood: An English Legend</title>
+			<isbn>0895773902</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Complete Sherlock Holmes, Vol 2</title>
+			<isbn>1593082045</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Bambi</title>
+			<isbn>067166607X</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Mark of Zorro</title>
+			<isbn>0812540077</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Bedknob and Broomstick</title>
+			<isbn>0140304452</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+	</similar_books>
+</book>

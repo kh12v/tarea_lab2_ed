@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>50051</id>
+	<title>The Last Picture Show</title>
+	<isbn>0752837214</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.95</average_rating>
+	<num_pages>280</num_pages>
+	<similar_books>
+		<book>
+			<title>Where Trouble Sleeps</title>
+			<isbn>0345426320</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Green River Rising</title>
+			<isbn>0380723573</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Red Grass River: A Legend</title>
+			<isbn>0380792427</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Undrawn</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Summer of '42</title>
+			<isbn>0440183480</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Time It Never Rained</title>
+			<isbn>0812574516</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Midnight Cowboy</title>
+			<isbn>0743239733</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Bad Day in Blackrock</title>
+			<isbn>1843511460</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>From Death to Morning</title>
+			<isbn>0684179806</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>As Seen on TV: Provocations</title>
+			<isbn>1582341532</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Girl Mary</title>
+			<isbn>1416532633</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Brownsville: Stories</title>
+			<isbn>0316146803</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Every Day Is Mother's Day</title>
+			<isbn>0805062726</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Last Joy</title>
+			<isbn>1931243190</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Little Big Man</title>
+			<isbn>1860466419</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Glassblower's Daughter</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Of Love and Dust</title>
+			<isbn>067975248X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Kinflicks</title>
+			<isbn>1860497098</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

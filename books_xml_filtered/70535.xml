@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>70535</id>
+	<title>2001: A Space Odyssey (Space Odyssey, #1)</title>
+	<isbn>0451457994</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>A special new Introduction by the author highlights this reissue of a classic science fiction novel that changed the way people looked at the stars--and themselves.</description>
+	<average_rating>4.12</average_rating>
+	<num_pages>297</num_pages>
+	<similar_books>
+		<book>
+			<title>The Positronic Man (Robot #0.6)</title>
+			<isbn>0553561219</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Star Maker</title>
+			<isbn>1857988078</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Puppet Masters</title>
+			<isbn>143913376X</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Schild's Ladder</title>
+			<isbn>006107344X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Red Mars (Mars Trilogy, #1)</title>
+			<isbn>0553560735</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Olympos (Ilium, #2)</title>
+			<isbn>0380817934</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ringworld (Ringworld, #1)</title>
+			<isbn>0575077026</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Tau Zero</title>
+			<isbn>0575077328</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Burning Chrome (Sprawl, #0)</title>
+			<isbn>0060539828</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Gateway (Heechee Saga, #1)</title>
+			<isbn>0345475836</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Non-Stop</title>
+			<isbn>1585676837</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>11318</id>
+	<title>Trouble Is My Business</title>
+	<isbn>0394757645</isbn>
+	<publication_year>1988</publication_year>
+	<language_code>eng</language_code>
+	<description>In the four long stories in this collection, Marlowe is hired to protect a rich old guy from a gold digger, runs afoul of crooked politicos, gets a line on some stolen jewels with a reward attached, and stumbles across a murder victim who may have been an extortionist.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>The Big Knockover: Selected Stories and Short Novels</title>
+			<isbn>0679722599</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Way Some People Die</title>
+			<isbn>0307278980</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Nothing Man</title>
+			<isbn>0316404012</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Real Cool Killers (Harlem Cycle, #2)</title>
+			<isbn>0679720391</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Rendezvous in Black</title>
+			<isbn>0812971450</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Mike Hammer Collection: Volume I</title>
+			<isbn>0451203526</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

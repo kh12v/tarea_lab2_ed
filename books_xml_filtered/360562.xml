@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>360562</id>
+	<title>Sharpe's Rifles (Sharpe, #6)</title>
+	<isbn>0140294295</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;Bernard Cornwell&lt;/b&gt;'s action-packed series that captures the gritty texture of Napoleonic warfare--now beautifully repackagedIt's 1809, and Napoleon's army is sweeping across Spain. Lieutenant Richard Sharpe is newly in command of the demoralized, distrustful men of the 95th Rifles. He must lead them to safety--and the only way of escape is a treacherous trek through the enemy-infested mountains of Spain.</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>303</num_pages>
+	<similar_books>
+		<book>
+			<title>Ship of the Line</title>
+			<isbn>0316289361</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Letter of Marque</title>
+			<isbn>0393309053</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Generals (Revolution, #2)</title>
+			<isbn>0755333128</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>A Battle Won (Charles Hayden, #2)</title>
+			<isbn>0399156895</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sloop of War (Richard Bolitho, #6)</title>
+			<isbn>093552648X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

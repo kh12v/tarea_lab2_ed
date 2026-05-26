@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>825377</id>
+	<title>The Dot</title>
+	<isbn>0763619612</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.26</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>My Name Is Yoon</title>
+			<isbn>0374351147</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>One</title>
+			<isbn>0972394648</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>How to Heal a Broken Wing</title>
+			<isbn>0763639036</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Little Hoot</title>
+			<isbn>081186023X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Beautiful Oops!</title>
+			<isbn>076115728X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I Like Myself!</title>
+			<isbn>0152020136</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Art</title>
+			<isbn>031611491X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Sandwich Swap</title>
+			<isbn>1423124847</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Important Book</title>
+			<isbn>0064432270</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Stand Tall, Molly Lou Melon</title>
+			<isbn>0399234160</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Not a Stick</title>
+			<isbn>0061123250</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Seen Art?</title>
+			<isbn>0670059862</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Wemberly Worried</title>
+			<isbn>0688170277</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>If the Shoe Fits</title>
+			<isbn>0805064664</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Those Shoes</title>
+			<isbn>0763624993</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Perfect Square</title>
+			<isbn>0061915130</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Tanka Tanka Skunk!</title>
+			<isbn>0439578442</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Cloudette</title>
+			<isbn>0805087761</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

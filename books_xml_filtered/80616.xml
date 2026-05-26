@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>80616</id>
+	<title>The Thin Man</title>
+	<isbn>0679722637</isbn>
+	<publication_year>1989</publication_year>
+	<language_code>eng</language_code>
+	<description>Nick and Nora Charles are Hammett's most enchanting creations, a rich, glamorous couple who solve homicides in between wisecracks and martinis. At once knowing and unabashedly romantic, &lt;b&gt;The Thin Man&lt;/b&gt; is a murder mystery that doubles as a sophisticated comedy of manners.</description>
+	<average_rating>3.97</average_rating>
+	<num_pages>201</num_pages>
+	<similar_books>
+		<book>
+			<title>The High Window (Philip Marlowe, #3)</title>
+			<isbn>0394758269</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Moving Target</title>
+			<isbn>037570146X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Getaway</title>
+			<isbn>0316403970</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Homicide Trinity (Nero Wolfe, #36)</title>
+			<isbn>0553234463</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

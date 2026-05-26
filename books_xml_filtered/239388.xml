@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>239388</id>
+	<title>Just Me and My Dad (Little Critter)</title>
+	<isbn>0307118398</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>en-US</language_code>
+	<description>This well-loved Little Critter picture book has become a modern classic. It's the tale of a father-and-son camping trip filled with Little Critter's mistakes and good intentions. In spite of difficulties, however, the happy father and son manage to put up their tent, catch fish for dinner, and sleep beneath the stars. In spite of minimal text, the story is full and rich, with endearing illustrations from start to finish.</description>
+	<average_rating>4.19</average_rating>
+	<num_pages>24</num_pages>
+	<similar_books>
+		<book>
+			<title>Just a Bully</title>
+			<isbn>0613279212</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears' Trouble at School</title>
+			<isbn>039487336X</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>If You Give a Pig a Party</title>
+			<isbn>0060283262</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Danny and the Dinosaur (An I Can Read Book)</title>
+			<isbn>0064440028</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+	</similar_books>
+</book>

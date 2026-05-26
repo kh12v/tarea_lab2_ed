@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>23215469</id>
+	<title>Down the Rabbit Hole: Curious Adventures and Cautionary Tales of a Former Playboy Bunny</title>
+	<isbn>0062372106</isbn>
+	<publication_year>2015</publication_year>
+	<language_code>eng</language_code>
+	<description>A former girlfriend of Hugh Hefner describes how her years inside the Playboy Mansion went from a fairytale of A-list celebrity parties to an oppressive regime of strict rules, scheduled sex, and a total loss of identity, so much so that she even contemplated suicide.</description>
+	<average_rating>3.40</average_rating>
+	<num_pages>335</num_pages>
+	<similar_books>
+		<book>
+			<title>Coreyography</title>
+			<isbn>0312609337</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Sliding Into Home</title>
+			<isbn>1439180911</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Bunny Tales</title>
+			<isbn>0762427396</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Bad Habits: Confessions of a Recovering Catholic</title>
+			<isbn>1401324657</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Agent Storm: My Life Inside al Qaeda and the CIA</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>No Lifeguard on Duty: The Accidental Life of the World's First Supermodel</title>
+			<isbn>0060009462</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Going Off Script: How I Survived a Crazy Childhood, Cancer, and Clooney's 32 On-Screen Rejections</title>
+			<isbn>0553446657</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Retail Hell</title>
+			<isbn>1605501026</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Conviction: The Untold Story of Putting Jodi Arias Behind Bars</title>
+			<isbn>006244428X</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>For the Right Reasons: America's Favorite Bachelor on Faith, Love, Marriage, and Why Nice Guys Finish First</title>
+			<isbn>0718018818</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Sinner Takes All: A Memoir of Love and Porn</title>
+			<isbn>1592405223</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Paid For: My Journey Through Prostitution</title>
+			<isbn>0393351971</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>The Girls Next Door</title>
+			<isbn>1416592407</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Drinking and Tweeting and Other Brandi Blunders</title>
+			<isbn>1476707626</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>How I Got This Way</title>
+			<isbn>0062109758</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ordeal</title>
+			<isbn>0806527749</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Troublemaker: Surviving Hollywood and Scientology</title>
+			<isbn>110188696X</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>unSweetined</title>
+			<isbn>1439158207</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

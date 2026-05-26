@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>99610</id>
+	<title>The Best Laid Plans</title>
+	<isbn>0446604089</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>He wanted power. Oliver Russell is fated to rise to the pinnacle of power, President of the United States. She wanted revenge. Leslie Stewart is his betrayed fiancee. Amassing her own media empire, on her fortieth birthday, she looks back. What went wrong?</description>
+	<average_rating>3.66</average_rating>
+	<num_pages>372</num_pages>
+	<similar_books>
+		<book>
+			<title>The Fourth Estate</title>
+			<isbn>0061092037</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>So Happy Together</title>
+			<isbn>1401301487</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Acts of Faith</title>
+			<isbn>0553560700</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>A Fine Night for Dying (Paul Chavasse #6)</title>
+			<isbn>0007127200</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>A Secret Affair</title>
+			<isbn>0061012289</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Almighty</title>
+			<isbn>0718122143</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Malice</title>
+			<isbn>0375433279</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>An Isolated Incident</title>
+			<isbn>0446606456</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Errands</title>
+			<isbn>0345409051</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

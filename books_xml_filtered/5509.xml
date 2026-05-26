@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>5509</id>
+	<title>Anne Frank Remembered: The Story of the Woman Who Helped to Hide the Frank Family</title>
+	<isbn>0671662341</isbn>
+	<publication_year>1988</publication_year>
+	<language_code>eng</language_code>
+	<description>The reminiscences of Miep Gies, the woman who hid the Frank family in Amsterdam during the Second World War, presents a vivid story of life under Nazi occupation.</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>252</num_pages>
+	<similar_books>
+		<book>
+			<title>Anne Frank: Beyond the Diary - A Photographic Remembrance</title>
+			<isbn>0140369260</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Hidden Life of Otto Frank</title>
+			<isbn>0060520833</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Anne Frank : The Biography</title>
+			<isbn>0805059962</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Anne Frank: The Book, the Life, the Afterlife</title>
+			<isbn>006143079X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Treasures from the Attic: the Extraordinary Story of Anne Frank's Family</title>
+			<isbn>038553339X</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Memories Of Anne Frank: Reflections of a Girlhood Friend</title>
+			<isbn>0590907239</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Anne Frank's Tales from the Secret Annex</title>
+			<isbn>0553586386</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Eva's Story: A Survivor's Tale by the Step-Sister of Anne Frank</title>
+			<isbn>0952371693</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Last Seven Months of Anne Frank</title>
+			<isbn>0385423608</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Anne Frank: Her life in words and pictures from the archives of The Anne Frank House</title>
+			<isbn>159643547X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>My Bridges of Hope</title>
+			<isbn>0689848986</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>My Name Is Anne, She Said, Anne Frank</title>
+			<isbn>1905147104</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Schindler's Legacy: True Stories of the List Survivors</title>
+			<isbn>0452273536</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Thanks to My Mother</title>
+			<isbn>0141305967</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Story of a Life</title>
+			<isbn>0805211268</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>...I never saw another butterfly...</title>
+			<isbn>0805210156</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Rutka's Notebook</title>
+			<isbn>1603200193</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Scheisshaus Luck: Surviving the Unspeakable in Auschwitz and Dora</title>
+			<isbn>0814412998</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

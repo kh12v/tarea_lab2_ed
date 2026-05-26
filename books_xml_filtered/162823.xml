@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>162823</id>
+	<title>The Case-Book of Sherlock Holmes</title>
+	<isbn>1904633684</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>This volume contains the final set of twelve Sherlock Holmes short stories written by Arthur Conan Doyle. The stories were first published in the Strand Magazine between October 1921 and April 1927 and then collected into &lt;i&gt;The Case-Book of Sherlock Holmes&lt;/i&gt; in June 1927.&lt;br /&gt;&lt;br /&gt;Stories in this edition:&lt;br /&gt;The Adventure of the Illustrious Client&lt;br /&gt;The Adventure of the Blanched Soldier&lt;br /&gt;The Adventure of the Mazarin Stone&lt;br /&gt;The Adventure of the Three Gables&lt;br /&gt;The Adventure of the Sussex Vampire&lt;br /&gt;The Adventure of the Three Garridebs&lt;br /&gt;The Problem of Thor Bridge&lt;br /&gt;The Adventure of the Creeping Man&lt;br /&gt;The Adventure of the Lion's Mane&lt;br /&gt;The Adventure of the Veiled Lodger&lt;br /&gt;The Adventure of Shoscombe Old Place&lt;br /&gt;The Adventure of the Retired Colourman</description>
+	<average_rating>4.20</average_rating>
+	<num_pages>303</num_pages>
+	<similar_books>
+		<book>
+			<title>The Secret of Father Brown (Father Brown, #4)</title>
+			<isbn>0755100271</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Whitechapel Horrors</title>
+			<isbn>0881848611</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Murder in the Mews (Hercule Poirot, #18)</title>
+			<isbn>1572702842</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Secret Notebooks of Sherlock Holmes</title>
+			<isbn>0749011432</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Further Adventures of Sherlock Holmes: The Seventh Bullet (The Further Adventures of Sherlock Holmes)</title>
+			<isbn>184856676X</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Dead Witness: A Connoisseur's Collection of Victorian Detective Stories</title>
+			<isbn>0802779182</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Complete Ghost Stories</title>
+			<isbn>0140102264</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Moriarty Papers: The Schemes and Adventures of the Great Nemesis of Sherlock Holmes</title>
+			<isbn>1847739407</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Thief in the Night</title>
+			<isbn>1404333754</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>A Study In Lavender: Queering Sherlock Holmes</title>
+			<isbn>1590210387</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>L'aiguille creuse</title>
+			<isbn>2253001414</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Fall of the Amazing Zalindas  (Sherlock Holmes and the Baker Street Irregulars #1)</title>
+			<isbn>0439828368</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sherlock Holmes: The Army of Dr. Moreau</title>
+			<isbn>0857689339</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Further Adventures of Sherlock Holmes: The Titanic Tragedy</title>
+			<isbn>0857687107</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Four Million</title>
+			<isbn>1434625818</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

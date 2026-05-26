@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>1013383</id>
+	<title>The Gruffalo</title>
+	<isbn>0333710932</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>This is a rhyming story of a mouse and a monster. Little mouse goes for a walk in a dangerous forest. To scare off his enemies he invents tales of a fantastical creature called the Gruffalo. So imagine his surprise when he meets the real Gruffalo.</description>
+	<average_rating>4.47</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Hairy Maclary from Donaldson's Dairy</title>
+			<isbn>0670913502</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Lost and Found (The Boy, #2)</title>
+			<isbn>0399245030</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Aliens Love Underpants</title>
+			<isbn>1416917055</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Elephant and the Bad Baby</title>
+			<isbn>0140500480</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Dogger</title>
+			<isbn>068811704X</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Tiger Who Came to Tea</title>
+			<isbn>0006640613</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Peek-a-Boo</title>
+			<isbn>0670871923</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Story of the Little Mole Who Went in Search of Whodunit</title>
+			<isbn>081091641X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Harry and the Bucketful of Dinosaurs</title>
+			<isbn>0375851194</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Sometimes I Like to Curl Up in a Ball</title>
+			<isbn>0806979437</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>I Know a Rhino</title>
+			<isbn>1402708610</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Dear Zoo: A Lift-the-Flap Book</title>
+			<isbn>141694737X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>I Will Never Not Ever Eat a Tomato</title>
+			<isbn>0763621803</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Penguin</title>
+			<isbn>0763634042</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Mister Magnolia</title>
+			<isbn>0099400421</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Duck in the Truck</title>
+			<isbn>0060286857</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Elmer</title>
+			<isbn>0688091717</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+	</similar_books>
+</book>

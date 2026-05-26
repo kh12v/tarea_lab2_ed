@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>1821571</id>
+	<title>Snakehead (Alex Rider, #7)</title>
+	<isbn>1406309354</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>No sooner has Alex splashed down off the coast of Australia than he finds himself sucked into another adventure. This time he's working for ASIS - the Australian Secret Service - and his target is the criminal underworld of South-East Asia: the ruthless world of the Snakehead.</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>398</num_pages>
+	<similar_books>
+		<book>
+			<title>Hurricane Gold (Young Bond, #4)</title>
+			<isbn>0141383917</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Brigands M.C. (Cherub, #11)</title>
+			<isbn>0340989033</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The White House (I, Q, #2)</title>
+			<isbn>1585364568</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Overlord Protocol (H.I.V.E., #2)</title>
+			<isbn>1416935738</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Sure Fire (Rich and Jade, #1)</title>
+			<isbn>0007244630</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Spy High Mission Four: The Paranoia Plot</title>
+			<isbn>0316762601</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hostage (Alpha Force, #4)</title>
+			<isbn>0099439271</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

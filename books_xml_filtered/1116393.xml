@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>1116393</id>
+	<title>The Awakened Mage (Kingmaker, Kingbreaker, #2)</title>
+	<isbn>1841496057</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>Asher has come a long way for a fisherman's son. Together with his friend Prince Gar, he has defended their kingdom against its bitterest enemy, but at great cost. Now the evil mage Morg is preparing for his most deadly assault. Desperate, trapped in a broken body, Morg has little time and fewer scruples.</description>
+	<average_rating>3.71</average_rating>
+	<num_pages>678</num_pages>
+	<similar_books>
+		<book>
+			<title>Wizard Squared (Rogue Agent, #3)</title>
+			<isbn>1841497290</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Stormlord Rising (Watergivers, #2)</title>
+			<isbn>0732289300</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Blood King (Chronicles of the Necromancer, #2)</title>
+			<isbn>1844165310</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Last of the Wilds (Age of the Five, #2)</title>
+			<isbn>0060815914</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Usurper (King Rolen's Kin, #3)</title>
+			<isbn>1907519076</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Blood and Memory (The Quickening, #2)</title>
+			<isbn>0060747595</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Soul Weaver (The Bridge of D'arnath, #3)</title>
+			<isbn>0451460170</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Traitors' Gate (Crossroads, #3)</title>
+			<isbn>0765310570</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

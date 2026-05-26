@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>85310</id>
+	<title>Mortal Prey (Lucas Davenport, #13)</title>
+	<isbn>0425189864</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.20</average_rating>
+	<num_pages>424</num_pages>
+	<similar_books>
+		<book>
+			<title>Dead Prey</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Mercy Falls (Cork O'Connor, #5)</title>
+			<isbn>0743445899</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A Darkness More Than Night (Harry Bosch, #7; Terry McCaleb, #2; Harry Bosch Universe, #9)</title>
+			<isbn>0446667900</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Run Before the Wind (Will Lee, #2)</title>
+			<isbn>045121594X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>A Cold Heart (Alex Delaware, #17)</title>
+			<isbn>0345452569</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hush Money (Spenser, #26)</title>
+			<isbn>0399144587</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Forgotten Man (Elvis Cole, #10)</title>
+			<isbn>0345451910</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Big Law (Phil Broker, #2)</title>
+			<isbn>0060191333</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Undercurrents (Boldt/Matthews, #1)</title>
+			<isbn>0312929587</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Ties That Bind (Amanda Jaffe, #2)</title>
+			<isbn>0060083247</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>No Way Home</title>
+			<isbn>0743423666</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

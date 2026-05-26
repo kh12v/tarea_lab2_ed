@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>351559</id>
+	<title>Murder Must Advertise  (Lord Peter Wimsey, #10)</title>
+	<isbn>0061043559</isbn>
+	<publication_year>1995</publication_year>
+	<language_code>eng</language_code>
+	<description>When ad man Victor Dean falls down the stairs in the offices of Pym's Publicity, a respectable London advertising agency, it looks like an accident. Then Lord Peter Wimsey is called in, and he soon discovers there's more to copywriting than meets the eye. A bit of cocaine, a hint of blackmail, and some wanton women can be read between the lines. And then there is the brutal succession of murders -- 5 of them -- each one a fixed fee for advertising a deadly secret.</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>356</num_pages>
+	<similar_books>
+		<book>
+			<title>A Presumption of Death (Lord Peter Wimsey/Harriet Vane, #2)</title>
+			<isbn>031299138X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Sirens Sang of Murder (Hilary Tamar, #3)</title>
+			<isbn>0440207452</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Singing Sands (Inspector Alan Grant, #6)</title>
+			<isbn>0684818922</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Mystery Mile (Albert Campion Mystery #2)</title>
+			<isbn>0099474697</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Artists in Crime (Roderick Alleyn, #6)</title>
+			<isbn>1579125786</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Poisoned Chocolates Case (Roger Sheringham Cases, #5)</title>
+			<isbn>0440168449</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+	</similar_books>
+</book>

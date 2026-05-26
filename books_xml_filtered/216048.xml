@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>216048</id>
+	<title>Thank You, Mr. Falker</title>
+	<isbn>0399237321</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.52</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Fly Away Home</title>
+			<isbn>0395664152</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>My Name Is Yoon</title>
+			<isbn>0374351147</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Hooway for Wodney Wat</title>
+			<isbn>061821612X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Enemy Pie</title>
+			<isbn>081182778X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Other Side</title>
+			<isbn>0399231161</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Story of Ruby Bridges</title>
+			<isbn>0439598443</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Wilfrid Gordon McDonald Partridge</title>
+			<isbn>0916291561</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Boy Who Loved Words</title>
+			<isbn>0375836012</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Freedom Summer</title>
+			<isbn>068987829X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Those Shoes</title>
+			<isbn>0763624993</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Too Many Tamales</title>
+			<isbn>0698114124</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Henry's Freedom Box: A True Story from the Underground Railroad</title>
+			<isbn>043977733X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Ruby's Wish</title>
+			<isbn>0811834905</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Stranger</title>
+			<isbn>0395423317</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Amazing Grace</title>
+			<isbn>0803710402</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>My Brother Martin: A Sister Remembers Growing Up with the Rev. Dr. Martin Luther King Jr.</title>
+			<isbn>0689843887</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Math Curse</title>
+			<isbn>0670861944</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>All the Places to Love</title>
+			<isbn>0060210982</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

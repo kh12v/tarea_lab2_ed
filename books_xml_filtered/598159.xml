@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>598159</id>
+	<title>Panda Bear, Panda Bear, What Do You See?</title>
+	<isbn>0805017585</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>en-US</language_code>
+	<description>The author and illustrator team behind the classic &lt;i&gt;Brown Bear, Brown Bear, What do you see? &lt;/i&gt;turn their extraordinary talents ot the theme of animal conservation.&lt;br /&gt;&lt;br /&gt;Thirty-five years after their first groundbreaking collaboration, the creators of &lt;i&gt;Brown Bear, Brown Bear, What Do You See?&lt;/i&gt; and &lt;i&gt;Polar Bear, Polar Bear, What Do You Hear?&lt;/i&gt; reunite to address the important topic of animal conservation. A Bald Eagle soars, a Spider Monkey swings, a Macaroni Penguin struts, and a Red Wolf sneaks through Bill Martin Jr's rhythmic text and Eric Carle's vibrant images, and all are watched over by our best hope for the future-a dreaming child.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Panda Bear, Panda Bear, What Do You See?&lt;/i&gt; is a 2004 Bank Street - Best Children's Book of the Year.</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>From Head to Toe</title>
+			<isbn>0061119725</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>A Color of His Own</title>
+			<isbn>0375836977</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>If You Give a Pig a Party</title>
+			<isbn>0060283262</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>That's Not My Snowman</title>
+			<isbn>0794514146</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Hat</title>
+			<isbn>0750026049</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Giggle, Giggle, Quack</title>
+			<isbn>0743490096</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

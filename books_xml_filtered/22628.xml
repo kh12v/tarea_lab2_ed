@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>22628</id>
+	<title>The Perks of Being a Wallflower</title>
+	<isbn>0671027344</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>The critically acclaimed debut novel from Stephen Chbosky, Perks follows observant “wallflower” Charlie as he charts a course through the strange world between adolescence and adulthood. First dates, family drama, and new friends. Sex, drugs, and The Rocky Horror Picture Show. Devastating loss, young love, and life on the fringes. Caught between trying to live his life and trying to run from it, Charlie must learn to navigate those wild and poignant roller-coaster days known as growing up.</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>213</num_pages>
+	<similar_books>
+		<book>
+			<title>It's Kind of a Funny Story</title>
+			<isbn>078685197X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sloppy Firsts (Jessica Darling, #1)</title>
+			<isbn>0609807900</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Boy Toy</title>
+			<isbn>0618723935</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Realm of Possibility</title>
+			<isbn>0375836578</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>On the Jellicoe Road</title>
+			<isbn>0670070297</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Ask the Passengers</title>
+			<isbn>0316194689</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Witch Baby (Weetzie Bat, #2)</title>
+			<isbn>0064470652</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Struck By Lightning: The Carson Phillips Journal</title>
+			<isbn>1619698366</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Shine</title>
+			<isbn>0810984172</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Happyface</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Angry Management</title>
+			<isbn>0060502479</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hairstyles of the Damned</title>
+			<isbn>188845170X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Luna</title>
+			<isbn>0316011274</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>My Most Excellent Year</title>
+			<isbn>0803732279</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Godless</title>
+			<isbn>1416908161</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Forever in Blue: The Fourth Summer of the Sisterhood (Sisterhood, #4)</title>
+			<isbn>0385729367</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Beyond the Chocolate War (Chocolate War, #2)</title>
+			<isbn>044090580X</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Derby Girl</title>
+			<isbn>0805080236</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

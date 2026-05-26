@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>12394068</id>
+	<title>A Street Cat Named Bob: How One Man and His Cat Found Hope on the Streets</title>
+	<isbn>1444737090</isbn>
+	<publication_year>2012</publication_year>
+	<language_code>eng</language_code>
+	<description>The moving, uplifting true story of an unlikely friendship between a man on the streets and the ginger cat who adopts him and helps him heal his life.</description>
+	<average_rating>3.96</average_rating>
+	<num_pages>279</num_pages>
+	<similar_books>
+		<book>
+			<title>Paw Tracks in the Moonlight</title>
+			<isbn>1849011192</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Casper the Commuting Cat: The True Story of the Cat who Rode the Bus and Stole our Hearts</title>
+			<isbn>0857200089</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Cat Who Came Back for Christmas- How a Cat Brought a Family the Gift of Love</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Kitty Cornered: How Frannie and Five Other Incorrigible Cats Seized Control of Our House and Made It Their Home</title>
+			<isbn>1565129997</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Cat Who'll Live Forever: The Final Adventures of Norton, the Perfect Cat, and His Imperfect Human</title>
+			<isbn>0767909038</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Making Rounds with Oscar: The Extraordinary Gift of an Ordinary Cat</title>
+			<isbn>1401323235</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Under the Paw: Confessions of a Cat Man</title>
+			<isbn>1847371418</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Homer's Odyssey</title>
+			<isbn>038534385X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cleo</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Cat Daddy: What the World's Most Incorrigible Cat Taught Me About Life, Love, and Coming Clean</title>
+			<isbn>1585429376</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Dewey's Nine Lives: The Legacy of the Small-Town Library Cat Who Inspired Millions</title>
+			<isbn>0525951865</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Saving Simon: How a Rescue Donkey Taught Me the Meaning of Compassion</title>
+			<isbn>0345531191</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Julia's Cats: Julia Child's Life in the Company of Cats</title>
+			<isbn>1419702750</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Taming Me: Memoir of a Clever Island Cat</title>
+			<isbn>0938728156</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>My Cat Spit McGee</title>
+			<isbn>0375706933</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Dog Who Rescues Cats: True Story of Ginny</title>
+			<isbn>0060927801</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Cat Who Came in from the Cold</title>
+			<isbn>0552156191</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>A Lion Called Christian: The True Story of the Remarkable Bond Between Two Friends and a Lion</title>
+			<isbn>0767932307</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

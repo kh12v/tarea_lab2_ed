@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>77427</id>
+	<title>H.M.S. Surprise</title>
+	<isbn>0393307611</isbn>
+	<publication_year>1991</publication_year>
+	<language_code>eng</language_code>
+	<description>Amid sights and smells of the Indian subcontinent explore ships of the East India Company. Aubrey is on the defensive, pitting wits and seamanship against an enemy enjoying overwhelming local superiority. Somewhere in the Indian Ocean lies the prize that could make him rich - ships sent by Napoleon to attack the China Fleet.</description>
+	<average_rating>4.42</average_rating>
+	<num_pages>379</num_pages>
+	<similar_books>
+		<book>
+			<title>Ship of the Line</title>
+			<isbn>0316289361</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Harbors and High Seas: An Atlas and Geographical Guide to the Complete Aubrey-Maturin Novels of Patrick O'Brian</title>
+			<isbn>0805066144</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ramage &amp; the Drumbeat (The Lord Ramage Novels, #2)</title>
+			<isbn>0935526773</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Stand into Danger (Richard Bolitho, #4)</title>
+			<isbn>0935526420</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Seaflower (Kydd Sea Adventures, #3)</title>
+			<isbn>0743214633</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Sharpe's Eagle (Sharpe, #8)</title>
+			<isbn>0451212576</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Lobscouse and Spotted Dog: Which It's a Gastronomic Companion to the Aubrey/Maturin Novels</title>
+			<isbn>0393320944</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>A Battle Won (Charles Hayden, #2)</title>
+			<isbn>0399156895</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

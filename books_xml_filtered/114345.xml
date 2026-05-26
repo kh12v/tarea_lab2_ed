@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>114345</id>
+	<title>The Little House Collection (Little House, #1-9)</title>
+	<isbn>0060529962</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>4.33</average_rating>
+	<num_pages>2700</num_pages>
+	<similar_books>
+		<book>
+			<title>The Complete Anne of Green Gables Boxed Set (Anne of Green Gables, #1-8)</title>
+			<isbn>0553609416</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Ramona Collection, Vol. 1: (Ramona #1-#3,#8)</title>
+			<isbn>0061246476</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Kirsten's Boxed Set (The American Girls Collection/Boxed Set)</title>
+			<isbn>0937295760</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Caddie Woodlawn  (Caddie Woodlawn #1)</title>
+			<isbn>1416940286</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Betsy and Tacy Go Downtown (Betsy-Tacy, #4)</title>
+			<isbn>0064400980</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Samantha's Boxed Set (The American Girls Collection/Boxed Set)</title>
+			<isbn>0937295779</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Boxcar Children 1-4 (The Boxcar Children, #1-4)</title>
+			<isbn>0807508543</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>On the Other Side of the Hill (Little House: The Rocky Ridge Years, #4)</title>
+			<isbn>0064405753</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Misty of Chincoteague (Misty, #1)</title>
+			<isbn>1416927832</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Nancy Drew: #1-64</title>
+			<isbn>0448445867</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Time Quartet Box Set (Time Quartet, #1-4)</title>
+			<isbn>0440360374</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Beyond the Heather Hills (Little House: The Martha Years, #4)</title>
+			<isbn>0064407152</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)</title>
+			<isbn>0525444475</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mrs. Piggle Wiggle Box Set (Mrs. Piggle Wiggle, #1,2,3,4)</title>
+			<isbn>0590648985</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

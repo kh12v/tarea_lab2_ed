@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>803171</id>
+	<title>Skippyjon Jones</title>
+	<isbn>0525471340</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.25</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Great Fuzz Frenzy</title>
+			<isbn>0152046267</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Good Boy, Fergus!</title>
+			<isbn>0439490278</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Leonardo, the Terrible Monster</title>
+			<isbn>0786852941</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>How I Became a Pirate</title>
+			<isbn>0152018484</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Diary of a Spider</title>
+			<isbn>0060001534</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>When Dinosaurs Came with Everything</title>
+			<isbn>0689869223</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Pout-Pout Fish</title>
+			<isbn>0374360960</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Llama Llama Mad at Mama</title>
+			<isbn>0670062405</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>What are You So Grumpy About?</title>
+			<isbn>0316592366</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Zen Ties</title>
+			<isbn>0439634253</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Falling for Rapunzel</title>
+			<isbn>0142403997</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Once Upon a Cool Motorcycle Dude</title>
+			<isbn>0802789471</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

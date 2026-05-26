@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>24215</id>
+	<title>Alice's Adventures in Wonderland: A Pop-Up Adaptation</title>
+	<isbn>0689847432</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.33</average_rating>
+	<num_pages>12</num_pages>
+	<similar_books>
+		<book>
+			<title>The Royal Book of Oz (Oz, #15)</title>
+			<isbn>0486417662</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Encyclopedia Mythologica: Fairies and Magical Creatures Pop-Up</title>
+			<isbn>0763631728</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Chained to the Barbarian (Palace Brides #2)</title>
+			<isbn>0373306423</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Mommy?</title>
+			<isbn>0439880505</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Alice's Adventures in Wonderland &amp; Other Stories</title>
+			<isbn>1435122941</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>ABC3D</title>
+			<isbn>1596434252</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Snap</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Around the World in 80 Days</title>
+			<isbn>1402736894</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Convergent Space</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Pop-Up Book of Phobias</title>
+			<isbn>0688171958</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Big Frog Can't Fit In: A pop out book</title>
+			<isbn>1423114361</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Pharaoh's Son</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>I Know Not (The Legacy of Fox Crow, #1)</title>
+			<isbn>1937051102</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Santa Mouse</title>
+			<isbn>0760703558</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Ballad of Bad Jack (Slab City Blues #4)</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Three John Silence Stories</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Jade (Book of Deacon Sidequests, #1)</title>
+			<isbn>1452373205</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Jezebel's Ladder (Jezebel's Ladder, #1)</title>
+			<isbn>1466320508</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

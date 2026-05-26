@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>201146</id>
+	<title>Little Bear</title>
+	<isbn>0590319671</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>Dem Kleinen Bären ist niemals langweilig, denn er erlebt immer neue Abenteuer. Eines Tages beschließt er, ins Weltall zu fliegen. Mutter Bär behauptet zwar, dass Bären nicht fliegen können, aber mit einem neuen Astronautenhelm kommt man sogar bis zum Mond! Nach einem ereignisreichen Tag ist es aber am allerschönsten, sich eine Gute-Nacht-Geschichte erzählen zu lassen. Am liebsten über einen Kleinen Bären und seine Abenteuer. Von Maurice Sendak warmherzig illustriert erzählt Else Holmelund Minarik aus dem Alltag eines liebenswerten Helden.</description>
+	<average_rating>4.22</average_rating>
+	<num_pages>64</num_pages>
+	<similar_books>
+		<book>
+			<title>Owl at Home</title>
+			<isbn>0064440346</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>A Bargain for Frances</title>
+			<isbn>006444001X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Alligators All Around</title>
+			<isbn>0064432548</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Mr. Putter  Tabby Pour the Tea</title>
+			<isbn>0152009019</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Fire Cat</title>
+			<isbn>0064440389</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Danny and the Dinosaur (An I Can Read Book)</title>
+			<isbn>0064440028</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>What Do People Do All Day?</title>
+			<isbn>0394818237</isbn>
+			<publication_year>1968</publication_year>
+		</book>
+		<book>
+			<title>The Story of Babar</title>
+			<isbn>0394805755</isbn>
+			<publication_year>1937</publication_year>
+		</book>
+		<book>
+			<title>Angus and the Ducks</title>
+			<isbn>0374403856</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Country Bunny and the Little Gold Shoes</title>
+			<isbn>0395159903</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>George and Martha: The Complete Stories of Two Best Friends</title>
+			<isbn>0395851580</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Complete Adventures of Curious George</title>
+			<isbn>0618164413</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

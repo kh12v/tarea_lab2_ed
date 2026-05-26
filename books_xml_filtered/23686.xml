@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>23686</id>
+	<title>Ranma ½, Vol. 1 (Ranma ½ (US 2nd), #1)</title>
+	<isbn>1569319626</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Years ago, Genma promised his old friend Soun Tendo that Ranma would marry one of Soun's three daughters, and carry on the family's martial arts school. Except that the girl picked to be Ranma's bride doesn't seem to like him, Ranma keeps getting into fights..and did we mention that whole changing into a girl thing?</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>304</num_pages>
+	<similar_books>
+		<book>
+			<title>Azumanga Daioh Vol. 1 (Azumanga Daioh, #1)</title>
+			<isbn>1413900003</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Wish, Vol. 02 (Wish, #2)</title>
+			<isbn>159182060X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Love Hina, Vol. 06</title>
+			<isbn>1591820170</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Rurouni Kenshin, Volume 04</title>
+			<isbn>1591162513</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Fushigi Yûgi: The Mysterious Play, Vol. 5: Rival</title>
+			<isbn>1591160979</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Oh My Goddess!, Volume 1</title>
+			<isbn>1593073879</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

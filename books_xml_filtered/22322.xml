@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>22322</id>
+	<title>Spook Country (Blue Ant, #2)</title>
+	<isbn>0399154302</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>en-US</language_code>
+	<description>Gibsons first new book in four years is, like the bestselling and critically acclaimed Pattern Recognition, a contemporary novel with international implications.</description>
+	<average_rating>3.66</average_rating>
+	<num_pages>371</num_pages>
+	<similar_books>
+		<book>
+			<title>Interface</title>
+			<isbn>0553383434</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Holy Fire</title>
+			<isbn>055357549X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>City Come a-Walkin'</title>
+			<isbn>1568581912</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Thirteen</title>
+			<isbn>0345485254</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Factoring Humanity</title>
+			<isbn>0812571290</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>A Fire in the Sun</title>
+			<isbn>0765313596</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sixty Days and Counting (Science in the Capital, #3)</title>
+			<isbn>0553803131</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Deep as the Marrow</title>
+			<isbn>0312862644</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Transition</title>
+			<isbn>0316071986</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Brasyl</title>
+			<isbn>1591025435</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Iron Sunrise (Eschaton, #2)</title>
+			<isbn>1841493368</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Eastern Standard Tribe</title>
+			<isbn>0765310457</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

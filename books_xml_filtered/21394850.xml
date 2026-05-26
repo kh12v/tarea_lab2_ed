@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>21394850</id>
+	<title>أقوم قيلا</title>
+	<isbn />
+	<publication_year>2014</publication_year>
+	<language_code>ara</language_code>
+	<description>الكاتب: "كنت في لندن عندما تعرضت للموقف الذي غير حياتي .. تحديدا حين التقيت برجل من المغرب العربي في حديقة الهايد بارك الشهيرة .. سلم علي ورحب بي رغم صغر سني وقتها مقارنة به .. فقد كنت في الثامنة عشرة من عمري بينما كان هو في عمر أبي تقريبا و كان هو أول ملحد التقي به"</description>
+	<average_rating>3.99</average_rating>
+	<num_pages>223</num_pages>
+	<similar_books>
+		<book>
+			<title>الساعة 7:46 مساءً</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>عشت سعيداً من الدراجة إلى الطائرة</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>عودة الغائب </title>
+			<isbn>9953873461</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>الوزير المرافق</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>رقائق القرآن</title>
+			<isbn>9786030354</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>أنا.. وأخواتها: رحلة في أسرار الذات</title>
+			<isbn>6039035978</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>حكايا سعودي في أوروبا</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>لولا دعاؤكم</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>صور وخواطر</title>
+			<isbn>2194011483</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>اليوم النبوي</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>خرائط التيه</title>
+			<isbn />
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>وصايا</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>ماذا حدث للسعوديين</title>
+			<isbn>9789553448</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>بين الثنايا</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+	</similar_books>
+</book>

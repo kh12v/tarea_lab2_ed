@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>676737</id>
+	<title>Grendel</title>
+	<isbn>0679723110</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>en-US</language_code>
+	<description>The first and most terrifying monster in English literature, from the great early epic &lt;i&gt;Beowulf&lt;/i&gt;, tells his side of the story in a book William Gass called "one of the finest of our contemporary fictions."</description>
+	<average_rating>3.69</average_rating>
+	<num_pages>174</num_pages>
+	<similar_books>
+		<book>
+			<title>The Well of the Unicorn</title>
+			<isbn>0345297296</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Sea-Kings of Mars and Otherworldly Stories</title>
+			<isbn>0575076895</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Black Gods and Scarlet Dreams</title>
+			<isbn>0575074175</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Emperor of Dreams</title>
+			<isbn>057507373X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Mark of the Beast and Other Horror Tales (Dover Horror Classics)</title>
+			<isbn>0486414299</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Three Hearts and Three Lions</title>
+			<isbn>0575074981</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Was</title>
+			<isbn>0140178724</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Second Book of Lankhmar  (Fafhrd and the Gray Mouser #5-7)</title>
+			<isbn>0575073586</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The House on the Borderland and Other Novels</title>
+			<isbn>0575073721</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Conan Chronicles: Volume 1: The People of the Black Circle (The Conan Chronicles, #1)</title>
+			<isbn>1857989961</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Gloriana</title>
+			<isbn>0446691402</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The World of the Short Story: A Twentieth Century Collection</title>
+			<isbn>0395368057</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Land of Laughs</title>
+			<isbn>0312873115</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Mabinogion Tetralogy</title>
+			<isbn>1585675040</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Complete Compleat Enchanter</title>
+			<isbn>0671698095</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Green Pearl and Madouc (Lyonesse, #2-3)</title>
+			<isbn>0575075171</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Time And The Gods</title>
+			<isbn>1857989899</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>A Voyage to Arcturus</title>
+			<isbn>0803280041</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

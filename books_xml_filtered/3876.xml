@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>3876</id>
+	<title>The Sun Also Rises</title>
+	<isbn>0743297334</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>en-US</language_code>
+	<description>The quintessential novel of the Lost Generation, &lt;i&gt;The Sun Also Rises&lt;/i&gt; is one of Ernest Hemingway's masterpieces and a classic example of his spare but powerful writing style. A poignant look at the disillusionment and angst of the post-World War I generation, the novel introduces two of Hemingway's most unforgettable characters: Jake Barnes and Lady Brett Ashley. The story follows the flamboyant Brett and the hapless Jake as they journey from the wild nightlife of 1920s Paris to the brutal bullfighting rings of Spain with a motley group of expatriates. It is an age of moral bankruptcy, spiritual dissolution, unrealized love, and vanishing illusions. First published in 1926, &lt;i&gt;The Sun Also Rises&lt;/i&gt; helped to establish Hemingway as one of the greatest writers of the twentieth century.</description>
+	<average_rating>3.83</average_rating>
+	<num_pages>256</num_pages>
+	<similar_books>
+		<book>
+			<title>Main Street</title>
+			<isbn>0375753141</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Go Down, Moses</title>
+			<isbn>0679732179</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Love of the Last Tycoon</title>
+			<isbn>0020199856</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Professor's House</title>
+			<isbn>1844083764</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Herzog</title>
+			<isbn>0142437298</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Loving</title>
+			<isbn>0099285096</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>A Dance to the Music of Time: 2nd Movement (A Dance to the Music of Time, #4-6)</title>
+			<isbn>0226677168</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>A House for Mr Biswas</title>
+			<isbn>0330487191</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Ambassadors</title>
+			<isbn>0140432337</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Finnegans Wake</title>
+			<isbn>0571217354</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>From Here to Eternity</title>
+			<isbn>0517223007</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Jesus' Son</title>
+			<isbn>0060975776</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Group</title>
+			<isbn>0156372088</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Sot-Weed Factor</title>
+			<isbn>1903809509</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>What She Saw...</title>
+			<isbn>0385498233</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Big Money (U.S.A., #3)</title>
+			<isbn>0618056831</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Moviegoer</title>
+			<isbn>0375701966</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

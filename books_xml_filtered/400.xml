@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>400</id>
+	<title>Libra</title>
+	<isbn>0140156046</isbn>
+	<publication_year>1991</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;From the author of &lt;i&gt;White Noise &lt;/i&gt;(winner of the National Book Award) and &lt;i&gt;Zero K&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In this powerful, eerily convincing fictional speculation on the assassination of &lt;b&gt;John F. Kennedy&lt;/b&gt;, &lt;b&gt;Don DeLillo&lt;/b&gt; chronicles &lt;b&gt;Lee Harvey Oswald&lt;/b&gt;'s odyssey from troubled teenager to a man of precarious stability who imagines himself an agent of history. When "history" presents itself in the form of two disgruntled CIA operatives who decide that an unsuccessful attempt on the life of the president will galvanize the nation against communism, the scales are irrevocably tipped.A gripping, masterful blend of fact and fiction, alive with meticulously portrayed characters both real and created, &lt;b&gt;Libra&lt;/b&gt; is a grave, haunting, and brilliant examination of an event that has become an indelible part of the American psyche.</description>
+	<average_rating>3.98</average_rating>
+	<num_pages>480</num_pages>
+	<similar_books>
+		<book>
+			<title>The Public Burning</title>
+			<isbn>0802135277</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Mason &amp; Dixon</title>
+			<isbn>0312423209</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Operation Shylock: A Confession</title>
+			<isbn>009930791X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>A Frolic of His Own</title>
+			<isbn>0684800527</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>You Bright and Risen Angels</title>
+			<isbn>0140110879</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Dead Father (FSG Classics)</title>
+			<isbn>0374529256</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tlooth</title>
+			<isbn>1564781941</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Cannibal</title>
+			<isbn>0811200639</isbn>
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>The Tunnel</title>
+			<isbn>1564782131</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Take It or Leave It</title>
+			<isbn>1573660302</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Angels</title>
+			<isbn>0099440830</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Jolly Corner</title>
+			<isbn>1419167936</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Smuggler's Bible</title>
+			<isbn>158567351X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

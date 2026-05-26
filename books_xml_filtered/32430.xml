@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>32430</id>
+	<title>The Bad Place</title>
+	<isbn>0425195481</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>en-US</language_code>
+	<description>Frank Pollard is afraid to fall asleep. Every morning when he awakes, he discovers something strange--like blood on his hands--a bizarre mystery that tortures his soul. Two investigators have been hired to follow the haunted man. But only one person--a young man with Down's Syndrome--can imagine where their journeys might end. That terrible place from which no one ever returns.</description>
+	<average_rating>3.86</average_rating>
+	<num_pages>427</num_pages>
+	<similar_books>
+		<book>
+			<title>The Dark Symphony</title>
+			<isbn>4477462107</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Demon Child</title>
+			<isbn />
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Black Lightning</title>
+			<isbn>0449225046</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>In the Flesh (Books of Blood #5)</title>
+			<isbn>074341733X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

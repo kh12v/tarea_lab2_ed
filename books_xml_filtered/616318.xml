@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>616318</id>
+	<title>Justice, Volume 1</title>
+	<isbn>1401211038</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.14</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Justice Society of America, Vol. 2: Thy Kingdom Come, Vol. 1</title>
+			<isbn>1401216900</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>JLA: Earth 2</title>
+			<isbn>1563896311</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Batman: War on Crime</title>
+			<isbn>1563895765</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Crisis on Infinite Earths</title>
+			<isbn>1563897504</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Superman/Batman, Vol. 1: Public Enemies</title>
+			<isbn>1401202209</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Justice League of America, Vol. 1: The Tornado's Path</title>
+			<isbn>1401213499</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>DC: The New Frontier, Volume 1</title>
+			<isbn>1401203507</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Green Lantern Corps, Volume 6: Blackest Night</title>
+			<isbn>1401227880</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Justice League International, Vol. 1</title>
+			<isbn>1401216668</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Mythology: The DC Comics Art of Alex Ross</title>
+			<isbn>0375714626</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>JLA, Vol. 7: Tower of Babel</title>
+			<isbn>156389727X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Green Arrow, Vol. 1: Quiver</title>
+			<isbn>1563899655</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Batman: Under the Hood, Volume 1</title>
+			<isbn>1401207561</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>9717</id>
+	<title>The Unbearable Lightness of Being</title>
+	<isbn>0571224385</isbn>
+	<publication_year>2009</publication_year>
+	<language_code>eng</language_code>
+	<description>In &lt;i&gt;The Unbearable Lightness of Being&lt;/i&gt;, Milan Kundera tells the story of a young woman in love with a man torn between his love for her and his incorrigible womanizing and one of his mistresses and her humbly faithful lover. This magnificent novel juxtaposes geographically distant places, brilliant and playful reflections, and a variety of styles to take its place as perhaps the major achievement of one of the world’s truly great writers.</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>320</num_pages>
+	<similar_books>
+		<book>
+			<title>Embers</title>
+			<isbn>0375707425</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>I Served the King of England</title>
+			<isbn>081121687X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Pnin</title>
+			<isbn>1400041988</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Baltasar and Blimunda</title>
+			<isbn>0156005204</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>El túnel</title>
+			<isbn>9871144261</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Autumn of the Patriarch</title>
+			<isbn>0060882867</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Passion</title>
+			<isbn>0802135226</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Notes from Underground</title>
+			<isbn>067973452X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Castle</title>
+			<isbn>0805211063</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Eugene Onegin</title>
+			<isbn>0192838997</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Germinal (Les Rougon-Macquart, #13)</title>
+			<isbn>0140447423</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Spy in the House of Love (Cities of the Interior #4)</title>
+			<isbn>0671871390</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Piano Teacher</title>
+			<isbn>0802118062</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Glass Bead Game</title>
+			<isbn>0312278497</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Captive &amp; The Fugitive (In Search of Lost Time, #5-6)</title>
+			<isbn>0375753117</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Homo Faber</title>
+			<isbn>0156421356</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Death and the Dervish</title>
+			<isbn>0810112973</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>If on a Winter's Night a Traveler</title>
+			<isbn />
+			<publication_year>1982</publication_year>
+		</book>
+	</similar_books>
+</book>

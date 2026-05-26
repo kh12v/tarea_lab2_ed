@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>64955</id>
+	<title>Midnight</title>
+	<isbn>0425194515</isbn>
+	<publication_year>2004</publication_year>
+	<language_code />
+	<description>The citizens of Moonlight Cove are changing. Some are losing touch with their deepest emotions. Others are surrendering to their wildest urges. And the few who remain unchanged are absolutely terrified—if not brutally murdered in the dead of night. Enter the shocking world of Moonlight Cove, where four unlikely survivors confront the darkest realms of human nature...</description>
+	<average_rating>3.81</average_rating>
+	<num_pages>496</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Fear that Man / Toyman (Ace Double, 23140)</title>
+			<isbn>0202314006</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Dance with the Devil</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Unwanted</title>
+			<isbn>0553266578</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+	</similar_books>
+</book>

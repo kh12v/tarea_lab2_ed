@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>32445</id>
+	<title>Strange Highways</title>
+	<isbn>0446531383</isbn>
+	<publication_year>2002</publication_year>
+	<language_code />
+	<description>Back by popular demand is the hardcover edition of this classic collection of novels, novellas, and short stories, now specially priced. This is Koontz's spellbinding collection of takes interconnected by the strange highways of human experience: adventures, terrors, failures and triumphs.</description>
+	<average_rating>3.83</average_rating>
+	<num_pages>576</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Fear that Man / Toyman (Ace Double, 23140)</title>
+			<isbn>0202314006</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cropper's Cabin</title>
+			<isbn>0316403768</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Dance with the Devil</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Fountain Society</title>
+			<isbn>0684846608</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dean Koontz Companion</title>
+			<isbn>0425141357</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>1350249</id>
+	<title>The Lion King (Disney's Wonderful World of Reading)</title>
+	<isbn>0717283534</isbn>
+	<publication_year>1994</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.48</average_rating>
+	<num_pages>44</num_pages>
+	<similar_books>
+		<book>
+			<title>Finding Nemo</title>
+			<isbn>1591827582</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Disney's the Lion King</title>
+			<isbn>1570820872</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Winnie The Pooh And The Honey Tree (Little Golden Book)</title>
+			<isbn>030798267X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Sleeping Beauty: a Little Golden Book (Disney Princess)</title>
+			<isbn>073642198X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Clifford The Firehouse Dog</title>
+			<isbn>0590484192</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>19030845</id>
+	<title>Batman: The Dark Knight Returns #1</title>
+	<isbn />
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.21</average_rating>
+	<num_pages>50</num_pages>
+	<similar_books>
+		<book>
+			<title>Harley Quinn (2013-) #15</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Batman: Knightfall, Vol. 3: KnightsEnd (New Edition)</title>
+			<isbn>1401237215</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Exquisite Karma (Iron Horse MC, #4)</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Shackled </title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Injustice: Gods Among Us: Year One, Vol. 2</title>
+			<isbn>140124601X</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Saga #11</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Shutter, Vol. 3: Quo Vadis</title>
+			<isbn>1632155397</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>裸足でバラを踏め [Hadashi de Bara wo Fume] 9</title>
+			<isbn>4088467655</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Thinking In Pictures: The Making Of The Movie Matewan</title>
+			<isbn>0306812665</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Best of the Rejection Collection: 293 Cartoons That Were Too Dumb, Too Dark, or Too Naughty for The New Yorker</title>
+			<isbn>0761165789</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

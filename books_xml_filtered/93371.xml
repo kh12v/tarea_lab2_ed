@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>93371</id>
+	<title>Akira, Vol. 1</title>
+	<isbn>1569714983</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>The science fiction tale set in 2019 in Tokyo after the city was destroyed by World War III, follows the lives of two teenage friends, Tetsuo and Kaneda, who have a consuming fear of a monstrous power known as Akira.</description>
+	<average_rating>4.36</average_rating>
+	<num_pages>359</num_pages>
+	<similar_books>
+		<book>
+			<title>Ghost in the Shell (Ghost in the Shell, #1)</title>
+			<isbn>1593072287</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>PLUTO: Urasawa x Tezuka, Volume 007 (Pluto, #7)</title>
+			<isbn>1421532670</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>鉄コン筋クリート[Tekkon KinKurîto ] All in One (Tekkon Kinkreet Complete)</title>
+			<isbn>4091810330</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Lone Wolf and Cub, Vol. 1: The Assassin's Road (Lone Wolf and Cub, #1)</title>
+			<isbn>1569715025</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Nausicaä of the Valley of the Wind, Vol. 1 (Nausicaä of the Valley of the Wind, #1)</title>
+			<isbn>1591164087</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Battle Angel Alita, Volume 01: Rusty Angel</title>
+			<isbn>1569310033</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Planetes, Volume 1 (Planetes, #1)</title>
+			<isbn>1591822629</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Blade of the Immortal, Volume 1: Blood of a Thousand</title>
+			<isbn>1569712395</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Eden: It's an Endless World, Volume 1 (Eden: It's an Endless World, #1)</title>
+			<isbn>1593074069</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Dororo, Vol. 1</title>
+			<isbn>1934287164</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

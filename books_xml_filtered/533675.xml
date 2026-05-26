@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>533675</id>
+	<title>Pinocchio</title>
+	<isbn>0307021858</isbn>
+	<publication_year>1999</publication_year>
+	<language_code />
+	<description />
+	<average_rating>4.33</average_rating>
+	<num_pages>24</num_pages>
+	<similar_books>
+		<book>
+			<title>Tootle</title>
+			<isbn>0307020975</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Prayers for Children (Little Golden Book)</title>
+			<isbn>0307021068</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Honey Tree (Little Golden Book)</title>
+			<isbn>0736423923</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Fuzzy Duckling (a Little Golden Book)</title>
+			<isbn>0307301184</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Baby Animals (A Little Golden Book)</title>
+			<isbn>0375829334</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Santa's Toy Shop (a Big Little Golden Book)</title>
+			<isbn>0375833617</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Bunny Book, Richard Scarry's (a Little Golden Book)</title>
+			<isbn>0375832246</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Three Bears</title>
+			<isbn>0375825762</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Complete Adventures of Peter Rabbit</title>
+			<isbn>072324734X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Best Little Word Book Ever</title>
+			<isbn>0307001369</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Gingerbread Man</title>
+			<isbn>0375825894</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Jolly Barnyard</title>
+			<isbn>0375828427</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears Meet Santa Bear</title>
+			<isbn>0679804056</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Three Little Pigs</title>
+			<isbn>0307020916</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dumbo: A Little Golden Book</title>
+			<isbn>0736423095</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Winnie The Pooh And The Honey Tree (Little Golden Book)</title>
+			<isbn>030798267X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Sleeping Beauty: a Little Golden Book (Disney Princess)</title>
+			<isbn>073642198X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Frosty the Snowman (Frosty the Snowman)</title>
+			<isbn>0307960382</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

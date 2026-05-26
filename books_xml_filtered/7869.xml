@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>7869</id>
+	<title>The Bourne Identity (Jason Bourne, #1)</title>
+	<isbn>0752864327</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;Alternate cover for this ISBN can be found &lt;a href="https://www.goodreads.com/book/show/32076660-the-bourne-identity" rel="nofollow"&gt;here&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Who is Jason Bourne? Is he an assassin, a terrorist, a thief? Why has he got four million dollars in a Swiss bank account? Why has someone tried to murder him?...&lt;br /&gt;&lt;br /&gt;Jason Bourne does not know the answer to any of these questions. Suffering from amnesia, he does not even know that he &lt;b&gt;is&lt;/b&gt; Jason Bourne. What manner of man is he? What are his secrets? Who has he killed?</description>
+	<average_rating>3.98</average_rating>
+	<num_pages>566</num_pages>
+	<similar_books>
+		<book>
+			<title>The Bourne Deception (Jason Bourne, #7)</title>
+			<isbn>0446539821</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Hunt for Red October (Jack Ryan Universe, #4)</title>
+			<isbn>0425172902</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Day of the Jackal</title>
+			<isbn>0553266306</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>The Brotherhood of the Rose (Mortalis, #1)</title>
+			<isbn>0747238901</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Consent to Kill (Mitch Rapp, #8)</title>
+			<isbn>1416505016</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Ice Station Zebra</title>
+			<isbn>0006161413</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Flight of the Intruder (Jake Grafton #1)</title>
+			<isbn>1591141273</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

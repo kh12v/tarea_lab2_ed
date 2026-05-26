@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>413158</id>
+	<title>Put Me in the Zoo</title>
+	<isbn>067984483X</isbn>
+	<publication_year>1988</publication_year>
+	<language_code>eng</language_code>
+	<description>Spot, a polka-dot leopard who can change colors and even juggle his own spots, tries to convince two children that he is special enough to be exhibited in the zoo.</description>
+	<average_rating>4.13</average_rating>
+	<num_pages>72</num_pages>
+	<similar_books>
+		<book>
+			<title>The Best Nest</title>
+			<isbn>0394800516</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Fly Went by (Beginner Books(R))</title>
+			<isbn>0394800036</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ten Apples Up On Top!</title>
+			<isbn>0007169973</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Wacky Wednesday</title>
+			<isbn>0394829123</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I'll Teach My Dog a Lot of Words</title>
+			<isbn>0375800999</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Inside, Outside, Upside Down (Berenstain Bears Bright and Early Board Book)</title>
+			<isbn>067988632X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>A Big Ball of String</title>
+			<isbn>067983947X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>It's Not Easy Being a Bunny</title>
+			<isbn>0394861027</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Danny and the Dinosaur (An I Can Read Book)</title>
+			<isbn>0064440028</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Snow (Beginner Books B-27)</title>
+			<isbn>0394800273</isbn>
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>Hand, Hand, Fingers, Thumb</title>
+			<isbn>0679890483</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Just Me and My Dad (Little Critter)</title>
+			<isbn>0307118398</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Robert the Rose Horse</title>
+			<isbn>0394800257</isbn>
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>A to Z</title>
+			<isbn>0671493175</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>616678</id>
+	<title>The Diamond Throne (The Elenium, #1)</title>
+	<isbn>0345367693</isbn>
+	<publication_year />
+	<language_code />
+	<description>Tras diez años de exilio, Falquián regresa a Elenia para reanudar sus obligaciones como caballero Pandion y paladín de la reina. Sin embargo, su joven reina, Ehlana, sufre una fatal enfermedad, supuestamente la misma que llevó a la tumba al rey Aldreas, su padre. Permanece con vida gracias al poderoso hechizo invocado por Sephrenia, la mujer de edad indefinida que inicia a los Pandion en los secretos de la magia. Ehlana está sentada en su trono, petrificada dentro de un bloque de cristal y abocada a la muerte, a menos que alguien encuentre un remedio antes de que transcurra un año.</description>
+	<average_rating>3.93</average_rating>
+	<num_pages>435</num_pages>
+	<similar_books>
+		<book>
+			<title>The Prophet of Akhran (Rose of the Prophet, #3)</title>
+			<isbn>0553281437</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Rage of a Demon King (The Serpentwar Saga, #3)</title>
+			<isbn>0380974738</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Days of Blood and Fire (The Westlands, #3)</title>
+			<isbn>0553290126</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Eye of the Hunter (Mithgar, #14)</title>
+			<isbn>0451452682</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Dark Prince (Greek Series, #2)</title>
+			<isbn>0345494784</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

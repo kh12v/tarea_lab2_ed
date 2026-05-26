@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>35743</id>
+	<title>The Tin Drum</title>
+	<isbn>0099483505</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>On his third birthday Oskar decides to stop growing. Haunted by the deaths of his parents and wielding his tin drum Oskar recounts the events of his extraordinary life; from the long nightmare of the Nazi era to his anarchic adventures in post-war Germany.</description>
+	<average_rating>3.96</average_rating>
+	<num_pages>567</num_pages>
+	<similar_books>
+		<book>
+			<title>Billiards at Half-Past Nine</title>
+			<isbn>0140187243</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Berlin Alexanderplatz</title>
+			<isbn>3423002956</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Professor Unrat</title>
+			<isbn>3499100355</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Buddenbrooks: The Decline of a Family</title>
+			<isbn>0679417370</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The German Lesson</title>
+			<isbn>0811209822</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Transit</title>
+			<isbn>3746651530</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Radetzky March</title>
+			<isbn>1862076057</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Auto-da-Fé</title>
+			<isbn>0374518793</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>History</title>
+			<isbn>1586420046</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>I'm Not Stiller </title>
+			<isbn>1564784509</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Draußen vor der Tür</title>
+			<isbn>349910170X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Marquise of O— and Other Stories</title>
+			<isbn>0140443592</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Malone Dies</title>
+			<isbn>0802151175</isbn>
+			<publication_year>1956</publication_year>
+		</book>
+		<book>
+			<title>The Man Without Qualities</title>
+			<isbn>0330349422</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Death of Virgil</title>
+			<isbn>0679755489</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Grande Sertão: Veredas</title>
+			<isbn>8520912095</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

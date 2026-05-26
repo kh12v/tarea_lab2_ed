@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>240130</id>
+	<title>The Paper Bag Princess</title>
+	<isbn>0920236162</isbn>
+	<publication_year>1980</publication_year>
+	<language_code>en-GB</language_code>
+	<description>The Princess Elizabeth is slated to marry Prince Ronald when a dragon attacks the castle and kidnaps Ronald. In resourceful and humorous fashion, Elizabeth finds the dragon, outsmarts him, and rescues Ronald--who is less than pleased at her un-princess-like appearance. Full color.</description>
+	<average_rating>4.32</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Jillian Jiggs</title>
+			<isbn>0590413406</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Princess Knight</title>
+			<isbn>1904442145</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Princess Smartypants</title>
+			<isbn>0399243984</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Red Is Best</title>
+			<isbn>092023626X</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Frog Prince, Continued</title>
+			<isbn>014054285X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Falling for Rapunzel</title>
+			<isbn>0142403997</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Alligator Pie (Collector's Edition)</title>
+			<isbn>1552633381</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Princess Furball</title>
+			<isbn>0688131077</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Cinder Edna</title>
+			<isbn>0688162959</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Hockey Sweater</title>
+			<isbn>0887761747</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>My Name Is Not Isabella</title>
+			<isbn>0980200075</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>William's Doll</title>
+			<isbn>0064430677</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Fanny's Dream</title>
+			<isbn>0142500607</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Way Back Home (The Boy, #3)</title>
+			<isbn>0399250743</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Big Orange Splot</title>
+			<isbn>0590445103</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>King Bidgood's in the Bathtub</title>
+			<isbn>0152055789</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Three Questions</title>
+			<isbn>0439199964</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Tops &amp; Bottoms</title>
+			<isbn>0152928510</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

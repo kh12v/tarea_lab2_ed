@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>8088</id>
+	<title>Sunshine</title>
+	<isbn>0515138819</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>en-US</language_code>
+	<description>There are places in the world where darkness rules, where it's unwise to walk. But there hadn't been any trouble out at the lake for years, and Sunshine just needed a spot where she could be alone with her thoughts. Vampires never entered her mind.&lt;br /&gt;&lt;br /&gt;Until they found her...</description>
+	<average_rating>3.85</average_rating>
+	<num_pages>405</num_pages>
+	<similar_books>
+		<book>
+			<title>Tamsin</title>
+			<isbn>0451457633</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Companions of the Night</title>
+			<isbn>0152166696</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Winter Rose (Winter Rose, #1)</title>
+			<isbn>0441004385</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Silver Metal Lover (Silver Metal Lover, #1)</title>
+			<isbn>0553581279</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Archangel (Samaria, #1)</title>
+			<isbn>0441004326</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Medair (Medair, #1-2)</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>A Fistful of Sky  (LaZelle, #1)</title>
+			<isbn>0441011772</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Gathering of Gargoyles (Darkangel Trilogy, #2)</title>
+			<isbn>0152018018</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Tam Lin</title>
+			<isbn>014240652X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Territory</title>
+			<isbn>0312857357</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>One Salt Sea (October Daye, #5)</title>
+			<isbn>0756406838</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Fire and Hemlock</title>
+			<isbn>0060298855</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Enchantment Emporium (Gale Women, #1)</title>
+			<isbn>0756405556</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Those Who Hunt the Night (James Asher, #1)</title>
+			<isbn>0345361326</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+	</similar_books>
+</book>

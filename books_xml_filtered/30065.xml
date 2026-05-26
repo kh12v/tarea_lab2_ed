@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>30065</id>
+	<title>The Walking Dead, Vol. 05: The Best Defense</title>
+	<isbn>158240612X</isbn>
+	<publication_year />
+	<language_code>en-GB</language_code>
+	<description>As the survivors settle into their prison home something has drawn them out into the open... out of the prison... out of their sanctuary. This is a major turning point for the overall story of The Walking Dead, setting the stage for years to come.</description>
+	<average_rating>4.30</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Y: The Last Man, Vol. 8: Kimono Dragons (Y: The Last Man, #8)</title>
+			<isbn>1401210104</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Chew, Vol. 8: Family Recipes</title>
+			<isbn>1607069385</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Locke &amp; Key, Vol. 3: Crown of Shadows</title>
+			<isbn>1600106951</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Preacher, Volume 4: Ancient History</title>
+			<isbn>156389405X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Revival, Vol. 2: Live Like You Mean It</title>
+			<isbn>1607067544</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Fables, Vol. 6: Homelands</title>
+			<isbn>1401205003</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>American Vampire, Vol. 2</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+	</similar_books>
+</book>

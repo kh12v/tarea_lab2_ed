@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>270067</id>
+	<title>A Pocket for Corduroy</title>
+	<isbn>067056172X</isbn>
+	<publication_year>1978</publication_year>
+	<language_code>en-US</language_code>
+	<description>&lt;b&gt;Don Freeman&lt;/b&gt;'s classic character, Corduroy, is even more popular today then he was when he first came on the scene over thirty years ago. These favorite titles are ready for another generation of children to love.</description>
+	<average_rating>4.29</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Corduroy Lost and Found</title>
+			<isbn>067006100X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Frog and Toad All Year (Frog and Toad, #3)</title>
+			<isbn>0064440591</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Curious George Goes to the Hospital</title>
+			<isbn>0395181585</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Madeline's Rescue</title>
+			<isbn>0670447161</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Berenstain Bears and the Messy Room</title>
+			<isbn>0394856392</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Miss Nelson Is Back (Miss Nelson, #2)</title>
+			<isbn>039541668X</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Little Bear's Friend</title>
+			<isbn>0064440516</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>A Bargain for Frances</title>
+			<isbn>006444001X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Just Grandma and Me</title>
+			<isbn>0307118932</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Magic School Bus Gets Baked in a Cake: A Book About Kitchen Chemistry</title>
+			<isbn>0590222953</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Lyle, Lyle, Crocodile</title>
+			<isbn>0395137209</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Babar the King</title>
+			<isbn>1405204664</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Just Me in the Tub (Mercer Mayer's Little Critter)</title>
+			<isbn>0613026667</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Curious George Takes a Job</title>
+			<isbn>1844285081</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Come Back, Amelia Bedelia</title>
+			<isbn>0060266880</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

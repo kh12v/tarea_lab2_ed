@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>13148</id>
+	<title>Kiss the Girls (Alex Cross, #2)</title>
+	<isbn>0446677388</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>In Los Angeles, a reporter investigating a series of murders is killed. In Chapel Hill, North Carolina, a beautiful medical intern suddenly disappears. In Washington D.C. Alex Cross is back to solve the most baffling and terrifying murder case ever. Two clever pattern killers are collaborating, cooperating, competing - and they are working coast to coast.</description>
+	<average_rating>3.93</average_rating>
+	<num_pages>458</num_pages>
+	<similar_books>
+		<book>
+			<title>Silent Prey (Lucas Davenport #4)</title>
+			<isbn>0425137562</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Coffin Dancer (Lincoln Rhyme, #2)</title>
+			<isbn>0671024094</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>From Potter's Field (Kay Scarpetta, #6)</title>
+			<isbn>0425204693</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Body of Lies (Eve Duncan, #4)</title>
+			<isbn>0553582143</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Killing Hour (Quincy &amp; Rainie, #4)</title>
+			<isbn>0553584529</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Where Are the Children?</title>
+			<isbn>1416507779</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Silence of the Lambs  (Hannibal Lecter, #2)</title>
+			<isbn>0099446782</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

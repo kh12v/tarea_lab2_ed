@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>836607</id>
+	<title>Fruits Basket, Vol. 3</title>
+	<isbn>1591826055</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>A family with an ancient curse...&lt;br /&gt;&lt;br /&gt;And the girl who will change their lives forever...&lt;br /&gt;&lt;br /&gt;It's Valentines Day and you know what that means - lots of chocolates for the cutest boys at school! In this case, it's a pretty close tie between hot-headed Kyo Sohma and "Prince Charming" Yuki Sohma. Of course the kind-hearted Tohru, guest of the Sohma family, has chocolates for everyone! But when White Day comes around, what will the Sohma family give her in return?</description>
+	<average_rating>4.38</average_rating>
+	<num_pages>208</num_pages>
+	<similar_books>
+		<book>
+			<title>Ouran High School Host Club, Vol. 9 (Ouran High School Host Club, #9)</title>
+			<isbn>1421514044</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hana-Kimi, Vol. 18 (Hana-Kimi, #18)</title>
+			<isbn>1421509938</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Mars, Volume 10</title>
+			<isbn>1591821290</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Alice 19th, Vol. 5 (Alice 19th, #5)</title>
+			<isbn>1591162424</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>18490</id>
+	<title>Frankenstein</title>
+	<isbn>0141439475</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+	<average_rating>3.75</average_rating>
+	<num_pages>273</num_pages>
+	<similar_books>
+		<book>
+			<title>The Monk</title>
+			<isbn>0140436030</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Dracula's Guest and Other Weird Stories</title>
+			<isbn>0141441712</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror</title>
+			<isbn>0141439734</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Tales of H.P. Lovecraft</title>
+			<isbn>0060957905</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Lord Jim</title>
+			<isbn>1551111721</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Beetle </title>
+			<isbn>1551114437</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Turn of the Screw and The Aspern Papers</title>
+			<isbn>0141439904</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Complete Sonnets and Poems</title>
+			<isbn>019281933X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Moll Flanders</title>
+			<isbn>1853260738</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>A Christmas Carol</title>
+			<isbn>1561797464</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Grendel</title>
+			<isbn>0679723110</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Rime of the Ancient Mariner</title>
+			<isbn>0486223051</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>The Norton Anthology of English Literature, Vol. B: The Sixteenth Century &amp; The Early Seventeenth Century</title>
+			<isbn>0393927180</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Food of the Gods</title>
+			<isbn>1570020159</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Carmilla</title>
+			<isbn>0809510839</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Complete Shorter Fiction</title>
+			<isbn>0192833766</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Gods of Mars (Barsoom, #2)</title>
+			<isbn>0345324390</isbn>
+			<publication_year>1963</publication_year>
+		</book>
+		<book>
+			<title>Uncle Tom's Cabin</title>
+			<isbn>1840224029</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

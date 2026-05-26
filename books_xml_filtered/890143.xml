@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>890143</id>
+	<title>The Clique (The Clique, #1)</title>
+	<isbn>0689872992</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Enter the world of the clique - where the only thing harder than getting in is staying in.</description>
+	<average_rating>3.60</average_rating>
+	<num_pages>220</num_pages>
+	<similar_books>
+		<book>
+			<title>Girls on Film (A-List, #2)</title>
+			<isbn>0316734756</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Ashleys (The Ashleys, #1)</title>
+			<isbn>1416934065</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Invitation Only (Private, #2)</title>
+			<isbn>1416918744</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Twelve (The Winnie Years, #3)</title>
+			<isbn>0525477845</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Poseur (Poseur, #1)</title>
+			<isbn>0316065838</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Unforgettable (It Girl, #4)</title>
+			<isbn>0316113484</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Family Affairs (Secrets of My Hollywood Life, #3)</title>
+			<isbn>0316117994</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

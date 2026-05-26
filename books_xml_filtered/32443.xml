@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>32443</id>
+	<title>The Eyes of Darkness</title>
+	<isbn>0425153975</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>eng</language_code>
+	<description>A year after little Danny's death, his mother swore she saw him in a stranger's car...It was a mystery she could not escape. An obsession that would lead her from the bright lights of Las Vegas to the cold shadows of the High Sierras. A terrible secret seen only by...The Eyes Of Darkness.</description>
+	<average_rating>3.85</average_rating>
+	<num_pages>366</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Fear that Man / Toyman (Ace Double, 23140)</title>
+			<isbn>0202314006</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Children of the Storm</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Black Lightning</title>
+			<isbn>0449225046</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Nevermore</title>
+			<isbn>0345516184</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>93</id>
+	<title>Heidi</title>
+	<isbn>0753454947</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Orphaned Heidi lives with her gruff but caring grandfather on the side of Swiss mountain, where she befriends young Peter the goat-herd. She leads an idyllic life, until she is forced to leave the mountain she has always known to go and live with a sickly girl in the city. Will Heidi ever see her grandfather again? A classic tale of a young girl's coming-of-age, of friendship, and familial love.</description>
+	<average_rating>3.97</average_rating>
+	<num_pages>352</num_pages>
+	<similar_books>
+		<book>
+			<title>Pollyanna (Pollyanna, #1)</title>
+			<isbn>0689849109</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Heidi's Children (Heidi sequel, #3)</title>
+			<isbn>0307122212</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Betsy and the Great World (Betsy-Tacy, #9)</title>
+			<isbn>0064405451</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Hans Brinker, or the Silver Skates</title>
+			<isbn>1596056665</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Little Lord Fauntleroy</title>
+			<isbn>1934169234</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>What Katy Did at School (Carr Family, #2)</title>
+			<isbn>1406515280</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Eight Cousins (Eight Cousins, #1)</title>
+			<isbn>0486455599</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Lassie Come-Home</title>
+			<isbn>0805072063</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Railway Children</title>
+			<isbn>0486410226</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Rebecca of Sunnybrook Farm</title>
+			<isbn>1598183605</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Pippi in the South Seas</title>
+			<isbn>0670557110</isbn>
+			<publication_year>1959</publication_year>
+		</book>
+		<book>
+			<title>Star of Light</title>
+			<isbn>0802465773</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Five Little Peppers and How They Grew</title>
+			<isbn>1416916172</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A Girl of the Limberlost (Limberlost, #2)</title>
+			<isbn>1576469115</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Black Stallion (The Black Stallion, #1)</title>
+			<isbn>0965476022</isbn>
+			<publication_year>1941</publication_year>
+		</book>
+		<book>
+			<title>Emil and the Detectives</title>
+			<isbn>0099413124</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Tale of Mrs. Tittlemouse</title>
+			<isbn>0723247803</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>16300</id>
+	<title>Sleeping Murder (Miss Marple, #13)</title>
+	<isbn>0002317850</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Soon after Gwenda moved into her new home, odd things started to happen. Despite her best efforts to modernise the house, she only succeeded in dredging up its past. Worse, she felt an irrational sense of terror every time she climbed the stairs... In fear, Gwenda turned to Miss Marple to exorcise her ghosts. Between them, they were to solve a 'perfect' crime committed many years before.</description>
+	<average_rating>3.91</average_rating>
+	<num_pages>242</num_pages>
+	<similar_books>
+		<book>
+			<title>Night at the Vulcan (Roderick Alleyn, #16)</title>
+			<isbn>0312966687</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Clouds of Witness (Lord Peter Wimsey, #2)</title>
+			<isbn>0061043532</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Benevent Treasure (Miss Silver, #26)</title>
+			<isbn>0340688955</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Agatha Christie</title>
+			<isbn>1861052529</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

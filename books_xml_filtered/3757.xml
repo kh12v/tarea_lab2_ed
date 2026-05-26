@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>3757</id>
+	<title>Doctor No (James Bond, #6)</title>
+	<isbn>0142002038</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>James Bond travels to the Caribbean to investigate the mysterious disappearance of a secret service team. As he uncovers the astonishing truth about strange energy waves that are interfering with U.S. missile launches, he must battle deadly assassins, sexy femmes fatales, and even a poisonous tarantula. The search takes him to an exotic tropical island, where he meets a beautiful nature girl and discovers the hideout of Doctor No, a six-foot-six madman with a mania for torture, a lust to kill, and a fantastic secret to hide.</description>
+	<average_rating>3.76</average_rating>
+	<num_pages>309</num_pages>
+	<similar_books>
+		<book>
+			<title>Scorpius (John Gardner's Bond, #7)</title>
+			<isbn>039913347X</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Facts of Death (James Bond, #2)</title>
+			<isbn>0515125504</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Colonel Sun (James Bond, #15)</title>
+			<isbn>0786120762</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>James Bond: The Authorized Biography of 007</title>
+			<isbn>0394621409</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+	</similar_books>
+</book>

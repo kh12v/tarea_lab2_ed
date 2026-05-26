@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>112</id>
+	<title>Children of Dune (Dune Chronicles #3)</title>
+	<isbn>0441104029</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>eng</language_code>
+	<description>The desert planet of Arrakis has begun to grow green and lush. The life-giving spice is abundant. The nine-year-old royal twins, possesing their father's supernatural powers, are being groomed as Messiahs.&lt;br /&gt;But there are those who think the Imperium does not need messiahs...</description>
+	<average_rating>3.90</average_rating>
+	<num_pages>408</num_pages>
+	<similar_books>
+		<book>
+			<title>House Corrino (Prelude to Dune #3)</title>
+			<isbn>0553580337</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Dune Encyclopedia</title>
+			<isbn>0425068137</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Foundation's Edge (Foundation #4)</title>
+			<isbn>0553293389</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Nonborn King (Saga of the Pliocene Exile, #3)</title>
+			<isbn>0345314212</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Neutronium Alchemist 2: Conflict (Night's Dawn 2)</title>
+			<isbn>0446605468</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Forest of Stars (The Saga of Seven Suns, #2)</title>
+			<isbn>0446528714</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>VALIS and Later Novels</title>
+			<isbn>1598530445</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Gap Into Vision: Forbidden Knowledge (Gap, #2)</title>
+			<isbn>0553297600</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+	</similar_books>
+</book>

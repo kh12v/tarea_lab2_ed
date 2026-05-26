@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>17994</id>
+	<title>The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography</title>
+	<isbn>0385495323</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>In his first book since the bestselling &lt;b&gt;Fermat's Enigma&lt;/b&gt;, Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) logistical breakthrough that made Internet commerce secure, &lt;b&gt;The Code Book&lt;/b&gt; tells the story of the most powerful intellectual weapon ever known: secrecy.&lt;br /&gt;&lt;br /&gt;Throughout the text are clear technical and mathematical explanations, and portraits of the remarkable personalities who wrote and broke the world's most difficult codes. Accessible, compelling, and remarkably far-reaching, this book will forever alter your view of history and what drives it.  It will also make yo wonder how private that e-mail you just sent really is.</description>
+	<average_rating>4.28</average_rating>
+	<num_pages>412</num_pages>
+	<similar_books>
+		<book>
+			<title>The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet</title>
+			<isbn>0684831309</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Music of the Primes: Searching to Solve the Greatest Mystery in Mathematics</title>
+			<isbn>0060935588</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Crypto: How the Code Rebels Beat the Government Saving Privacy in the Digital Age</title>
+			<isbn>0140244328</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics</title>
+			<isbn>0452285259</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Applied Cryptography: Protocols, Algorithms, and Source Code in C</title>
+			<isbn>0471128457</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Journey through Genius: The Great Theorems of Mathematics</title>
+			<isbn>014014739X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>An Imaginary Tale: The Story of the Square Root of Minus One</title>
+			<isbn>0691127980</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics</title>
+			<isbn>1402757964</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Professor Stewart's Cabinet of Mathematical Curiosities</title>
+			<isbn>0465013023</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>A History of Mathematics</title>
+			<isbn>0471543977</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Colossal Book of Mathematics</title>
+			<isbn>0393020231</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>What Is Mathematics?: An Elementary Approach to Ideas and Methods</title>
+			<isbn>0195105192</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Calendar</title>
+			<isbn>1857029798</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Equation That Couldn't Be Solved: How Mathematical Genius Discovered the Language of Symmetry</title>
+			<isbn>0743258215</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine</title>
+			<isbn>0470229055</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Man Who Loved Only Numbers: The Story of  Paul Erdős and the Search for Mathematical Truth</title>
+			<isbn>0786884061</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Codebreakers: The Inside Story of Bletchley Park</title>
+			<isbn>0192801325</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>e: the Story of a Number</title>
+			<isbn>0691058547</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

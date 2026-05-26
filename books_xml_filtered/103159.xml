@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>103159</id>
+	<title>The Forsyte Saga (The Forsyte Chronicles, #1-3)</title>
+	<isbn>0192838628</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>The three novels which make up The Forsyte Saga chronicle the ebbing social power of the commercial upper-middle class Forsyte family between 1886 and 1920. Soames Forsyte is the brilliantly portrayed central figure, a Victorian who outlives the age, and whose baffled passion for his beautiful but unresponsive wife Irene reverberates throughout the saga.&lt;br /&gt;Written with both compassion and ironic detachment, Galsworthy's masterly narrative examines not only their fortunes but also the wider developments within society, particularly the changing position of women in an intensely competitive male world. Above all, Gallsworthy is concerned with the conflict at the heart of English culture between the soulless materialism of wealth and property and the humane instincts of love beauty and art.&lt;br /&gt;--from the back cover</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>872</num_pages>
+	<similar_books>
+		<book>
+			<title>The Glimpses of the Moon</title>
+			<isbn>0451526686</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Miss Marjoribanks (Chronicles of Carlingford, #5)</title>
+			<isbn>0140436308</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Absentee</title>
+			<isbn>0140436456</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Edwardians </title>
+			<isbn>0860683591</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>New Grub Street</title>
+			<isbn>0140430326</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Cranford</title>
+			<isbn>0141439882</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>455764</id>
+	<title>Audrey Rose</title>
+	<isbn>0446324825</isbn>
+	<publication_year>1984</publication_year>
+	<language_code />
+	<description>Suppose a stranger told you your daughter was his daughter in another life? Suppose you began to believe him? Suppose it was true?</description>
+	<average_rating>3.86</average_rating>
+	<num_pages>480</num_pages>
+	<similar_books>
+		<book>
+			<title>The Sentinel</title>
+			<isbn>0345304373</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Damien: Omen II</title>
+			<isbn>0451119908</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>The Bad Seed</title>
+			<isbn>0060795484</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Suffer the Children</title>
+			<isbn>044018293X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Howling</title>
+			<isbn>0449138240</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Haunted Heartland</title>
+			<isbn>0446357251</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Other</title>
+			<isbn>0440167361</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Legion</title>
+			<isbn>0671470450</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Halloween</title>
+			<isbn>0553132261</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Carrie / 'Salem's Lot / The Shining</title>
+			<isbn>0517219026</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Omen</title>
+			<isbn>0451219422</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Burnt Offerings</title>
+			<isbn>0440009286</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Poltergeist</title>
+			<isbn>0446302228</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Fog</title>
+			<isbn>0330376152</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>They Thirst</title>
+			<isbn>0913165603</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Amityville Horror</title>
+			<isbn>0553116606</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>The Wolfen</title>
+			<isbn>0380704404</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Haunted: One Family's Nightmare</title>
+			<isbn>0312014406</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+	</similar_books>
+</book>

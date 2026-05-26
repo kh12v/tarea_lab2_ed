@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>930612</id>
+	<title>Judy Moody (Judy Moody, # 1)</title>
+	<isbn>0763612316</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.92</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Ivy and Bean (Ivy and Bean, #1)</title>
+			<isbn>0811849090</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Junie B., First Grader: Cheater Pants (Junie B. Jones, #21)</title>
+			<isbn>0375823018</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Amber Brown Is Not a Crayon</title>
+			<isbn>0142406198</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Anyone But Me (Katie Kazoo, Switcheroo, #1)</title>
+			<isbn>0448426536</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Just Grace (Just Grace, #1)</title>
+			<isbn>0618646426</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Clementine (Clementine, #1)</title>
+			<isbn>0786838825</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Princess Posey and the First Grade Parade (Princess Posey, #1)</title>
+			<isbn>0399251677</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ruby Lu, Brave and True</title>
+			<isbn>1416913890</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Mystery of the Stolen Diamonds (Cam Jansen Mysteries, #1)</title>
+			<isbn>0142400106</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

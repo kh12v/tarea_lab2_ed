@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>542414</id>
+	<title>Scorpia (Alex Rider, #5)</title>
+	<isbn>0142405787</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>Alex Rider, teen spy, has always been told he is the spitting image of the father he never knew. But when Alex learns that his father may have been an assassin for the most lethal and powerful terrorist organization in the world, Scorpia, his world shatters. Now Scorpia wants Alex on their side, and Alex no longer has the strength to fight them. That is, until he learns of Scorpia’s latest plot: an operation known only as “Invisible Sword” that will result in the death of thousands of people. Can Alex prevent the slaughter, or will Scorpia prove once and for all that the terror will not be stopped?</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>388</num_pages>
+	<similar_books>
+		<book>
+			<title>Blood Fever (Young Bond, #2)</title>
+			<isbn>0786836628</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mad Dogs (Cherub, #8)</title>
+			<isbn>0340911719</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Overlord Protocol (H.I.V.E., #2)</title>
+			<isbn>1416935738</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Jimmy Coates: Target</title>
+			<isbn>0060772662</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Remote Control (Agent Six of Hearts, #2)</title>
+			<isbn>0545075912</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Sure Fire (Rich and Jade, #1)</title>
+			<isbn>0007244630</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

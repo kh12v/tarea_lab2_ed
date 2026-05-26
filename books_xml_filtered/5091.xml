@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>5091</id>
+	<title>The Dark Tower (The Dark Tower, #7)</title>
+	<isbn>1416524525</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>The seventh and final installment of Stephen King's &lt;i&gt;The Dark Tower&lt;/i&gt; saga is perhaps the most anticipated book in the author's long career. King began this epic tale about the last gunslinger in the world more than 20 years ago; now he draws its suspenseful story to a close, snapping together the last pieces of his action puzzle and drawing Roland Deschain ever closer to his ultimate goal.</description>
+	<average_rating>4.27</average_rating>
+	<num_pages>1050</num_pages>
+	<similar_books>
+		<book>
+			<title>The Dark Tower: The Gunslinger - The Journey Begins</title>
+			<isbn>0785147098</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Regulators</title>
+			<isbn>0451191013</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Everville (Book of the Art #2)</title>
+			<isbn>0060933151</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Dreamsongs, Volume I</title>
+			<isbn>0553805452</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Stand, Volume 5: No Man's Land</title>
+			<isbn>0785135251</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Dark Tower Companion: A Guide to Stephen King's Epic Fantasy</title>
+			<isbn>0451237994</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Fear Nothing (Moonlight Bay, #1)</title>
+			<isbn>0553579754</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

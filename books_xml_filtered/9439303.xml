@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>9439303</id>
+	<title>Life</title>
+	<isbn>0297854399</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>en-GB</language_code>
+	<description>With the Rolling Stones, Keith Richards created the riffs, the lyrics and the songs that roused the world, and over four decades he lived the original rock and roll life. Now, at last, the man himself tells us the story of life in the crossfire hurricane.</description>
+	<average_rating>3.84</average_rating>
+	<num_pages>564</num_pages>
+	<similar_books>
+		<book>
+			<title>The True Adventures of the Rolling Stones</title>
+			<isbn>1556524005</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>According to the Rolling Stones</title>
+			<isbn>0811840603</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Twenty Thousand Roads: The Ballad of Gram Parsons and His Cosmic American Music</title>
+			<isbn>0375505709</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Ronnie</title>
+			<isbn>0230701310</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Shakey: Neil Young's Biography</title>
+			<isbn>0679750967</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Up and Down with the Rolling Stones</title>
+			<isbn>0905846915</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Mick Jagger</title>
+			<isbn>0061944858</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Dream Boogie: The Triumph of Sam Cooke</title>
+			<isbn>0316013293</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>S.T.P.: A Journey Through America With The Rolling Stones</title>
+			<isbn>0306811995</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Stone Alone: The Story of a Rock 'n' Roll Band</title>
+			<isbn>0306807831</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Big Man: Real Life &amp; Tall Tales</title>
+			<isbn>0446546267</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Living in the Material World: George Harrison</title>
+			<isbn>1419702203</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Clapton: The Autobiography</title>
+			<isbn>038551851X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Moon: The Life and Death of a Rock Legend</title>
+			<isbn>0380788276</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>I'll Sleep When I'm Dead: The Dirty Life and Times of Warren Zevon</title>
+			<isbn>0060763450</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Old, Weird America: The World of Bob Dylan's Basement Tapes</title>
+			<isbn>0312420439</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Redemption Song: The Ballad of Joe Strummer</title>
+			<isbn>057121178X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Light and Shade: Conversations with Jimmy Page</title>
+			<isbn>0307985717</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

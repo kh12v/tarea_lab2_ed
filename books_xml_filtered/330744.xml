@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>330744</id>
+	<title>InuYasha: Turning Back Time (InuYasha, #1)</title>
+	<isbn>1569319472</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Transported back to Japan's feudal era, high school student Kagome accidentally releases the feral half-demon dog boy Inu-Yasha from his imprisonment for stealing the Jewel of Four Souls.</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>192</num_pages>
+	<similar_books>
+		<book>
+			<title>Rurouni Kenshin, Vol. 1: Meiji Swordsman Romantic Story (Rurouni Kenshin, #1)</title>
+			<isbn>1591162203</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Fushigi Yûgi: The Mysterious Play, Vol. 6: Summoner</title>
+			<isbn>1591160987</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Yu Yu Hakusho, Volume 1: Goodbye, Material World! (Yu Yu Hakusho, #1)</title>
+			<isbn>1569319049</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cardcaptor Sakura, Vol. 1 (Cardcaptor Sakura, #1)</title>
+			<isbn>1591828783</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>D.N.Angel, Vol. 1 (D.N.Angel, #1)</title>
+			<isbn>159182799X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Vampire Game, Volume 01</title>
+			<isbn>1591823692</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Trigun Maximum Volume 1: Hero Returns (Trigun Maximum, #1)</title>
+			<isbn>1593071965</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Full Moon o Sagashite, Vol. 1</title>
+			<isbn>1591169283</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

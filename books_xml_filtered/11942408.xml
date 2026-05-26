@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>11942408</id>
+	<title>شاب كشك في رحلة البحث عن الجادون</title>
+	<isbn />
+	<publication_year>2012</publication_year>
+	<language_code>ara</language_code>
+	<description />
+	<average_rating>3.66</average_rating>
+	<num_pages>189</num_pages>
+	<similar_books>
+		<book>
+			<title>الكتاب التاني</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>زمن الغم الجميل: يوميات مواطن مصري قبل الثورة</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>مصر على كف عفريت</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>شاي بالنعناع</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>ويسترن يونيون فرع الهرم: ديوان بالعامية المصرية</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>السكان الأصليين لمصر</title>
+			<isbn>9773514307</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>يا مصر هانت وبانت</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>أن تكون نفسك</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>حبة هوا...</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>الثورة 2.0</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>حجرتان وصالة: متتالية منزلية</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>1/4 جرام</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>باط مان</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>نقطة النور</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

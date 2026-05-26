@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>42432</id>
+	<title>God Emperor of Dune (Dune Chronicles #4)</title>
+	<isbn>0575075066</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>More than three thousand years have passed since the first events recorded in DUNE. Only one link survives with those tumultuous times: the grotesque figure of Leto Atreides, son of the prophet Paul Muad'Dib, and now the virtually immortal God Emperor of Dune. He alone understands the future, and he knows with a terrible certainty that the evolution of his race is at an end unless he can breed new qualities into his species. But to achieve his final victory, Leto Atreides must also bring about his own downfall...</description>
+	<average_rating>3.81</average_rating>
+	<num_pages>454</num_pages>
+	<similar_books>
+		<book>
+			<title>The Machine Crusade (Legends of Dune, #2)</title>
+			<isbn>076534078X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dune Encyclopedia</title>
+			<isbn>0425068137</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Robots of Dawn (Robot #3)</title>
+			<isbn>0553299492</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Horizon Storms (The Saga of Seven Suns, #3)</title>
+			<isbn>0446610593</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Hypérion 1</title>
+			<isbn>2266173278</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

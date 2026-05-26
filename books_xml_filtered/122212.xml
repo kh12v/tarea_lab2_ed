@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>122212</id>
+	<title>Waiting to Exhale (Waiting To Exhale #1)</title>
+	<isbn>0451217454</isbn>
+	<publication_year>2006</publication_year>
+	<language_code />
+	<description>The story of friendship between four African American women who lean on each other while "waiting to exhale": waiting for that man who will take their breath away.</description>
+	<average_rating>3.94</average_rating>
+	<num_pages>448</num_pages>
+	<similar_books>
+		<book>
+			<title>Invisible Life</title>
+			<isbn>0385469683</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Brothers and Sisters</title>
+			<isbn>0425172678</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Milk in my Coffee</title>
+			<isbn>0451201000</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Ugly Ways</title>
+			<isbn>0156000776</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Blessings</title>
+			<isbn>0684850354</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Sisters &amp; Lovers</title>
+			<isbn>0345409698</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Tryin' to Sleep in the Bed You Made</title>
+			<isbn>0312963130</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Babylon Sisters (West End, #2)</title>
+			<isbn>0345456106</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Homemade Love</title>
+			<isbn>031219465X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

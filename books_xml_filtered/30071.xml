@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>30071</id>
+	<title>The Walking Dead, Book One (The Walking Dead #1-12)</title>
+	<isbn>1582406197</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description>This hardcover features the first 12 issues of the hit series along with the covers for the issues in one oversized hardcover volume. Perfect for long time fans, new readers and anyone needing a slightly heavy object with which to fend off the walking dead.</description>
+	<average_rating>4.36</average_rating>
+	<num_pages>304</num_pages>
+	<similar_books>
+		<book>
+			<title>Y: The Last Man - The Deluxe Edition Book One</title>
+			<isbn>1401219217</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Locke &amp; Key, Vol. 4: Keys to the Kingdom</title>
+			<isbn>1600108865</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Siege  (As The World Dies, #3)</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Zombie Survival Guide: Recorded Attacks</title>
+			<isbn>030740577X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>30 Days of Night, Vol. 2: Dark Days</title>
+			<isbn>193238216X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Hellboy Library Edition, Volume 1: Seed of Destruction and Wake the Devil (Hellboy, #1-2)</title>
+			<isbn>1593079109</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Wormwood, Gentleman Corpse, Vol. 2: It Only Hurts When I Pee</title>
+			<isbn>1600101623</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Sword, Vol. 3: Earth</title>
+			<isbn>1607060736</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Preacher, Book 1</title>
+			<isbn>140122279X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Chew: The Omnivore Edition, Vol. 1</title>
+			<isbn>1607062933</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Walking Dead Survivors' Guide</title>
+			<isbn>1607064588</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Zombies: A Record of the Year of Infection: Field Notes by Dr. Robert Twombly</title>
+			<isbn>0811871002</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

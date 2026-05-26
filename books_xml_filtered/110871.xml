@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>110871</id>
+	<title>Thérèse Raquin</title>
+	<isbn>0140449442</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>One of Zola's most famous realistic novels, &lt;i&gt;Therese Raquin&lt;/i&gt; is a clinically observed, sinister tale of adultery and murder among the lower classes in nineteenth-century Parisian society.&lt;br /&gt;&lt;br /&gt;Set in the claustrophobic atmosphere of a dingy haberdasher's shop in the passage du Pont-Neuf in Paris, this powerful novel tells how the heroine and her lover, Laurent, kill her husband, Camille, but are subsequently haunted by visions of the dead man and prevented from enjoying the fruits of their crime.&lt;br /&gt;&lt;br /&gt;Zola's shocking tale dispassionately dissects the motivations of his characters--mere "human beasts", who kill in order to satisfy their lust--and stands as a key manifesto of the French Naturalist movement, of which the author was the founding father. Published in 1867, this is Zola's most important work before the Rougon-Macquart series and introduces many of the themes that can be traced through the later novel cycle.</description>
+	<average_rating>3.71</average_rating>
+	<num_pages>201</num_pages>
+	<similar_books>
+		<book>
+			<title>Cousin Pons</title>
+			<isbn>0140442057</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Pierre et Jean</title>
+			<isbn>0543898466</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Fantômas (Fantômas, #1)</title>
+			<isbn>0143104845</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Temptation of St. Antony</title>
+			<isbn>0140444106</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Mademoiselle de Maupin</title>
+			<isbn>0140448136</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Gods Will Have Blood</title>
+			<isbn>0140184570</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Les caves du Vatican</title>
+			<isbn>2070360342</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Thérèse Desqueyroux</title>
+			<isbn>2253004219</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Castle Richmond</title>
+			<isbn>1406930245</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Claudine's House </title>
+			<isbn>1843914158</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Manon des Sources (L'eau des collines, #2)</title>
+			<isbn>287706512X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Born in Exile</title>
+			<isbn>140680942X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Les Diaboliques </title>
+			<isbn>2253036544</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The Devil in the Flesh</title>
+			<isbn>0714534021</isbn>
+			<publication_year>1968</publication_year>
+		</book>
+	</similar_books>
+</book>

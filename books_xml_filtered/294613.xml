@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>294613</id>
+	<title>Little Bear's Friend</title>
+	<isbn>0064440516</isbn>
+	<publication_year>1984</publication_year>
+	<language_code />
+	<description>One summer Little Bear makes friends with a girl named Emily. But when summer ends, Emily must leave. Little Bear is very sad—until he finds a way to stay close to his new friend even when she is far away!</description>
+	<average_rating>4.30</average_rating>
+	<num_pages>64</num_pages>
+	<similar_books>
+		<book>
+			<title>Mouse Tales</title>
+			<isbn>0064440133</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>A Bargain for Frances</title>
+			<isbn>006444001X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Sammy the Seal</title>
+			<isbn>0064442705</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Harry and the Lady Next Door</title>
+			<isbn>0060268522</isbn>
+			<publication_year>1960</publication_year>
+		</book>
+		<book>
+			<title>Morris Goes to School</title>
+			<isbn>0064440451</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Amelia Bedelia and the Surprise Shower</title>
+			<isbn>0064440192</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Madeline and the Bad Hat</title>
+			<isbn>0670446149</isbn>
+			<publication_year>1957</publication_year>
+		</book>
+		<book>
+			<title>Curious George Rides a Bike</title>
+			<isbn>1844285073</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Fire Cat</title>
+			<isbn>0064440389</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Big Max (I Can Read Level 2)</title>
+			<isbn>0064440060</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Country Bunny and the Little Gold Shoes</title>
+			<isbn>0395159903</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>Babar the King</title>
+			<isbn>1405204664</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Zack's Alligator (I Can Read Level 2)</title>
+			<isbn>0064441865</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Calling Doctor Amelia Bedelia</title>
+			<isbn>0060087803</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>One Was Johnny: A Counting Book</title>
+			<isbn>0064432513</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>77430</id>
+	<title>Master and Commander</title>
+	<isbn>0393307050</isbn>
+	<publication_year>1990</publication_year>
+	<language_code>eng</language_code>
+	<description>1800s. Britain's Nelson leads Navy against Napoleon's France. Captain Jack Aubrey, newly promoted to old, slow HMS Sophie, is a brave and gifted seaman, his thirst for adventure and victory immense. Aided by friend and skilled ship surgeon Stephen Maturin, Aubrey and crew win clashes, finally hopelessly outmatched by a mighty Spanish frigate.</description>
+	<average_rating>4.10</average_rating>
+	<num_pages>459</num_pages>
+	<similar_books>
+		<book>
+			<title>Beat to Quarters</title>
+			<isbn>0316289329</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Sea of Words: A Lexicon and Companion to the Complete Seafaring Tales of Patrick O'Brian</title>
+			<isbn>0805066152</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The King's Coat (Alan Lewrie, #1)</title>
+			<isbn>0449003604</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Sharpe's Rifles (Sharpe, #6)</title>
+			<isbn>0140294295</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Patrick O'Brian's Navy</title>
+			<isbn>0762415401</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Pawn in Frankincense (The Lymond Chronicles, #4)</title>
+			<isbn>0679777466</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Under Enemy Colors (Charles Hayden, #1)</title>
+			<isbn>0399154434</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>31173</id>
+	<title>Villette</title>
+	<isbn>037575850X</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;"Villette&lt;/i&gt;! &lt;i&gt;Villette&lt;/i&gt;! Have you read it?" exclaimed George Eliot when Charlotte Brontë's final novel appeared in 1853. "It is a still more wonderful book than &lt;i&gt;Jane Eyre.&lt;/i&gt; There is something almost preternatural in its power."&lt;br /&gt;&lt;br /&gt;Arguably Brontë's most refined and deeply felt work, &lt;i&gt;Villette&lt;/i&gt; draws on her profound loneliness following the deaths of her three siblings. Lucy Snowe, the narrator of &lt;i&gt;Villette,&lt;/i&gt;flees from an unhappy past in England to begin a new life as a teacher at a French boarding school in the great cosmopolitan capital of Villette. Soon Lucy's struggle for independence is overshadowed by both her friendship with a worldly English doctor and her feelings for an autocratic schoolmaster. Brontë's strikingly modern heroine must decide if there is any man in her society with whom she can live and still be free.</description>
+	<average_rating>3.74</average_rating>
+	<num_pages>573</num_pages>
+	<similar_books>
+		<book>
+			<title>Agnes Grey</title>
+			<isbn>0140432108</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Wives and Daughters</title>
+			<isbn>014043478X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Way We Live Now</title>
+			<isbn>1853262552</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>No Name</title>
+			<isbn>019283388X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Two on a Tower</title>
+			<isbn>140673487X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Evelina</title>
+			<isbn>0192840312</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Lady Audley's Secret</title>
+			<isbn>0192835203</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Romola</title>
+			<isbn>0140434704</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>East Lynne </title>
+			<isbn>0192804626</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Odd Women</title>
+			<isbn>019283312X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Martin Chuzzlewit</title>
+			<isbn>0140436146</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Miss Marjoribanks (Chronicles of Carlingford, #5)</title>
+			<isbn>0140436308</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Complete Poems</title>
+			<isbn>0231103476</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

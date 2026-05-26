@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>76706</id>
+	<title>Track of the Cat (Anna Pigeon, #1)</title>
+	<isbn>0380721643</isbn>
+	<publication_year>1993</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Anna Pigeon fled the turmoil of New York to become a national park ranger, only to discover she hasn't escaped murder and violence. When a colleague is killed, claw marks on the victim's throat and paw prints around the body are too perfect to be those of an alleged killer mountain lion.</description>
+	<average_rating>3.86</average_rating>
+	<num_pages>218</num_pages>
+	<similar_books>
+		<book>
+			<title>Dead In The Water (Kate Shugak, #3)</title>
+			<isbn>042513749X</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Murder on the Iditarod Trail (Alex Jensen / Jessie Arnold, #1)</title>
+			<isbn>0380717581</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Desert Heat (Joanna Brady, #1)</title>
+			<isbn>0380765454</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Listening Woman (Leaphorn &amp; Chee, #3)</title>
+			<isbn>0061000299</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Edwin of the Iron Shoes</title>
+			<isbn>0445409029</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Eagle Catcher (Wind River Reservation, #1)</title>
+			<isbn>0425154637</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

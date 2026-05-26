@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>1591</id>
+	<title>Lysistrata</title>
+	<isbn>0872206033</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Aristophanes' comic masterpiece of war and sex remains one of the greatest plays ever written. Led by the title character, the women of the warring city-states of Greece agree to withhold sexual favours with their husbands until they agree to cease fighting. The war of the sexes that ensues makes &lt;i&gt;Lysistrata&lt;/i&gt; a comedy without peer in the history of theatre.</description>
+	<average_rating>3.84</average_rating>
+	<num_pages>132</num_pages>
+	<similar_books>
+		<book>
+			<title>Oedipus at Colonus (The Theban Plays, #2)</title>
+			<isbn>0195135040</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Iphigenia in Aulis</title>
+			<isbn>1566631114</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Libation Bearers (Ορέστεια, #2)</title>
+			<isbn>1593772807</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Medea</title>
+			<isbn>080149432X</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+	</similar_books>
+</book>

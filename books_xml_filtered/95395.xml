@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>95395</id>
+	<title>Preacher, Volume 4: Ancient History</title>
+	<isbn>156389405X</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>Four distinctive characters whose lives were forever changed by encounters with Preacher's Jesse Custer take center stage in this volume. Included: The Saint of Killers, telling the origin of this troubled, violent figure from the Old West, and The Story of You-Know-Who, in which a disaffected loser tries to escape the influence of his abusive sheriff father with tragic, yet comical, results, and more.</description>
+	<average_rating>4.25</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>Transmetropolitan, Vol. 10: One More Time (Transmetropolitan, #10)</title>
+			<isbn>1401202179</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Y: The Last Man, Vol. 6: Girl on Girl (Y: The Last Man, #6)</title>
+			<isbn>1401205011</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>100 Bullets, Vol. 6: Six Feet Under the Gun</title>
+			<isbn>1563899965</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Lucifer, Vol. 8: The Wolf Beneath the Tree</title>
+			<isbn>140120502X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>830</id>
+	<title>Snow Crash</title>
+	<isbn>0553380958</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>In reality, Hiro Protagonist delivers pizza for Uncle Enzo’s CosoNostra Pizza Inc., but in the Metaverse he’s a warrior prince. Plunging headlong into the enigma of a new computer virus that’s striking down hackers everywhere, he races along the neon-lit streets on a search-and-destroy mission for the shadowy virtual villain threatening to bring about infocalypse. Snow Crash is a mind-altering romp through a future America so bizarre, so outrageous…you’ll recognize it immediately.</description>
+	<average_rating>4.02</average_rating>
+	<num_pages>470</num_pages>
+	<similar_books>
+		<book>
+			<title>Broken Angels (Takeshi Kovacs, #2)</title>
+			<isbn>0345457714</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Count Zero (Sprawl, #2)</title>
+			<isbn>0441013678</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Schismatrix Plus</title>
+			<isbn>0441003702</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>A Deepness in the Sky (Zones of Thought, #2)</title>
+			<isbn>0812536355</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Halting State (Halting State, #1)</title>
+			<isbn>0441014984</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hardwired (Hardwired, #1)</title>
+			<isbn>1597800627</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Surface Detail (Culture #9)</title>
+			<isbn>0316123404</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>A Fire in the Sun</title>
+			<isbn>0765313596</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Shockwave Rider</title>
+			<isbn>0345467175</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Blindsight (Firefall, #1)</title>
+			<isbn>0765312182</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Eastern Standard Tribe</title>
+			<isbn>0765310457</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

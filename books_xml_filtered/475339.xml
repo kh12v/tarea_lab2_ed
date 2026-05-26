@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>475339</id>
+	<title>Madeline</title>
+	<isbn>0590133373</isbn>
+	<publication_year>1989</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Madeline is one of the best-loved characters in children's literature. Set in picturesque Paris, this tale of a brave little girl's trip to the hospital was a Caldecott Honor Book in 1940 and has as much appeal today as it did then. The combination of a spirited heroine, timelessly appealing art, cheerful humor, and rhythmic text makes Madeline a perennial favorite with children of all ages.</description>
+	<average_rating>4.22</average_rating>
+	<num_pages>44</num_pages>
+	<similar_books>
+		<book>
+			<title>Babar the King</title>
+			<isbn>1405204664</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Olivia</title>
+			<isbn>0689829531</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Anatole (Anatole, #1)</title>
+			<isbn>0375839011</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Little Bear</title>
+			<isbn>0590319671</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Blueberries for Sal</title>
+			<isbn>0670175919</isbn>
+			<publication_year>1948</publication_year>
+		</book>
+		<book>
+			<title>Eloise </title>
+			<isbn>067122350X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tikki Tikki Tembo</title>
+			<isbn>0312367481</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Imogene's Antlers</title>
+			<isbn>037581048X</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Frédéric</title>
+			<isbn>2211065899</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Angelina Ballerina</title>
+			<isbn>0670060267</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Knuffle Bunny Too: A Case of Mistaken Identity (Knuffle Bunny, #2)</title>
+			<isbn>1423102991</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Berenstain Bears Get Stage Fright </title>
+			<isbn>0394873378</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Story of Ferdinand</title>
+			<isbn>0670674249</isbn>
+			<publication_year>1936</publication_year>
+		</book>
+		<book>
+			<title>A Pocket for Corduroy</title>
+			<isbn>067056172X</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Lyle, Lyle, Crocodile</title>
+			<isbn>0395137209</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>A Baby Sister for Frances</title>
+			<isbn>0099432439</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Miss Rumphius</title>
+			<isbn>0140505393</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Strega Nona</title>
+			<isbn>8424133498</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

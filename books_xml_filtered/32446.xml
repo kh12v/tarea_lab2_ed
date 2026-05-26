@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>32446</id>
+	<title>The Door to December</title>
+	<isbn>0451205421</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>The #1 New York Times bestselling author delivers a truly suspenseful novel of a mother who must save her daughter from a threat she can hardly understand. What happened to nine-year-old Melanie during the six years she was subjected to terrifying experiments? And what is the unstoppable power that she can unleash from behind the "Door to December"?</description>
+	<average_rating>3.94</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>One Door Away from Heaven</title>
+			<isbn>0553582755</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shadowfires</title>
+			<isbn>0380752136</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Icebound</title>
+			<isbn>0553582909</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

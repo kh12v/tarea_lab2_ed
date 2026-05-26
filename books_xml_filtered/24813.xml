@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>24813</id>
+	<title>The Calvin and Hobbes Tenth Anniversary Book</title>
+	<isbn>0836204387</isbn>
+	<publication_year>1995</publication_year>
+	<language_code>eng</language_code>
+	<description>Many moons ago, the magic of &lt;i&gt;Calvin and Hobbes&lt;/i&gt; first appeared on the funny pages and the world was introduced to a wondrous pair of friends -- a boy and his tiger, who brought new life to the comics page. To celebrate the tenth anniversary of this distinguished partnership, Bill Watterson prepared this special book, sharing his thoughts on cartooning and creating &lt;i&gt;Calvin and Hobbes&lt;/i&gt;, illustrated throughout with favorite black-and-white and color cartoons.</description>
+	<average_rating>4.63</average_rating>
+	<num_pages>208</num_pages>
+	<similar_books>
+		<book>
+			<title>The Far Side Gallery 4</title>
+			<isbn>0836217241</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Camp FoxTrot</title>
+			<isbn>0836267478</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Billy and the Boingers: Bootleg</title>
+			<isbn>0316107298</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Groovitude: A Get Fuzzy Treasury</title>
+			<isbn>0740728946</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>130119</id>
+	<title>An Enquiry Concerning Human Understanding</title>
+	<isbn>1420926993</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>Philosopher David Hume was considered to one of the most important figures in the age of Scottish enlightenment. In "An Enquiry Concerning Human Understanding" Hume discusses the weakness that humans have in their abilities to comprehend the world around them, what is referred to in the title as human understanding. This work, now commonly required reading in philosophy classes, exposed a broad audience to philosophy when it was first published. A great introduction to the philosophy of David Hume, "An Enquiry Concerning Human Understanding" and the ideas within it are as intriguing today as when they were first written.</description>
+	<average_rating>3.90</average_rating>
+	<num_pages>96</num_pages>
+	<similar_books>
+		<book>
+			<title>Three Dialogues Between Hylas and Philonous</title>
+			<isbn>0915144611</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Prolegomena to Any Future Metaphysics</title>
+			<isbn>0872205932</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Language, Truth, and Logic</title>
+			<isbn>0486200108</isbn>
+			<publication_year>1952</publication_year>
+		</book>
+		<book>
+			<title>An Essay Concerning Human Understanding</title>
+			<isbn>1406790273</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Meditations on First Philosophy: With Selections from the Objections and Replies (Cambridge Texts in the History of Philosophy)</title>
+			<isbn>0521558182</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>From a Logical Point of View: Nine Logico-Philosophical Essays</title>
+			<isbn>0674323513</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Discourse on Metaphysics and Other Essays</title>
+			<isbn>0872201325</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Ethics: Inventing Right and Wrong</title>
+			<isbn>0140135588</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Ethics</title>
+			<isbn>0140435719</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Pragmatism: A New Name for Some Old Ways of Thinking</title>
+			<isbn>0486282708</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Naming and Necessity</title>
+			<isbn>0674598466</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Meno</title>
+			<isbn>0915144247</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Tractatus Logico-Philosophicus</title>
+			<isbn>0415254086</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Problems of Philosophy</title>
+			<isbn>1421903679</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

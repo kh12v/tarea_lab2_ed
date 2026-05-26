@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>352383</id>
+	<title>Antigone</title>
+	<isbn>041330860X</isbn>
+	<publication_year>1960</publication_year>
+	<language_code />
+	<description />
+	<average_rating>3.80</average_rating>
+	<num_pages>72</num_pages>
+	<similar_books>
+		<book>
+			<title>La guerre de Troie n'aura pas lieu</title>
+			<isbn>2038717133</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Infernal Machine and Other Plays</title>
+			<isbn>0811200221</isbn>
+			<publication_year>1964</publication_year>
+		</book>
+		<book>
+			<title>Andromaque</title>
+			<isbn>2070409023</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Huis clos, suivi de Les mouches</title>
+			<isbn>2070368076</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Lorenzaccio</title>
+			<isbn>2030347205</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>La cantatrice chauve, suivi de La leçon</title>
+			<isbn>2070362361</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Le Malade imaginaire</title>
+			<isbn>2038716668</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Caligula; suivi de Le Malentendu</title>
+			<isbn>2070360644</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>The Marriage of Figaro (Le Nozze Di Figaro): Vocal Score</title>
+			<isbn>0793512085</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Le Barbier de Séville ou La Précaution Inutile</title>
+			<isbn>2070400034</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Horace</title>
+			<isbn>2035877350</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Le jeu de l'amour et du hasard</title>
+			<isbn>2030345911</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Ruy Blas</title>
+			<isbn>2038717192</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Knock ou le triomphe de la médecine</title>
+			<isbn>2070360601</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+	</similar_books>
+</book>

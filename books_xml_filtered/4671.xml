@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>4671</id>
+	<title>The Great Gatsby</title>
+	<isbn>0743273567</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;THE GREAT GATSBY&lt;/b&gt;, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted “gin was the national drink and sex the national obsession,” it is an exquisitely crafted tale of America in the 1920s.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Great Gatsby&lt;/i&gt; is one of the great classics of twentieth-century literature.</description>
+	<average_rating>3.89</average_rating>
+	<num_pages>180</num_pages>
+	<similar_books>
+		<book>
+			<title>The Professor's House</title>
+			<isbn>1844083764</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Tenant of Wildfell Hall</title>
+			<isbn>0140434747</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Annotated Alice: The Definitive Edition</title>
+			<isbn>0393048470</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Garden Party and Other Stories</title>
+			<isbn>0140188800</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Virgin Suicides</title>
+			<isbn>0747560595</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Moon Is Down</title>
+			<isbn>0141185538</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>A Passage to India</title>
+			<isbn>014144116X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Underworld</title>
+			<isbn>0330369954</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Sheltering Sky</title>
+			<isbn>0141023422</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Fires: Essays, Poems, Stories</title>
+			<isbn>0679722394</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Border Trilogy: All the Pretty Horses, The Crossing, Cities of the Plain</title>
+			<isbn>0375407936</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Postman Always Rings Twice</title>
+			<isbn>0752861743</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Miss Lonelyhearts / The Day of the Locust</title>
+			<isbn>0811202151</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>The Wings of the Dove</title>
+			<isbn>0812967194</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Picture of Dorian Gray</title>
+			<isbn>0375751513</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Things They Carried</title>
+			<isbn>0767902890</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Islands in the Stream</title>
+			<isbn>0743253426</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Rabbit Angstrom: The Four Novels</title>
+			<isbn>0679444599</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

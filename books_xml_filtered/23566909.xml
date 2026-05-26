@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>23566909</id>
+	<title>The Marvels</title>
+	<isbn>0545448689</isbn>
+	<publication_year>2015</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.93</average_rating>
+	<num_pages>665</num_pages>
+	<similar_books>
+		<book>
+			<title>Gone Crazy in Alabama (Gaither Sisters, #3)</title>
+			<isbn>0062215906</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>The Misadventures of the Family Fletcher (Family Fletcher, #1)</title>
+			<isbn>0385376545</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Sunny Side Up</title>
+			<isbn>0545741653</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Unusual Chickens for the Exceptional Poultry Farmer</title>
+			<isbn>038575552X</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Booked</title>
+			<isbn>0544570987</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Raymie Nightingale</title>
+			<isbn>0763681172</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Harriet the Invincible (Hamster Princess, #1)</title>
+			<isbn>0803739834</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Chasing Secrets</title>
+			<isbn>0375990631</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Roller Girl</title>
+			<isbn>0803740166</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Five, Six, Seven, Nate! (Better Nate Than Ever #2)</title>
+			<isbn>1442446935</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Under the Egg</title>
+			<isbn>0803740018</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Circus Mirandus</title>
+			<isbn>0525428437</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Revolution (The Sixties Trilogy, #2)</title>
+			<isbn>0545106079</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Ghosts of Tupelo Landing (Tupelo Landing, #2)</title>
+			<isbn>0803736711</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Listen, Slowly</title>
+			<isbn>0062229184</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Warren the 13th and The All-Seeing Eye</title>
+			<isbn>1594748039</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Some Kind of Courage</title>
+			<isbn>0545665779</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Full Cicada Moon</title>
+			<isbn />
+			<publication_year>2015</publication_year>
+		</book>
+	</similar_books>
+</book>

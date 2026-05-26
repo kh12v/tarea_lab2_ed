@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>16307</id>
+	<title>Hallowe'en Party (Hercule Poirot, #36)</title>
+	<isbn>0007120680</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>A teenage murder witness is drowned in a tub of apples... At a Hallowe'en party, Joyce—a hostile thirteen-year-old—boasts that she once witnessed a murder. When no-one believes her, she storms off home. But within hours her body is found, still in the house, drowned in an apple-bobbing tub. That night, Hercule Poirot is called in to find the 'evil presence'. But first he must establish whether he is looking for a murderer or a double-murderer...</description>
+	<average_rating>3.66</average_rating>
+	<num_pages>336</num_pages>
+	<similar_books>
+		<book>
+			<title>Singing in the Shrouds (Roderick Alleyn, #20)</title>
+			<isbn>0312968884</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Detection Unlimited (Inspector Hemingway Mystery #4)</title>
+			<isbn>0099493748</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Champagne for One (Nero Wolfe, #31)</title>
+			<isbn>0553244388</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Have His Carcase  (Lord Peter Wimsey, #8)</title>
+			<isbn>0061043524</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

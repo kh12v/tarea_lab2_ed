@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>25807</id>
+	<title>The Postman Always Rings Twice</title>
+	<isbn>0752861743</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description>Cain's first novel - the subject of an obscenity trial in Boston and the inspiration for Camus's &lt;i&gt;The Stranger&lt;/i&gt; - is the fever-pitched tale of a drifter who stumbles into a job, into an erotic obsession, and into a murder.</description>
+	<average_rating>3.81</average_rating>
+	<num_pages>116</num_pages>
+	<similar_books>
+		<book>
+			<title>Studs Lonigan</title>
+			<isbn>1931082553</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Hell of a Woman</title>
+			<isbn>0316403733</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>A Dance to the Music of Time: 3rd Movement (A Dance to the Music of Time, #7-9)</title>
+			<isbn>0226677176</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Old Wives' Tale</title>
+			<isbn>0375754903</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Continental Op</title>
+			<isbn>0752856170</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Bride Wore Black</title>
+			<isbn>0743413164</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Pick-Up</title>
+			<isbn>1596542241</isbn>
+			<publication_year>1955</publication_year>
+		</book>
+		<book>
+			<title>They Shoot Horses, Don't They?</title>
+			<isbn>185242401X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>In a Lonely Place</title>
+			<isbn>1558614559</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Zuleika Dobson</title>
+			<isbn>037575248X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Dark Passage</title>
+			<isbn>1853755087</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Hot Spot</title>
+			<isbn>0679733299</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Farewell, My Lovely (Philip Marlowe, #2)</title>
+			<isbn>0394758277</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Magnificent Ambersons (The Growth Trilogy, #2)</title>
+			<isbn>1406935735</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>201126</id>
+	<title>We're Going on a Bear Hunt</title>
+	<isbn>0689853491</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Come along on a bear hunt in this award-winning classic from Michael Rosen and Helen Oxenbury. We’re going on a bear hunt. We’re going to catch a big one.. Will you come too? For more than twenty-five years readers have been swishy swashing and splash sploshing through this award-winning favorite. Join in the fun!</description>
+	<average_rating>4.27</average_rating>
+	<num_pages>40</num_pages>
+	<similar_books>
+		<book>
+			<title>Mr. Gumpy's Outing</title>
+			<isbn>0805013156</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Each Peach Pear Plum</title>
+			<isbn>067088278X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Where is the Green Sheep?</title>
+			<isbn>1844583678</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Dear Zoo: A Lift-the-Flap Book</title>
+			<isbn>141694737X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Gruffalo</title>
+			<isbn>0333710932</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Elmer</title>
+			<isbn>0688091717</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Elephant and the Bad Baby</title>
+			<isbn>0140500480</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Owl Babies</title>
+			<isbn>0744592704</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>I Know a Rhino</title>
+			<isbn>1402708610</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Ask Mr. Bear</title>
+			<isbn>0020430906</isbn>
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>Go Away, Big Green Monster!</title>
+			<isbn>0316236535</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Rosie's Walk</title>
+			<isbn>1416908358</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Hairy Maclary from Donaldson's Dairy</title>
+			<isbn>0670913502</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Lost and Found (The Boy, #2)</title>
+			<isbn>0399245030</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Aliens Love Underpants</title>
+			<isbn>1416917055</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>I Will Never Not Ever Eat a Tomato</title>
+			<isbn>0763621803</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Rumble in the Jungle</title>
+			<isbn>1589253671</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Wheels on the Bus</title>
+			<isbn>0525446443</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

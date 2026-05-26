@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>43992</id>
+	<title>True Evil</title>
+	<isbn>0743292499</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Dr. Chris Shepard, a busy young doctor in Natchez, Mississippi, has never seen his new patient Alex Morse before. But the attractive young woman with the scarred face has come to Dr. Shepards office on a mission to catch a killer. This New York Times bestseller is available in a tall Premium Edition.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>512</num_pages>
+	<similar_books>
+		<book>
+			<title>Troubleshooter (Tim Rackley, #3)</title>
+			<isbn>0060731419</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Resurrection Day</title>
+			<isbn>0340657480</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Just One Look</title>
+			<isbn>0451213203</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Killer Instinct</title>
+			<isbn>0312347472</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Love 'N' Marriage</title>
+			<isbn>0373085222</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ties That Bind (Amanda Jaffe, #2)</title>
+			<isbn>0060083247</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Sleeping Doll (Kathryn Dance, #1)</title>
+			<isbn>034083384X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Face of Death (Smoky Barrett, #2)</title>
+			<isbn>0553804669</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lying With Strangers</title>
+			<isbn>0739467999</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>When She Was Bad</title>
+			<isbn>1416534164</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Exile</title>
+			<isbn>0765348357</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Darkside</title>
+			<isbn>031298636X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Death Collectors (Carson Ryder, #2)</title>
+			<isbn>0451218299</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Wild Fire (John Corey, #4)</title>
+			<isbn>044657967X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Hide (Detective D.D. Warren, #2)</title>
+			<isbn>0553804324</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Fallen</title>
+			<isbn>0060562390</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Compulsion (Frank Clevenger, #3)</title>
+			<isbn>0312988249</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

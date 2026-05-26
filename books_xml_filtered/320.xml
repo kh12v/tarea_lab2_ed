@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>320</id>
+	<title>One Hundred Years of Solitude</title>
+	<isbn>0060531045</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Probably Garcí­a Márquez finest and most famous work. &lt;i&gt;One Hundred Years of Solitude&lt;/i&gt; tells the story of the rise and fall, birth and death of a mythical town of Macondo through the history of the Buendia family. Inventive, amusing, magnetic, sad, alive with unforgettable men and women, and with a truth and understanding that strike the soul. &lt;i&gt;One Hundred Years of Solitude&lt;/i&gt; is a masterpiece of the art of fiction.</description>
+	<average_rating>4.04</average_rating>
+	<num_pages>457</num_pages>
+	<similar_books>
+		<book>
+			<title>The War of the End of the World</title>
+			<isbn>0571139612</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Stories of Eva Luna</title>
+			<isbn>0743217187</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Kingdom of This World</title>
+			<isbn>0374521972</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Aleph and Other Stories </title>
+			<isbn>0142437883</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Gospel According to Jesus Christ</title>
+			<isbn>186046095X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Guermantes Way  (In Search of Lost Time, #3)</title>
+			<isbn>0143039229</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Memoirs</title>
+			<isbn>028564811X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Tin Drum</title>
+			<isbn>0099483505</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The President</title>
+			<isbn>0881339512</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>2666</title>
+			<isbn>843396867X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Bestiario</title>
+			<isbn>8466309896</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Death of Artemio Cruz</title>
+			<isbn>0374522839</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Midnight's Children</title>
+			<isbn>0099578514</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Labyrinth of Solitude and Other Writings</title>
+			<isbn>080215042X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Independent People</title>
+			<isbn>0679767924</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Gabriela, Clavo y Canela</title>
+			<isbn />
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

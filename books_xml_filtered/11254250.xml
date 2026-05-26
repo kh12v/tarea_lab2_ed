@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>11254250</id>
+	<title>Cabin Fever (Diary of a Wimpy Kid, #6)</title>
+	<isbn>1419702238</isbn>
+	<publication_year>2011</publication_year>
+	<language_code>eng</language_code>
+	<description>Greg Heffley is in big trouble. School property has been damaged, and Greg is the prime suspect. But the crazy thing is, he’s innocent. Or at least sort of. The authorities are closing in, but when a surprise blizzard hits, the Heffley family is trapped indoors. Greg knows that when the snow melts he’s going to have to face the music, but could any punishment be worse than being stuck inside with your family for the holidays?</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>Big Nate on a Roll (Big Nate Novels, #3)</title>
+			<isbn>0061944394</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Darth Paper Strikes Back (Origami Yoda, #2)</title>
+			<isbn>1419700278</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Stink and the Incredible Super-Galactic Jawbreaker (Stink, #2)</title>
+			<isbn>0763632368</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Middle School: Get Me Out of Here!  (Middle School, #2)</title>
+			<isbn>0316206717</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Happy Birthday, Bad Kitty</title>
+			<isbn>1596433426</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Captain Underpants and the Preposterous Plight of the Purple Potty People (Captain Underpants, #8)</title>
+			<isbn>0439903815</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Never Do Anything, Ever (Dear Dumb Diary #4)</title>
+			<isbn>043962908X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Tales from a Not-So-Talented Pop Star (Dork Diaries, #3)</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Framed (Swindle, #3)</title>
+			<isbn>0545178495</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Diary of a Wimpy Kid: List of Characters</title>
+			<isbn>1155347641</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>7963189</id>
+	<title>Le bleu est une couleur chaude</title>
+	<isbn>272346783X</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>fre</language_code>
+	<description>La vie de Clémentine bascule le jour où elle rencontre Emma, une jeune fille aux cheveux bleus, qui lui fait découvrir toutes les facettes du désir et lui permettra d'affronter le regard des autres. Un récit tendre et sensible.</description>
+	<average_rating>3.92</average_rating>
+	<num_pages>157</num_pages>
+	<similar_books>
+		<book>
+			<title>Mauvais genre</title>
+			<isbn>2756039713</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Pregnant Butch: Nine Long Months Spent in Drag</title>
+			<isbn>1593765401</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Calling Dr. Laura</title>
+			<isbn>0547615590</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A + E 4ever</title>
+			<isbn>1590213904</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>No Straight Lines: Four Decades of Queer Comics</title>
+			<isbn>1606995065</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Essential Dykes to Watch Out For</title>
+			<isbn>0618968806</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Honor Girl: A Graphic Memoir</title>
+			<isbn>076367382X</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>On Loving Women</title>
+			<isbn>177046140X</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Paul au parc</title>
+			<isbn>2923841050</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Unterzakhn (Pantheon Graphic Novels)</title>
+			<isbn>0805242597</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lucille</title>
+			<isbn>2754800514</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Awkward and Definition: The High School Comic Chronicles of Ariel Schrag</title>
+			<isbn>1416552316</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>When David Lost His Voice</title>
+			<isbn>1906838542</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Exquisite Corpse</title>
+			<isbn>1626720827</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Strangers in Paradise, Pocket Book 1</title>
+			<isbn>1892597268</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Âme rouge (Blacksad, #3)</title>
+			<isbn>220505564X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Come prima</title>
+			<isbn>2756031526</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Marbles: Mania, Depression, Michelangelo, and Me</title>
+			<isbn>1592407323</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

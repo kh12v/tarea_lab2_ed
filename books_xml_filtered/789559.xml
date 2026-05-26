@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>789559</id>
+	<title>The Three Billy Goats Gruff</title>
+	<isbn>0899190359</isbn>
+	<publication_year>1981</publication_year>
+	<language_code>eng</language_code>
+	<description>This classic story is a favorite with toddlers, who will cheer on the three clever billy goats who outsmart a mean troll. With plenty of repetition, this adventure is perfect for reading aloud and for joining in, and a satisfying ending provides a reassuring touch.</description>
+	<average_rating>4.14</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Goldilocks and the Three Bears</title>
+			<isbn>0803705425</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Rumpelstiltskin</title>
+			<isbn>0140558640</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Little Red Hen (Little Golden Book)</title>
+			<isbn>0307960307</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Stone Soup</title>
+			<isbn>043933909X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Chicken Little</title>
+			<isbn>0688070450</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Princess and the Pea</title>
+			<isbn>0823404420</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Little Red Riding Hood</title>
+			<isbn>0823404706</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I Know an Old Woman Who Swallowed a Fly</title>
+			<isbn>1440487219</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Puss in Boots</title>
+			<isbn>0374460345</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Hansel and Gretel</title>
+			<isbn>0888992122</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>This is the House that Jack Built</title>
+			<isbn>0142402001</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>I Know an Old Lady Who Swallowed a Fly</title>
+			<isbn>0316931284</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Bambi</title>
+			<isbn>0736423087</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Scuffy the Tugboat (Big Little Golden Book)</title>
+			<isbn>0307105474</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Town Mouse, Country Mouse</title>
+			<isbn>069811986X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Elves and the Shoemaker</title>
+			<isbn>0811834778</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Three Little Pigs</title>
+			<isbn>0307020916</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Gingerbread Man</title>
+			<isbn>0375825894</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

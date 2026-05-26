@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>18668066</id>
+	<title>The Collector</title>
+	<isbn>0399171088</isbn>
+	<publication_year>2014</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;From #1 New York Times-bestselling author Nora Roberts comes a novel of a woman who needs nothing, a man who sees everything, and the web of deceit, greed, and danger that brings them together—and could tear them apart . . .&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;When professional house-sitter Lila Emerson witnesses a murder/suicide from her current apartment-sitting job, life as she knows it takes a dramatic turn. Suddenly, the woman with no permanent ties finds herself almost wishing for one. . . .&lt;br /&gt;&lt;br /&gt;Artist Ashton Archer knows his brother isn’t capable of violence—against himself or others. He recruits Lila, the only eyewitness, to help him uncover what happened. Ash longs to paint her as intensely as he hungers to touch her. But their investigation draws them into a rarified circle where priceless antiques are bought, sold, gambled away, and stolen, where what you possess is who you are, and where what you desire becomes a deadly obsession. . . .</description>
+	<average_rating>3.92</average_rating>
+	<num_pages>752</num_pages>
+	<similar_books>
+		<book>
+			<title>Thankless in Death (In Death, #37)</title>
+			<isbn>0399164421</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>River Road</title>
+			<isbn>0399165126</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Night Diver</title>
+			<isbn>0062132822</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Virtue Falls (Virtue Falls, #1)</title>
+			<isbn>1250028418</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Fast Track (Buchanan-Renard, #12)</title>
+			<isbn>0525954457</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Do or Die (Reluctant Heroes #1)</title>
+			<isbn>0345543793</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+	</similar_books>
+</book>

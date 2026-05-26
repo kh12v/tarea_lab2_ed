@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>820273</id>
+	<title>Sheep in a Jeep</title>
+	<isbn>039586786X</isbn>
+	<publication_year>1997</publication_year>
+	<language_code>en-CA</language_code>
+	<description>A flock of hapless sheep drive through the country in this rhyming picture book.</description>
+	<average_rating>4.11</average_rating>
+	<num_pages>26</num_pages>
+	<similar_books>
+		<book>
+			<title>Barnyard Banter</title>
+			<isbn>0805055819</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Duck in the Truck</title>
+			<isbn>0060286857</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Chugga-Chugga Choo-Choo</title>
+			<isbn>0786804297</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Big Red Barn</title>
+			<isbn>0694006246</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Freight Train</title>
+			<isbn>0688149006</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Jamberry</title>
+			<isbn>0694006513</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Clip-Clop</title>
+			<isbn>1905417098</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Llama Llama Mad at Mama</title>
+			<isbn>0670062405</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hello, Day!</title>
+			<isbn>0060787651</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tails</title>
+			<isbn>0152167730</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Russell the Sheep</title>
+			<isbn>0060598484</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Is Your Mama a Llama?</title>
+			<isbn>0590259385</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Planes</title>
+			<isbn>0694011665</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Minerva Louise</title>
+			<isbn>0525443746</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>"I Can't," Said the Ant</title>
+			<isbn>1590020499</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I Know a Rhino</title>
+			<isbn>1402708610</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>It Looked Like Spilt Milk</title>
+			<isbn>0064431592</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Hungry Thing</title>
+			<isbn>0439275989</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

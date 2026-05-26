@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>68452</id>
+	<title>Pani Jeziora (Saga o Wiedźminie, #7)</title>
+	<isbn>8370541291</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>pol</language_code>
+	<description />
+	<average_rating>4.28</average_rating>
+	<num_pages>520</num_pages>
+	<similar_books>
+		<book>
+			<title>Pan Lodowego Ogrodu. Tom 2</title>
+			<isbn>836050542X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Sługa Boży (Mordimer Madderdin, #1)</title>
+			<isbn>838901114X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Achaja. Tom I (Achaja, #1)</title>
+			<isbn>8389011050</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Siewca Wiatru (Zastępy Anielskie, #2)</title>
+			<isbn>8389011379</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Limes inferior</title>
+			<isbn>837054116X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Inne Pieśni</title>
+			<isbn>8308034810</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Zagadka Kuby Rozpruwacza (Kroniki Jakuba Wędrowycza, #4)</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Zawód: Wiedźma, Część 1 (Wolha Redna, #1)</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Opowieści z meekhańskiego pogranicza. Północ - Południe</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

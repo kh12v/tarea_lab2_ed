@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>102733</id>
+	<title>One Past Midnight: The Langoliers</title>
+	<isbn>0453007449</isbn>
+	<publication_year>1990</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.82</average_rating>
+	<num_pages>9</num_pages>
+	<similar_books>
+		<book>
+			<title>Rage</title>
+			<isbn>0451076451</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Haunting Obsession</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Creepshow</title>
+			<isbn>0452253802</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Fear Itself: The Horror Fiction of Stephen King</title>
+			<isbn>0934438595</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Stephen King's The Dark Tower: The Complete Concordance</title>
+			<isbn>0743297342</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Stone Leopard</title>
+			<isbn>0330248170</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Twilight Eyes</title>
+			<isbn>0425100650</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Twilight Zone: The Original Stories</title>
+			<isbn>038089601X</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The Stephen King Companion</title>
+			<isbn>0836279786</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Books of Blood: Volumes 1-6 (Books of Blood #1-6)</title>
+			<isbn>1588810402</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Japan Sinks: A Novel about Earthquakes</title>
+			<isbn>4770020392</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Narrativa completa Vol. I</title>
+			<isbn>8477025290</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Alfred Hitchcock Presents: Stories That Scared Even Me</title>
+			<isbn>0394412311</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>Der Inquisitor</title>
+			<isbn>3404136276</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Bad Twin</title>
+			<isbn>1401302769</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Best of Robert Bloch</title>
+			<isbn>034525757X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Caravan of Dreams</title>
+			<isbn />
+			<publication_year>1988</publication_year>
+		</book>
+	</similar_books>
+</book>

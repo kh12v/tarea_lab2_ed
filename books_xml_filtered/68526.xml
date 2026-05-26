@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>68526</id>
+	<title>Lords of the North (The Saxon Stories, #3)</title>
+	<isbn>0060888628</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>The Lords of the North begins soon after the events described in The Pale Horseman. Uhtred, having helped Alfred secure Wessex as an independent Saxon kingdom, returns north in an attempt to find his stepsister. Instead he discovers chaos, civil war and treachery in Northumbria. He takes the side of Guthred, once a slave and now a man who would be king, and in return expects Guthred's help in capturing Dunholm, the lair of the dark Viking lord, Kjartan. There is betrayal, romance and war, and all of it, as usual, based on real events.</description>
+	<average_rating>4.32</average_rating>
+	<num_pages>317</num_pages>
+	<similar_books>
+		<book>
+			<title>The White Raven (Oathsworn, #3)</title>
+			<isbn>0007262566</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Sons of Thunder (Raven #2)</title>
+			<isbn>0593061640</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Eagle and the Wolves (Eagle, #4)</title>
+			<isbn>0755301145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>King's Man (The Outlaw Chronicles, #3)</title>
+			<isbn>1847444911</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Bones of the Hills (Conqueror, #3)</title>
+			<isbn>0007201788</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Sworn Brother (Viking, #2)</title>
+			<isbn>0330426745</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

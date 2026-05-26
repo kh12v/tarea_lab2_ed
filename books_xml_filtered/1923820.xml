@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>1923820</id>
+	<title>Holy Bible: King James Version</title>
+	<isbn />
+	<publication_year>2008</publication_year>
+	<language_code>eng</language_code>
+	<description>This up-to-date version of the universally accepted text from the King James Bible will make a handsome addition to any home. The revised translation is easily accessible for the modern reader, and is based on the original King James Version, published in 1611. In the course of time, the King James Version came to be regarded as "the Authorized Version.” It has been termed the "noblest monument of English prose,” and it has come to be of central importance to Western society as no other book. Thunder Bay’s Holy Bible is beautifully appointed and illustrated with reproductions of original fifteenth-century masterpieces, highlighting Renaissance masterpieces from the period of 1430 to 1510. Almost every page of the Holy Bible has illuminated accents, with evocative drawings throughout from the Vatican Library, and an overall design inspired by the peerless Urbino Bible of 1478. The Holy Bible is complete with beautiful pages on which to lovingly record marriages, births, baptisms, confirmations, deaths, and family trees.</description>
+	<average_rating>4.43</average_rating>
+	<num_pages>1590</num_pages>
+	<similar_books>
+		<book>
+			<title>The Doctrine and Covenants of the Church of Jesus Christ of Latter-Day Saints</title>
+			<isbn>1432624806</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Book of Mormon, Doctrine and Covenants, Pearl of Great Price</title>
+			<isbn>1592975038</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Truth Restored</title>
+			<isbn>0877477655</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Jesus the Christ</title>
+			<isbn>0875793266</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Marvelous Work and a Wonder</title>
+			<isbn>0875793274</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Our Search for Happiness</title>
+			<isbn>0875799175</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Believing Christ: The Parable of the Bicycle and Other Good News</title>
+			<isbn>1570089264</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

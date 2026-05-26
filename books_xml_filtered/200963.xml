@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>200963</id>
+	<title>Meet Samantha: An American Girl (American Girls: Samantha, #1)</title>
+	<isbn>0937295809</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Samantha Parkington is an orphan being raised by her wealthy grandmother at the start of a brand-new century, a time when new ideas and inventions are changing everyone's lives. Samantha's own world is filled with elegance and privilege, but she sees that not everyone's life is changing for the better--especially her friend Nellie, a servant girl who lives next door. Some people consider mixing with servants bold and improper. But for Samantha, a person's worth isn't measured by wealth. True friendship is what matters most.</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>64</num_pages>
+	<similar_books>
+		<book>
+			<title>Happy Birthday Samantha!: A Springtime Story (American Girls: Samantha, #4)</title>
+			<isbn>0937295892</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Samantha's Surprise: A Christmas Story (American Girls: Samantha, #3)</title>
+			<isbn>0937295868</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Kirsten's Surprise: A Christmas Story (American Girls: Kirsten, #3)</title>
+			<isbn>093729585X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Meet Addy: An American Girl (American Girls: Addy, #1)</title>
+			<isbn>1562470752</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

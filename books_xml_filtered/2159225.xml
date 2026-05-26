@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>2159225</id>
+	<title>The Mysterious Benedict Society and the Perilous Journey (The Mysterious Benedict Society, #2)</title>
+	<isbn>0316057800</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.19</average_rating>
+	<num_pages>440</num_pages>
+	<similar_books>
+		<book>
+			<title>This Book Is Not Good for You (Secret, #3)</title>
+			<isbn>031604086X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Case of the Bizarre Bouquets (Enola Holmes, #3)</title>
+			<isbn>0399245189</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Calder Game (Chasing Vermeer, #3)</title>
+			<isbn>0439852072</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Hidden Gallery (The Incorrigible Children of Ashton Place #2)</title>
+			<isbn>0061791121</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Penderwicks on Gardam Street (The Penderwicks, #2)</title>
+			<isbn>0375840907</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Puzzling World of Winston Breen (The Puzzling World of Winston Breen #1)</title>
+			<isbn>0399246932</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Theodosia and the Staff of Osiris (Theodosia Throckmorton, #2)</title>
+			<isbn>0618927646</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Scumble (Savvy, #2)</title>
+			<isbn>0803733070</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Time Quake (The Gideon Trilogy, #3)</title>
+			<isbn>1416917128</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Empress's Tomb (Kiki Strike, #2)</title>
+			<isbn>1599900475</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Inside Story (The Sisters Grimm, #8)</title>
+			<isbn>081098430X</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+	</similar_books>
+</book>

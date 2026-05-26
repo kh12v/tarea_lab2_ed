@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>91661</id>
+	<title>The Beekeeper's Apprentice (Mary Russell, #1)</title>
+	<isbn>0553381520</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>en-US</language_code>
+	<description>Long retired, Sherlock Holmes quietly pursues his study of honeybee behavior on the Sussex Downs. He never imagines he would encounter anyone whose intellect matched his own, much less an audacious teenage girl with a penchant for detection. Miss Mary Russell becomes Holmes' pupil and quickly hones her talent for deduction, disguises and danger. But when an elusive villain enters the picture, their partnership is put to a real test.</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>341</num_pages>
+	<similar_books>
+		<book>
+			<title>Good Night, Mr. Holmes (Irene Adler, #1)</title>
+			<isbn>0765345749</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Case of the Bizarre Bouquets (Enola Holmes, #3)</title>
+			<isbn>0399245189</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Snake, the Crocodile and the Dog (Amelia Peabody, #7)</title>
+			<isbn>0446364789</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Where Shadows Dance (Sebastian St. Cyr, #6)</title>
+			<isbn>0451232232</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Poisoned Season (Lady Emily, #2)</title>
+			<isbn>0061174149</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dust and Shadow: An Account of the Ripper Killings by Dr. John H. Watson</title>
+			<isbn>1416583300</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Birds of a Feather (Maisie Dobbs, #2)</title>
+			<isbn>0143035304</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Busman's Honeymoon (Lord Peter Wimsey, #13)</title>
+			<isbn>0061043516</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Cut to the Quick (Julian Kestrel Mysteries, #1)</title>
+			<isbn>0140233946</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

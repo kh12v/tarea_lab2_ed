@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>608474</id>
+	<title>The Sign of Four</title>
+	<isbn>0140439072</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>As a dense yellow fog swirls through the streets of London, a deep melancholy has descended on Sherlock Holmes, who sits in a cocaine-induced haze at 221B Baker Street. His mood is only lifted by a visit from a beautiful but distressed young woman - Mary Morstan, whose father vanished ten years before. Four years later she began to receive an exquisite gift every year: a large, lustrous pearl. Now she has had an intriguing invitation to meet her unknown benefactor and urges Holmes and Watson to accompany her. And in the ensuing investigation - which involves a wronged woman, a stolen hoard of Indian treasure, a wooden-legged ruffian, a helpful dog and a love affair - even the jaded Holmes is moved to exclaim, 'Isn't it gorgeous!'</description>
+	<average_rating>3.96</average_rating>
+	<num_pages>129</num_pages>
+	<similar_books>
+		<book>
+			<title>The Incredulity of Father Brown (Father Brown, #3)</title>
+			<isbn>1600964478</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Sherlock: The Casebook</title>
+			<isbn>1849904251</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Holmes for the Holidays</title>
+			<isbn>0425154734</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>4:50 from Paddington (Miss Marple, #8)</title>
+			<isbn>1579126936</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Revenge of the Hound: A Sherlock Holmes Mystery</title>
+			<isbn>0743498240</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Mystery of Edwin Drood</title>
+			<isbn>0140439269</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Arsène Lupin versus Herlock Sholmes (Arsène Lupin, #2)</title>
+			<isbn>1587154641</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Secret Notebooks of Sherlock Holmes</title>
+			<isbn>0749011432</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>A Study In Lavender: Queering Sherlock Holmes</title>
+			<isbn>1590210387</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The House of Silk (Sherlock Holmes, #1)</title>
+			<isbn>0316196991</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Oriental Casebook of Sherlock Holmes</title>
+			<isbn>1400060656</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Clouds of Witness (Lord Peter Wimsey, #2)</title>
+			<isbn>0061043532</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Dead Witness: A Connoisseur's Collection of Victorian Detective Stories</title>
+			<isbn>0802779182</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The West End Horror: A Posthumous Memoir of John H. Watson, MD</title>
+			<isbn>0525231021</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Fantômas (Fantômas, #1)</title>
+			<isbn>0143104845</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

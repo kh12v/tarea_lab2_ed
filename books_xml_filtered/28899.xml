@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>28899</id>
+	<title>Heat</title>
+	<isbn>0142407577</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>3.97</average_rating>
+	<num_pages>220</num_pages>
+	<similar_books>
+		<book>
+			<title>Last Shot: A Final Four Mystery (The Sports Beat, #1)</title>
+			<isbn>0553494600</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Boy Who Saved Baseball (Cruz de la Cruz, #2)</title>
+			<isbn>0142402869</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Football Hero (Football Genius, #2)</title>
+			<isbn>0061122742</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shoeless Joe &amp; Me (A Baseball Card Adventure, #4)</title>
+			<isbn>0064472590</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Gym Candy</title>
+			<isbn>061877713X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Slam!</title>
+			<isbn>0590486683</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Kid Who Only Hit Homers</title>
+			<isbn>0316139874</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Box Out</title>
+			<isbn>0439870321</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>One-Handed Catch</title>
+			<isbn>0805079009</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

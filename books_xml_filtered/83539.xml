@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>83539</id>
+	<title>Fantastic Voyage</title>
+	<isbn>0553275720</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>3.89</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Sands of Mars</title>
+			<isbn>0553290959</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Man Who Sold the Moon</title>
+			<isbn>0671578634</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Alien</title>
+			<isbn>2290011150</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Total Recall</title>
+			<isbn>0099742004</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Isaac Asimov's Caliban (Isaac Asimov's Caliban, #1)</title>
+			<isbn>0441004822</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Star Trek 1</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Star Trek III: The Search for Spock (Star Trek TOS: Movie Novelizations, #3)</title>
+			<isbn>0671495003</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Naked to the Stars</title>
+			<isbn>0786257369</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Who Goes There? and Other Stories</title>
+			<isbn>0899667341</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Star Trek I: The Motion Picture (Star Trek TOS: Movie Novelizations, #1)</title>
+			<isbn>1852860693</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Abyss</title>
+			<isbn>0099690608</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+	</similar_books>
+</book>

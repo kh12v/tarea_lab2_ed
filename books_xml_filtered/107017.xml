@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>107017</id>
+	<title>Batman: Hush, Vol. 1</title>
+	<isbn>1401200605</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>From Jeph Loeb, the author of Batman: Dark Victory (1563898683) and Jim Lee, the founder of Wildstorm Comics.&lt;br /&gt;Old friends and enemies find themselves thrown together in a murderous plot hatched by Poison Ivy. What is she plotting? No one quite knows, but by manipulating both Batman and his enemies Killer Croc and Catwoman tensions are high and no one is to be trusted in Gotham City tonight!</description>
+	<average_rating>4.10</average_rating>
+	<num_pages>121</num_pages>
+	<similar_books>
+		<book>
+			<title>Batman: Private Casebook</title>
+			<isbn>1401220096</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Batman: Bruce Wayne, Fugitive, Vol. 3</title>
+			<isbn>1401200796</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>52, Vol. 4</title>
+			<isbn>140121486X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Batman: Crimson Mist</title>
+			<isbn>1563894955</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Gotham Central, Vol. 1: In the Line of Duty</title>
+			<isbn>1401201997</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Batman: War Games, Act 2: Tides</title>
+			<isbn>1401204309</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Batman: Ego and Other Tails</title>
+			<isbn>1401215297</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Batman: Bruce Wayne, Fugitive, Vol. 1</title>
+			<isbn>1563899337</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Batman: The Cult</title>
+			<isbn>0930289854</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Batman: Son of the Demon</title>
+			<isbn>0930289250</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

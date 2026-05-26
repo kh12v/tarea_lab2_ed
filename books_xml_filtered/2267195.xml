@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>2267195</id>
+	<title>The Story of an Hour</title>
+	<isbn>078915479X</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>In these four stories, Kate Chopin subtly captures the intricate interior lives of a generation of women. From the famous proto-feminist tale "The Story of an Hour" to the subtly sexy "A Respectable Woman," Chopin sheds light on the frustrations, desires, and dreams of her own era and their reverberations today. Artist Gemma Correll's quirky illustrations provide a perfect modern counterpoint to Chopin's classic prose.(</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>The Minister's Black Veil</title>
+			<isbn>0895987376</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>A Rose for Emily and Other Stories</title>
+			<isbn>0675093244</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Hills Like White Elephants</title>
+			<isbn />
+			<publication_year>1927</publication_year>
+		</book>
+		<book>
+			<title>Everyday Use</title>
+			<isbn>0813520762</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Scarlet Ibis: The Collection of Wonder</title>
+			<isbn>0886820006</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Sonny's Blues</title>
+			<isbn>3125765005</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>An Occurrence at Owl Creek Bridge</title>
+			<isbn>0874068134</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Un señor muy viejo con unas alas enormes</title>
+			<isbn>9580455708</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Necklace and Other Stories: Maupassant for Modern Times</title>
+			<isbn>163149189X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Jury of Her Peers</title>
+			<isbn>1420926578</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Lottery</title>
+			<isbn>1563127873</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Lady or the Tiger? And, the Discourager of Hesitancy</title>
+			<isbn>0874067987</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Miss Brill</title>
+			<isbn>3379017272</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Rocking Horse Winner (Travelman Classics)</title>
+			<isbn>1860920071</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Yellow Wall-Paper</title>
+			<isbn>1558611584</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Ones Who Walk Away from Omelas</title>
+			<isbn>0886825016</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Good Country People</title>
+			<isbn />
+			<publication_year>1955</publication_year>
+		</book>
+		<book>
+			<title>Short Stories by Gabriel García Márquez: A Very Old Man With Enormous Wings (Study Guide)</title>
+			<isbn>1158478488</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

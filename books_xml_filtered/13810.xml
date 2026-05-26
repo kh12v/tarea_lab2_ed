@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>13810</id>
+	<title>Magician: Master (The Riftwar Saga, #2)</title>
+	<isbn>0553564935</isbn>
+	<publication_year>1993</publication_year>
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.25</average_rating>
+	<num_pages>499</num_pages>
+	<similar_books>
+		<book>
+			<title>Raymond E. Feist's Magician Master</title>
+			<isbn>0785139877</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>L'assassin du roi (L'assassin royal, #2)</title>
+			<isbn>2290313238</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Magic Engineer (The Saga of Recluce #3)</title>
+			<isbn>0812534050</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>King of the Murgos (The Malloreon, #2)</title>
+			<isbn>0552148032</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Into the Labyrinth (The Death Gate Cycle, #6)</title>
+			<isbn>0553567713</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Star Scroll (Dragon Prince, #2)</title>
+			<isbn>0756403049</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

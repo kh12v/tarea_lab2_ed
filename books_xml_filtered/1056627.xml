@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>1056627</id>
+	<title>Become a Better You: 7 Keys to Improving Your Life Every Day</title>
+	<isbn>0743296885</isbn>
+	<publication_year>2007</publication_year>
+	<language_code />
+	<description>Incorporating biblical lessons with personal stories, the bestselling author of Your Best Life Now offers seven action steps to help readers discover the better things they were born for: their individual purpose and destiny.</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>400</num_pages>
+	<similar_books>
+		<book>
+			<title>Love Your Life: Living Happy, Healthy, and Whole</title>
+			<isbn>0743296931</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Reposition Yourself: Living Life Without Limits</title>
+			<isbn>1416544313</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Confident Woman: Start Today Living Boldly and Without Fear</title>
+			<isbn>0446531987</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>God's Power to Change Your Life</title>
+			<isbn>031027303X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Relationships 101</title>
+			<isbn>0785263519</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Everyday Life Bible: The Power of God's Word for Everyday Living</title>
+			<isbn>0446578274</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

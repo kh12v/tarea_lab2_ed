@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>79257</id>
+	<title>Don't Panic: The Official Hitchhiker's Guide to the Galaxy Companion</title>
+	<isbn>0671664263</isbn>
+	<publication_year>1988</publication_year>
+	<language_code>eng</language_code>
+	<description>Told in the same fanciful, irreverent style as the Hitchhiker trilogy, with scraps of scripts, letters and comments from Adams, Don't Panic is the perfect companion to one of the most successful series in publishing history.</description>
+	<average_rating>4.31</average_rating>
+	<num_pages>181</num_pages>
+	<similar_books>
+		<book>
+			<title>Wish You Were Here: The Official Biography of Douglas Adams</title>
+			<isbn>0345476514</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Deeper Meaning of Liff</title>
+			<isbn>0307236013</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Better than Life (Red Dwarf #2)</title>
+			<isbn>0451452313</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Complete Monty Python's Flying Circus: All the Words: Volume 1</title>
+			<isbn>0679726470</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Backwards (Red Dwarf #4)</title>
+			<isbn>0140171509</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Last Chance to See: In the Footsteps of Douglas Adams</title>
+			<isbn>0007290721</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Road to Mars: A Post-Modem Novel</title>
+			<isbn>0375703128</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Prince of Stories: The Many Worlds of Neil Gaiman</title>
+			<isbn>0312387652</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>And Another Thing...</title>
+			<isbn>1401323588</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Hanging Out with the Dream King</title>
+			<isbn>1560976179</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Starship Titanic</title>
+			<isbn>2290053651</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Wizards of Odd</title>
+			<isbn>0441004873</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Last Human (Red Dwarf #3)</title>
+			<isbn>0140143882</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Sandman Companion</title>
+			<isbn>1563894653</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Hitchhiker: A Biography of Douglas Adams</title>
+			<isbn>1932112359</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

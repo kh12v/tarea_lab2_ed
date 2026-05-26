@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>157993</id>
+	<title>The Little Prince</title>
+	<isbn>0156012197</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>Moral allegory and spiritual autobiography, The Little Prince is the most translated book in the French language. With a timeless charm it tells the story of a little boy who leaves the safety of his own tiny planet to travel the universe, learning the vagaries of adult behaviour through a series of extraordinary encounters. His personal odyssey culminates in a voyage to Earth and further adventures.</description>
+	<average_rating>4.28</average_rating>
+	<num_pages>83</num_pages>
+	<similar_books>
+		<book>
+			<title>Le Petit Nicolas (Le petit Nicolas, #1)</title>
+			<isbn>2070364232</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Nobody's Boy (Sans Famille)</title>
+			<isbn />
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Oscar et la dame rose</title>
+			<isbn>2226135022</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Fables</title>
+			<isbn>2266127756</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Os Maias</title>
+			<isbn>9725681363</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Brothers Lionheart</title>
+			<isbn>1930900244</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Das doppelte Lottchen</title>
+			<isbn>3791530119</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Paroles</title>
+			<isbn>2070367622</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Moominpappa at Sea (The Moomins, #8)</title>
+			<isbn>0374453063</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Priče iz davnine</title>
+			<isbn>9531967970</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Old Man Who Read Love Stories</title>
+			<isbn>0156002728</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>درخت زیبای من</title>
+			<isbn>964913980X</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Rainbow Goblins </title>
+			<isbn>0500277591</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>The Happy Prince</title>
+			<isbn>0525453679</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Caligula; suivi de Le Malentendu</title>
+			<isbn>2070360644</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>قصه‌های من و بابام - کتاب دوم - شوخی‌ها و مهربانی‌ها</title>
+			<isbn />
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>L'Écume des jours</title>
+			<isbn>2253140872</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Toda Mafalda</title>
+			<isbn>9505156944</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

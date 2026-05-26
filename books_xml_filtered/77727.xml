@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>77727</id>
+	<title>Calvin and Hobbes</title>
+	<isbn>0836220889</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>en-US</language_code>
+	<description>This is the first collection of the popular comic strip that features Calvin, a rambunctious 6-year-old boy, and his stuffed tiger, Hobbes, who comes charmingly to life.</description>
+	<average_rating>4.61</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Far Side Gallery 2</title>
+			<isbn>0836220854</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Bloom County: Loose Tails</title>
+			<isbn>0316107107</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>FoxTrot the Works</title>
+			<isbn>0836218485</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Fugitive from the Cubicle Police</title>
+			<isbn>0836221192</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

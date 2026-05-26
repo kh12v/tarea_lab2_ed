@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>19302</id>
+	<title>Pippi Longstocking</title>
+	<isbn>0142402494</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>The beloved story of a spunky young girl and her hilarious escapades.&lt;br /&gt;&lt;br /&gt;Tommy and his sister Annika have a new neighbor, and her name is Pippi Longstocking. She has crazy red pigtails, no parents to tell her what to do, a horse that lives on her porch, and a flair for the outrageous that seems to lead to one adventure after another!</description>
+	<average_rating>4.11</average_rating>
+	<num_pages>160</num_pages>
+	<similar_books>
+		<book>
+			<title>Pünktchen und Anton</title>
+			<isbn>3423707313</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Naksitrallid. Esimene ja teine raamat</title>
+			<isbn>9789985625</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Die kleine Hexe</title>
+			<isbn>352210580X</isbn>
+			<publication_year>1957</publication_year>
+		</book>
+		<book>
+			<title>Moominpappa's Memoirs (The Moomins, #4)</title>
+			<isbn>0374453071</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Oh, wie schön ist Panama</title>
+			<isbn>3407805330</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Jim Knopf und die Wilde 13</title>
+			<isbn>3522149904</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Патиланско царство</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Morgen, Findus, wird's was geben</title>
+			<isbn>3789143073</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Ramona the Pest (Ramona, #2)</title>
+			<isbn>0192750976</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Betsy and Tacy Go Over the Big Hill (Betsy-Tacy, #3)</title>
+			<isbn>0064400999</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Wednesday Witch</title>
+			<isbn>0786825987</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

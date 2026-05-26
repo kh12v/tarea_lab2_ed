@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>349129</id>
+	<title>The Man Who Walked Between the Towers</title>
+	<isbn>0439700418</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>en-GB</language_code>
+	<description />
+	<average_rating>4.14</average_rating>
+	<num_pages>34</num_pages>
+	<similar_books>
+		<book>
+			<title>So You Want to Be President?</title>
+			<isbn>0399243178</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>A Nation's Hope: The Story of Boxing Legend Joe Louis</title>
+			<isbn>0803731671</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Snowflake Bentley</title>
+			<isbn>0395861624</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>My Friend Rabbit</title>
+			<isbn>031236752X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Dave the Potter: Artist, Poet, Slave</title>
+			<isbn>031610731X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The House in the Night</title>
+			<isbn>0618862447</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A River of Words: The Story of William Carlos Williams</title>
+			<isbn>0802853021</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Gone Wild: An Endangered Animal Alphabet</title>
+			<isbn>0802795633</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A Couple of Boys Have the Best Week Ever</title>
+			<isbn>0152060200</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Glorious Flight: Across the Channel with Louis Bleriot July 25, 1909</title>
+			<isbn>0140507299</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Hot Air: The (Mostly) True Story of the First Hot-Air Balloon Ride</title>
+			<isbn>0689826427</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Moses: When Harriet Tubman Led Her People to Freedom </title>
+			<isbn>0786851759</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dinosaurs of Waterhouse Hawkins</title>
+			<isbn>0439114942</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Noah's Ark</title>
+			<isbn>1587172011</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Smoky Night</title>
+			<isbn>0152018840</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Hello, Goodbye Window</title>
+			<isbn>0786809140</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Abraham Lincoln</title>
+			<isbn>1893103234</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Wall: Growing Up Behind the Iron Curtain</title>
+			<isbn>0374347018</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

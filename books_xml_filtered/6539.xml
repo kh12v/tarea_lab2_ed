@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>6539</id>
+	<title>The Body Farm (Kay Scarpetta, #5)</title>
+	<isbn>0425201449</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>When an eleven-year-old girl is found murdered, Kay Scarpetta, Chief Medical Examiner for the Commonwealth of Virginia, gets another chance at stopping one of the most heartless and horrifying serial killers of her career: the demented Temple Gault.</description>
+	<average_rating>4.04</average_rating>
+	<num_pages>351</num_pages>
+	<similar_books>
+		<book>
+			<title>Monday Mourning (Temperance Brennan, #7)</title>
+			<isbn>0743453018</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I is for Innocent (Kinsey Millhone, #9)</title>
+			<isbn>0449221512</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Private Eyes (Alex Delaware, #6)</title>
+			<isbn>0345460707</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Silent Prey (Lucas Davenport #4)</title>
+			<isbn>0425137562</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Bones of Betrayal (Body Farm #4)</title>
+			<isbn>0061284742</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Keepsake (Rizzoli &amp; Isles, #7)</title>
+			<isbn>0345497627</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

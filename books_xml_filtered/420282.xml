@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>420282</id>
+	<title>The Polar Express</title>
+	<isbn>0395389496</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>en-US</language_code>
+	<description>&lt;i&gt;The Polar Express &lt;/i&gt;is a treasured holiday tradition. This lavish gift set includes a CD audio recording read by Liam Neeson, a keepsake "All Aboard" ornament, and a note from author Chris Van Allsburg.&lt;br /&gt;&lt;br /&gt;Awarded the prestigious Caldecott Medal in 1986, &lt;i&gt;The Polar Express &lt;/i&gt;has sold more than 7 million copies, become a classic holiday movie, and been translated into stage productions that take place across the United States during the holiday season.</description>
+	<average_rating>4.29</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Santa Calls</title>
+			<isbn>0060211334</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Night Tree</title>
+			<isbn>0152001212</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Legend of the Poinsettia</title>
+			<isbn>0698115678</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Wild Christmas Reindeer</title>
+			<isbn>0698116526</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Joseph Had a Little Overcoat</title>
+			<isbn>0670878553</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Biggest Bear</title>
+			<isbn>0395148065</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Three Pigs</title>
+			<isbn>0618007016</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>So You Want to Be President?</title>
+			<isbn>0399243178</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Auntie Claus</title>
+			<isbn>015201909X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Littlest Angel</title>
+			<isbn>0824953320</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Why Mosquitoes Buzz in People's Ears</title>
+			<isbn>0140549056</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>King Bidgood's in the Bathtub</title>
+			<isbn>0152055789</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Santa Claus the World's Number One Toy Expert</title>
+			<isbn>0152049703</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Snowmen at Christmas</title>
+			<isbn>0803729952</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Night Before Christmas</title>
+			<isbn>0399231900</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>One Fine Day</title>
+			<isbn>0020436203</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Owl Moon</title>
+			<isbn>0399214577</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Swimmy</title>
+			<isbn>0394826205</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+	</similar_books>
+</book>

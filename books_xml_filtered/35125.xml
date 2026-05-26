@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>35125</id>
+	<title>Alien</title>
+	<isbn>2290011150</isbn>
+	<publication_year>1979</publication_year>
+	<language_code>eng</language_code>
+	<description>Based on the screenplay by Dan O'Bannon. The crew of the spaceship Nostromo wake from cryogenic sleep to distress signals from an unknown planet. One is attacked when they investigate a derelict alien craft. Safely on their way back to Sol, none foresee the real horror about to begin.</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>270</num_pages>
+	<similar_books>
+		<book>
+			<title>Aliens: Earth Hive</title>
+			<isbn>0553561200</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Close Encounters Of The Third Kind</title>
+			<isbn>0440114330</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Total Recall</title>
+			<isbn>0099742004</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Alien Resurrection</title>
+			<isbn>0446602299</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Aliens: Genocide (Aliens)</title>
+			<isbn>0553563718</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Aliens: Labyrinth</title>
+			<isbn>0553574914</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Return of the Jedi</title>
+			<isbn>0345307674</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>E.T. the Extra-Terrestrial in His Adventure on Earth</title>
+			<isbn>0425054535</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Independence Day: Novelisation</title>
+			<isbn>0752202812</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)</title>
+			<isbn>0671456105</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Aliens: Music of the Spears (Aliens)</title>
+			<isbn>0553574922</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Empire Strikes Back (Star Wars - Episode V)</title>
+			<isbn>0345283929</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Back to the Future, Part 3</title>
+			<isbn>0425122409</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Alien: Out of the Shadows (Canonical Alien trilogy, #1)</title>
+			<isbn>1781162689</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Battlestar Galactica</title>
+			<isbn>0425039587</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>First Contact (Star Trek: The Next Generation)</title>
+			<isbn>067100316X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Abyss</title>
+			<isbn>0099690608</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Deep</title>
+			<isbn>0330250442</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

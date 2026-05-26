@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>92307</id>
+	<title>Being and Time</title>
+	<isbn>0060638508</isbn>
+	<publication_year>1962</publication_year>
+	<language_code>eng</language_code>
+	<description>One of the most important philosophical works of our time, a work that has had tremendous influence on philosophy, literature, and psychology, and has literally changed the intellectual map of the modern world.</description>
+	<average_rating>3.99</average_rating>
+	<num_pages>589</num_pages>
+	<similar_books>
+		<book>
+			<title>Cartesian Meditations: An Introduction to Phenomenology</title>
+			<isbn>902470068X</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Phenomenology of Perception</title>
+			<isbn>0415278414</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Truth and Method</title>
+			<isbn>082647697X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Phenomenology of Spirit</title>
+			<isbn>0198245971</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Being-In-The-World: A Commentary on Heidegger's Being in Time, Division I.</title>
+			<isbn>0262540568</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Being and Event</title>
+			<isbn>0826458319</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Totality and Infinity:  An Essay on Exteriority</title>
+			<isbn>0820702455</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>What Is Philosophy?</title>
+			<isbn>0231079893</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Writing and Difference</title>
+			<isbn>0226143295</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Either/Or: A Fragment of Life</title>
+			<isbn>0140445773</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Gay Science</title>
+			<isbn>0394719859</isbn>
+			<publication_year>1974</publication_year>
+		</book>
+		<book>
+			<title>The Parallax View</title>
+			<isbn>0262240513</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Tractatus Logico-Philosophicus</title>
+			<isbn>0415254086</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Matter and Memory</title>
+			<isbn>0942299051</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Critique of Pure Reason</title>
+			<isbn>0521657296</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Process and Reality</title>
+			<isbn>0029345707</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>17214</id>
+	<title>Starship Troopers</title>
+	<isbn>0441783589</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>en-CA</language_code>
+	<description>Starship Troopers is a science fiction novel by Robert A. Heinlein, 1st published in abridged form as a serial in The Magazine of Fantasy &amp;amp; Science Fiction (10-11/59 as "Starship Soldier") &amp;amp; published hardcover in 1959.&lt;br /&gt; The 1st-person narrative is about a young soldier named Juan "Johnnie" Rico &amp;amp; his exploits in the Mobile Infantry, a futuristic military unit equipped with powered armor. His military career progresses from recruit to noncommissioned officer &amp;amp; finally to officer against the backdrop of an interstellar war between humans &amp;amp; an arachnoid species known as the Bugs. Thru Rico's eyes, Heinlein examines moral &amp;amp; philosophical aspects of suffrage, civic virtue, the necessities of war &amp;amp; capital punishment &amp;amp; the nature of juvenile delinquency.&lt;br /&gt; Starship Troopers won the Hugo Award for Best Novel in '60. The novel has attracted controversy &amp;amp; criticism for its social &amp;amp; political themes, which some critics claim promote militarism. Starship Troopers has been adapted into several films &amp;amp; games, with the most widely known—as well as the most controversial &amp;amp; criticized—being the '97 film by Paul Verhoeven.</description>
+	<average_rating>3.99</average_rating>
+	<num_pages>335</num_pages>
+	<similar_books>
+		<book>
+			<title>The Forever War (The Forever War, #1)</title>
+			<isbn>0060510862</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>We Few (Empire of Man, #4)</title>
+			<isbn>1416520848</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Way Station</title>
+			<isbn>0020248717</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Gateway (Heechee Saga, #1)</title>
+			<isbn>0345475836</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Hymn Before Battle (Posleen War, #1)</title>
+			<isbn>1416533214</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Case of Conscience (After Such Knowledge, #4)</title>
+			<isbn>0345438353</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Uplift War (The Uplift Saga, #3)</title>
+			<isbn>0553279718</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Mote in God's Eye</title>
+			<isbn>156865054X</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Armor</title>
+			<isbn>0886773687</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Android's Dream</title>
+			<isbn>0765309416</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Caves of Steel (Robot #1)</title>
+			<isbn>0586008357</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Big Time</title>
+			<isbn>0312890788</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Barrayar (Vorkosigan Saga, #7)</title>
+			<isbn>0743468414</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

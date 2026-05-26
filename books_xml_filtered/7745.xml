@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>7745</id>
+	<title>Fear and Loathing in Las Vegas</title>
+	<isbn>0679785892</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;Fear and Loathing in Las Vegas&lt;/i&gt; is the best chronicle of drug-soaked, addle-brained, rollicking good times ever committed to the printed page. It is also the tale of a long weekend road trip that has gone down in the annals of American pop culture as one of the strangest journeys ever undertaken.</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>204</num_pages>
+	<similar_books>
+		<book>
+			<title>Requiem for a Dream</title>
+			<isbn>1560252480</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Contortionist's Handbook</title>
+			<isbn>1931561486</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Dead Babies</title>
+			<isbn>067973449X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Clown Girl</title>
+			<isbn>0976631156</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Bedroom Secrets of the Master Chefs</title>
+			<isbn>0393329666</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Fear and Loathing: The Strange and Terrible Saga of Hunter S. Thompson</title>
+			<isbn>1560256052</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Junky</title>
+			<isbn>0142003166</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Basketball Diaries</title>
+			<isbn />
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Gonzo: The Life of Hunter S. Thompson</title>
+			<isbn>0316005274</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Leaving Las Vegas</title>
+			<isbn>0802134459</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Informers</title>
+			<isbn>0330339184</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Crash</title>
+			<isbn>0312420331</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Factotum</title>
+			<isbn>0876852630</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Big Sur</title>
+			<isbn>0140168125</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Fuck-Up</title>
+			<isbn>0671027638</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Coma</title>
+			<isbn>0571223109</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Apathy and Other Small Victories</title>
+			<isbn>0312351747</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Joke's Over: Ralph Steadman on Hunter S. Thompson</title>
+			<isbn>0151012822</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

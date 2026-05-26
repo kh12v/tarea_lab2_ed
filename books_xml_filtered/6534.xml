@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>6534</id>
+	<title>Postmortem (Kay Scarpetta, #1)</title>
+	<isbn>0743477154</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Under cover of night in Richmond, Virginia, a human monster strikes, leaving a gruesome trail of stranglings that has paralyzed the city. Medical examiner Kay Scarpetta suspects the worst: a deliberate campaign by a brilliant serial killer whose signature offers precious few clues. With an unerring eye, she calls on the latest advances in forensic research to unmask the madman. But this investigation will test Kay like no other, because it's being sabotaged from within—and someone wants her dead.</description>
+	<average_rating>4.01</average_rating>
+	<num_pages>342</num_pages>
+	<similar_books>
+		<book>
+			<title>Bare Bones (Temperance Brennan, #6)</title>
+			<isbn>074345300X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Final Jeopardy (Alexandra Cooper, #1)</title>
+			<isbn>0671010123</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Vanish (Rizzoli &amp; Isles, #5)</title>
+			<isbn>0345476980</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>J is for Judgment (Kinsey Millhone, #10)</title>
+			<isbn>0449000656</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Blood Shot (V.I. Warshawski, #5)</title>
+			<isbn>0440204208</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Devil's Bones (Body Farm, #3)</title>
+			<isbn>0060759852</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Obsession (Alex Delaware, #21)</title>
+			<isbn>0345452631</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Winter Prey (Lucas Davenport, #5)</title>
+			<isbn>0425141233</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

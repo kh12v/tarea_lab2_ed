@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>13007638</id>
+	<title>Celebrity in Death (In Death, #34)</title>
+	<isbn>0749955910</isbn>
+	<publication_year>2012</publication_year>
+	<language_code>eng</language_code>
+	<description>Lieutenant Eve Dallas is no party girl, but she's managing to have a good time at the celebrity-packed bash celebrating 'The Icove Agenda', a film based on one of her cases. What comes as a surprise however is seeing the actress who plays Peabody drowned in the pool on the roof of the director's luxury building.</description>
+	<average_rating>4.28</average_rating>
+	<num_pages>389</num_pages>
+	<similar_books>
+		<book>
+			<title>Remember When (In Death, #17.5)</title>
+			<isbn>0399151060</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Billionaires Prefer Blondes (Samantha Jellicoe, #3)</title>
+			<isbn>0060875224</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Hot Zone (Rainshadow, #3; Ghost Hunters, #11)</title>
+			<isbn>0515154725</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Alien in the Family (Katherine "Kitty" Katt, #3)</title>
+			<isbn>0756406684</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>If You Know Her (The Ash Trilogy, #3)</title>
+			<isbn>0345517555</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Copper Beach (Dark Legacy, #1)</title>
+			<isbn>0399157875</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Breaking the Rules (Troubleshooters, #16)</title>
+			<isbn>0345521226</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+	</similar_books>
+</book>

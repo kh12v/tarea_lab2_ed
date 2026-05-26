@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>1126719</id>
+	<title>House of Suns</title>
+	<isbn>0575099127</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description>Six million years ago, at the dawn of the star-faring era, Abigail Gentian fractured herself into a thousand male and female clones, which she called shatterlings. But now, someone is eliminating the Gentian line. Campion and Purslane-two shatterlings who have fallen in love and shared forbidden experiences-must determine exactly who, or what, their enemy is, before they are wiped out of existence.</description>
+	<average_rating>4.19</average_rating>
+	<num_pages>512</num_pages>
+	<similar_books>
+		<book>
+			<title>The Evolutionary Void</title>
+			<isbn>0345496574</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Line Of Polity (Agent Cormac, #2)</title>
+			<isbn>0330484354</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Matter (Culture, #8)</title>
+			<isbn>1841494186</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Singularity Sky (Eschaton, #1)</title>
+			<isbn>1841493341</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Stealing Light (The Shoal Sequence, #1)</title>
+			<isbn>0330445960</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

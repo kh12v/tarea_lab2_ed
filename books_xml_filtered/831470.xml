@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>831470</id>
+	<title>Bambi</title>
+	<isbn>0736423087</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Edição Bilingue Por-Ing em B.D.</description>
+	<average_rating>4.22</average_rating>
+	<num_pages>24</num_pages>
+	<similar_books>
+		<book>
+			<title>Walt Disney's Peter Pan (Disney Peter Pan)</title>
+			<isbn>0736402381</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Lady and the Tramp</title>
+			<isbn>030700113X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Peter Pan (A Little Golden Book)</title>
+			<isbn>0307001040</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Three Little Pigs</title>
+			<isbn>0307020916</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Lion King: A little Golden Book</title>
+			<isbn>0736420959</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Little Mermaid</title>
+			<isbn>0307162346</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sleeping Beauty (Disney Princess, 5)</title>
+			<isbn>1579731813</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>My Big Little Golden Book About God (a Big Little Golden Book)</title>
+			<isbn>0375835512</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Tawny Scrawny Lion</title>
+			<isbn>0307021688</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Rudolph the Red-Nosed Reindeer</title>
+			<isbn>0307020711</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Three Bears</title>
+			<isbn>0375825762</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Bunny Book, Richard Scarry's (a Little Golden Book)</title>
+			<isbn>0375832246</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Baby Farm Animals</title>
+			<isbn>0375836861</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Jolly Barnyard</title>
+			<isbn>0375828427</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Winnie The Pooh And The Honey Tree (Little Golden Book)</title>
+			<isbn>030798267X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Gingerbread Man</title>
+			<isbn>0375825894</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Scuffy the Tugboat (Big Little Golden Book)</title>
+			<isbn>0307105474</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Frosty the Snowman (Frosty the Snowman)</title>
+			<isbn>0307960382</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

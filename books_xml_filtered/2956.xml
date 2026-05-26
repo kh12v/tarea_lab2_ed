@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>2956</id>
+	<title>The Adventures of Huckleberry Finn</title>
+	<isbn>0142437174</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Mark Twain’s brilliant 19th-century novel has long been recognized as one of the finest examples of American literature. It brings back the irrepressible and free-spirited Huck, first introduced in &lt;i&gt;The Adventures of Tom Sawyer&lt;/i&gt;, and puts him center stage. Rich in authentic dialect, folksy humor, and sharp social commentary, Twain’s classic tale follows Huck and the runaway slave Jim on an exciting journey down the Mississippi.</description>
+	<average_rating>3.80</average_rating>
+	<num_pages>327</num_pages>
+	<similar_books>
+		<book>
+			<title>Little Britches: Father and I Were Ranchers (Little Britches #1)</title>
+			<isbn>0803281781</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Odyssey</title>
+			<isbn>0143039954</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Complete Shorter Fiction</title>
+			<isbn>0192833766</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Kidnapped (David Balfour, #1)</title>
+			<isbn>0439295785</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Bartleby the Scrivener</title>
+			<isbn>0974607800</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Modest Proposal and Other Satirical Works</title>
+			<isbn>0486287599</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sister Carrie</title>
+			<isbn>0393960420</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Cannery Row</title>
+			<isbn>014200068X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Complete Tales of Uncle Remus</title>
+			<isbn>0618154299</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Absalom, Absalom!</title>
+			<isbn>0679732187</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Ivanhoe</title>
+			<isbn>0140436588</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Hunting of the Snark</title>
+			<isbn>1402186231</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Winnie-the-Pooh (Winnie-the-Pooh, #1)</title>
+			<isbn>0525467564</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Code of the Woosters (Jeeves, #7)</title>
+			<isbn>0393339815</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>My Ántonia</title>
+			<isbn>1583485090</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>A Bolt from the Blue and Other Essays</title>
+			<isbn>1590170105</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Wind in the Willows</title>
+			<isbn>0143039091</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>1919 (U.S.A., #2)</title>
+			<isbn>0618056823</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

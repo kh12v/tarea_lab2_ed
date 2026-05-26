@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>1625</id>
+	<title>Twelfth Night</title>
+	<isbn>0743482778</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Set in a topsy-turvy world like a holiday revel, this comedy devises a romantic plot around separated twins, misplaced passions, and mistaken identity. Juxtaposed to it is the satirical story of a self-deluded steward who dreams of becoming “Count Malvolio” only to receive his comeuppance at the hands of the merrymakers he wishes to suppress. The two plots combine to create a farce touched with melancholy, mixed throughout with seductively beautiful explorations on the themes of love and time, and the play ends, not with laughter, but with a clown’s sad song.</description>
+	<average_rating>3.97</average_rating>
+	<num_pages>220</num_pages>
+	<similar_books>
+		<book>
+			<title>Mrs. Warren's Profession</title>
+			<isbn>159605980X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Edward II</title>
+			<isbn>1854594109</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Duchess of Malfi and Other Plays</title>
+			<isbn>0192834533</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Noises Off</title>
+			<isbn>1400031605</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Eurydice</title>
+			<isbn>0573662444</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Norton Anthology of English Literature, Vol. C: The Restoration &amp; the Eighteenth Century</title>
+			<isbn>0393927199</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Arcadia</title>
+			<isbn>0571169341</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Pillowman</title>
+			<isbn>0571220320</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Lysistrata</title>
+			<isbn>0872206033</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Changeling</title>
+			<isbn>0393900614</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Oleanna</title>
+			<isbn>067974536X</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>A Delicate Balance</title>
+			<isbn>0452278090</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>You Can't Take it With You</title>
+			<isbn>0822212870</isbn>
+			<publication_year>1937</publication_year>
+		</book>
+		<book>
+			<title>The Bacchae</title>
+			<isbn>1854594117</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Cat on a Hot Tin Roof</title>
+			<isbn>0811216012</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>19543</id>
+	<title>Where the Wild Things Are</title>
+	<isbn>0099408392</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>One night Max puts on his wolf suit and makes mischief of one kind and another, so his mother calls him 'Wild Thing' and sends him to bed without his supper. That night a forest begins to grow in Max's room and an ocean rushes by with a boat to take Max to the place where the wild things are. Max tames the wild things and crowns himself as their king, and then the wild rumpus begins. But when Max has sent the monsters to bed, and everything is quiet, he starts to feel lonely and realises it is time to sail home to the place where someone loves him best of all.</description>
+	<average_rating>4.22</average_rating>
+	<num_pages>37</num_pages>
+	<similar_books>
+		<book>
+			<title>Flotsam</title>
+			<isbn>0618194576</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Lion and the Mouse</title>
+			<isbn>0316013560</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>A Chair for My Mother</title>
+			<isbn>0688040748</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dr. Seuss's Sleep Book</title>
+			<isbn>0394800915</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Tikki Tikki Tembo</title>
+			<isbn>0312367481</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Drummer Hoff</title>
+			<isbn>1416908331</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Strega Nona</title>
+			<isbn>8424133498</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Don't Let the Pigeon Stay Up Late!</title>
+			<isbn>0786837462</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Owen</title>
+			<isbn>0688114490</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>This is Not My Hat</title>
+			<isbn>0763655996</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>My Friend Rabbit</title>
+			<isbn>031236752X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Joseph Had a Little Overcoat</title>
+			<isbn>0670878553</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>A Tree Is Nice</title>
+			<isbn>0064431479</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>There's an Alligator under My Bed</title>
+			<isbn>0803703740</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>King Bidgood's in the Bathtub</title>
+			<isbn>0152055789</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Draw Me a Star (Paperstar Book)</title>
+			<isbn>0698116321</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

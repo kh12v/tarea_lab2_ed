@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>1524</id>
+	<title>Agamemnon (Oresteia, #1)</title>
+	<isbn>0521010756</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Treating ancient plays as living drama. Classical Greek drama is brought vividly to life in this series of new translations. Students are encouraged to engage with the text through detailed commentaries, including0 suggestions for discussion and analysis. In addition, numerous practical questions stimulate ideas on staging and encourage students to explore the play's dramatic qualities. Agamemnon is suitable for students of both Classical Civilisation and Drama. Useful features include full synopsis of the play, commentary alongside translation for easy reference and a comprehensive introduction to the Greek Theatre. Agamemnon is aimed primarily at A-level and undergraduate students in the UK, and college students in North America.</description>
+	<average_rating>3.82</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Oedipus at Colonus (The Theban Plays, #2)</title>
+			<isbn>0195135040</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Electra</title>
+			<isbn>0195085760</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Birds</title>
+			<isbn>0198721773</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Medea</title>
+			<isbn>080149432X</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+	</similar_books>
+</book>

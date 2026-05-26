@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>18667307</id>
+	<title>Tokyo Ghoul, tome 1 (Tokyo Ghoul, #1)</title>
+	<isbn>2723495612</isbn>
+	<publication_year>2013</publication_year>
+	<language_code>fre</language_code>
+	<description>À Tokyo, sévissent des goules, monstres cannibales se dissimulant parmi les humains pour mieux s’en nourrir. Étudiant timide, Ken Kaneki est plus intéressé par la jolie fille qui partage ses goûts pour la lecture que par ces affaires sordides, jusqu’au jour où il se fait attaquer par l’une de ces fameuses créatures. Mortellement blessé, il survit grâce à la greffe des organes de son agresseur… Remis de son opération, il réalise peu à peu qu’il est devenu incapable de se nourrir comme avant et commence à ressentir un appétit suspect envers ses congénères. C’est le début d’une descente aux enfers pour Kaneki, devenu malgré lui un hybride mi-humain, mi-goule.</description>
+	<average_rating>4.43</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>Attack on Titan, Vol. 2 (Attack on Titan, #2)</title>
+			<isbn>1612620256</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Ajin: Demi-Human, Vol. 2 (Ajin: Demi-Human, #2)</title>
+			<isbn>1939130859</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Seraph of the End, Volume 2</title>
+			<isbn>142157151X</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Deadman Wonderland Volume 4 (Deadman Wonderland, #4)</title>
+			<isbn>1427817448</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>黒執事 XXI [Kuroshitsuji XXI]</title>
+			<isbn>4757546564</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+	</similar_books>
+</book>

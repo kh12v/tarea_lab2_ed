@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>16297</id>
+	<title>Cards on the Table (Hercule Poirot, #15)</title>
+	<isbn>0425205959</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>It was the match-up of the century: four sleuths--Superintendent Battle of Scotland Yard; Mrs. Ariadne Oliver, famed writer of detective stories; Col. Race of His Majesty's Secret Service; and the incomparable Hercule Poirot - invited to play bridge with four specially invited guests, each of whom had gotten away with murder! But before the first rubber was completed, the host was dead.</description>
+	<average_rating>3.90</average_rating>
+	<num_pages>324</num_pages>
+	<similar_books>
+		<book>
+			<title>Died in the Wool (Roderick Alleyn, #13)</title>
+			<isbn>0006512399</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Unpleasantness at the Bellona Club (Lord Peter Wimsey, #5)</title>
+			<isbn>0061043540</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Second Confession (Nero Wolfe, #15)</title>
+			<isbn>0553245945</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Franchise Affair (Inspector Alan Grant, #3)</title>
+			<isbn>0684842564</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Detection Unlimited (Inspector Hemingway Mystery #4)</title>
+			<isbn>0099493748</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

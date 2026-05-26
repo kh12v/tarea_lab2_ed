@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>419103</id>
+	<title>Sin City, Vol. 3: The Big Fat Kill (Sin City, #3)</title>
+	<isbn>1593072953</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.10</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>100 Bullets, Vol. 2: Split Second Chance</title>
+			<isbn>1563897113</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Preacher, Volume 5: Dixie Fried</title>
+			<isbn>1563894289</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hellboy, Vol. 6: Strange Places (Hellboy, #6)</title>
+			<isbn>1593074751</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The League of Extraordinary Gentlemen, Vol. 2</title>
+			<isbn>1401201180</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Akira, Vol. 2</title>
+			<isbn>1569714991</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Transmetropolitan, Vol. 3: Year of the Bastard (Transmetropolitan, #3)</title>
+			<isbn>1563895684</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

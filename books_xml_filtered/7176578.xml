@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>7176578</id>
+	<title>Beatrice and Virgil</title>
+	<isbn>1400069262</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>This is the story of a donkey named Beatrice and a monkey named Virgil. It is also the story of an extraordinary journey undertaken by a man named Henry. It begins with a mysterious parcel, and it ends in a place that will make you think again about one of the most significant events of the twentieth century. Once you have finished reading it, it is impossible to forget.</description>
+	<average_rating>3.13</average_rating>
+	<num_pages>213</num_pages>
+	<similar_books>
+		<book>
+			<title>The Retreat</title>
+			<isbn>0771012535</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Assassin's Song</title>
+			<isbn>1400042178</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>A Map of Glass</title>
+			<isbn>1596922133</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>You Went Away: A Novella</title>
+			<isbn>0006392679</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>South of Heaven</title>
+			<isbn>0316403830</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>One Dead Hen</title>
+			<isbn>1935597507</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Solomon Gursky Was Here</title>
+			<isbn>0143012649</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>A Boy of Good Breeding</title>
+			<isbn>1582433402</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Exley</title>
+			<isbn>1565126084</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Transgression</title>
+			<isbn>0061782319</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Glass Boys</title>
+			<isbn>1553657977</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Waiting for Joe</title>
+			<isbn>0307359166</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Gendarme</title>
+			<isbn>0399156348</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Wreckage</title>
+			<isbn>0385660618</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Manhattan Projects, Vol. 5: The Cold War</title>
+			<isbn>1632151847</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+	</similar_books>
+</book>

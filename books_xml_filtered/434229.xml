@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>434229</id>
+	<title>Cape Fear</title>
+	<isbn />
+	<publication_year>1965</publication_year>
+	<language_code />
+	<description />
+	<average_rating>4.07</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>The Golden Gizmo</title>
+			<isbn>0316403989</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Fail-Safe</title>
+			<isbn>088001654X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The First Deadly Sin (Deadly Sins, #2)</title>
+			<isbn>0425104273</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Marathon Man</title>
+			<isbn>0330247042</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Manchurian Candidate (Movie Tie-In Edition)</title>
+			<isbn>0743482972</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Quiver</title>
+			<isbn>0312379021</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Art of Sin City</title>
+			<isbn>1569718180</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Stop &amp; Frisk</title>
+			<isbn>1507892322</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Will You Die for Me?</title>
+			<isbn>0800783611</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Poseidon Adventure</title>
+			<isbn>0099504189</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Six Days of the Condor</title>
+			<isbn>0393086925</isbn>
+			<publication_year>1974</publication_year>
+		</book>
+		<book>
+			<title>Halloween</title>
+			<isbn>0553132261</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Eiger Sanction (Jonathan Hemlock, #1)</title>
+			<isbn>1400098025</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Lina and Serge: The Love and Wars of Lina Prokofiev</title>
+			<isbn>0547391315</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Rear Window - Story Collection</title>
+			<isbn>0743423712</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Asphalt Jungle</title>
+			<isbn>1853753467</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Accountant's Story: Inside the Violent World of the Medellín Cartel</title>
+			<isbn>0446178926</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Touch of Death (Hard Case Crime #17)</title>
+			<isbn>0843955880</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

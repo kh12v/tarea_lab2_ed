@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>3276637</id>
+	<title>Bones of the Hills (Conqueror, #3)</title>
+	<isbn>0007201788</isbn>
+	<publication_year>2008</publication_year>
+	<language_code>eng</language_code>
+	<description>Genghis Khan, risen from outcast to ruler has united battling tribes, but faces troubles. Emissaries are tortured and killed. Trade route efforts are violently rebuffed. The Mongolian army is stretched to the furthest corners of Khan's realm, and destruction looms.</description>
+	<average_rating>4.32</average_rating>
+	<num_pages>518</num_pages>
+	<similar_books>
+		<book>
+			<title>Centurion (Eagle, #8)</title>
+			<isbn>0755327764</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Silver Eagle (Forgotten Legion Chronicles, #2)</title>
+			<isbn>1848090110</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Burning Land (The Saxon Stories, #5)</title>
+			<isbn>000721975X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Shield of Thunder (Troy, #2)</title>
+			<isbn>0593052226</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>King of Kings (Warrior of Rome, #2)</title>
+			<isbn>0718153316</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Wolf Sea (Oathsworn, #2)</title>
+			<isbn>0312361955</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

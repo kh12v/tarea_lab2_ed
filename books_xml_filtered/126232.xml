@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>126232</id>
+	<title>Jaws</title>
+	<isbn>1400064562</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>"Relentless terror." The Philadelphia Inquirer.&lt;br /&gt;The classic, blockbuster thriller of man-eating terror that inspired the Steven Spielberg movie and made millions of beachgoers afraid to go into the water. Experience the thrill of helpless horror again -- or for the first time!</description>
+	<average_rating>3.96</average_rating>
+	<num_pages>320</num_pages>
+	<similar_books>
+		<book>
+			<title>Primal Waters (MEG #3)</title>
+			<isbn>0765347857</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Audrey Rose</title>
+			<isbn>0446324825</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Omen</title>
+			<isbn>0451219422</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Halloween</title>
+			<isbn>0553132261</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cape Fear</title>
+			<isbn />
+			<publication_year>1965</publication_year>
+		</book>
+		<book>
+			<title>The Other</title>
+			<isbn>0440167361</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Close Encounters Of The Third Kind</title>
+			<isbn>0440114330</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Invasion of the Body Snatchers</title>
+			<isbn>0684852586</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>'Salem's Lot</title>
+			<isbn>0385516487</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Marathon Man</title>
+			<isbn>0330247042</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Howling</title>
+			<isbn>0449138240</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Damien: Omen II</title>
+			<isbn>0451119908</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>The Sentinel</title>
+			<isbn>0345304373</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Alien</title>
+			<isbn>2290011150</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>The Inhuman Condition (Books of Blood, #4)</title>
+			<isbn>0743417348</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Amityville Horror</title>
+			<isbn>0553116606</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>The Exorcist</title>
+			<isbn>0061007226</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Keep (Adversary Cycle, #1)</title>
+			<isbn>0765357054</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>10603</id>
+	<title>Cujo</title>
+	<isbn>0307348245</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>spa</language_code>
+	<description>Outside a peaceful town in central Maine, a monster is waiting. Cujo is a two-hundred-pound Saint Bernard, the best friend Brett Camber has ever had. One day Cujo chases a rabbit into a bolt-hole - a cave inhabited by sick bats. What happens to Cujo, how he becomes a horrifying vortex inexorably drawing in all the people around him makes for one of the most heart-stopping novels Stephen King has written.</description>
+	<average_rating>3.65</average_rating>
+	<num_pages>432</num_pages>
+	<similar_books>
+		<book>
+			<title>Thinner</title>
+			<isbn>0451190750</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Lisa and David</title>
+			<isbn>0020535708</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Archidamian War</title>
+			<isbn>0801497140</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Creepshow</title>
+			<isbn>0452253802</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Brigadoon (Vocal Score)</title>
+			<isbn>0769202225</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Novels, 1944-1962: My Home is Far Away / The Locusts Have No King / The Wicked Pavilion / The Golden Spur</title>
+			<isbn>1931082022</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>A Bolt from the Blue and Other Essays</title>
+			<isbn>1590170105</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Art of Fiction</title>
+			<isbn>1172438099</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Strange Highways</title>
+			<isbn>0446531383</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>In the Flesh (Books of Blood #5)</title>
+			<isbn>074341733X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>George W. Bushisms: The Slate Book of Accidental Wit and Wisdom of Our 43rd President</title>
+			<isbn>0743222229</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Second Child</title>
+			<isbn>0553287303</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Body Rides</title>
+			<isbn>0843951826</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

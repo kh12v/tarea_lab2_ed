@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>31242</id>
+	<title>Bleak House</title>
+	<isbn>0143037617</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>Bleak House is a novel by Charles Dickens, published in 20 monthly installments between March 1852 and September 1853. It is held to be one of Dickens's finest novels, containing one of the most vast, complex and engaging arrays of minor characters and sub-plots in his entire canon.&lt;br /&gt;&lt;br /&gt;At the novel's core is long-running litigation in England's Court of Chancery, Jarndyce v Jarndyce, which has far-reaching consequences for all involved. The litigation, which already has taken many years and consumed between £60,000 and £70,000 in court costs, is emblematic of the failure of Chancery.&lt;br /&gt;&lt;br /&gt;Though Chancery lawyers and judges criticised Dickens's portrait of Chancery as exaggerated and unmerited, his novel helped to spur an ongoing movement that culminated in the enactment of legal reform in the 1870s.</description>
+	<average_rating>4.00</average_rating>
+	<num_pages>1017</num_pages>
+	<similar_books>
+		<book>
+			<title>The Last Chronicle of Barset (Chronicles of Barsetshire #6)</title>
+			<isbn>0140437525</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Cranford Chronicles</title>
+			<isbn>0099518457</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Adam Bede</title>
+			<isbn>0375759018</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>No Name</title>
+			<isbn>019283388X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Miss Marjoribanks (Chronicles of Carlingford, #5)</title>
+			<isbn>0140436308</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Tenant of Wildfell Hall</title>
+			<isbn>0140434747</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Odd Women</title>
+			<isbn>019283312X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

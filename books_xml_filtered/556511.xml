@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>556511</id>
+	<title>The Very Busy Spider</title>
+	<isbn>0399229191</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.19</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Panda Bear, Panda Bear, What Do You See?</title>
+			<isbn>0805017585</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>My Big Animal Book</title>
+			<isbn>0312490836</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Lamb and the Butterfly</title>
+			<isbn>0531083799</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Big Red Barn</title>
+			<isbn>0694006246</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Little Blue and Little Yellow</title>
+			<isbn>0688132855</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Is Your Mama a Llama?</title>
+			<isbn>0590259385</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Llama Llama Misses Mama</title>
+			<isbn>0670061980</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Tumble Bumble</title>
+			<isbn>0064435857</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Where's My Teddy?</title>
+			<isbn>1564022803</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Over in the Meadow</title>
+			<isbn>0140565086</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Muncha! Muncha! Muncha!</title>
+			<isbn>1416909680</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Mr. Gumpy's Outing</title>
+			<isbn>0805013156</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Piggies</title>
+			<isbn>015202638X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Good Night, Gorilla</title>
+			<isbn>0399230033</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Where is the Green Sheep?</title>
+			<isbn>1844583678</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Moo, Baa, La La La!</title>
+			<isbn>0689861133</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Eating the Alphabet</title>
+			<isbn>015201036X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Big Fat Hen</title>
+			<isbn>0152019510</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

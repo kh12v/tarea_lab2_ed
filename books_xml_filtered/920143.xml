@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>920143</id>
+	<title>Little Red Riding Hood</title>
+	<isbn>0823404706</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Red Riding Hood sets off through the forest to visit her grandmother in this classic retelling of the Grimm tale.</description>
+	<average_rating>4.11</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Hansel and Gretel</title>
+			<isbn>0888992122</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Rumpelstiltskin</title>
+			<isbn>0140558640</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Saint George and the Dragon</title>
+			<isbn>0316367958</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Goldilocks and the Three Bears</title>
+			<isbn>0803705425</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Puss in Boots</title>
+			<isbn>0374460345</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Twelve Dancing Princesses</title>
+			<isbn>0688080510</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Cinderella</title>
+			<isbn>0316779652</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Frog Prince (We Both Read - Level 1-2)</title>
+			<isbn>1891327291</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Snow White and the Seven Dwarfs (Little Golden Book)</title>
+			<isbn>0736421866</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Elves and the Shoemaker</title>
+			<isbn>0811834778</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Boy of the Three-Year Nap</title>
+			<isbn>0395440904</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Princess and the Pea</title>
+			<isbn>0823404420</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Snow White</title>
+			<isbn>0316354503</isbn>
+			<publication_year>1974</publication_year>
+		</book>
+		<book>
+			<title>Sleeping Beauty</title>
+			<isbn>1587171201</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>My Mother is the Most Beautiful Woman in the World</title>
+			<isbn>0688512518</isbn>
+			<publication_year>1945</publication_year>
+		</book>
+		<book>
+			<title>Cinderella</title>
+			<isbn>1587170051</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Cinderella</title>
+			<isbn>0735814864</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Rapunzel</title>
+			<isbn>0823404544</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>160988</id>
+	<title>The Best Nest</title>
+	<isbn>0394800516</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>Illus. in full color. Mr. and Mrs. Bird's search for a "better" nest leads them to some peculiar spots.</description>
+	<average_rating>4.19</average_rating>
+	<num_pages>64</num_pages>
+	<similar_books>
+		<book>
+			<title>It's Not Easy Being a Bunny</title>
+			<isbn>0394861027</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Robert the Rose Horse</title>
+			<isbn>0394800257</isbn>
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>A Fly Went by (Beginner Books(R))</title>
+			<isbn>0394800036</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Because a Little Bug Went Ka-choo!</title>
+			<isbn>0001713205</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>I'll Teach My Dog a Lot of Words</title>
+			<isbn>0375800999</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Inside, Outside, Upside Down (Berenstain Bears Bright and Early Board Book)</title>
+			<isbn>067988632X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Snow (Beginner Books B-27)</title>
+			<isbn>0394800273</isbn>
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>I Want to Be Somebody New! (Beginner Books(R))</title>
+			<isbn>0394876164</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Digging-est Dog (Beginner Books)</title>
+			<isbn>0394800478</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>Beegu</title>
+			<isbn>0374306672</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Come Away From the Water, Shirley</title>
+			<isbn>009989940X</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Clever Polly and the Stupid Wolf</title>
+			<isbn>0140364633</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ten Apples Up On Top!</title>
+			<isbn>0007169973</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Just Grandma and Me</title>
+			<isbn>0307118932</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

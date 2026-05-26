@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>5096</id>
+	<title>Wizard and Glass (The Dark Tower, #4)</title>
+	<isbn>0340829788</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Roland of Gilead and his fellow pilgrims determine to reach the Dark Tower, but their quest is rife with confrontation, conflict and sacrifice - from a vast computer system which bargains in riddles to Roland's old enemy Walter and the wizard's glass.</description>
+	<average_rating>4.24</average_rating>
+	<num_pages>845</num_pages>
+	<similar_books>
+		<book>
+			<title>The Dark Tower: The Gunslinger - The Little Sisters of Eluria</title>
+			<isbn>0785149317</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Regulators</title>
+			<isbn>0451191013</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Everville (Book of the Art #2)</title>
+			<isbn>0060933151</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Hand of Oberon (The Chronicles of Amber #4)</title>
+			<isbn>0380016648</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>The White Rose (The Chronicles of the Black Company, #3)</title>
+			<isbn>0812508440</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Reaper's Gale (The Malazan Book of the Fallen, #7)</title>
+			<isbn>0593046315</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Mountain of Black Glass (Otherland, #3)</title>
+			<isbn>0886779065</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mr. Murder</title>
+			<isbn>0425210758</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

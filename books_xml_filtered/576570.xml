@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>576570</id>
+	<title>The Princess and the Pea</title>
+	<isbn>0823404420</isbn>
+	<publication_year>1988</publication_year>
+	<language_code />
+	<description>In this rendition a tiger is proven to be a princess.</description>
+	<average_rating>4.10</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>The Steadfast Tin Soldier</title>
+			<isbn>1596793465</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Thumbelina</title>
+			<isbn>0803728123</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Hansel and Gretel</title>
+			<isbn>0888992122</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Frog Prince (We Both Read - Level 1-2)</title>
+			<isbn>1891327291</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Elves and the Shoemaker</title>
+			<isbn>0811834778</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Twelve Dancing Princesses</title>
+			<isbn>1558582169</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Rumpelstiltskin</title>
+			<isbn>0140558640</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Cinderella</title>
+			<isbn>0316779652</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Cinderella</title>
+			<isbn>0735814864</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Little Red Riding Hood</title>
+			<isbn>0823404706</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Twelve Dancing Princesses</title>
+			<isbn>0688080510</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Goldilocks and the Three Bears</title>
+			<isbn>0803705425</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Swan Princess</title>
+			<isbn>0794511333</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Swineherd</title>
+			<isbn>1558584285</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Goldilocks and the Three Bears</title>
+			<isbn>1894998219</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Snow White and the Seven Dwarfs (Little Golden Book)</title>
+			<isbn>0736421866</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

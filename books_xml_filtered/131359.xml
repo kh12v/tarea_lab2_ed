@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>131359</id>
+	<title>Death on the Nile (Hercule Poirot, #17)</title>
+	<isbn>0553119222</isbn>
+	<publication_year>1978</publication_year>
+	<language_code>eng</language_code>
+	<description>Death on the Nile is a pre-Second World War novel, first published in 1937. It shows Agatha Christie’s interest in Egypt and archaeology and also reflects much of the flavour and social nuances of the pre-war period. Although the novel is set in Egypt, an exotic location, it is essentially a ‘locked room mystery’, as the characters are passengers on the river-steamer SS Karnak, cruising on the Nile. Amongst them is the famous Hercule Poirot, a short man dressed in a white silk suit, a panama hat and carrying a highly ornamental fly whisk with a sham amber handle – a funny little man.</description>
+	<average_rating>4.06</average_rating>
+	<num_pages>214</num_pages>
+	<similar_books>
+		<book>
+			<title>The Nine Tailors (Lord Peter Wimsey, #11)</title>
+			<isbn>0151658978</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Unfinished Clue</title>
+			<isbn>009949373X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Some Buried Caesar (Nero Wolfe, #6)</title>
+			<isbn>0553254642</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Look to the Lady (Albert Campion Mystery #3)</title>
+			<isbn>1933397578</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A Taste for Death (Adam Dalgliesh #7)</title>
+			<isbn>1400096472</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Artists in Crime (Roderick Alleyn, #6)</title>
+			<isbn>1579125786</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>St. Peter's Fair (Chronicles of Brother Cadfael, #4)</title>
+			<isbn>0446403016</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Mummy Case (Amelia Peabody, #3)</title>
+			<isbn>0446601934</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

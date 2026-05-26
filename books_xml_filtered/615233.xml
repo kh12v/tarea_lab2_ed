@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>615233</id>
+	<title>Clifford's Halloween</title>
+	<isbn>0590442872</isbn>
+	<publication_year>1986</publication_year>
+	<language_code>eng</language_code>
+	<description>Clifford is the hit of the Halloween party when he arrives dressed as an enormous ghost.</description>
+	<average_rating>4.14</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>The Berenstain Bears Trick or Treat</title>
+			<isbn>0679800913</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Arthur's Halloween (Arthur Adventure Series)</title>
+			<isbn>0316110590</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>When I Get Bigger</title>
+			<isbn>0307119432</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Magic School Bus On the Ocean Floor</title>
+			<isbn>0590414313</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Magic School Bus Makes a Rainbow: A Book About Color</title>
+			<isbn>0590922513</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Just Me in the Tub (Mercer Mayer's Little Critter)</title>
+			<isbn>0613026667</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Search For The Missing Bones (The Magic School Bus Chapter Book, #2)</title>
+			<isbn>0439107997</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Franklin's Halloween</title>
+			<isbn>0590693301</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)</title>
+			<isbn>0439429358</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

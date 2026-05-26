@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>29999</id>
+	<title>The Maltese Falcon</title>
+	<isbn>0752865331</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Sam Spade is hired by the fragrant Miss Wonderley to track down her sister, who has eloped with a louse called Floyd Thursby. But Miss Wonderley is in fact the beautiful and treacherous Brigid O'Shaughnessy, and when Spade's partner Miles Archer is shot while on Thursby's trail, Spade finds himself both hunter and hunted: can he track down the jewel-encrusted bird, a treasure worth killing for, before the Fat Man finds him?</description>
+	<average_rating>3.92</average_rating>
+	<num_pages>213</num_pages>
+	<similar_books>
+		<book>
+			<title>The Little Sister (Philip Marlowe, #5)</title>
+			<isbn>039475767X</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Chill</title>
+			<isbn>0679768076</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Double Indemnity</title>
+			<isbn>0679723226</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Studs Lonigan</title>
+			<isbn>1931082553</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Bride Wore Black</title>
+			<isbn>0743413164</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Black Lizard Big Book of Pulps</title>
+			<isbn>0307280489</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>In a Lonely Place</title>
+			<isbn>1558614559</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>77281</id>
+	<title>The Far Side Gallery</title>
+	<isbn>0836220625</isbn>
+	<publication_year>1984</publication_year>
+	<language_code>eng</language_code>
+	<description>1984 FarWorks, Inc. All Rights Reserved.&lt;br /&gt;&lt;i&gt;The Far Side&lt;/i&gt; and the &lt;i&gt;Larson&lt;/i&gt; signature are registered trademarks of FarWorks, Inc.&lt;br /&gt;&lt;br /&gt;The Far Side Gallery is an anthology of Gary Larson's The Far Side comic strips, which were printed from 1982–1984.</description>
+	<average_rating>4.42</average_rating>
+	<num_pages>192</num_pages>
+	<similar_books>
+		<book>
+			<title>Billy and the Boingers: Bootleg</title>
+			<isbn>0316107298</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection</title>
+			<isbn>0836217691</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Foxtrot: Assembled With Care</title>
+			<isbn>0740726641</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Childhood Is Hell</title>
+			<isbn>0007180268</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Build a Better Life by Stealing Office Supplies: Dogbert's Big Book of Business</title>
+			<isbn>0836217578</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

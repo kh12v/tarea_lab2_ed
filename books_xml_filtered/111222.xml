@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>111222</id>
+	<title>The Life of Elizabeth I</title>
+	<isbn>0345425502</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>en-US</language_code>
+	<description>&lt;b&gt;&lt;i&gt;NEW YORK TIMES&lt;/i&gt; BESTSELLER&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Perhaps the most influential sovereign England has ever known, Queen Elizabeth I remained an extremely private person throughout her reign, keeping her own counsel and sharing secrets with no one--not even her closest, most trusted advisers. Now, in this brilliantly researched, fascinating new book, acclaimed biographer Alison Weir shares provocative new interpretations and fresh insights on this enigmatic figure.&lt;br /&gt;&lt;br /&gt;Against a lavish backdrop of pageantry and passion, intrigue and war, Weir dispels the myths surrounding Elizabeth I and examines the contradictions of her character. Elizabeth I loved the Earl of Leicester, but did she conspire to murder his wife? She called herself the Virgin Queen, but how chaste was she through dozens of liaisons? She never married—was her choice to remain single tied to the chilling fate of her mother, Anne Boleyn? An enthralling epic that is also an amazingly intimate portrait, &lt;i&gt;The Life of Elizabeth I&lt;/i&gt; is a mesmerizing, stunning reading experience.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>560</num_pages>
+	<similar_books>
+		<book>
+			<title>Mary Queen of Scots</title>
+			<isbn>038531129X</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Elizabeth I</title>
+			<isbn>0385721579</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Elizabeth's Women: Friends, Rivals, and Foes Who Shaped the Virgin Queen</title>
+			<isbn>055380698X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Elizabeth: The Struggle for the Throne</title>
+			<isbn>0060959517</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Elizabeth &amp; Leicester: Power, Passion, Politics</title>
+			<isbn>0670018287</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The First Elizabeth</title>
+			<isbn>031216842X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The First Queen of England: The Myth of "Bloody Mary"</title>
+			<isbn>0312368372</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Tudor Chronicles: 1485-1603</title>
+			<isbn>1435109392</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Jane Seymour: Henry VIII's True Love</title>
+			<isbn>184868102X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Elizabeth's London: Everyday Life in Elizabethan London</title>
+			<isbn>0312325665</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>After Elizabeth: The Rise of James of Scotland and the Struggle for the Throne of England</title>
+			<isbn>0345450469</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Edward VI: The Lost King of England</title>
+			<isbn>0312351429</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Four Queens: The Provençal Sisters Who Ruled Europe</title>
+			<isbn>0670038431</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Pirate Queen: Queen Elizabeth I, Her Pirate Adventurers, and the Dawn of Empire</title>
+			<isbn>0060820667</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Sisters of Henry VIII: The Tumultuous Lives of Margaret of Scotland and Mary of France</title>
+			<isbn>0306809893</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Elizabeth and Mary: Cousins, Rivals, Queens</title>
+			<isbn>0375708200</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

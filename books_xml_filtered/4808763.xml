@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>4808763</id>
+	<title>The Last Question</title>
+	<isbn>1884214495</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>The last question was asked for the first time, half in jest, on May 21, 2061, at a time when humanity first stepped into the light. The question came about as a result of a five dollar bet over highballs, and it happened this way ...</description>
+	<average_rating>4.58</average_rating>
+	<num_pages>9</num_pages>
+	<similar_books>
+		<book>
+			<title>They're Made Out of Meat</title>
+			<isbn />
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Exhalation</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Star</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Metamorphosis of Prime Intellect</title>
+			<isbn>1411602196</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>There Will Come Soft Rains</title>
+			<isbn>089598962X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Egg</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Axiomatic</title>
+			<isbn>0061052655</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>All You Zombies</title>
+			<isbn />
+			<publication_year>1959</publication_year>
+		</book>
+		<book>
+			<title>"Repent, Harlequin!" Said the Ticktockman</title>
+			<isbn>1887424350</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>A Martian Odyssey</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Machine Stops </title>
+			<isbn>140990329X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Ones Who Walk Away from Omelas</title>
+			<isbn>0886825016</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Tlön, Uqbar, Orbis Tertius</title>
+			<isbn>0889840725</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Ponies</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Island</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

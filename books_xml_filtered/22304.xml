@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>22304</id>
+	<title>Life After God</title>
+	<isbn>0743231511</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>This collection of stories cuts through the hype of modern living, travelling inward to the elusive terrain of dreams and nightmares.</description>
+	<average_rating>3.82</average_rating>
+	<num_pages>291</num_pages>
+	<similar_books>
+		<book>
+			<title>The Song</title>
+			<isbn>0877847851</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Jacob the Baker: Gentle Wisdom For a Complicated World</title>
+			<isbn>034536662X</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Not Wanted On The Voyage</title>
+			<isbn>0140241175</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Thin Blue Smoke</title>
+			<isbn>0230737080</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Best American Short Stories 1995</title>
+			<isbn>0395711797</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Scandalabra</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Best American Nonrequired Reading 2002</title>
+			<isbn />
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Sombrero Fallout</title>
+			<isbn>0099391104</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Best American Short Stories 2004</title>
+			<isbn>0618197354</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Fire-Dwellers</title>
+			<isbn>0771099878</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Alone with Other People</title>
+			<isbn>1937865177</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Sky Saw</title>
+			<isbn>0985023503</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Beatniks</title>
+			<isbn>0099268396</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Hiding Out</title>
+			<isbn>0977199231</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Journals of Susanna Moodie</title>
+			<isbn>0395880432</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Best American Short Stories 2002</title>
+			<isbn>0618131736</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Lyre of Orpheus (Cornish Trilogy, #3)</title>
+			<isbn>067082416X</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Brightness Falls</title>
+			<isbn>0679745327</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

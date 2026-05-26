@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>24280</id>
+	<title>Les Misérables</title>
+	<isbn>0451525264</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>eng</language_code>
+	<description>Introducing one of the most famous characters in literature, Jean Valjean—the noble peasant imprisoned for stealing a loaf of bread—Les Misérables ranks among the greatest novels of all time. In it, Victor Hugo takes readers deep into the Parisian underworld, immerses them in a battle between good and evil, and carries them to the barricades during the uprising of 1832 with a breathtaking realism that is unsurpassed in modern prose. Within his dramatic story are themes that capture the intellect and the emotions: crime and punishment, the relentless persecution of Valjean by Inspector Javert, the desperation of the prostitute Fantine, the amorality of the rogue Thénardier, and the universal desire to escape the prisons of our own minds. Les Misérables gave Victor Hugo a canvas upon which he portrayed his criticism of the French political and judicial systems, but the portrait that resulted is larger than life, epic in scope—an extravagant spectacle that dazzles the senses even as it touches the heart.</description>
+	<average_rating>4.14</average_rating>
+	<num_pages>1463</num_pages>
+	<similar_books>
+		<book>
+			<title>Germinal (Les Rougon-Macquart, #13)</title>
+			<isbn>0140447423</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Knight of Maison-Rouge</title>
+			<isbn>0812969634</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>David Copperfield</title>
+			<isbn>0140439447</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Uncle Tom's Cabin</title>
+			<isbn>1840224029</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Complete Sherlock Holmes, Volume I</title>
+			<isbn>1593080344</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Way We Live Now</title>
+			<isbn>1853262552</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Private Memoirs and Confessions of a Justified Sinner</title>
+			<isbn>0192835904</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Charterhouse of Parma</title>
+			<isbn>0679783180</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Под игото</title>
+			<isbn>9545272465</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Three Kingdoms: Classic Novel in Four Volumes</title>
+			<isbn>7119005901</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Rob Roy</title>
+			<isbn>0140435549</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Amadeus</title>
+			<isbn>0060935499</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Dead Souls</title>
+			<isbn>0140448071</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Don Quixote</title>
+			<isbn>0142437239</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Sodom and Gomorrah (In Search of Lost Time, #4)</title>
+			<isbn>0143039318</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Sentimental Education</title>
+			<isbn>0140447970</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

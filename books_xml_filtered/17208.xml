@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>17208</id>
+	<title>Friday</title>
+	<isbn>0345414004</isbn>
+	<publication_year>1997</publication_year>
+	<language_code>eng</language_code>
+	<description>Friday is a secret courier. She is employed by a man known to her only as "Boss." Operating from and over a near-future Earth, in which North America has become Balkanized into dozens of independent states, where culture has become bizarrely vulgarized and chaos is the happy norm, she finds herself on shuttlecock assignment at Boss' seemingly whimsical behest. From New Zealand to Canada, from one to another of the new states of America's disunion, she keeps her balance nimbly with quick, expeditious solutions to one calamity and scrape after another.</description>
+	<average_rating>3.82</average_rating>
+	<num_pages>384</num_pages>
+	<similar_books>
+		<book>
+			<title>Mindkiller (Lifehouse, #1)</title>
+			<isbn>0441532993</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Oath of Fealty</title>
+			<isbn>0671532278</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Executive (Bio of a Space Tyrant, #4)</title>
+			<isbn>0380898349</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Earth Is Room Enough</title>
+			<isbn>0449014010</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Gray Lensman (Lensman, #4)</title>
+			<isbn>1882968123</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Mindbridge (Collector's Edition)</title>
+			<isbn>0575071141</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Adventures of the Stainless Steel Rat (Stainless Steel Rat, #4-6)</title>
+			<isbn>0441004229</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Wizard (Gaea, #2)</title>
+			<isbn>0441900674</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>19089</id>
+	<title>Middlemarch</title>
+	<isbn>0451529170</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;'We believe in her as in a woman we might providentially meet some fine day when we should find ourselves doubting of the immortality of the soul'&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;wrote Henry James of Dorothea Brooke, who shares with the young doctor Tertius Lydgate not only a central role in &lt;i&gt;Middlemarch&lt;/i&gt; but also a fervent conviction that life should be heroic.&lt;br /&gt;&lt;br /&gt;By the time the novel appeared to tremendous popular and critical acclaim in 1871-2, George Eliot was recognized as England's finest living novelist. It was her ambition to create a world and portray a whole community--tradespeople, middle classes, country gentry--in the rising provincial town of Middlemarch, &lt;i&gt;circa&lt;/i&gt; 1830. Vast and crowded, rich in narrative irony and suspense, &lt;i&gt;Middlemarch&lt;/i&gt; is richer still in character, in its sense of how individual destinies are shaped by and shape the community, and in the great art that enlarges the reader's sympathy and imagination. It is truly, as Virginia Woolf famously remarked, 'one of the few English novels written for grown-up people'.</description>
+	<average_rating>3.93</average_rating>
+	<num_pages>904</num_pages>
+	<similar_books>
+		<book>
+			<title>Barchester Towers (Chronicles of Barsetshire #2)</title>
+			<isbn>1406923044</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Dombey and Son</title>
+			<isbn>0812967437</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Wives and Daughters</title>
+			<isbn>014043478X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Evelina</title>
+			<isbn>0192840312</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Woodlanders</title>
+			<isbn>0140435476</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Armadale</title>
+			<isbn>0140434119</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Odd Women</title>
+			<isbn>019283312X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

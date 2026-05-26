@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>7670</id>
+	<title>The Andromeda Strain</title>
+	<isbn>0060541814</isbn>
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description>The United States government is given a warning by the pre-eminent biophysicists in the country: current sterilization procedures applied to returning space probes may be inadequate to guarantee uncontaminated re-entry to the atmosphere. Two years later, seventeen satellites are sent into the outer fringes of space to collect organisms and dust for study. One of them falls to earth, landing in a desolate area of Arizona. Twelve miles from the landing site, in the town of Piedmont, a shocking discovery is made: the streets are littered with the dead bodies of the town's inhabitants, as if they dropped dead in their tracks.</description>
+	<average_rating>3.87</average_rating>
+	<num_pages>327</num_pages>
+	<similar_books>
+		<book>
+			<title>Fantastic Voyage</title>
+			<isbn>0553275720</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>2010: Odyssey Two (Space Odyssey, #2)</title>
+			<isbn>0345413970</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Outbreak (Dr. Marissa Blumenthal, #1)</title>
+			<isbn>042510687X</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Mars (The Grand Tour, #4)</title>
+			<isbn>2265071226</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Debt of Honor (Jack Ryan Universe, #8)</title>
+			<isbn>0425147584</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Friday</title>
+			<isbn>0345414004</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Tales of Known Space: The Universe of Larry Niven (Known Space)</title>
+			<isbn>0345334698</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Artifact</title>
+			<isbn>1841490628</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Binary</title>
+			<isbn>1783291257</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Contact</title>
+			<isbn>2266079999</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Cobra Event</title>
+			<isbn>0679457143</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Fail-Safe</title>
+			<isbn>088001654X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Eon (The Way, #1)</title>
+			<isbn>0812520475</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+	</similar_books>
+</book>

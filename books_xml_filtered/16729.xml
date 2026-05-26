@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>16729</id>
+	<title>Beach Music</title>
+	<isbn>0553381539</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.13</average_rating>
+	<num_pages>592</num_pages>
+	<similar_books>
+		<book>
+			<title>Outer Banks</title>
+			<isbn>0060538066</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Charleston</title>
+			<isbn>0446360007</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Isle of Palms (Lowcountry Tales, #3)</title>
+			<isbn>0425200108</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Queen of Broken Hearts</title>
+			<isbn>1401301770</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>When All the World Was Young</title>
+			<isbn>156352001X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Saints at the River</title>
+			<isbn>0312424914</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Beach House</title>
+			<isbn>0778322947</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

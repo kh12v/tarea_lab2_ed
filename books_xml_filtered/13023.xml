@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<book>
+	<id>13023</id>
+	<title>Alice in Wonderland</title>
+	<isbn>0517223627</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;strong&gt;
+  &lt;i&gt;This is an adaptation. For the editions of the original book, see &lt;a href="https://www.goodreads.com/book/show/6324090-alice-s-adventures-in-wonderland" rel="nofollow"&gt;here&lt;/a&gt;&lt;/i&gt;
+&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;Alice's Adventures in Wonderland (commonly shortened to Alice in Wonderland) is an 1865 novel written by English mathematician Charles Lutwidge Dodgson under the pseudonym Lewis Carroll. It tells of a girl named Alice falling through a rabbit hole into a fantasy world populated by peculiar, anthropomorphic creatures. The tale plays with logic, giving the story lasting popularity with adults as well as with children. It is considered to be one of the best examples of the literary nonsense genre. Its narrative course and structure, characters and imagery have been enormously influential in both popular culture and literature, especially in the fantasy genre.</description>
+	<average_rating>4.03</average_rating>
+	<num_pages>92</num_pages>
+	<similar_books>
+		<book>
+			<title>The Wind in the Willows</title>
+			<isbn>0143039091</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The House at Pooh Corner (Winnie-the-Pooh, #2)</title>
+			<isbn>0525444440</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Moominpappa at Sea (The Moomins, #8)</title>
+			<isbn>0374453063</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Marvelous Land of Oz (Oz, #2)</title>
+			<isbn>0140350411</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Pippi Longstocking</title>
+			<isbn>0670876127</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Jungle Books</title>
+			<isbn>0451529758</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>البنت والأسد</title>
+			<isbn />
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Pinocchio</title>
+			<isbn>0140382623</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Nutcracker</title>
+			<isbn>051755285X</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Mary Poppins Comes Back (Mary Poppins, #2)</title>
+			<isbn>0152058168</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Iron Man</title>
+			<isbn>0571226124</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Danny the Champion of the World</title>
+			<isbn>0375814256</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Happy Prince and Other Tales</title>
+			<isbn>0679444734</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Magic Faraway Tree (The Faraway Tree, #2)</title>
+			<isbn>074974801X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Reddy Fox</title>
+			<isbn>0486269302</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Adventures of the Little Wooden Horse</title>
+			<isbn>0753412071</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Archidamian War</title>
+			<isbn>0801497140</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Five Children and It (Five Children, #1)</title>
+			<isbn>0140367357</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

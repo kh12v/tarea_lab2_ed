@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>39031</id>
+	<title>The Cabinet of Curiosities (Pendergast, #3)</title>
+	<isbn>0446611239</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>In downtown Manhattan, a gruesome discovery has just been made-an underground charnel house containing the bones of dozens of murder victims. Research reveals that a serial killer was at work in New York's notorious Five Points neighborhood in the 1880s, bent on prolonging his lifespan by any means. When a newspaper story on the old murders appears to ignite a new series of horrifyingly similar killings, panic overtakes New York City. Now, FBI agent Pendergast, journalist Bill Smithback, and archaeologist Nora Kelly join forces to protect themselves from a vicious killer...before they become the next victims.</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>629</num_pages>
+	<similar_books>
+		<book>
+			<title>Utopia</title>
+			<isbn>0345455207</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Excavation</title>
+			<isbn>038081093X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Legacies  (Repairman Jack, #2)</title>
+			<isbn>0812571991</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>32767</id>
+	<title>At the Mountains of Madness</title>
+	<isbn>0812974417</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Long acknowledged as a master of nightmarish vision, H.P. Lovecraft established the genuineness and dignity of his own pioneering fiction in 1931 with his quintessential work of supernatural horror, &lt;i&gt;At the Mountains of Madness&lt;/i&gt;. The deliberately told and increasingly chilling recollection of an Antarctic expedition's uncanny discoveries --and their encounter with an untold menace in the ruins of a lost civilization--is a milestone of macabre literature.</description>
+	<average_rating>3.93</average_rating>
+	<num_pages>186</num_pages>
+	<similar_books>
+		<book>
+			<title>Shadows over Innsmouth</title>
+			<isbn>0345444078</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The House on the Borderland</title>
+			<isbn>1426438281</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Door to Saturn</title>
+			<isbn>1597800295</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Grimscribe: His Lives and Works</title>
+			<isbn>0515114715</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>One Lonely Night</title>
+			<isbn>0792721055</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Mask of Cthulhu</title>
+			<isbn>0586041397</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Willows</title>
+			<isbn>1587156520</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Case of Charles Dexter Ward: A Graphic Novel</title>
+			<isbn>1906838356</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Narrative of Arthur Gordon Pym of Nantucket and Related Tales</title>
+			<isbn>0192837710</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Occultation and Other Stories</title>
+			<isbn>1597801925</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Great God Pan</title>
+			<isbn>1871592119</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Phoenix on the Sword</title>
+			<isbn>1406572152</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The King in Yellow and Other Horror Stories</title>
+			<isbn>0486437507</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>New Cthulhu: The Recent Weird</title>
+			<isbn>1607012898</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Ceremonies</title>
+			<isbn>0553250558</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Encyclopedia Cthulhiana: A Guide to Lovecraftian Horror</title>
+			<isbn>1568821190</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Malpertuis</title>
+			<isbn>0947757988</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>102956</id>
+	<title>Preacher, Volume 5: Dixie Fried</title>
+	<isbn>1563894289</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.29</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Transmetropolitan, Vol. 6: Gouge Away (Transmetropolitan, #6)</title>
+			<isbn>1563897962</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>100 Bullets, Vol. 9: Strychnine Lives</title>
+			<isbn>1401209289</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Y: The Last Man, Vol. 4: Safeword (Y: The Last Man, #4)</title>
+			<isbn>1401202322</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

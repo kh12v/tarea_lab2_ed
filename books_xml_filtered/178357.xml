@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>178357</id>
+	<title>SantaLand Diaries</title>
+	<isbn>0349119759</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>en-US</language_code>
+	<description>'Santaland Diaries' contains six of David Sedaris' most profound Christmas stories, from Dinah, the Christmas Whore to Season's Greetings to our Friends and Family.</description>
+	<average_rating>4.33</average_rating>
+	<num_pages>138</num_pages>
+	<similar_books>
+		<book>
+			<title>The Book of Liz - Acting Edition</title>
+			<isbn>0822218275</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Fraud: Essays</title>
+			<isbn>0767906314</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Take the Cannoli</title>
+			<isbn>0141006579</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Autobiography of a Fat Bride: True Tales of a Pretend Adulthood</title>
+			<isbn>037576092X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Possible Side Effects</title>
+			<isbn>031242681X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Kid: What Happened After My Boyfriend and I Decided to Go Get Pregnant</title>
+			<isbn>0452281768</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Kick Me: Adventures in Adolescence</title>
+			<isbn>0609809431</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Dial M for Monkey</title>
+			<isbn>0955218322</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Pure Drivel</title>
+			<isbn>0753813955</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Naked Pictures of Famous People</title>
+			<isbn>0688171621</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Our Dumb Century: The Onion Presents 100 Years of Headlines from America's Finest News Source</title>
+			<isbn>0609804618</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Claw Your Way to the Top: How to Become the Head of a Major Corporation in Roughly a Week</title>
+			<isbn>0878576525</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Golden Gizmo</title>
+			<isbn>0316403989</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>I Am Not Myself These Days</title>
+			<isbn>0060817321</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

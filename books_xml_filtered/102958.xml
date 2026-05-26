@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>102958</id>
+	<title>Preacher, Volume 9: Alamo</title>
+	<isbn>1563897156</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Preacher Vol. 9: Alamo</description>
+	<average_rating>4.33</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Transmetropolitan, Vol. 10: One More Time (Transmetropolitan, #10)</title>
+			<isbn>1401202179</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>100 Bullets, Vol. 2: Split Second Chance</title>
+			<isbn>1563897113</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Invisibles, Vol. 5: Counting to None</title>
+			<isbn>1563894890</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Y: The Last Man, Vol. 10: Whys and Wherefores (Y: The Last Man, #10)</title>
+			<isbn>140121813X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Lucifer, Vol. 10: Morningstar</title>
+			<isbn>1401210066</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

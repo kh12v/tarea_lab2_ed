@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>85437</id>
+	<title>Coma</title>
+	<isbn>0451159535</isbn>
+	<publication_year>1977</publication_year>
+	<language_code>eng</language_code>
+	<description>Patients undergoing routine surgery fail to awaken from anesthesia.</description>
+	<average_rating>3.86</average_rating>
+	<num_pages>320</num_pages>
+	<similar_books>
+		<book>
+			<title>Natural Causes</title>
+			<isbn>0553568760</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Airport</title>
+			<isbn>0425176088</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>خلف جدار النوم</title>
+			<isbn />
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Deep</title>
+			<isbn>0330250442</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cold Plague</title>
+			<isbn>0765318334</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>1984 ج2</title>
+			<isbn />
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>(الرجل الذي يجمع كتب (بو</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Rhinemann Exchange</title>
+			<isbn>0752858602</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>الحريق</title>
+			<isbn />
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Six Days of the Condor</title>
+			<isbn>0393086925</isbn>
+			<publication_year>1974</publication_year>
+		</book>
+		<book>
+			<title>The Boys from Brazil</title>
+			<isbn>0394402677</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+	</similar_books>
+</book>

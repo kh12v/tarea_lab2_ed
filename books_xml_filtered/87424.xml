@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>87424</id>
+	<title>Tintin in the Land of the Soviets (Tintin #1)</title>
+	<isbn>0867199032</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>In his debut adventure, Tintin is pursued by Bolshevik agents trying to prevent him from exposing the new Soviet regime. Punctuated by slapstick and political revelations, this story is based on the writings of an anticommunist Belgian ex-consul to the Ukraine. Herge's early style revealed strong graphics, influenced by photo-reporting from the period, marking the historic debut of a major artist.</description>
+	<average_rating>3.67</average_rating>
+	<num_pages>120</num_pages>
+	<similar_books>
+		<book>
+			<title>Tintin: Complete Companion</title>
+			<isbn>0867199016</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Asterix the Gaul (Asterix, #1)</title>
+			<isbn>0752866052</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Asterix and Obelix All at Sea (Asterix #30)</title>
+			<isbn>0752847171</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Billy the Kid (Lucky Luke Adventure, #1)</title>
+			<isbn>1905460112</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

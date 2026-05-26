@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>12782865</id>
+	<title>The Lewis Man (The Lewis Trilogy, #2)</title>
+	<isbn>0857382209</isbn>
+	<publication_year>2012</publication_year>
+	<language_code>eng</language_code>
+	<description>A body is recovered from a peat bog on the Isle of Lewis. The male Caucasian corpse is initially believed by its finders to be over 2000 years old, until they spot the Elvis tattoo on his right arm. The body, it transpires, is not evidence of an ancient ritual killing, but of a murder committed during the latter half of the 20th century.</description>
+	<average_rating>4.20</average_rating>
+	<num_pages>373</num_pages>
+	<similar_books>
+		<book>
+			<title>Blue Lightning (Shetland Island, #4)</title>
+			<isbn>0230746659</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Hanging Shed (Douglas Brodie, #1)</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Ghost Fields (Ruth Galloway, #7)</title>
+			<isbn>0544330145</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Long Way Home (DI Zigic and DS Ferreira, #1)</title>
+			<isbn>1448163307</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Book of Souls (Inspector McLean, #2)</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Saints of the Shadow Bible (Inspector Rebus, #19)</title>
+			<isbn>0316224553</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Dying Light (Logan McRae, #2)</title>
+			<isbn>0007193165</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Far North (Fire &amp; Ice, #2)</title>
+			<isbn>0312675046</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>A Question of Identity (Simon Serrailler, #7)</title>
+			<isbn>1468300504</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

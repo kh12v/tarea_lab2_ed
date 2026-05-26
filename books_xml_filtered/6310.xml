@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>6310</id>
+	<title>Charlie and the Chocolate Factory (Charlie Bucket, #1)</title>
+	<isbn>0142403881</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Complete with stunning new movie art for the cover, and an eight-page full-color insert of stills from director Tim Burton's new adaptation, Dahl's treasured novel appears unabridged in this tie-in edition.</description>
+	<average_rating>4.10</average_rating>
+	<num_pages>176</num_pages>
+	<similar_books>
+		<book>
+			<title>Pluk van de Petteflet</title>
+			<isbn>9045101130</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Mouse and the Motorcycle (Ralph S. Mouse, #1)</title>
+			<isbn>0380709244</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Best Christmas Pageant Ever (The Herdmans #1)</title>
+			<isbn>0064402754</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Me and My Little Brain (Great Brain #3)</title>
+			<isbn>0142400645</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>De kleine kapitein</title>
+			<isbn>9025101844</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>The Return of the Indian (The Indian in the Cupboard, #2)</title>
+			<isbn>038523497X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mrs. Piggle-Wiggle (Mrs. Piggle Wiggle, #1)</title>
+			<isbn>0064401480</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Last Term at Malory Towers (Malory Towers, #6)</title>
+			<isbn>1405224088</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Piotr </title>
+			<isbn>8434809451</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Superfudge (Fudge, #3)</title>
+			<isbn>0142408808</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Tom's Midnight Garden</title>
+			<isbn>0064404455</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Three Tales Of My Father's Dragon</title>
+			<isbn>0679889116</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Wayside School Is Falling Down (Wayside School #2)</title>
+			<isbn>0380731509</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Bartholomew and the Oobleck</title>
+			<isbn>0394800753</isbn>
+			<publication_year>1949</publication_year>
+		</book>
+	</similar_books>
+</book>

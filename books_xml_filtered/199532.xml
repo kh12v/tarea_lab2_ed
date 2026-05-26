@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>199532</id>
+	<title>A Redbird Christmas</title>
+	<isbn>0345480260</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>From the beloved author of Fried Green Tomatoes at the Whistle Stop Cafe comes her latest New York Times bestseller--a new Yuletide classic about small-town America and larger-than-life wonders.</description>
+	<average_rating>3.86</average_rating>
+	<num_pages>193</num_pages>
+	<similar_books>
+		<book>
+			<title>The Shepherd, the Angel, and Walter the Christmas Miracle Dog</title>
+			<isbn>0399154132</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Christmas Tree</title>
+			<isbn>0679452532</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Autobiography of Santa Claus (The Christmas Chronicles #1)</title>
+			<isbn>158542448X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Christmas Clock</title>
+			<isbn>1593155476</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Paper Bag Christmas</title>
+			<isbn>1599950731</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Letters</title>
+			<isbn>156512376X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Hope (Christmas Hope, #3)</title>
+			<isbn>0312334508</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Pearl</title>
+			<isbn>0061438448</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Christmas with Tucker (A Dog Named Christmas #0.5)</title>
+			<isbn>0307589633</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Christmas at Harrington's</title>
+			<isbn>0800719255</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Christmas Chronicles: The Legend of Santa Claus</title>
+			<isbn>0553808109</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Angel (Cape Light #6)</title>
+			<isbn>0425211754</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Scrapbook (Harmony, #5.5)</title>
+			<isbn>0060736615</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Christmas Wish</title>
+			<isbn>0609604147</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>'Tis The Season</title>
+			<isbn>0345499751</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Call Me Mrs. Miracle (Angelic Intervention #8)</title>
+			<isbn>0778328198</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Angel Doll: A Christmas Story</title>
+			<isbn>0312171048</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The 13th Day of Christmas</title>
+			<isbn>1609071778</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

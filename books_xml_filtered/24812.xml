@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>24812</id>
+	<title>The Complete Calvin and Hobbes</title>
+	<isbn>0740748475</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;Calvin and Hobbes&lt;/i&gt; is unquestionably one of the most popular comic strips of all time. The imaginative world of a boy and his real-only-to-him tiger was first syndicated in 1985 and appeared in more than 2,400 newspapers when Bill Watterson retired on January 1, 1996. The entire body of &lt;i&gt;Calvin and Hobbes&lt;/i&gt; cartoons published in a truly noteworthy tribute to this singular cartoon in &lt;i&gt;The Complete Calvin and Hobbes&lt;/i&gt;. Composed of three hardcover, four-color volumes in a sturdy slipcase, this &lt;i&gt;New York Times&lt;/i&gt; best-selling edition includes all &lt;i&gt;Calvin and Hobbes&lt;/i&gt; cartoons that ever appeared in syndication. This is the treasure that all &lt;i&gt;Calvin and Hobbes&lt;/i&gt; fans seek.</description>
+	<average_rating>4.82</average_rating>
+	<num_pages>1440</num_pages>
+	<similar_books>
+		<book>
+			<title>The Complete Far Side, 1980–1994</title>
+			<isbn>0740721135</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Bloom County Library, Vol. 1: 1980-1982</title>
+			<isbn>1600105319</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Complete Peanuts, Vol. 5: 1959-1960</title>
+			<isbn>1560976713</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Foxtrot: Assembled With Care</title>
+			<isbn>0740726641</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

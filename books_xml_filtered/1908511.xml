@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>1908511</id>
+	<title>The Pigeon Wants a Puppy!</title>
+	<isbn>1423109600</isbn>
+	<publication_year>2008</publication_year>
+	<language_code>en-US</language_code>
+	<description>He really, really, REALLY wants one. He'll take really good care of it! What's the matter--don't you want him to be happy? The latest book in the best-selling Pigeon series is the funniest one yet.</description>
+	<average_rating>4.37</average_rating>
+	<num_pages>40</num_pages>
+	<similar_books>
+		<book>
+			<title>Dinosaur vs. the Library</title>
+			<isbn>1423133382</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Scaredy Squirrel Makes a Friend (Scaredy Squirrel)</title>
+			<isbn>1554531810</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>What Will Fat Cat Sit On?</title>
+			<isbn>0152060510</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I'm the Biggest Thing in the Ocean!</title>
+			<isbn>0803731922</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Little Pea</title>
+			<isbn>081184658X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Llama Llama Mad at Mama</title>
+			<isbn>0670062405</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Bear's New Friend</title>
+			<isbn>0689859848</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Pete the Cat: Rocking in My School Shoes</title>
+			<isbn>0061910244</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>But Excuse Me That is My Book (Charlie and Lola)</title>
+			<isbn>0803730969</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Good Boy, Fergus!</title>
+			<isbn>0439490278</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Not a Stick</title>
+			<isbn>0061123250</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Thump, Quack, Moo: A Whacky Adventure</title>
+			<isbn>141691630X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Grumpy Bird</title>
+			<isbn>0439851475</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>There Are Cats in This Book</title>
+			<isbn>0763639230</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Z Is for Moose</title>
+			<isbn>0060799846</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Olivia and the Missing Toy</title>
+			<isbn>0689837372</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

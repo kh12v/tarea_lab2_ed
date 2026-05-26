@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>48974</id>
+	<title>I Am the Cheese</title>
+	<isbn>0141300515</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Adam Farmer is on a journey - he has to get to Rutterburg with a parcel for his father. But as he travels, he starts to remember the events leading up to this point, memories which are also being prised out in gruelling psychiatric interviews. What is the secret of Adam Farmer? And what will happen when he finds out?</description>
+	<average_rating>3.74</average_rating>
+	<num_pages>233</num_pages>
+	<similar_books>
+		<book>
+			<title>Chinese Handcuffs</title>
+			<isbn>0060598395</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Daughters of Eve</title>
+			<isbn>0440918642</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Jumping the Nail</title>
+			<isbn>0152413588</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Remembering the Good Times</title>
+			<isbn>0440973392</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>My Darling, My Hamburger</title>
+			<isbn>0060757361</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>House of Stairs</title>
+			<isbn>0140345809</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Sweet Whispers, Brother Rush</title>
+			<isbn>0380651939</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>One Fat Summer</title>
+			<isbn>0439080886</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Language of Goldfish</title>
+			<isbn>014034540X</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Fell (Fell, #1)</title>
+			<isbn>0060232676</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>When She Hollers</title>
+			<isbn>0590467158</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>A Day No Pigs Would Die</title>
+			<isbn>0394482352</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Under the Wolf, Under the Dog</title>
+			<isbn>0763633658</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Whirligig</title>
+			<isbn>0440228352</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>I Hadn't Meant to Tell You This</title>
+			<isbn>0142405558</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

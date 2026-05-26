@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>226378</id>
+	<title>A Hero of Our Time</title>
+	<isbn>014044176X</isbn>
+	<publication_year>1966</publication_year>
+	<language_code>eng</language_code>
+	<description>In its adventurous happenings, its abductions, duels, and sexual intrigues, &lt;i&gt;A Hero of Our Time&lt;/i&gt; looks backward to the tales of Sir Walter Scott and Lord Byron, so beloved by Russian society in the 1820s and '30s. In the character of its protagonist, Pechorin, the archetypal Russian antihero, Lermontov's novel looks forward to the subsequent glories of a Russian literature that it helped, in great measure, to make possible.</description>
+	<average_rating>4.11</average_rating>
+	<num_pages>185</num_pages>
+	<similar_books>
+		<book>
+			<title>The Queen of Spades and Other Stories</title>
+			<isbn>0192839543</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Sketches from a Hunter's Album</title>
+			<isbn>0140445226</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Горе от ума</title>
+			<isbn>5080039159</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Foundation Pit</title>
+			<isbn>0810111454</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Golovlyov Family</title>
+			<isbn>0940322579</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Enchanted Wanderer: Selected Tales</title>
+			<isbn>0812966961</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Petersburg</title>
+			<isbn>0253202191</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Oblomov</title>
+			<isbn>1933480092</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Twelve Chairs</title>
+			<isbn>0810114844</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Garnet Bracelet, and Other Stories</title>
+			<isbn>1410102351</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

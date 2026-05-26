@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>115476</id>
+	<title>Nostromo</title>
+	<isbn>0486424529</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Joseph Conrad's 1904 adventure novel, set amid the mist-covered mountains of a fictional South American republic, spins a colorful tale of capitalist exploitation and rebellion. The story begins halfway through the revolution, employing flashbacks and glimpses of the future to depict the lure of silver and its effects on men — corrupting and destroying some, revealing the strengths of others. Conrad's deep moral consciousness and masterful narrative technique are at their best in Nostromo, one of his greatest works.</description>
+	<average_rating>3.81</average_rating>
+	<num_pages>336</num_pages>
+	<similar_books>
+		<book>
+			<title>Studs Lonigan</title>
+			<isbn>1931082553</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Zuleika Dobson</title>
+			<isbn>037575248X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Old Wives' Tale</title>
+			<isbn>0375754903</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>A Dance to the Music of Time: 3rd Movement (A Dance to the Music of Time, #7-9)</title>
+			<isbn>0226677176</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>USA: The 42nd Parallel / 1919 / The Big Money</title>
+			<isbn>1883011140</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Way of All Flesh</title>
+			<isbn>0486434664</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Golden Bowl </title>
+			<isbn>0140432353</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>A High Wind in Jamaica</title>
+			<isbn>0940322153</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Parade's End</title>
+			<isbn>0141186615</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Wapshot Chronicle</title>
+			<isbn>0060528877</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Ginger Man</title>
+			<isbn>0802137954</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Magnificent Ambersons (The Growth Trilogy, #2)</title>
+			<isbn>1406935735</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Alexandria Quartet  (The Alexandria Quartet #1-4)</title>
+			<isbn>0140153179</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Recognition of Śakuntalā</title>
+			<isbn>019283911X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Loving</title>
+			<isbn>0099285096</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>History</title>
+			<isbn>1586420046</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Rainbow</title>
+			<isbn>0451530306</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Scoop</title>
+			<isbn>0141187492</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

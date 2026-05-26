@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>68483</id>
+	<title>The Vor Game (Vorkosigan Saga, #6)</title>
+	<isbn>0671720147</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Hugo Award Winner! Miles Vorkosigan graduates from the Academy, joins a mutiny, is placed under house arrest, goes on a secret mission, reconnects with his loyal Dendarii Mercenaries, rescues his Emperor, and thwarts an interstellar war. Situation normal, if you're Miles.</description>
+	<average_rating>4.28</average_rating>
+	<num_pages>346</num_pages>
+	<similar_books>
+		<book>
+			<title>Scout's Progress (Liaden Universe, #6)</title>
+			<isbn>0441009271</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>They'd Rather Be Right </title>
+			<isbn>0898651654</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Cyteen (Cyteen, #1-3)</title>
+			<isbn>0446671274</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Honor Among Enemies (Honor Harrington, #6)</title>
+			<isbn>0671877836</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Once a Hero (The Serrano Legacy, #4)</title>
+			<isbn>0613926234</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Better Part of Valor (Confederation #2)</title>
+			<isbn>0756400627</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Big Time</title>
+			<isbn>0312890788</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

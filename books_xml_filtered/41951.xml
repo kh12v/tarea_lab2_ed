@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>41951</id>
+	<title>Scarlet Feather</title>
+	<isbn>0451203771</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Set in contemporary Ireland, filled with warmth, wit, and drama, &lt;i&gt;Scarlet Feather&lt;/i&gt; is the story of Cathy Scarlet and Tom Feather, their spouses, families, and friends, and the struggling new catering business that transforms their lives in ways big and small.</description>
+	<average_rating>3.93</average_rating>
+	<num_pages>549</num_pages>
+	<similar_books>
+		<book>
+			<title>Winter Solstice</title>
+			<isbn>0340752483</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Tea House on Mulberry Street</title>
+			<isbn>0515139947</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>An Irish Country Village (Irish Country #2)</title>
+			<isbn>0765316242</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Alphabet Sisters</title>
+			<isbn>034547953X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Never Too Late</title>
+			<isbn>0747260583</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Downtown</title>
+			<isbn>0061099686</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Country Lovers (Barleybridge #3)</title>
+			<isbn>0752842587</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

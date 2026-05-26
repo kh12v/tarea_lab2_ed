@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>17461</id>
+	<title>Misty of Chincoteague (Misty, #1)</title>
+	<isbn>1416927832</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>On an island off the coasts of Virginia and Maryland lives a centuries-old band of wild ponies. Among them is the most mysterious of all, Phantom, a rarely seen mare that eludes all efforts to capture her--that is, until a young boy and girl lay eyes on her and determine that they can't live without her. The frenzied roundup that follows on the next "Pony Penning Day" does indeed bring Phantom into their lives, in a way they never would have suspected. Phantom would forever be a creature of the wild. But her gentle, loyal colt Misty is another story altogether.</description>
+	<average_rating>4.04</average_rating>
+	<num_pages>176</num_pages>
+	<similar_books>
+		<book>
+			<title>The Black Stallion and Satan (The Black Stallion, #5)</title>
+			<isbn>0679813462</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>A Horse Called Wonder (Thoroughbred, #1)</title>
+			<isbn>0061061204</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Smoky the Cow Horse</title>
+			<isbn>0689716826</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Along Came a Dog</title>
+			<isbn>0064401146</isbn>
+			<publication_year>1959</publication_year>
+		</book>
+	</similar_books>
+</book>

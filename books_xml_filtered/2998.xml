@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>2998</id>
+	<title>The Secret Garden</title>
+	<isbn>0517189607</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>When orphaned Mary Lennox comes to live at her uncle's great house on the Yorkshire Moors, she finds it full of secrets. The mansion has nearly one hundred rooms, and her uncle keeps himself locked up. And at night, she hears the sound of crying down one of the long corridors.&lt;br /&gt;&lt;br /&gt;The gardens surrounding the large property are Mary's only escape. Then, Mary discovers a secret garden, surrounded by walls and locked with a missing key. One day, with the help of two unexpected companions, she discovers a way in. Is everything in the garden dead, or can Mary bring it back to life?</description>
+	<average_rating>4.12</average_rating>
+	<num_pages>331</num_pages>
+	<similar_books>
+		<book>
+			<title>Emily of New Moon (Emily, #1)</title>
+			<isbn>055323370X</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Railway Children</title>
+			<isbn>0486410226</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>What Katy Did at School (Carr Family, #2)</title>
+			<isbn>1406515280</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Betsy and Joe (Betsy-Tacy, #8)</title>
+			<isbn>006440546X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The 13 Clocks</title>
+			<isbn>0440405823</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Ballet Shoes (Shoes, #1)</title>
+			<isbn>0679847596</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The First Four Years  (Little House, #9)</title>
+			<isbn>0060885459</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>King of the Wind: The Story of the Godolphin Arabian</title>
+			<isbn>0027436292</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Complete Tales</title>
+			<isbn>072325804X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Madicken dan Lisabet</title>
+			<isbn>9792204687</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Understood Betsy</title>
+			<isbn>1887840133</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Angelina Ballerina</title>
+			<isbn>0670060267</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ramona the Brave (Ramona, #3)</title>
+			<isbn>0192751077</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Eight Cousins (Eight Cousins, #1)</title>
+			<isbn>0486455599</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Mandy</title>
+			<isbn>0061131628</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Finn Family Moomintroll (The Moomins, #3)</title>
+			<isbn>0374423075</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Peter Pan in Kensington Gardens / Peter and Wendy</title>
+			<isbn>0192839292</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

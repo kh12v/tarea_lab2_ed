@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>397867</id>
+	<title>The Rats (Rats, #1)</title>
+	<isbn>0333761189</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>For millions of years man and rats had been natural enemies. But now for the first time - suddenly, shockingly, horribly - the balance of power had shifted and the rats began to prey on the human population.</description>
+	<average_rating>3.92</average_rating>
+	<num_pages>208</num_pages>
+	<similar_books>
+		<book>
+			<title>Slugs (Slugs, #1)</title>
+			<isbn>0751514187</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Quake</title>
+			<isbn>0747248060</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Feeding Ground</title>
+			<isbn>0843962933</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Charnel House</title>
+			<isbn>0812522052</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Concrete Grove</title>
+			<isbn>1907519955</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Conqueror Worms</title>
+			<isbn>0843954167</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Midnight's Lair</title>
+			<isbn>0821746847</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

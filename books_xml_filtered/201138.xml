@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>201138</id>
+	<title>The Berenstain Bears and Too Much TV</title>
+	<isbn>0394865707</isbn>
+	<publication_year>1984</publication_year>
+	<language_code>eng</language_code>
+	<description>When Mama Bear decides her family spends too much time in front of the TV, she bans it for a week. Then the Bear family finds other ways to have fun and keep busy, so they watch less when TV is allowed again--and they don't even miss it.</description>
+	<average_rating>4.00</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>I Was So Mad</title>
+			<isbn>0307119394</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears Give Thanks</title>
+			<isbn>0310712513</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Inside the Earth (The Magic School Bus, #2)</title>
+			<isbn>0590407600</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Arthur's Baby (Arthur Adventure Series)</title>
+			<isbn>0316110078</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Where's Waldo? The Fantastic Journey</title>
+			<isbn>0763635006</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Teacher from the Black Lagoon (Black Lagoon, #1)</title>
+			<isbn>0590419625</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Good Work Amelia Bedelia (I Can Read Level 2)</title>
+			<isbn>006051115X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Clifford Takes A Trip</title>
+			<isbn>0590442600</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>24019</id>
+	<title>The New Best Recipe</title>
+	<isbn />
+	<publication_year>2004</publication_year>
+	<language_code />
+	<description>The flagship book of the award-winning, best-selling series, is back-bigger and better than ever. Fully-updated and double the size of the original, this new edition boasts 22 chapters covering 1,000 foolproof recipes. 40% new recipes pack this 1,000-page, one-stop source for the best-tested recipes in America.</description>
+	<average_rating>4.20</average_rating>
+	<num_pages>1028</num_pages>
+	<similar_books>
+		<book>
+			<title>The America's Test Kitchen Family Baking Book</title>
+			<isbn>1933615222</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Bon Appetit Cookbook: Fast Easy Fresh</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Best Recipes in the World: More Than 1,000 International Dishes to Cook at Home</title>
+			<isbn>0767906721</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Splendid Table's How to Eat Supper</title>
+			<isbn>0307346714</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>1080 Recipes</title>
+			<isbn>0714848360</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The King Arthur Flour Cookie Companion: The Essential Cookie Cookbook (King Arthur Flour Cookbooks)</title>
+			<isbn>0881506591</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>CookWise: The Secrets of Cooking Revealed</title>
+			<isbn>0688102298</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Barefoot Contessa Parties!: Ideas and Recipes for Easy Parties That Are Really Fun</title>
+			<isbn>0609606441</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Classic Home Desserts: A Treasury of Heirloom and Contemporary Recipes from Around the World</title>
+			<isbn>0618003916</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Sauces: Classical and Contemporary Sauce Making</title>
+			<isbn>0471292753</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Lee Bros. Southern Cookbook: Stories and Recipes for Southerners and Would-be Southerners</title>
+			<isbn>039305781X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Perfect Scoop: Ice Creams, Sorbets, Granitas, and Sweet Accompaniments</title>
+			<isbn>1580088082</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Gourmet Today: More than 1000 All-New Recipes for the Contemporary Kitchen</title>
+			<isbn>0618610189</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Essential New York Times Cookbook: Classic Recipes for a New Century</title>
+			<isbn>0393061035</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Bouchon</title>
+			<isbn>1579652395</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>All About Braising: The Art of Uncomplicated Cooking</title>
+			<isbn>0393052303</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

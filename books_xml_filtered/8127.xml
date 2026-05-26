@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>8127</id>
+	<title>Anne of Green Gables (Anne of Green Gables, #1)</title>
+	<isbn>0451528824</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Everyone's favorite redhead, the spunky Anne Shirley, begins her adventures at Green Gables, a farm outside Avonlea, Prince Edward Island. When the freckled girl realizes that the elderly Cuthberts wanted to adopt a boy instead, she begins to try to win them and, consequently, the reader, over.</description>
+	<average_rating>4.23</average_rating>
+	<num_pages>320</num_pages>
+	<similar_books>
+		<book>
+			<title>Heaven to Betsy (Betsy-Tacy, #5)</title>
+			<isbn>0064401103</isbn>
+			<publication_year>1945</publication_year>
+		</book>
+		<book>
+			<title>By the Shores of Silver Lake  (Little House, #5)</title>
+			<isbn>0060885416</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Rose in Bloom (Eight Cousins, #2)</title>
+			<isbn>0316030899</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Pollyanna (Pollyanna, #1)</title>
+			<isbn>0689849109</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>A Handful of Time</title>
+			<isbn>014032268X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Understood Betsy</title>
+			<isbn>1887840133</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Secret World of Og</title>
+			<isbn>0385659113</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Kwiat kalafiora (Jeżycjada, #3)</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>All-of-a-Kind Family (All-of-a-Kind Family, #1)</title>
+			<isbn>0385732953</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Skylark (Sarah, Plain and Tall #2)</title>
+			<isbn>0064406229</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

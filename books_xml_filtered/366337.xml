@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>366337</id>
+	<title>Back on Blossom Street (Blossom Street, #4)</title>
+	<isbn>0778324516</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>There's a new shop on Seattle's Blossom Street - a flower shop called Susannah's Garden. The owner, Susannah Nelson, has just hired a young widow named Colette Blake. Susannah and Colette both join Lydia Goetz's new knitting class. Lydia's previous classes have forged lasting friendships and this one is no exception.</description>
+	<average_rating>4.14</average_rating>
+	<num_pages>393</num_pages>
+	<similar_books>
+		<book>
+			<title>The Quilter's Homecoming (Elm Creek Quilts, #10)</title>
+			<isbn>0743260228</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Welcome to Serenity (The Sweet Magnolias #4)</title>
+			<isbn>077832589X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>A Killer Stitch (A Knitting Mystery, #4)</title>
+			<isbn>0425215202</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Dockside (Lakeshore Chronicles, #3)</title>
+			<isbn>0778324753</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Knitting</title>
+			<isbn>0618710477</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

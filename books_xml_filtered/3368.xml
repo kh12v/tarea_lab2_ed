@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>3368</id>
+	<title>Don't Make Me Think: A Common Sense Approach to Web Usability</title>
+	<isbn>0321344758</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>en-US</language_code>
+	<description>Five years and more than 100,000 copies after it was first published, it's hard to imagine anyone working in Web design who hasn't read Steve Krug's "instant classic" on Web usability, but people are still discovering it every day. In this second edition, Steve adds three new chapters in the same style as the original: wry and entertaining, yet loaded with insights and practical advice for novice and veteran alike. Don't be surprised if it completely changes the way you think about Web design. &lt;br /&gt; Three New Chapters!&lt;br /&gt; Usability as common courtesy -- Why people really leave Web sites Web Accessibility, CSS, and you -- Making sites usable and accessible Help! My boss wants me to ______. -- Surviving executive design whims &lt;br /&gt; "I thought usability was the enemy of design until I read the first edition of this book. "Don't Make Me Think! "showed me how to put myself in the position of the person who uses my site. After reading it over a couple of hours and putting its ideas to work for the past five years, I can say it has done more to improve my abilities as a Web designer than any other book. &lt;br /&gt; In this second edition, Steve Krug adds essential ammunition for those whose bosses, clients, stakeholders, and marketing managers insist on doing the wrong thing. If you design, write, program, own, or manage Web sites, you must read this book." -- Jeffrey Zeldman, author of "Designing with Web Standards" &lt;br /&gt;&lt;br /&gt;"</description>
+	<average_rating>4.24</average_rating>
+	<num_pages>201</num_pages>
+	<similar_books>
+		<book>
+			<title>Information Architecture for the World Wide Web: Designing Large-Scale Web Sites</title>
+			<isbn>0596527349</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Web Form Design: Filling in the Blanks</title>
+			<isbn>1933820241</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>About Face 3: The Essentials of Interaction Design</title>
+			<isbn>0470084111</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Elements of User Experience: User-Centered Design for the Web</title>
+			<isbn>0735712026</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Designing With Web Standards</title>
+			<isbn>0735712018</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Designing the Obvious: A Common Sense Approach to Web Application Design</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Designing Web Usability</title>
+			<isbn>156205810X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Designing Interfaces: Patterns for Effective Interaction Design</title>
+			<isbn>0596008031</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>CSS3 For Web Designers</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Communicating Design: Developing Web Site Documentation for Design and Planning</title>
+			<isbn>0321392353</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Project Guide to UX Design: For User Experience Designers in the Field or in the Making</title>
+			<isbn>0321607376</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Responsive Web Design</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Observing the User Experience: A Practitioner's Guide to User Research</title>
+			<isbn>1558609237</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>HTML5 for Web Designers</title>
+			<isbn>0984442502</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Designing for the Digital Age: How to Create Human-Centered Products and Services</title>
+			<isbn>0470229101</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Letting Go of the Words: Writing Web Content that Works</title>
+			<isbn>0123694868</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules</title>
+			<isbn>0080963021</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Designing for Emotion</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>455925</id>
+	<title>Running Blind (Jack Reacher, #4)</title>
+	<isbn>0515130974</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>en-US</language_code>
+	<description>Women are being murdered nationwide by a killer who leaves no trace of evidence, no fatal wounds, no signs of struggle, and no clues to an apparent motive. All the victims have one thing in common: they each knew Jack Reacher.</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>512</num_pages>
+	<similar_books>
+		<book>
+			<title>Free Fall (Elvis Cole, #4)</title>
+			<isbn>0553565095</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Echo Park (Harry Bosch, #12; Harry Bosch Universe, #14)</title>
+			<isbn>0316734950</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Time to Hunt (Bob Lee Swagger, #3)</title>
+			<isbn>0440226457</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Bricklayer (Steve Vail, #1)</title>
+			<isbn>0061827010</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Storm Prey (Lucas Davenport, #20)</title>
+			<isbn>1847376177</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Killer Ascendant (John Rain, #6)</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Fade Away (Myron Bolitar #3)</title>
+			<isbn>0440222680</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

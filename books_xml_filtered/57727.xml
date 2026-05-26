@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>57727</id>
+	<title>L.A. Confidential (L.A. Quartet, #3)</title>
+	<isbn>0099366711</isbn>
+	<publication_year>1994</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;Christmas 1951, Los Angeles: a city where the police are as crooked as the criminals. &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Six prisoners are beaten senseless in their cells by cops crazed on alcohol. For the three L.A.P.D. detectives involved, it will expose the guilty secrets on which they have built their corrupt and violent careers...</description>
+	<average_rating>4.20</average_rating>
+	<num_pages>496</num_pages>
+	<similar_books>
+		<book>
+			<title>South of Heaven</title>
+			<isbn>0316403830</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The High Window (Philip Marlowe, #3)</title>
+			<isbn>0394758269</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Nightmare Town</title>
+			<isbn>033048110X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>52 Pick Up</title>
+			<isbn>0753819627</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Nineteen Eighty Three (Red Riding, #4)</title>
+			<isbn>1852427701</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Double Indemnity</title>
+			<isbn>0679723226</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+	</similar_books>
+</book>

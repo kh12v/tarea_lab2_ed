@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>119389</id>
+	<title>Windmills of the Gods</title>
+	<isbn>0006174426</isbn>
+	<publication_year>1994</publication_year>
+	<language_code>en-GB</language_code>
+	<description />
+	<average_rating>3.82</average_rating>
+	<num_pages>419</num_pages>
+	<similar_books>
+		<book>
+			<title>The Almighty</title>
+			<isbn>0718122143</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>First Among Equals</title>
+			<isbn>0312997124</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Lucky (Lucky Santangelo, #2)</title>
+			<isbn>0743482867</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Man, Woman, and Child</title>
+			<isbn>0553562355</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Landslide</title>
+			<isbn>1842320149</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Evening News</title>
+			<isbn>0385504241</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Hold the Dream (Emma Harte Saga #2)</title>
+			<isbn>0312935595</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>I, Vampire, Vol. 3: Wave of Mutilation</title>
+			<isbn>1401242782</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Wanita</title>
+			<isbn>9792214003</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Mistral's Daughter</title>
+			<isbn>0553259172</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+	</similar_books>
+</book>

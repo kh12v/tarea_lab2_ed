@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>3758</id>
+	<title>Casino Royale (James Bond, #1)</title>
+	<isbn>014200202X</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Introducing James Bond: charming, sophisticated, handsome, chillingly ruthless and licensed to kill. This, the first of Ian Fleming's tales of secret agent 007, finds Bond on a mission to neutralize a lethal, high-rolling Russian operative called simply "le Chiffre" -- by ruining him at the Baccarat table and forcing his Soviet spymasters to "retire" him. It seems that lady luck is taken with 007 -- le Chiffre has hit a losing streak. But some people just refuse to play by the rules, and Bond's attraction to a beautiful female agent leads him to disaster and an unexpected savior...</description>
+	<average_rating>3.73</average_rating>
+	<num_pages>181</num_pages>
+	<similar_books>
+		<book>
+			<title>High Time to Kill (Raymond Benson's Bond, #3)</title>
+			<isbn>0515128333</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>For Special Services (John Gardner's Bond, #2)</title>
+			<isbn>0425058603</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Colonel Sun (James Bond, #15)</title>
+			<isbn>0786120762</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Devil May Care (James Bond, #36)</title>
+			<isbn>0385524285</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

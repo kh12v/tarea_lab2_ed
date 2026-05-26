@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>79016</id>
+	<title>First Among Equals</title>
+	<isbn>0312997124</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.87</average_rating>
+	<num_pages>496</num_pages>
+	<similar_books>
+		<book>
+			<title>The Evening News</title>
+			<isbn>0385504241</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>No Comebacks</title>
+			<isbn>0553276735</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Class</title>
+			<isbn>0553270907</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Prize</title>
+			<isbn>0451094557</isbn>
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>Cross of Fire (Tweed &amp; Co. #10)</title>
+			<isbn>0330322419</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Jeffrey Archer: Stranger than Fiction</title>
+			<isbn>0140176624</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Stars Shine Down</title>
+			<isbn>0006178715</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

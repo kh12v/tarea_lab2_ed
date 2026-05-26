@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>121749</id>
+	<title>Prince Caspian (Chronicles of Narnia, #2)</title>
+	<isbn>000720230X</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>The Pevensie siblings are back to help a prince denied his rightful throne as he gathers an army in a desperate attempt to rid his land of a false king. But in the end, it is a battle of honor between two men alone that will decide the fate of an entire world.</description>
+	<average_rating>3.96</average_rating>
+	<num_pages>240</num_pages>
+	<similar_books>
+		<book>
+			<title>Knight's Castle (Tales of Magic, #2)</title>
+			<isbn>015202073X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Taran Wanderer (The Chronicles of Prydain #4)</title>
+			<isbn>0805080511</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Winter Holiday (Swallows and Amazons, #4)</title>
+			<isbn>0879236612</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Legend of Luke (Redwall, #12)</title>
+			<isbn>0142501093</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Tombs of Anak (The Cooper Kids Adventures, #3)</title>
+			<isbn>1581346204</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Final Storm (The Door Within, #3)</title>
+			<isbn>140030783X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Farmer Boy (Little House, #3)</title>
+			<isbn>0060885386</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Greenwitch (The Dark Is Rising, #3)</title>
+			<isbn>0689840349</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Chestnut King (100 Cupboards, #3)</title>
+			<isbn>0375838856</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Lantern Bearers</title>
+			<isbn>0192755064</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Kingdom's Hope (Kingdom, #2)</title>
+			<isbn>1590526805</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Princess and Curdie</title>
+			<isbn>0140367624</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Silver Hand (The Song of Albion, #2)</title>
+			<isbn>1595542205</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Lost Princess of Oz (Oz, #11)</title>
+			<isbn>0688149758</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

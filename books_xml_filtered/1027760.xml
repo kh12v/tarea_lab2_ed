@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>1027760</id>
+	<title>Madeline and the Bad Hat</title>
+	<isbn>0670446149</isbn>
+	<publication_year>1957</publication_year>
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.27</average_rating>
+	<num_pages>54</num_pages>
+	<similar_books>
+		<book>
+			<title>Babar the King</title>
+			<isbn>1405204664</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>A Kiss for Little Bear (An I Can Read Book) by Minarik, Else Holmelund [1984]</title>
+			<isbn>0064440508</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Amelia Bedelia and the Surprise Shower</title>
+			<isbn>0064440192</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Tale of Benjamin Bunny</title>
+			<isbn>0723247730</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Curious George Rides a Bike</title>
+			<isbn>1844285073</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>No Roses for Harry!</title>
+			<isbn>0064430111</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>A Bargain for Frances</title>
+			<isbn>006444001X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Curious George Visits the Library</title>
+			<isbn>0618065687</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Calling Doctor Amelia Bedelia</title>
+			<isbn>0060087803</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears' Moving Day </title>
+			<isbn>0394848381</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Country Bunny and the Little Gold Shoes</title>
+			<isbn>0395159903</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>Eloise </title>
+			<isbn>067122350X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Just a Mess (Little Critter)</title>
+			<isbn>0307119483</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Frog and Toad All Year (Frog and Toad, #3)</title>
+			<isbn>0064440591</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Magic School Bus Sees Stars: A Book About Stars</title>
+			<isbn>0590187325</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

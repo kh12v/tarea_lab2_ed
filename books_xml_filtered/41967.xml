@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>41967</id>
+	<title>Evening Class</title>
+	<isbn>0752876821</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>en-GB</language_code>
+	<description>Among the many evening classes starting all over Dublin is an 'Introduction to Italian'. On the surface it could be just one of hundreds in which some students will succeed and some will fall along the way. the hopes and dreams of so many people are tied up in the twice weekly lessons. they are ready to set off on the promised trip to Italy at the end of the year, everyone's destiny has changed utterly.</description>
+	<average_rating>3.98</average_rating>
+	<num_pages>528</num_pages>
+	<similar_books>
+		<book>
+			<title>Winter Solstice</title>
+			<isbn>0340752483</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Homecoming</title>
+			<isbn>0440225272</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Starting Over</title>
+			<isbn>0312983417</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Tea House on Mulberry Street</title>
+			<isbn>0515139947</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Low Country</title>
+			<isbn>0061093327</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A New Song (Mitford Years, #5)</title>
+			<isbn>014303507X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Never Too Late</title>
+			<isbn>0747260583</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>And Ladies of the Club</title>
+			<isbn>0425174409</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

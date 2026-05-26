@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>19307</id>
+	<title>Pippi in the South Seas</title>
+	<isbn>0670557110</isbn>
+	<publication_year>1959</publication_year>
+	<language_code>en-US</language_code>
+	<description>"Any reappearance of the irrepressible Pippi Longstocking is cause for celebration. This installment is no exception." -&lt;i&gt;The New York Times&lt;/i&gt;</description>
+	<average_rating>4.10</average_rating>
+	<num_pages>126</num_pages>
+	<similar_books>
+		<book>
+			<title>Hello, Mrs. Piggle-Wiggle (Mrs. Piggle Wiggle, #4)</title>
+			<isbn>0064401499</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Borrowers Afield (The Borrowers #2)</title>
+			<isbn>0152047328</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Findus and the Fox</title>
+			<isbn>1903458870</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>When the Robbers Came to Cardamom Town </title>
+			<isbn>8202139775</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Moominland Midwinter (The Moomins, #6)</title>
+			<isbn>0713639806</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Ramona and Her Mother (Ramona, #5)</title>
+			<isbn>038070952X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mary Poppins Comes Back (Mary Poppins, #2)</title>
+			<isbn>0152058168</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Pünktchen und Anton</title>
+			<isbn>3423707313</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Jim Knopf und die Wilde 13</title>
+			<isbn>3522149904</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

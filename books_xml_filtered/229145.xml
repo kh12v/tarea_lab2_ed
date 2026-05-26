@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>229145</id>
+	<title>Cardcaptor Sakura, Vol. 1 (Cardcaptor Sakura, #1)</title>
+	<isbn>1591828783</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>From Clamp comes the thrilling adventures of Sakura, a fourth-grader who accidentally finds an enchanted book called &lt;i&gt;The Clow&lt;/i&gt;. The book once contained a set of magical Clow Cards, but they all escaped while the guardian of the book fell asleep. Now, Sakura is thrust into a mystical journey to capture all the cards before they wreak chaos and destruction!</description>
+	<average_rating>4.30</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Sailor Moon, #5 (Sailor Moon, #5)</title>
+			<isbn>1892213206</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Alice 19th, Vol. 1 (Alice 19th, #1)</title>
+			<isbn>1591162157</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Kamikaze Kaito Jeanne, Vol. 1</title>
+			<isbn>1401205550</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

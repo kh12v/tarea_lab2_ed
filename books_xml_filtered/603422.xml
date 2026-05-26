@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>603422</id>
+	<title>The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York</title>
+	<isbn>0913668680</isbn>
+	<publication_year>1977</publication_year>
+	<language_code>eng</language_code>
+	<description>Among the most influential cookbooks of our time, the Moosewood Cookbook is such a powerful symbol that the publishers were tempted not to tamper with it. But times have changed, and knowledge about the foods we eat and their nutritional value has increased. So, after many inquiries and requests, the author has revised many of her recipes to be lighter and healthier. Illustrated.</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>221</num_pages>
+	<similar_books>
+		<book>
+			<title>Moosewood Restaurant Cooks at Home: Fast and Easy Recipes for Any Day</title>
+			<isbn>0671679929</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Sundays at Moosewood Restaurant: Sundays at Moosewood Restaurant</title>
+			<isbn>0671679902</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The New Laurel's Kitchen</title>
+			<isbn>089815166X</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Vegetarian Epicure</title>
+			<isbn>0394717848</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>The Tassajara Bread Book</title>
+			<isbn>157062089X</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Passionate Vegetarian</title>
+			<isbn>0761128255</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Greens Cookbook: Extraordinary Vegetarian Cuisine from the Celebrated Restaurant</title>
+			<isbn>0767908236</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Diet for a Small Planet</title>
+			<isbn>0345373669</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Madhur Jaffrey's World Vegetarian: More Than 650 Meatless Recipes from Around the World</title>
+			<isbn>0609809237</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Chez Panisse Vegetables</title>
+			<isbn>0060171472</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Vegetarian Times Complete Cookbook</title>
+			<isbn>0026217457</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Horn of the Moon Cookbook: Recipes from Vermont's Renowned Vegetarian Restaurant</title>
+			<isbn>0060960388</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Silver Palate Cookbook</title>
+			<isbn>0894802046</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+	</similar_books>
+</book>

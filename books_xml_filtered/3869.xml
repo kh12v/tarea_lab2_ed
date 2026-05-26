@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>3869</id>
+	<title>A Brief History of Time</title>
+	<isbn>0553380168</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>In the ten years since its publication in 1988, Stephen Hawking's classic work has become a landmark volume in scientific writing, with more than nine million copies in forty languages sold worldwide. That edition was on the cutting edge of what was then known about the origins and nature of the universe. But the intervening years have seen extraordinary advances in the technology of observing both the micro- and the macrocosmic worlds. These observations have confirmed many of Professor Hawking's theoretical predictions in the first edition of his book, including the recent discoveries of the Cosmic Background Explorer satellite (COBE), which probed back in time to within 300,000 years of the universe's beginning and revealed wrinkles in the fabric of space-time that he had projected. Eager to bring to his original text the new knowledge revealed by these observations, as well as his own recent research, Professor Hawking has prepared a new introduction to the book, written an entirely new chapter on wormholes and time travel, and updated the chapters throughout.</description>
+	<average_rating>4.12</average_rating>
+	<num_pages>212</num_pages>
+	<similar_books>
+		<book>
+			<title>The First Three Minutes: A Modern View Of The Origin Of The Universe</title>
+			<isbn>0465024378</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>QED: The Strange Theory of Light and Matter</title>
+			<isbn>0691024170</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Schrodinger's Kittens and the Search for Reality: Solving the Quantum Mysteries</title>
+			<isbn>0316328197</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Whole Shebang: A State-of-the-Universe(s) Report</title>
+			<isbn>0684838613</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Hyperspace</title>
+			<isbn>0192861891</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Climbing Mount Improbable</title>
+			<isbn>0141026170</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Comet</title>
+			<isbn>0345412222</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Fabric of the Cosmos: Space, Time, and the Texture of Reality</title>
+			<isbn>0965900584</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Warped Passages: Unraveling the Mysteries of the Universe's Hidden Dimensions</title>
+			<isbn>0060531096</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Relativity: The Special and the General Theory</title>
+			<isbn>0143039822</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The 4 Percent Universe: Dark Matter, Dark Energy, and the Race to Discover the Rest of Reality</title>
+			<isbn>0618982442</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Physics and Philosophy: The Revolution in Modern Science</title>
+			<isbn>0141182156</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Hen's Teeth and Horse's Toes: Further Reflections in Natural History</title>
+			<isbn>0393311031</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Chaos: Making a New Science</title>
+			<isbn>0140092501</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Physics of Star Trek</title>
+			<isbn>0060977108</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

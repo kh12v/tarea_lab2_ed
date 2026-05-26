@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>42369</id>
+	<title>The Hundred Dresses</title>
+	<isbn>0152052607</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.07</average_rating>
+	<num_pages>80</num_pages>
+	<similar_books>
+		<book>
+			<title>The Usborne Book of Living Long Ago (Explainers)</title>
+			<isbn>0746011091</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>A Grain of Rice</title>
+			<isbn>044041301X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Dolphin Treasure</title>
+			<isbn>038073253X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Mary On Horseback: Three Mountain Stories</title>
+			<isbn>014130815X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Light at Tern Rock (Newbery Library, Puffin)</title>
+			<isbn>0140368574</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Family Under the Bridge</title>
+			<isbn>0064402509</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Apple and the Arrow</title>
+			<isbn>0618128093</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Twenty and Ten</title>
+			<isbn>0140310762</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Five True Dog Stories (Little Apple)</title>
+			<isbn>0590424017</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Courage of Sarah Noble</title>
+			<isbn>0689715404</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Hundred Penny Box</title>
+			<isbn>014240702X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Llama Who Had No Pajama: 100 Favorite Poems</title>
+			<isbn>0152055711</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Capyboppy</title>
+			<isbn>0395383684</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Mountain Born</title>
+			<isbn>0890847061</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Arnold Lobel Book of Mother Goose: A Treasury of More Than 300 Classic Nursery Rhymes</title>
+			<isbn>0679887369</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>My Father's Dragon (My Father's Dragon, #1)</title>
+			<isbn>0440421217</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Gooney Bird Greene</title>
+			<isbn>0440419603</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Good Master </title>
+			<isbn>014030133X</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+	</similar_books>
+</book>

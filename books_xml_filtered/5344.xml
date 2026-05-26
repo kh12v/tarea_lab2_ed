@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>5344</id>
+	<title>Hard Times</title>
+	<isbn>0321107217</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Longman's new Cultural Editions Series, &lt;i&gt;Hard Times&lt;/i&gt;, by Charles Dickens, edited by Jeff Nunokawa, includes Books 1-3 of &lt;i&gt;Hard Times&lt;/i&gt; and contextual materials on the age of Dickens.</description>
+	<average_rating>3.50</average_rating>
+	<num_pages>353</num_pages>
+	<similar_books>
+		<book>
+			<title>The Eustace Diamonds (Palliser, #3)</title>
+			<isbn>0141441208</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Born in Exile</title>
+			<isbn>140680942X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Return of the Native  </title>
+			<isbn>037575718X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Monastery</title>
+			<isbn>1406932531</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Absentee</title>
+			<isbn>0140436456</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Tales from 1,001 Nights</title>
+			<isbn>0141191651</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Man and Wife</title>
+			<isbn>1846370302</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Five Orange Pips and Other Cases</title>
+			<isbn>0141199717</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>A Sentimental Journey</title>
+			<isbn>0140437797</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Joseph Andrews / Shamela</title>
+			<isbn>0140433864</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Sonnets and A Lover's Complaint</title>
+			<isbn>0140436847</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Felix Holt: The Radical</title>
+			<isbn>0140434356</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

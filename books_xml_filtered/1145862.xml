@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>1145862</id>
+	<title>Stand Tall, Molly Lou Melon</title>
+	<isbn>0399234160</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>en-US</language_code>
+	<description>Molly Lou Melon is different, but this doesn't slow her down.</description>
+	<average_rating>4.39</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>I Like Myself!</title>
+			<isbn>0152020136</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>My Name Is Yoon</title>
+			<isbn>0374351147</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Enemy Pie</title>
+			<isbn>081182778X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Wemberly Worried</title>
+			<isbn>0688170277</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Recess Queen</title>
+			<isbn>0439206375</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hooway for Wodney Wat</title>
+			<isbn>061821612X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>One</title>
+			<isbn>0972394648</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Sandwich Swap</title>
+			<isbn>1423124847</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Ish</title>
+			<isbn>076362344X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>I Wanna Iguana</title>
+			<isbn>0399237178</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>First Day Jitters (Mrs. Hartwells classroom adventures)</title>
+			<isbn>158089061X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Old Woman Who Named Things</title>
+			<isbn>0152021027</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Is There Really a Human Race?</title>
+			<isbn>0060753463</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Bringing In the New Year</title>
+			<isbn>0375837450</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Three Hens and a Peacock</title>
+			<isbn>1561455644</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Bullies Never Win</title>
+			<isbn>0689861877</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Whoever You Are</title>
+			<isbn>0152060308</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>How to Heal a Broken Wing</title>
+			<isbn>0763639036</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

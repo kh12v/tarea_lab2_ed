@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>31456</id>
+	<title>The Twits</title>
+	<isbn>0141318309</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>How do you outwit a Twit? Mr. and Mrs. Twit are the smelliest, ugliest people in the world. They hate everything -- except playing mean jokes on each other, catching innocent birds to put in their Bird Pies, and making their caged monkeys, the Muggle-Wumps, stand on their heads all day. But the Muggle-Wumps have had enough. They don't just want out, they want revenge.</description>
+	<average_rating>3.94</average_rating>
+	<num_pages>96</num_pages>
+	<similar_books>
+		<book>
+			<title>The Story of Tracy Beaker</title>
+			<isbn>0440867576</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Magic Faraway Tree (The Faraway Tree, #2)</title>
+			<isbn>074974801X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Jip en Janneke </title>
+			<isbn>9029540052</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Unreal! (Uncollected)</title>
+			<isbn>0140370994</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Mr. Tickle (Mr. Men, #1)</title>
+			<isbn>0749851821</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Fungus the Bogeyman</title>
+			<isbn>0140542353</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Clarice Bean Spells Trouble</title>
+			<isbn>0763629030</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Worst Witch Strikes Again (Worst Witch, #2)</title>
+			<isbn>0140313486</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Sweetest Fig</title>
+			<isbn>0395673461</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Awesome Egyptians</title>
+			<isbn>0590552899</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

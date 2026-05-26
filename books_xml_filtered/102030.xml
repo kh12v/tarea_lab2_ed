@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>102030</id>
+	<title>Musashi</title>
+	<isbn>4770019572</isbn>
+	<publication_year>1995</publication_year>
+	<language_code>eng</language_code>
+	<description>The classic samurai novel about the real exploits of the most famous swordsman. Musashi is a novel in the best tradition of Japanese story telling. It is a living story, subtle and imaginative, teeming with memorable characters, many of them historical. Interweaving themes of unrequited love, misguided revenge, filial piety and absolute dedication to the Way of the Samurai, it depicts vividly a world Westerners know only vaguely.</description>
+	<average_rating>4.43</average_rating>
+	<num_pages>970</num_pages>
+	<similar_books>
+		<book>
+			<title>The Lone Samurai: The Life of Miyamoto Musashi</title>
+			<isbn>477002942X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Unfettered Mind: Writings of the Zen Master to the Sword Master</title>
+			<isbn>087011851X</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Jembatan Musim Gugur (Samurai, #2)</title>
+			<isbn>9793269324</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The 47 Ronin Story</title>
+			<isbn>0804838275</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Furin Kazan</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Life-Giving Sword: Secret Teachings from the House of the Shogun</title>
+			<isbn>4770029551</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Senopati Pamungkas (Senopati Pamungkas #1)</title>
+			<isbn>9792204253</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Secrets of the Samurai: The Martial Arts of Feudal Japan</title>
+			<isbn>0785810730</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Samurai</title>
+			<isbn>0811213463</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Curious Casebook of Inspector Hanshichi: Detective Stories of Old Edo</title>
+			<isbn>0824831004</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Blue Bamboo: Japanese Tales of Fantasy</title>
+			<isbn>4770026102</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Bushido: The Soul of Japan. A Classic Essay on Samurai Ethics</title>
+			<isbn>4770027311</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Zen and Japanese Culture</title>
+			<isbn>0691017700</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Living the Martial Way: A Manual for the Way of Modern Warrior Should Think</title>
+			<isbn>0942637763</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Child of All Nations</title>
+			<isbn>0140256334</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Demon's Sermon on the Martial Arts</title>
+			<isbn>4770030185</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Miyamoto Musashi: His Life and Writings</title>
+			<isbn>0834805677</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Kinshu: Autumn Brocade</title>
+			<isbn>0811216756</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

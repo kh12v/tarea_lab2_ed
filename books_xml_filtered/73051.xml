@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>73051</id>
+	<title>Better than Life (Red Dwarf #2)</title>
+	<isbn>0451452313</isbn>
+	<publication_year>1993</publication_year>
+	<language_code>eng</language_code>
+	<description>A wild and wacky SF series--based on the popular BBC-TV series--reminiscent of The Hitchhiker's Guide to the Galaxy. Lister--who passed out drunk in London and awakened in a locker on a moon of Saturn--now finds himself trapped in a computer game that transports players to the perfect world of their imaginations--a game people are literally dying to play.</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>302</num_pages>
+	<similar_books>
+		<book>
+			<title>Backwards (Red Dwarf #4)</title>
+			<isbn>0140171509</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Last Human (Red Dwarf #3)</title>
+			<isbn>0140143882</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Hitchhiker's Guide to the Galaxy: The Primary Phase (Hitchhiker's Guide: Radio Play, #1)</title>
+			<isbn>0563477881</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Blackadder: The Whole Damn Dynasty, 1485-1917</title>
+			<isbn>0140296085</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Road to Mars: A Post-Modem Novel</title>
+			<isbn>0375703128</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Stark</title>
+			<isbn>0552154482</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Stainless Steel Rat Saves the World (Stainless Steel Rat, #6)</title>
+			<isbn>0727845373</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>The Man in the Rubber Mask</title>
+			<isbn>0140235752</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Brentford Triangle</title>
+			<isbn>0552138428</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dark Side of the Sun</title>
+			<isbn>0552133264</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Complete Monty Python's Flying Circus: All the Words: Volume 1</title>
+			<isbn>0679726470</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+	</similar_books>
+</book>

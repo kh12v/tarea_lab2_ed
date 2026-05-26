@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>37739</id>
+	<title>Blubber</title>
+	<isbn>0330398059</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>en-GB</language_code>
+	<description>The classic novel about bullying from America's No.1 children's author.</description>
+	<average_rating>3.78</average_rating>
+	<num_pages>127</num_pages>
+	<similar_books>
+		<book>
+			<title>There's a Bat in Bunk Five (Marcy Lewis, #2)</title>
+			<isbn>0142406813</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Henry and Ribsy (Henry, #3)</title>
+			<isbn>0380709171</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Baby-Sitters' Winter Vacation (The Baby-Sitters Club Super Special, #3)</title>
+			<isbn>0590439731</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Anastasia Again! (Anastasia Krupnik, #2)</title>
+			<isbn>0440400090</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Encyclopedia Brown Tracks Them Down (Encyclopedia Brown, #8)</title>
+			<isbn>0553150936</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Nothing's Fair in Fifth Grade</title>
+			<isbn>0140344438</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+	</similar_books>
+</book>

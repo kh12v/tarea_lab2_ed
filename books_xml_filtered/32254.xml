@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>32254</id>
+	<title>The Mephisto Club (Rizzoli &amp; Isles, #6)</title>
+	<isbn>0345476999</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.01</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Deadly Decisions (Temperance Brennan, #3)</title>
+			<isbn>0671028367</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Next Accident (Quincy &amp; Rainie, #3)</title>
+			<isbn>0752848267</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Last Witness (C.J. Townsend #2)</title>
+			<isbn>042521074X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A Faint Cold Fear (Grant County, #3)</title>
+			<isbn>0060534052</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Death Dance (Alexandra Cooper, #8)</title>
+			<isbn>074348228X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Damaged (Maggie O'Dell, #8)</title>
+			<isbn>0385531990</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Eine unbeliebte Frau (Bodenstein &amp; Kirchhoff, #1)</title>
+			<isbn>3548608876</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Flesh and Bone (Body Farm #2)</title>
+			<isbn>0060759836</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>502406</id>
+	<title>Curious George Takes a Job</title>
+	<isbn>1844285081</isbn>
+	<publication_year>2004</publication_year>
+	<language_code />
+	<description />
+	<average_rating>4.28</average_rating>
+	<num_pages>47</num_pages>
+	<similar_books>
+		<book>
+			<title>Curious George Flies a Kite</title>
+			<isbn>0395259371</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Bears on Wheels</title>
+			<isbn>0001712896</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>A Bargain for Frances</title>
+			<isbn>006444001X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Madeline and the Bad Hat</title>
+			<isbn>0670446149</isbn>
+			<publication_year>1957</publication_year>
+		</book>
+		<book>
+			<title>The Magic School Bus Gets Baked in a Cake: A Book About Kitchen Chemistry</title>
+			<isbn>0590222953</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Babar the King</title>
+			<isbn>1405204664</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Just Grandma and Me</title>
+			<isbn>0307118932</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

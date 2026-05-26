@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>6693</id>
+	<title>Fantastic Mr. Fox</title>
+	<isbn>0375822070</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Fantastic Mr. Fox is on the run! The three meanest farmers around are out to get him. Fat Boggis, squat Bunce, and skinny Bean have joined forces, and they have Mr. Fox and his family surrounded. What they don’t know is that they’re not dealing with just any fox–Mr. Fox would never surrender. But only the most fantastic plan ever can save him now.</description>
+	<average_rating>4.03</average_rating>
+	<num_pages>96</num_pages>
+	<similar_books>
+		<book>
+			<title>The Dragons of Blueland (My Father's Dragon, #3)</title>
+			<isbn>0394890507</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Worst Witch All at Sea (Worst Witch, #4)</title>
+			<isbn>014034389X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Mercy Watson to the Rescue (Mercy Watson #1)</title>
+			<isbn>0763622702</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Even More Terrible Tudors (Horrible Histories)</title>
+			<isbn>0590112546</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Search for Delicious</title>
+			<isbn>0374465363</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Great Paper Caper</title>
+			<isbn>0007182295</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Henry and Beezus (Henry, #2)</title>
+			<isbn>0380709147</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Tale of Samuel Whiskers, or The Roly-Poly Pudding</title>
+			<isbn>0723247854</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>A Necklace of Raindrops and Other Stories</title>
+			<isbn>044041850X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Adventures Beyond Nutmouse Hall (Tumtum and Nutmeg #1-3)</title>
+			<isbn>0316027030</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Fox's Feud (Farthing Wood, #3)</title>
+			<isbn>0091494001</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Last Term at Malory Towers (Malory Towers, #6)</title>
+			<isbn>1405224088</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Escape From Warsaw</title>
+			<isbn>0590437151</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Jacob Two-Two Meets the Hooded Fang</title>
+			<isbn>0887766862</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>More About Paddington (Paddington, #2)</title>
+			<isbn>0395066409</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Sophie's Tom (Sophie, #2)</title>
+			<isbn>1564023737</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Scrambled Eggs Super!</title>
+			<isbn>0007169965</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Talented Clementine (Clementine, #2)</title>
+			<isbn>0786838701</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>180617</id>
+	<title>Pinocchio</title>
+	<isbn>0140382623</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>eng</language_code>
+	<description>Geppetto's new puppet can not only dance and turn somersaults, but also talks and misbehaves--and longs to be a real boy.</description>
+	<average_rating>3.86</average_rating>
+	<num_pages>262</num_pages>
+	<similar_books>
+		<book>
+			<title>The King of the Golden River</title>
+			<isbn>1599151251</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Priče iz davnine</title>
+			<isbn>9531967970</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The 101 Dalmatians (The Hundred and One Dalmatians, #1)</title>
+			<isbn>0760704066</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Bambi</title>
+			<isbn>067166607X</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Hansel and Gretel</title>
+			<isbn>0888992122</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Fifty Famous Stories Retold</title>
+			<isbn>1599150069</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Burgess Bird Book for Children</title>
+			<isbn>0486428400</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Snow White and the Seven Dwarfs (Little Golden Book)</title>
+			<isbn>0736421866</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Story of Doctor Dolittle (Doctor Dolittle, #1)</title>
+			<isbn>0060775971</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Pied Piper of Hamelin</title>
+			<isbn>0679428127</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Emperor's New Clothes</title>
+			<isbn>0618344217</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Bedknob and Broomstick</title>
+			<isbn>0140304452</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Il Giornalino di Gian Burrasca</title>
+			<isbn>8809050509</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Pocahontas</title>
+			<isbn>0964380366</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>La regina dei Caraibi</title>
+			<isbn>8842513873</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Viking Tales</title>
+			<isbn>1599150042</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Red Fairy Book</title>
+			<isbn>048621673X</isbn>
+			<publication_year>1966</publication_year>
+		</book>
+		<book>
+			<title>Nutcracker</title>
+			<isbn>051755285X</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>8282</id>
+	<title>The Long Winter (Little House, #6)</title>
+	<isbn>0060885424</isbn>
+	<publication_year>2007</publication_year>
+	<language_code />
+	<description>The town of De Smet is hit with terrible, howling blizzards and Laura and her family must ration their food and coal. When the supply train doesn't arrive, Almanzo Wilder and his brother realize something must be done. They begin an impossible journey in search of provisions, before it's too late.</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>422</num_pages>
+	<similar_books>
+		<book>
+			<title>On the Banks of the Bayou (Little House: The Rose Years, #7)</title>
+			<isbn>0064405826</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Beyond the Heather Hills (Little House: The Martha Years, #4)</title>
+			<isbn>0064407152</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Betsy Was a Junior (Betsy-Tacy, #7)</title>
+			<isbn>0064405478</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>All-of-a-Kind Family Downtown (All-of-a-Kind Family, #2)</title>
+			<isbn>0929093216</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Spiderweb for Two: A Melendy Maze</title>
+			<isbn>080507063X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

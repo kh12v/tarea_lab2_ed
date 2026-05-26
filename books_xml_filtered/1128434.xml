@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>1128434</id>
+	<title>The Last Wish (The Witcher, #1)</title>
+	<isbn>0575077832</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>Geralt of Rivia is a witcher. A cunning sorcerer. A merciless assassin. &lt;br /&gt;&lt;br /&gt;And a cold-blooded killer.&lt;br /&gt;&lt;br /&gt;His sole purpose: to destroy the monsters that plague the world. &lt;br /&gt;&lt;br /&gt;But not everything monstrous-looking is evil and not everything fair is good. . . and in every fairy tale there is a grain of truth. &lt;br /&gt;&lt;br /&gt;The international hit that inspired the video game: The Witcher.</description>
+	<average_rating>4.20</average_rating>
+	<num_pages>384</num_pages>
+	<similar_books>
+		<book>
+			<title>Pan Lodowego Ogrodu. Tom 1</title>
+			<isbn>8389011611</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Sługa Boży (Mordimer Madderdin, #1)</title>
+			<isbn>838901114X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Inne Pieśni</title>
+			<isbn>8308034810</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Kwiat kalafiora (Jeżycjada, #3)</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Zawód: Wiedźma, Część 1 (Wolha Redna, #1)</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Limes inferior</title>
+			<isbn>837054116X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Żarna Niebios (Zastępy Anielskie, #1)</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Potop</title>
+			<isbn>8373898352</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Czarownik Iwanow (Kroniki Jakuba Wędrowycza, #2)</title>
+			<isbn>8389011271</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Achaja. Tom I (Achaja, #1)</title>
+			<isbn>8389011050</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

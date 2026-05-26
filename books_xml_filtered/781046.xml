@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>781046</id>
+	<title>When It Happens</title>
+	<isbn>0670060291</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>3.74</average_rating>
+	<num_pages>287</num_pages>
+	<similar_books>
+		<book>
+			<title>Bloom</title>
+			<isbn>1416926836</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Getting Lost with Boys</title>
+			<isbn>0060824328</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Secret Life of Prince Charming</title>
+			<isbn>1416959408</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Book of Luke</title>
+			<isbn>1416520406</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Two-Way Street</title>
+			<isbn>1416913184</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>What Would Emma Do?</title>
+			<isbn>1416974326</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Megan Meade's Guide to the McGowan Boys</title>
+			<isbn>1416900314</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Lost It</title>
+			<isbn>1416934758</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Sticky Fingers</title>
+			<isbn>0689876491</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Going Too Far</title>
+			<isbn>1416571736</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Island Girls (and Boys)</title>
+			<isbn>0060755466</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Take Me There</title>
+			<isbn>1416989501</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Breathing</title>
+			<isbn>0670011231</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>For Keeps</title>
+			<isbn>0670011908</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+	</similar_books>
+</book>

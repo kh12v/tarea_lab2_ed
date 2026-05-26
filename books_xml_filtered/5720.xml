@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>5720</id>
+	<title>Rainbow Six (Jack Ryan Universe, #10)</title>
+	<isbn>0425170349</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>At its heart is ex-Navy SEAL John Clark, now the newly named head of Rainbow, an international task force dedicated to combating terrorism. In a trial by fire, Clark is confronted with a violent chain of seemingly separate international incidents. But there is no way to predict the real threat: a group of terrorists like none the world has ever encountered, a band of men and women so extreme that their success could literally mean the end of life on earth as we know it ...</description>
+	<average_rating>4.07</average_rating>
+	<num_pages>897</num_pages>
+	<similar_books>
+		<book>
+			<title>Mirror Image (Tom Clancy's Op-Center, #2)</title>
+			<isbn>0425150143</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Zero Hour (Tom Clancy's Power Plays, #7)</title>
+			<isbn>0140294953</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Checkmate (Tom Clancy's Splinter Cell, #3)</title>
+			<isbn>0425212785</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Support and Defend (Jack Ryan Universe, #17)</title>
+			<isbn>039917334X</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Cybernation (Tom Clancy's Net Force, #6)</title>
+			<isbn>0425182673</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Blood and Honor (Honor Bound, #2)</title>
+			<isbn>0515121940</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Stone Leopard</title>
+			<isbn>0330248170</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>181400</id>
+	<title>The Tale of Three Trees</title>
+	<isbn>0745917437</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.52</average_rating>
+	<num_pages>25</num_pages>
+	<similar_books>
+		<book>
+			<title>The Crippled Lamb</title>
+			<isbn>0849910056</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Christmas Oranges</title>
+			<isbn>1591560985</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Christmas Dress for Ellen</title>
+			<isbn>1590383869</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Legend of the Candy Cane</title>
+			<isbn>0310212472</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Miracle of Jonathan Toomey</title>
+			<isbn>0849976820</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Why Christmas Trees Aren't Perfect</title>
+			<isbn>0687453631</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Daughter of a King</title>
+			<isbn>1577349350</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>I Believe in Santa Claus</title>
+			<isbn>0967357101</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Room for a Little One: A Christmas Tale</title>
+			<isbn>141692518X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>I Am a Child of God</title>
+			<isbn>1577349334</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>My First Book of Mormon Stories</title>
+			<isbn>1573453072</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Mortimer's Christmas Manger</title>
+			<isbn>0689855117</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Story of the Walnut Tree</title>
+			<isbn>1573458856</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Fanny's Dream</title>
+			<isbn>0142500607</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Littlest Angel</title>
+			<isbn>0824953320</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Humphreys First Christmas</title>
+			<isbn>0824955595</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Donkey's Dream</title>
+			<isbn>0399212337</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>The Squire and the Scroll: A Tale of the Rewards of a Pure Heart</title>
+			<isbn>1593170793</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

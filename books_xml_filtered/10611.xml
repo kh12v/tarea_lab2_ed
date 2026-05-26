@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>10611</id>
+	<title>The Eyes of the Dragon</title>
+	<isbn>0751504572</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>A kingdom is in turmoil after old King Roland dies and his worthy successor, Prince Peter, is imprisoned by the evil Flagg and his pawn, young Prince Thomas. But Flagg's evil plot is not perfect, for he knows naught of Thomas's terrible secret - or Prince Peter's daring plan to escape to claim what is rightfully his. &lt;br /&gt;&lt;br /&gt;A tale of archetypal heroes and sweeping adventures, of dragons and princes and evil wizards, here is epic fantasy as only Stephen King could envision it. Stephen King has taken the classic fairy tale and transformed it into a masterpiece of fiction for the ages.</description>
+	<average_rating>3.92</average_rating>
+	<num_pages>427</num_pages>
+	<similar_books>
+		<book>
+			<title>The Regulators</title>
+			<isbn>0451191013</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dark Tower: Treachery</title>
+			<isbn>078513574X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Dragon Tears</title>
+			<isbn>0425208435</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Weaveworld</title>
+			<isbn>0007117140</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Shadowland</title>
+			<isbn>0425188221</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Girl Who Loved Tom Gordon: A Pop-up Book</title>
+			<isbn>0689862725</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Guardian</title>
+			<isbn>0449223043</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Source (Necroscope, #3)</title>
+			<isbn>0812521277</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>3049</id>
+	<title>Sir Gawain and the Green Knight </title>
+	<isbn>0451528182</isbn>
+	<publication_year>2001</publication_year>
+	<language_code />
+	<description>Written by an anonymous 14th-century poet, this epic poem is recognized as an equal of Chaucer's masterworks and of the great Old English poems, including "Beowulf." This edition includes a Preface by Raffel and a new Introduction. Revised reissue.</description>
+	<average_rating>3.68</average_rating>
+	<num_pages>144</num_pages>
+	<similar_books>
+		<book>
+			<title>Arthurian Romances</title>
+			<isbn>0140445218</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Lais of Marie de France</title>
+			<isbn>0140447598</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Troilus and Criseyde</title>
+			<isbn>0140442391</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Le Morte d'Arthur: King Arthur and the Legends of the Round Table</title>
+			<isbn>0451528166</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Arthurian Encyclopedia</title>
+			<isbn>0872261646</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>King Arthur's Death: The Middle English Stanzaic Morte Arthur and Alliterative Morte Arthure</title>
+			<isbn>1879288389</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Idylls of the King</title>
+			<isbn />
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Parzival</title>
+			<isbn>0140443614</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Piers Plowman</title>
+			<isbn>0393975592</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Táin: From the Irish epic Táin Bó Cúailnge</title>
+			<isbn>0192803735</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Faerie Queene </title>
+			<isbn>0140422072</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>The History of the Kings of Britain</title>
+			<isbn>0140441700</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tristan: With the Tristran of Thomas</title>
+			<isbn />
+			<publication_year>1960</publication_year>
+		</book>
+		<book>
+			<title>The Letters of Abélard and Héloïse</title>
+			<isbn>0140448993</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Tales from Ovid: 24 Passages from the Metamorphoses</title>
+			<isbn>0374525870</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Anglo-Saxon World: An Anthology</title>
+			<isbn>0192835475</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

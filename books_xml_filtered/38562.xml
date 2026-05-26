@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>38562</id>
+	<title>A Bite to Remember (Argeneau #5)</title>
+	<isbn>006077407X</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.23</average_rating>
+	<num_pages>362</num_pages>
+	<similar_books>
+		<book>
+			<title>The Undead Next Door (Love at Stake, #4)</title>
+			<isbn>0061118451</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>I Only Have Fangs for You (Young Brothers, #3)</title>
+			<isbn>075821135X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Even Vampires Get the Blues (Dark Ones #4)</title>
+			<isbn>045121823X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Highland Thirst (MacNachton Vampires, #4)</title>
+			<isbn>0758220421</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Bit the Jackpot (Vegas Vampires, #2)</title>
+			<isbn>0425212130</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Don't Talk Back To Your Vampire (Broken Heart #2)</title>
+			<isbn>0451221702</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Night of the Huntress (Brotherhood of Blood, #2)</title>
+			<isbn>0060849916</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

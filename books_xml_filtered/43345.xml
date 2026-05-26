@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>43345</id>
+	<title>A Cry In The Night</title>
+	<isbn>0743484355</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Divorcee Jenny MacPartland's struggle to support herself and her two small daughters is not helped by her irresponsible ex-husband. But suddenly a new man steps into her life. Rich, handsome Erich Krueger sweeps her off her feet and off to his mansion in the country. Everything seems to be perfect, and Jenny feels like a fairy-tale princess. But gradually the fairy-tale turns into a nightmare. Something is very wrong in the great house that has slowly, imperceptively, become her prison. Something that threatens her marriage, her life - and her children.</description>
+	<average_rating>3.84</average_rating>
+	<num_pages>352</num_pages>
+	<similar_books>
+		<book>
+			<title>Silent Night: The Remarkable Christmas Truce of 1914</title>
+			<isbn>0743450302</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Let Me Whisper In Your Ear (KEY News #3)</title>
+			<isbn>0312938098</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Fleeced (Regan Reilly Mysteries, #5)</title>
+			<isbn>1416523499</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Box</title>
+			<isbn>158288143X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

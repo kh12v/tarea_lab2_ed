@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>2183</id>
+	<title>Sentimental Education</title>
+	<isbn>0140447970</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Based on Flaubert’s own youthful passion for an older woman, Sentimental Education was described by its author as “the moral history of the men of my generation.” It follows the amorous adventures of Frederic Moreau, a law student who, returning home to Normandy from Paris, notices Mme Arnoux, a slender, dark woman several years older than himself. It is the beginning of an infatuation that will last a lifetime. He befriends her husband, an influential businessman, and as their paths cross and re-cross over the years, Mme Arnoux remains the constant, unattainable love of Moreau’s life. Blending love story, historical authenticity, and satire, Sentimental Education is one of the great French novels of the nineteenth century.</description>
+	<average_rating>3.83</average_rating>
+	<num_pages>460</num_pages>
+	<similar_books>
+		<book>
+			<title>Mademoiselle de Maupin</title>
+			<isbn>0140448136</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Jacques the Fatalist</title>
+			<isbn>0192838741</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Nana (Les Rougon-Macquart, #9)</title>
+			<isbn>3746611091</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>A Harlot High and Low</title>
+			<isbn>0140442324</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Une vie</title>
+			<isbn>0543893790</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Charterhouse of Parma</title>
+			<isbn>0679783180</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Against Nature</title>
+			<isbn>0140447636</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>La confession d'un enfant du siècle</title>
+			<isbn>0543897788</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Guermantes Way  (In Search of Lost Time, #3)</title>
+			<isbn>0143039229</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Diary of a Madman and Other Stories</title>
+			<isbn>0824813170</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Counterfeiters</title>
+			<isbn>0394718429</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>بوستان سعدی</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

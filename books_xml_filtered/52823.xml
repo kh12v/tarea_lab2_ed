@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<book>
+	<id>52823</id>
+	<title>Tartuffe</title>
+	<isbn>1854596373</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;div&gt;
+  &lt;p&gt;Condemned and banned for five years in Molière’s day, &lt;i&gt;Tartuffe &lt;/i&gt;is a satire on religious hypocrisy. Tartuffe worms his way into Orgon’s household, blinding the master of the house with his religious "devotion," and almost succeeds in his attempts to seduce his wife and disinherit his children before the final unmasking.&lt;/p&gt;
+&lt;/div&gt;</description>
+	<average_rating>3.66</average_rating>
+	<num_pages>180</num_pages>
+	<similar_books>
+		<book>
+			<title>Phèdre</title>
+			<isbn>203034785X</isbn>
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>Polyeucte</title>
+			<isbn>1419142542</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Way of the World</title>
+			<isbn>1406946303</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The School for Scandal</title>
+			<isbn>1420927159</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Frogs</title>
+			<isbn>1406936723</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>La guerre de Troie n'aura pas lieu</title>
+			<isbn>2038717133</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Marriage of Figaro (Le Nozze Di Figaro): Vocal Score</title>
+			<isbn>0793512085</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Iphigenia in Aulis</title>
+			<isbn>1566631114</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Uncle Vanya</title>
+			<isbn>1406507881</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Knock ou le triomphe de la médecine</title>
+			<isbn>2070360601</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Le Mariage de Figaro</title>
+			<isbn />
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>She Stoops to Conquer</title>
+			<isbn>141914698X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ruy Blas</title>
+			<isbn>2038717192</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Zemsta</title>
+			<isbn>8373896791</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>L'île des esclaves</title>
+			<isbn>2253180017</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

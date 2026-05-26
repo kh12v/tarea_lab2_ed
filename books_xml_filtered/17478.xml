@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>17478</id>
+	<title>Five Go to Smuggler's Top (Famous Five, #4)</title>
+	<isbn>0340796189</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>The Five find adventure, when they spend Easter vacation at Mr. Lenoir's sinister house Smuggler's Top. Set high above an eerie marsh, the house is honeycombed with hidden staircases and tunnels that once served as a hideaway for smugglers. When strange lights begin to appear, the Five suspect that the tunnels are once more in use.</description>
+	<average_rating>4.03</average_rating>
+	<num_pages>266</num_pages>
+	<similar_books>
+		<book>
+			<title>The Third Form at St. Clare's (St. Clare's, #7)</title>
+			<isbn>1405219823</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lima Sekawan: Menaklukkan Agen Rahasia (2)</title>
+			<isbn />
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Mystery of the Whispering Mummy (Alfred Hitchcock and The Three Investigators, #3)</title>
+			<isbn>0394864034</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Uma Aventura no Deserto</title>
+			<isbn />
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Secret of the Haunted Mirror (Alfred Hitchcock and The Three Investigators, #21)</title>
+			<isbn>0394844505</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Secret of the Crooked Cat (Alfred Hitchcock and The Three Investigators, #13)</title>
+			<isbn>0394811887</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>379316</id>
+	<title>The Darkest Evening of the Year</title>
+	<isbn>0553804820</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.71</average_rating>
+	<num_pages>354</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Fall of the Dream Machine / The Star Venturers (Ace Double, 22600)</title>
+			<isbn>0441226000</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Children of the Storm</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Christmas Is Good!: Trixie Treats &amp; Holiday Wisdom</title>
+			<isbn>0976744236</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dean Koontz Companion</title>
+			<isbn>0425141357</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Faces of Fear</title>
+			<isbn>0345487052</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Predators</title>
+			<isbn>0727890050</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>34268</id>
+	<title>Peter Pan</title>
+	<isbn>0805072454</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>Peter Pan, the book based on J.M. Barrie's famous play, is filled with unforgettable characters: Peter Pan, the boy who would not grow up; the fairy, Tinker Bell; the evil pirate, Captain Hook; and the three children--Wendy, John, and Michael--who fly off with Peter Pan to Neverland, where they meet Indians and pirates and a crocodile that ticks. Renowned children's-book artist Michael Hague has brought the amazing adventures of Peter Pan to life. His beautiful illustrations capture the wild, seductive power of this classic book. This newly designed edition will be enjoyed by fans young and old alike.</description>
+	<average_rating>4.10</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Five Children and It (Five Children, #1)</title>
+			<isbn>0140367357</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Princess and Curdie</title>
+			<isbn>0140367624</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Pippi Longstocking</title>
+			<isbn>0670876127</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Glinda of Oz (Oz, #14)</title>
+			<isbn>0688149782</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Tale of Two Bad Mice</title>
+			<isbn>0723247749</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Peter Pan in Scarlet</title>
+			<isbn>1416918086</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Little White Horse</title>
+			<isbn>0142300276</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Complete Fairy Tales</title>
+			<isbn>0517092913</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)</title>
+			<isbn>0525444475</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Nutcracker</title>
+			<isbn>051755285X</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Wind in the Willows</title>
+			<isbn>0143039091</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Red Fairy Book</title>
+			<isbn>048621673X</isbn>
+			<publication_year>1966</publication_year>
+		</book>
+		<book>
+			<title>Mary Poppins Comes Back (Mary Poppins, #2)</title>
+			<isbn>0152058168</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Aesop for Children</title>
+			<isbn>1566192927</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Borrowers Afloat (The Borrowers #3)</title>
+			<isbn>0152047336</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Moominland Midwinter (The Moomins, #6)</title>
+			<isbn>0713639806</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

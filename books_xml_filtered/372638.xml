@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>372638</id>
+	<title>Lyle, Lyle, Crocodile</title>
+	<isbn>0395137209</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>eng</language_code>
+	<description>A cranky neighbor puts Lyle in the zoo but experiences a change of heart when the crocodile saves him from a fire.</description>
+	<average_rating>4.13</average_rating>
+	<num_pages>48</num_pages>
+	<similar_books>
+		<book>
+			<title>The Cow Who Fell in the Canal</title>
+			<isbn>0749704977</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>George and Martha</title>
+			<isbn>0395199727</isbn>
+			<publication_year>1974</publication_year>
+		</book>
+		<book>
+			<title>Doctor De Soto</title>
+			<isbn>0374418101</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Bedtime for Frances</title>
+			<isbn>0064434516</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Frog and Toad All Year (Frog and Toad, #3)</title>
+			<isbn>0064440591</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Madeline and the Bad Hat</title>
+			<isbn>0670446149</isbn>
+			<publication_year>1957</publication_year>
+		</book>
+		<book>
+			<title>Frédéric</title>
+			<isbn>2211065899</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Little Bear's Friend</title>
+			<isbn>0064440516</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Angelina Ballerina</title>
+			<isbn>0670060267</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Miss Nelson Is Back (Miss Nelson, #2)</title>
+			<isbn>039541668X</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>There's a Nightmare in My Closet</title>
+			<isbn>0140547126</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Whistle for Willie</title>
+			<isbn>0670762407</isbn>
+			<publication_year>1964</publication_year>
+		</book>
+		<book>
+			<title>No Roses for Harry!</title>
+			<isbn>0064430111</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Babar the King</title>
+			<isbn>1405204664</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Alfie Gets in First</title>
+			<isbn>0099256053</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Danny and the Dinosaur (An I Can Read Book)</title>
+			<isbn>0064440028</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>Millions of Cats</title>
+			<isbn>0142407089</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Little Toot</title>
+			<isbn>039922419X</isbn>
+			<publication_year>1939</publication_year>
+		</book>
+	</similar_books>
+</book>

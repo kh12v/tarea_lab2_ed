@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>2175</id>
+	<title>Madame Bovary</title>
+	<isbn>0192840398</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>When Emma Rouault marries Charles Bovary she imagines she will pass into the life of luxury and passion that she reads about in sentimental novels and women's magazines. But Charles is a dull country doctor, and provincial life is very different from the romantic excitement for which she yearns. In her quest to realize her dreams she takes a lover, and begins a devastating spiral into deceit and despair.</description>
+	<average_rating>3.64</average_rating>
+	<num_pages>329</num_pages>
+	<similar_books>
+		<book>
+			<title>L'Assommoir (The Dram Shop) (Les Rougon-Macquart, #7)</title>
+			<isbn>0140447539</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Père Goriot</title>
+			<isbn>039397166X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Sodom and Gomorrah (In Search of Lost Time, #4)</title>
+			<isbn>0143039318</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Princesse de Clèves</title>
+			<isbn>0192837265</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Les Liaisons dangereuses</title>
+			<isbn>0192838679</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Charterhouse of Parma</title>
+			<isbn>0679783180</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Manon Lescaut</title>
+			<isbn>0140445595</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+	</similar_books>
+</book>

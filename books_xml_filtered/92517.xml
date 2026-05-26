@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>92517</id>
+	<title>The Glass Menagerie</title>
+	<isbn>0811214044</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>The story of a mother, her son and daughter, and her daughter's suitor that brings to life human beings who cling to a dream world that can so easily be shattered into jagged pieces.</description>
+	<average_rating>3.67</average_rating>
+	<num_pages>104</num_pages>
+	<similar_books>
+		<book>
+			<title>Eurydice</title>
+			<isbn>0573662444</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Our Town</title>
+			<isbn>0060512636</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Long Day's Journey Into Night</title>
+			<isbn>0300093055</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Ma Rainey's Black Bottom</title>
+			<isbn>0452261139</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>True West</title>
+			<isbn>0573617287</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The American Dream &amp; The Zoo Story</title>
+			<isbn>0452278899</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Cherry Orchard</title>
+			<isbn>0413774031</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Little Foxes</title>
+			<isbn>0856760919</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>How I Learned to Drive</title>
+			<isbn>082221623X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Come Back, Little Sheba</title>
+			<isbn>0573607125</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Doubt</title>
+			<isbn>1559362766</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Ruined</title>
+			<isbn>155936355X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Invention of Love</title>
+			<isbn>0802135811</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Pillowman</title>
+			<isbn>0571220320</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Metamorphoses</title>
+			<isbn>0810119803</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Proof</title>
+			<isbn>0571199976</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

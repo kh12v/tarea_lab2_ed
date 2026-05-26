@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>10583</id>
+	<title>Pet Sematary</title>
+	<isbn>1416524347</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Sometimes dead is better....When the Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son -- and now an idyllic home. As a family, they've got it all...right down to the friendly cat. But the nearby woods hide a blood-chilling truth -- more terrifying than death itself...and hideously more powerful.</description>
+	<average_rating>3.91</average_rating>
+	<num_pages>576</num_pages>
+	<similar_books>
+		<book>
+			<title>The Regulators</title>
+			<isbn>0451191013</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lair (Rats, #2)</title>
+			<isbn>0330376195</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Blackstone Chronicles</title>
+			<isbn>0099270234</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Damnation Game</title>
+			<isbn>0425188930</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Midnight Tour</title>
+			<isbn>0843957530</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Bad Place</title>
+			<isbn>0425195481</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Wolf's Hour</title>
+			<isbn>0671731424</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Carrion Comfort</title>
+			<isbn>0446359203</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

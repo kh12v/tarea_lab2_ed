@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>900065</id>
+	<title>The Berenstain Bears and the Messy Room</title>
+	<isbn>0394856392</isbn>
+	<publication_year>1983</publication_year>
+	<language_code>en-US</language_code>
+	<description>"The room shared by Brother and Sister is a mess because the cubs argue over who should neaten up instead of working together. Sure to make toddlers smile while they absorb an implied lesson."--&lt;i&gt;Publishers Weekly.&lt;/i&gt;</description>
+	<average_rating>4.16</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Just Me and My Mom (Little Critter)</title>
+			<isbn>030712584X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Arthur's Eyes (Arthur Adventure Series)</title>
+			<isbn>0316110698</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Come Back, Amelia Bedelia</title>
+			<isbn>0060266880</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Clifford's Halloween</title>
+			<isbn>0590442872</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Magic School Bus Gets Baked in a Cake: A Book About Kitchen Chemistry</title>
+			<isbn>0590222953</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Just Me in the Tub (Mercer Mayer's Little Critter)</title>
+			<isbn>0613026667</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Magic School Bus Plants Seeds: A Book About How Living Things Grow</title>
+			<isbn>0590222961</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Curious George Goes to the Hospital</title>
+			<isbn>0395181585</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Curious George Gets a Medal</title>
+			<isbn>0395185599</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

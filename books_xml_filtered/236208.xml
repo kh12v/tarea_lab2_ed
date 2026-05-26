@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>236208</id>
+	<title>Night Chills</title>
+	<isbn>0425098648</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>Designed by top scientists and unleashed in a monstrous conspiracy, night chills are seizing the men and women of Black River--driving them to acts of rape and murder. The nightmare is real. And death is the only cure.</description>
+	<average_rating>3.86</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Fall of the Dream Machine / The Star Venturers (Ace Double, 22600)</title>
+			<isbn>0441226000</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Darkness</title>
+			<isbn>0553297260</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Children of the Storm</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Chase</title>
+			<isbn>0747235252</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Dean Koontz Companion</title>
+			<isbn>0425141357</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Predators</title>
+			<isbn>0727890050</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

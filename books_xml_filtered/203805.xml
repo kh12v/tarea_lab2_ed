@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>203805</id>
+	<title>Vincent Van Gogh: The Complete Paintings</title>
+	<isbn>3822812153</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>Van Gogh, who took up a variety of professions before becoming an artist, was a solitary, despairing and self-destructive man. This richly illustrated and expert study follows the artist from the early gloom-laden paintings in which he captured the misery of peasants and workers in his homeland, through his bright and colorful Parisian period, to the work of his final years, spent under a southern sun in Arles.</description>
+	<average_rating>4.14</average_rating>
+	<num_pages>740</num_pages>
+	<similar_books>
+		<book>
+			<title>Gustav Klimt: 1862-1918</title>
+			<isbn>382285980X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Edvard Munch: 1863-1944 (Basic Art)</title>
+			<isbn>3822859710</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Dali: The Paintings</title>
+			<isbn>3822835536</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dear Theo</title>
+			<isbn>0452275040</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Frida Kahlo: 1907-1954 Pain and Passion</title>
+			<isbn>3822859834</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Complete Paintings and Drawings</title>
+			<isbn>3822838276</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Frida Kahlo: The Paintings</title>
+			<isbn>0060923199</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Egon Schiele, 1890-1918: The Midnight Soul of the Artist</title>
+			<isbn>3822863270</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Magic Mirror of M.C. Escher</title>
+			<isbn>3822837032</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Goya</title>
+			<isbn>0375711287</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>One Hundred Flowers</title>
+			<isbn>067973323X</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Vincent Van Gogh, 1853-1890: Vision and Reality</title>
+			<isbn>382286322X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Arcimboldo (Taschen Basic Art)</title>
+			<isbn>3822896381</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Andy Warhol, 1928-1987: Commerce Into Art</title>
+			<isbn>3822863211</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>J.W. Waterhouse</title>
+			<isbn>071484232X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Picasso</title>
+			<isbn>3822838144</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Caravaggio, 1571-1610</title>
+			<isbn>382286305X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Complete Woodcuts of Albrecht Dürer</title>
+			<isbn>0486210979</isbn>
+			<publication_year>1963</publication_year>
+		</book>
+	</similar_books>
+</book>

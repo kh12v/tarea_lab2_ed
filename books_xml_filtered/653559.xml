@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>653559</id>
+	<title>Sherlock Holmes and the Case of the Hound of the Baskervilles (Illustrated Classic Editions)</title>
+	<isbn>0866114262</isbn>
+	<publication_year>1977</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;In a specially adapted version for young readers by Malvina G. Vogel.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;The curse of a supernatural hound brings Sherlock Holmes and Dr. Watson to England's gloomy moor country to solve Sir Charle Baskerville's murder. Will they find the murderer in time to prevent another killing? And what strange secrets are the people in and around Baskerville Hall trying to hide? Follow the great detective as he solves one of his most baffling cases.</description>
+	<average_rating>4.49</average_rating>
+	<num_pages>233</num_pages>
+	<similar_books>
+		<book>
+			<title>Treasure Island (Great Illustrated Classics)</title>
+			<isbn>0866119582</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Oliver Twist (Great Illustrated Classics)</title>
+			<isbn>0866119566</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Merry Adventures of Robin Hood (Great Illustrated Classics)</title>
+			<isbn>1577656946</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Count of Monte Cristo</title>
+			<isbn>1577656849</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Last of the Mohicans (Great Illustrated Classics)</title>
+			<isbn>0866119752</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Red Headed League (The Adventures of Sherlock Holmes, #2)</title>
+			<isbn>0890613141</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>King Arthur and the Knights of the Round Table</title>
+			<isbn>0866119825</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Prince and the Pauper (Great Illustrated Classics)</title>
+			<isbn>0866119736</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Jungle Book (Great Illustrated Classics)</title>
+			<isbn>0866119884</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Legend of Sleepy Hollow and Rip Van Winkle (Great Illustrated Classics)</title>
+			<isbn>0866119965</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Sherlock Holmes of Baker Street: A Life of the World's First Consulting Detective</title>
+			<isbn>051703817X</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

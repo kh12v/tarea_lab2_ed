@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>4099</id>
+	<title>The Pragmatic Programmer: From Journeyman to Master</title>
+	<isbn>020161622X</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>en-US</language_code>
+	<description>-- Ward Cunningham Straight from the programming trenches, The Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and youll learn how to *Fight software rot; *Avoid the trap of duplicating knowledge; *Write flexible, dynamic, and adaptable code; *Avoid programming by coincidence; *Bullet-proof your code with contracts, assertions, and exceptions; *Capture real requirements; *Test ruthlessly and effectively; *Delight your users; *Build teams of pragmatic programmers; and *Make your developments more precise with automation. Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. Whether youre a new coder, an experienced programm</description>
+	<average_rating>4.31</average_rating>
+	<num_pages>321</num_pages>
+	<similar_books>
+		<book>
+			<title>Refactoring: Improving the Design of Existing Code</title>
+			<isbn>0201485672</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Code Complete</title>
+			<isbn>0735619670</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Working Effectively with Legacy Code</title>
+			<isbn>0131177052</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Design Patterns: Elements of Reusable Object-Oriented Software</title>
+			<isbn>0201633612</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Programming Pearls</title>
+			<isbn>0201657880</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Clean Code: A Handbook of Agile Software Craftsmanship</title>
+			<isbn>0132350882</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Passionate Programmer</title>
+			<isbn>1934356344</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Test Driven Development: By Example</title>
+			<isbn>0321146530</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Mythical Man-Month: Essays on Software Engineering</title>
+			<isbn>0201835959</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Productive Programmer</title>
+			<isbn>0596519788</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Programming Ruby: The Pragmatic Programmers' Guide</title>
+			<isbn>0974514055</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Practice of Programming (Addison-Wesley Professional Computing Series)</title>
+			<isbn>020161586X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Beautiful Code: Leading Programmers Explain How They Think</title>
+			<isbn>0596510047</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Pragmatic Thinking and Learning: Refactor Your Wetware</title>
+			<isbn>1934356050</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Domain-Driven Design: Tackling Complexity in the Heart of Software</title>
+			<isbn>0321125215</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Structure and Interpretation of Computer Programs (MIT Electrical Engineering and Computer Science)</title>
+			<isbn>0262510871</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Joel on Software</title>
+			<isbn>1590593898</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Coders at Work: Reflections on the Craft of Programming</title>
+			<isbn>1430219483</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

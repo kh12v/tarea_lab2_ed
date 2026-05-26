@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>6395833</id>
+	<title>Guts</title>
+	<isbn />
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.93</average_rating>
+	<num_pages>16</num_pages>
+	<similar_books>
+		<book>
+			<title>Clown Girl</title>
+			<isbn>0976631156</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dead Babies</title>
+			<isbn>067973449X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Room</title>
+			<isbn>0714530387</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Skagboys</title>
+			<isbn>0224087916</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Coma</title>
+			<isbn>0571223109</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Now and on Earth</title>
+			<isbn>0316403946</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Leaving Las Vegas</title>
+			<isbn>0802134459</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Kingdom Come</title>
+			<isbn>0871403196</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>A Snowball in Hell</title>
+			<isbn>140870062X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Fuck-Up</title>
+			<isbn>0671027638</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Stonemouth</title>
+			<isbn>1408702509</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Hey Nostradamus!</title>
+			<isbn>1582344159</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Informers</title>
+			<isbn>0330339184</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Contortionist's Handbook</title>
+			<isbn>1931561486</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Stanley Kubrick's Clockwork Orange</title>
+			<isbn>1901680479</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Visible Man</title>
+			<isbn>1439184461</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Apathy and Other Small Victories</title>
+			<isbn>0312351747</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

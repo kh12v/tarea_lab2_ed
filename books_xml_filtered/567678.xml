@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>567678</id>
+	<title>The Wasp Factory</title>
+	<isbn>0684853159</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>en-US</language_code>
+	<description>Meet Frank Cauldhame. Just sixteen, and unconventional to say the least:&lt;br /&gt;&lt;br /&gt;Two years after I killed Blyth I murdered my young brother Paul, for quite different and more fundamental reasons than I'd disposed of Blyth, and then a year after that I did for my young cousin Esmerelda, more or less on a whim.&lt;br /&gt;&lt;br /&gt;That's my score to date. Three. I haven't killed anybody for years, and don't intend to ever again.&lt;br /&gt;&lt;br /&gt;It was just a stage I was going through.</description>
+	<average_rating>3.85</average_rating>
+	<num_pages>192</num_pages>
+	<similar_books>
+		<book>
+			<title>Dead Babies</title>
+			<isbn>067973449X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Clown Girl</title>
+			<isbn>0976631156</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Glue</title>
+			<isbn>0099436922</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Nineteen Seventy Seven (Red Riding, #2)</title>
+			<isbn>1852427442</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Coma</title>
+			<isbn>0571223109</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Room</title>
+			<isbn>0714530387</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Be My Enemy  (Jack Parlabane, #4)</title>
+			<isbn>0349116814</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Crash</title>
+			<isbn>0312420331</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Hey Nostradamus!</title>
+			<isbn>1582344159</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Guts</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Fuck-Up</title>
+			<isbn>0671027638</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Feersum Endjinn</title>
+			<isbn>0553573586</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Now and on Earth</title>
+			<isbn>0316403946</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Informers</title>
+			<isbn>0330339184</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Leaving Las Vegas</title>
+			<isbn>0802134459</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Basketball Diaries</title>
+			<isbn />
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Contortionist's Handbook</title>
+			<isbn>1931561486</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Apathy and Other Small Victories</title>
+			<isbn>0312351747</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

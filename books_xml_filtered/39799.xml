@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>39799</id>
+	<title>One Step Behind  (Kurt Wallander, #7)</title>
+	<isbn>0099448874</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>It is Midsummer's Eve. Three young friends meet in a wood to act out an elaborate masque. But unknown to them, they are being watched. With a bullet each, all three are murdered. Soon afterwards, one of Inspector Wallander's colleagues is found murdered. Is this the same killer, and what could the connection be? In this investigation, Wallander is always, tantalisingly, One Step Behind.</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>450</num_pages>
+	<similar_books>
+		<book>
+			<title>The Terrorists (Martin Beck, #10)</title>
+			<isbn>0007243006</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Woman with Birthmark (Inspector Van Veeteren #4)</title>
+			<isbn>0375425047</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Arctic Chill (Inspector Erlendur #7)</title>
+			<isbn>1846550653</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Torso (Inspector Huss #3)</title>
+			<isbn>1569474532</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sun and Shadow (Inspector Winter, #3)</title>
+			<isbn>0099472058</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Cruel Stars of the Night</title>
+			<isbn>0312366671</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

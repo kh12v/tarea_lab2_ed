@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>15860</id>
+	<title>State of Fear</title>
+	<isbn>0061015733</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>In Tokyo, in Los Angeles, in Antarctica, in the Solomon Islands . . . an intelligence agent races to put all the pieces together to prevent a global catastrophe.</description>
+	<average_rating>3.69</average_rating>
+	<num_pages>672</num_pages>
+	<similar_books>
+		<book>
+			<title>Binary</title>
+			<isbn>1783291257</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Fountain Society</title>
+			<isbn>0684846608</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Executive Orders (Jack Ryan Universe, #9)</title>
+			<isbn>0006479758</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Deep as the Marrow</title>
+			<isbn>0312862644</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Ransom of Black Stealth One (Aerospace Systems, #1)</title>
+			<isbn>0812508572</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Icon</title>
+			<isbn>0553574604</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Crisis (Jack Stapleton &amp; Laurie Montgomery, #6)</title>
+			<isbn>0399153578</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Impact (Wyman Ford #3)</title>
+			<isbn>0765317680</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Tristan Betrayal</title>
+			<isbn>0312990685</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>South of Heaven</title>
+			<isbn>0316403830</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Seize the Night (Moonlight Bay, #2)</title>
+			<isbn>0553479016</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

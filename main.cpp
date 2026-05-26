@@ -32,7 +32,7 @@ void populate_tree(pugi::xml_node pugi_node, Tree& tree, const std::string& pare
 }
 
 int main() {
-    std::string folder_path = "books_xml";
+    std::string folder_path = "books_xml_filtered";
 
     if (!fs::exists(folder_path) || !fs::is_directory(folder_path)) {
         std::cerr << "Error: Folder not found -> " << folder_path << std::endl;
@@ -50,8 +50,7 @@ int main() {
             if (result) {
                 std::cout << "\n============================================\n";
                 std::cout << "Archivo: " << entry.path().filename() << "\n";
-                
-                pugi::xml_node book_node = doc.child("GoodreadsResponse").child("book");
+                pugi::xml_node book_node = doc.child("book");
                 if (book_node) {
                     Tree book_tree(100); // Create tree with high k capacity for XML
                     int id_counter = 0;
@@ -84,7 +83,7 @@ int main() {
 
             count++;
             // Limit to 5 files for the sample output
-            if (count >= 5) {
+            if (count >= 1) {
                 std::cout << "Stopping after 5 files for this sample demonstration." << std::endl;
                 break;
             }

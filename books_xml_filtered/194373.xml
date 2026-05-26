@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>194373</id>
+	<title>The Memoirs of Sherlock Holmes</title>
+	<isbn>0192123092</isbn>
+	<publication_year>1993</publication_year>
+	<language_code>eng</language_code>
+	<description>The Memoirs of Sherlock Holmes are overshadowed by the event with which they close - the meeting of the great detective and Moriarty, the Napoleon of Crime. Their struggle, seemingly to the death, was to leave many readers desolate at the loss of Holmes, but was also to lead to his immortality as a literary figure.</description>
+	<average_rating>4.32</average_rating>
+	<num_pages>321</num_pages>
+	<similar_books>
+		<book>
+			<title>Poirot Investigates (Hercule Poirot, #3)</title>
+			<isbn>0007120702</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Secret of Father Brown (Father Brown, #4)</title>
+			<isbn>0755100271</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Further Adventures of Sherlock Holmes: The Veiled Detective</title>
+			<isbn>1848564902</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Murder in Baker Street: New Tales of Sherlock Holmes</title>
+			<isbn>0786710748</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Whitechapel Horrors</title>
+			<isbn>0881848611</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Further Adventures of Sherlock Holmes: After Sir Arthur Conan Doyle (Classic Crime)</title>
+			<isbn>0140079076</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>And Four to Go (Nero Wolfe, #30)</title>
+			<isbn>0553249851</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Improbable Adventures of Sherlock Holmes</title>
+			<isbn>1597801607</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Unpleasantness at the Bellona Club (Lord Peter Wimsey, #5)</title>
+			<isbn>0061043540</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Seven-Percent Solution</title>
+			<isbn>0393311198</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Further Adventures of Sherlock Holmes: The Giant Rat of Sumatra</title>
+			<isbn>0857685384</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Sherlock Holmes in Orbit</title>
+			<isbn>1567311822</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Man from Hell (Further Adventures of Sherlock Holmes (Paperback))</title>
+			<isbn>1848565089</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dr. Jekyll and Mr. Holmes</title>
+			<isbn>0140056653</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Sherlock Holmes of Baker Street: A Life of the World's First Consulting Detective</title>
+			<isbn>051703817X</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

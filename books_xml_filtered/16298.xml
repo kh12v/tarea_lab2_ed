@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>16298</id>
+	<title>A Murder Is Announced (Miss Marple, #5)</title>
+	<isbn>1579126294</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>Villagers expect a fun game after a Gazette announcement of murder, but when lights flash off, shots ring out, and a masked burglar falls dead, the Inspector and vicar's wife Bunch call in expert Miss Jane Marple. Was Swiss hotel clerk Rudi framed? Miss Letitia Blackstone houses scatty Dora, cousins Julia and Patrick, gardener widow Phillipa, and paranoid cook Mitzi.</description>
+	<average_rating>3.96</average_rating>
+	<num_pages>288</num_pages>
+	<similar_books>
+		<book>
+			<title>Gaudy Night (Lord Peter Wimsey, #12)</title>
+			<isbn>0061043494</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Final Curtain (Roderick Alleyn, #14)</title>
+			<isbn>0006512410</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Franchise Affair (Inspector Alan Grant, #3)</title>
+			<isbn>0684842564</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>A Right to Die (Nero Wolfe, #40)</title>
+			<isbn>0553240323</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

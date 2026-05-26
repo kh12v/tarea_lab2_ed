@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>46656</id>
+	<title>Foundation and Chaos (Second Foundation Trilogy #2)</title>
+	<isbn>1857237366</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>A major science fiction author continues one of the most famous SF stories of all time.</description>
+	<average_rating>4.15</average_rating>
+	<num_pages>448</num_pages>
+	<similar_books>
+		<book>
+			<title>Foundation's Triumph (Second Foundation Trilogy #3)</title>
+			<isbn>0061056391</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Foundation's Fear (Second Foundation Trilogy #1)</title>
+			<isbn>0061056383</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Foundation's Friends</title>
+			<isbn>0812567706</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Forward the Foundation (Foundation: Prequel #2)</title>
+			<isbn>0553565079</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Isaac Asimov's Caliban (Isaac Asimov's Caliban, #1)</title>
+			<isbn>0441004822</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Cyborg (Isaac Asimov's Robot City, #3)</title>
+			<isbn>0743479181</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Odyssey (Isaac Asimov's Robot City, #1)</title>
+			<isbn>0743479246</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Garden of Rama (Rama, #3)</title>
+			<isbn>1857230213</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The World at the End of Time</title>
+			<isbn>0586212752</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Ringworld Engineers (Ringworld #2)</title>
+			<isbn>0345418417</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Past Through Tomorrow (Future History, #1-21)</title>
+			<isbn>0441653049</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+	</similar_books>
+</book>

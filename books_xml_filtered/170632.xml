@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>170632</id>
+	<title>Let Me Call You Sweetheart</title>
+	<isbn>1416516743</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Kerry McGrath is a dedicated prosecutor and a devoted mother. When her daughter's face is cut in a car accident, Kerry is relieved that the plastic surgeon who treats her is the eminent Dr. Charles Smith. Then Kerry notices something bizarre. Two of Smith's patients bear an uncanny resemblance to Suzanne Reardon, a young woman killed eleven years earlier. Why would Dr. Smith create look-alikes of a murder victim? A chilling tale of obsession by America's reigning queen of suspense.</description>
+	<average_rating>3.84</average_rating>
+	<num_pages>320</num_pages>
+	<similar_books>
+		<book>
+			<title>Silent Night: The Remarkable Christmas Truce of 1914</title>
+			<isbn>0743450302</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Hitched (Regan Reilly Mystery, #9)</title>
+			<isbn>0743289420</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>When Day Breaks (KEY News, #10; Sunrise Suspense Society #1)</title>
+			<isbn>0061443719</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Box</title>
+			<isbn>158288143X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

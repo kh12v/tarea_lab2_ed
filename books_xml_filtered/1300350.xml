@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>1300350</id>
+	<title>Supernova: Akar</title>
+	<isbn>9799625726</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>ind</language_code>
+	<description />
+	<average_rating>3.78</average_rating>
+	<num_pages>202</num_pages>
+	<similar_books>
+		<book>
+			<title>Bilangan Fu</title>
+			<isbn>9789799101</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Travelers' Tale, Belok Kanan: Barcelona! </title>
+			<isbn>9797800946</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Ronggeng Dukuh Paruk</title>
+			<isbn>9792201963</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Entrok</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Pulang</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>BiRU</title>
+			<isbn>9797320995</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Gadis Pantai</title>
+			<isbn>9799731285</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Edensor (Tetralogi Laskar Pelangi, #3)</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Canting</title>
+			<isbn>9792232494</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Burung-Burung Manyar</title>
+			<isbn>9794285285</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Gajah Mada: Hamukti Palapa (Gajah Mada, #3)</title>
+			<isbn>9793303166</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

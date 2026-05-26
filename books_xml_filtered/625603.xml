@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>625603</id>
+	<title>Horus Rising</title>
+	<isbn>184416294X</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>After thousands of years of expansion and conquest, the imperium of man is at its height. His dream for humanity nearly accomplished, the emperor hands over the reins of power to his warmaster, Horus, and heads back to Terra. But is Horus strong enough to control his fellow commanders and continue the emperor's grand design?</description>
+	<average_rating>4.17</average_rating>
+	<num_pages>412</num_pages>
+	<similar_books>
+		<book>
+			<title>False Gods</title>
+			<isbn>1844163709</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Galaxy in Flames</title>
+			<isbn>1844163938</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Flight of the Eisenstein</title>
+			<isbn>1844164594</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The First Heretic</title>
+			<isbn>1844168840</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Tales of Heresy</title>
+			<isbn>1844166821</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Age of Darkness</title>
+			<isbn>1849700370</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Deliverance Lost</title>
+			<isbn>1849700613</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Fallen Angels</title>
+			<isbn>1844167291</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Descent of Angels</title>
+			<isbn>1844165086</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Horus Heresy: Collected Visions</title>
+			<isbn>1844164241</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

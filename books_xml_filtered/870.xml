@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>870</id>
+	<title>Fullmetal Alchemist, Vol. 1 (Fullmetal Alchemist, #1)</title>
+	<isbn>1591169208</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>Alchemy: the mystical power to alter the natural world; something between magic, art and science. When two brothers, Edward and Alphonse Elric, dabbled in this power to grant their dearest wish, one of them lost an arm and a leg...and the other became nothing but a soul locked into a body of living steel. Now Edward is an agent of the government, a slave of the military-alchemical complex, using his unique powers to obey orders...even to kill. Except his powers aren't unique. The world has been ravaged by the abuse of alchemy. And in pursuit of the ultimate alchemical treasure, the Philosopher's Stone, their enemies are even more ruthless than they are...</description>
+	<average_rating>4.49</average_rating>
+	<num_pages>192</num_pages>
+	<similar_books>
+		<book>
+			<title>Bleach, Volume 11</title>
+			<isbn>1421502712</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Tsubasa: RESERVoir CHRoNiCLE, Vol. 04</title>
+			<isbn>034547791X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Bakuman, Band 1: Traum und Realität</title>
+			<isbn>3867197571</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Chrno Crusade, Vol. 1 (Chrno Crusade, #1)</title>
+			<isbn>1413900844</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>D.Gray-man, Volume 06</title>
+			<isbn>1421510545</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Saiyuki, Vol. 1</title>
+			<isbn>1591826519</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Trigun Maximum Volume 1: Hero Returns (Trigun Maximum, #1)</title>
+			<isbn>1593071965</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Rurouni Kenshin, Volume 17</title>
+			<isbn>1591168767</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Naruto, Vol. 02: The Worst Client (Naruto, #2)</title>
+			<isbn>1591161789</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

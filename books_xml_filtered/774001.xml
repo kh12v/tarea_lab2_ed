@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>774001</id>
+	<title>Amelia Bedelia  (Amelia Bedelia #1)</title>
+	<isbn>0064441555</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>From dressing the chicken to dusting the furniture, Amelia Bedelia does exactly what Mr. and Mrs. Rogers tell her. ...But somehow things never turn out quite right.</description>
+	<average_rating>4.15</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Amelia Bedelia, Bookworm</title>
+			<isbn>0060518928</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Nate the Great</title>
+			<isbn>044046126X</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears and Too Much Junk Food</title>
+			<isbn>0394872177</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Owl at Home</title>
+			<isbn>0064440346</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Morris Goes to School</title>
+			<isbn>0064440451</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Inside the Human Body (The Magic School Bus, #3)</title>
+			<isbn>0590414275</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>I Was So Mad</title>
+			<isbn>0307119394</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Ramona the Pest (Ramona, #2)</title>
+			<isbn>0192750976</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Greg's Microscope</title>
+			<isbn>006444144X</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Little Bear</title>
+			<isbn>0590319671</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Henry and Mudge - The First Book (Henry and Mudge, #1)</title>
+			<isbn>0689810059</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Danny and the Dinosaur (An I Can Read Book)</title>
+			<isbn>0064440028</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+	</similar_books>
+</book>

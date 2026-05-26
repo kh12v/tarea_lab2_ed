@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>383196</id>
+	<title>هشت کتاب</title>
+	<isbn>9649007903</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>per</language_code>
+	<description>هشت کتاب: مرگِ رنگ. زندگیِ خواب‌ه. آوارِ آفتاب. شرقِ اندوه. صدای پای آب. مسافر. حجمِ سبز. ما هیچ، ما نگاه</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>112</num_pages>
+	<similar_books>
+		<book>
+			<title>زمستان</title>
+			<isbn />
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>ایمان بیاوریم به آغازِ فصلِ سرد</title>
+			<isbn>9646026435</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>(مجموعه آثار احمد شاملو (دفتر یکم: شعرها 1378-1323</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>غزلیات سعدی</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Divan</title>
+			<isbn>9646534783</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>دیوان كلیات شمس تبریزی</title>
+			<isbn>0003027600</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>آینه‌های ناگهان</title>
+			<isbn>9646003494</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>آرش کمانگیر</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>دو منظومه</title>
+			<isbn>9646596150</isbn>
+			<publication_year>1377</publication_year>
+		</book>
+		<book>
+			<title>سیاه‌ مشق</title>
+			<isbn>9644310373</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

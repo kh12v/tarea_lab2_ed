@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>3692091</id>
+	<title>1/4 جرام</title>
+	<isbn />
+	<publication_year>2008</publication_year>
+	<language_code>ara</language_code>
+	<description />
+	<average_rating>4.02</average_rating>
+	<num_pages>644</num_pages>
+	<similar_books>
+		<book>
+			<title>سفينة نوح</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>واحة الغروب</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>غرفة العناية المركزة</title>
+			<isbn>9772832879</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>كمين القصر العيني</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>السكان الأصليين لمصر</title>
+			<isbn>9773514307</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>الكتاب التاني</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>قمر على سمرقند</title>
+			<isbn>977092959X</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>فرج</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>شاب كشك في رحلة البحث عن الجادون</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>تراب الماس</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>المرحوم</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>ويسترن يونيون فرع الهرم: ديوان بالعامية المصرية</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>صندوق الدمى</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>عايزة أتجوز</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>السقا مات </title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

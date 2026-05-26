@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<book>
+	<id>2880</id>
+	<title>Bleach, Volume 01</title>
+	<isbn>1591164419</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure &lt;i&gt;
+  &lt;b&gt;
+    &lt;u&gt;Bleach&lt;/u&gt;
+  &lt;/b&gt;
+&lt;/i&gt;, has the unsettling ability to see spirits who are unable to rest in peace. His sixth sense leads him to Rukia, a Soul Reaper who destroys &lt;i&gt;Hollows&lt;/i&gt; (soul-devouring monsters) and ensures the deceased find repose with the Soul Society. When she's injured in battle, Rukia transfers her sword and much of her power to Ichigo, whose spiritual energy makes him a formidable substitute Soul Reaper. But the orange-haired teenager isn't sure he wants the job: too many risks and moral dilemmas.</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>200</num_pages>
+	<similar_books>
+		<book>
+			<title>Naruto, Vol. 09: Turning the Tables (Naruto, #9)</title>
+			<isbn>1421502399</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>D.Gray-man, Volume 01</title>
+			<isbn>1421506238</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Fullmetal Alchemist, Vol. 5 (Fullmetal Alchemist, #5)</title>
+			<isbn>1421501759</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

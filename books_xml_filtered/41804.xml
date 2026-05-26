@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>41804</id>
+	<title>I, Robot (Robot #0.1)</title>
+	<isbn>0553803700</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>The three laws of Robotics:&lt;br /&gt;1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.&lt;br /&gt;2) A robot must obey orders given to it by human beings except where such orders would conflict with the First Law.&lt;br /&gt;3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.&lt;br /&gt;&lt;br /&gt;With these three, simple directives, Isaac Asimov changed our perception of robots forever when he formulated the laws governing their behavior. In &lt;b&gt;I, Robot&lt;/b&gt;, Asimov chronicles the development of the robot through a series of interlinked stories: from its primitive origins in the present to its ultimate perfection in the not-so-distant future--a future in which humanity itself may be rendered obsolete.&lt;br /&gt;&lt;br /&gt;Here are stories of robots gone mad, of mind-read robots, and robots with a sense of humor. Of robot politicians, and robots who secretly run the world--all told with the dramatic blend of science fact and science fiction that has become Asimov's trademark.</description>
+	<average_rating>4.17</average_rating>
+	<num_pages>225</num_pages>
+	<similar_books>
+		<book>
+			<title>The City and the Stars</title>
+			<isbn>1857987632</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Past Through Tomorrow (Future History, #1-21)</title>
+			<isbn>0441653049</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Neutron Star (Known Space)</title>
+			<isbn>0345336941</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Foundation's Triumph (Second Foundation Trilogy #3)</title>
+			<isbn>0061056391</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Foundation and Chaos (Second Foundation Trilogy #2)</title>
+			<isbn>1857237366</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Collected Stories of Philip K. Dick 4: The Minority Report</title>
+			<isbn>0806512768</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Slan (Slan, #1)</title>
+			<isbn>0312852363</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Burning Chrome (Sprawl, #0)</title>
+			<isbn>0060539828</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Heretics of Dune (Dune Chronicles #5)</title>
+			<isbn>0441328008</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Untouched By Human Hands</title>
+			<isbn>1345004370</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

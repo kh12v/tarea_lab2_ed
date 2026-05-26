@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>190344</id>
+	<title>First Term at Malory Towers (Malory Towers, #1)</title>
+	<isbn>0749744812</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Darrell Rivers begins her happy life at Malory Towers two terms later than the other girls, but she soon makes firm friends with Sally, the steady one, and the adoring Mary Lou.</description>
+	<average_rating>4.07</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Third Form at St. Clare's (St. Clare's, #7)</title>
+			<isbn>1405219823</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Jo of the Chalet School (The Chalet School, #2)</title>
+			<isbn>0006903355</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Autumn Term (The Marlows, #1)</title>
+			<isbn>0571206409</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Well Done, The Naughtiest Girl! (The Naughtiest Girl, #8)</title>
+			<isbn>0340744243</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>What Katy Did at School (Carr Family, #2)</title>
+			<isbn>1406515280</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

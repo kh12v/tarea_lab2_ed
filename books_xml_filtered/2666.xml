@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>2666</id>
+	<title>The Bonfire of the Vanities</title>
+	<isbn>0553381342</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.81</average_rating>
+	<num_pages>690</num_pages>
+	<similar_books>
+		<book>
+			<title>Brightness Falls</title>
+			<isbn>0679745327</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Clockers</title>
+			<isbn>0747562733</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Billy Bathgate</title>
+			<isbn>0452280028</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Operation Shylock: A Confession</title>
+			<isbn>009930791X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Couples</title>
+			<isbn>044991190X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Primary Colors: A Novel of Politics</title>
+			<isbn>0812976479</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Hollywood</title>
+			<isbn>0375708758</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Paris Trout</title>
+			<isbn>0140122060</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Babbitt</title>
+			<isbn>142640607X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Solomon Gursky Was Here</title>
+			<isbn>0143012649</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Absolute Beginners</title>
+			<isbn>0749005408</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Naked and the Dead</title>
+			<isbn>0312265050</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Libra</title>
+			<isbn>0140156046</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Personality</title>
+			<isbn>0156029677</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Augie March</title>
+			<isbn>0143039571</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Ship of Fools</title>
+			<isbn>0316713902</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>LaBrava</title>
+			<isbn>0060512237</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

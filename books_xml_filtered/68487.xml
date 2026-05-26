@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>68487</id>
+	<title>Royal Assassin (Farseer Trilogy, #2)</title>
+	<isbn>0006480101</isbn>
+	<publication_year>1997</publication_year>
+	<language_code>eng</language_code>
+	<description>This is the sequel to the highly successful Assassin's Apprentice, which sees family betrayal, treachery and assassination in the six Duchies.</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>752</num_pages>
+	<similar_books>
+		<book>
+			<title>Revelation (Rai-Kirah, #2)</title>
+			<isbn>0451458427</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Shadow's Edge (Night Angel, #2)</title>
+			<isbn>0316033650</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Eye of the Labyrinth (Second Sons, #2)</title>
+			<isbn>0553586696</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Charnel Prince (Kingdoms of Thorn and Bone, #2)</title>
+			<isbn>0345440714</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>A Cavern of Black Ice (Sword of Shadows, #1)</title>
+			<isbn>076534551X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Dragon Revenant (Deverry, #4)</title>
+			<isbn>0553289098</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Magician (The Riftwar Saga, #1-2)</title>
+			<isbn>0586217835</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Stalking Darkness (Nightrunner, #2)</title>
+			<isbn>0553575430</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Wandering Fire (The Fionavar Tapestry, #2)</title>
+			<isbn>0451458265</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Last Argument of Kings (The First Law, #3)</title>
+			<isbn>0575077905</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>To Green Angel Tower, Part 1 (Memory, Sorrow, and Thorn, #3; Part 1)</title>
+			<isbn>0886775981</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Toll the Hounds (The Malazan Book of the Fallen, #8)</title>
+			<isbn>0765310082</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

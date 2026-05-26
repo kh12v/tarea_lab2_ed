@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>12194</id>
+	<title>Lord Jim</title>
+	<isbn>1551111721</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>Haunted by the memory of a moment of lost nerve during a disastrous voyage, Jim submits to condemnation by a Court of Inquiry. In the wake of his disgrace he travels to the exotic region of Patusan, and as the agent at this remote trading post comes to be revered as 'Tuan Jim.' Here he finds a measure of serenity and respect within himself. However, when a gang of thieves arrives on the island, the memory of his earlier disgrace comes again to the fore, and his relationship with the people of the island is jeopardized.</description>
+	<average_rating>3.61</average_rating>
+	<num_pages>455</num_pages>
+	<similar_books>
+		<book>
+			<title>Studs Lonigan</title>
+			<isbn>1931082553</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Old Wives' Tale</title>
+			<isbn>0375754903</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Way of All Flesh</title>
+			<isbn>0486434664</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Ambassadors</title>
+			<isbn>0140432337</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Parade's End</title>
+			<isbn>0141186615</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Zuleika Dobson</title>
+			<isbn>037575248X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>A Dance to the Music of Time: 2nd Movement (A Dance to the Music of Time, #4-6)</title>
+			<isbn>0226677168</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Loving</title>
+			<isbn>0099285096</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Wapshot Chronicle</title>
+			<isbn>0060528877</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Ginger Man</title>
+			<isbn>0802137954</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>A High Wind in Jamaica</title>
+			<isbn>0940322153</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>A Bend in the River</title>
+			<isbn>0330487140</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Big Money (U.S.A., #3)</title>
+			<isbn>0618056831</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Kim</title>
+			<isbn>0140183523</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Alexandria Quartet  (The Alexandria Quartet #1-4)</title>
+			<isbn>0140153179</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Under the Volcano</title>
+			<isbn>0060955228</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Tobacco Road (Brown Thrasher Books)</title>
+			<isbn>082031661X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Point Counter Point</title>
+			<isbn>1564781313</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

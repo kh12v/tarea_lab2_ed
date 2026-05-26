@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>6080822</id>
+	<title>The Castaways</title>
+	<isbn>0316043893</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>3.69</average_rating>
+	<num_pages>359</num_pages>
+	<similar_books>
+		<book>
+			<title>Moon Shell Beach</title>
+			<isbn>0345498186</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Love and Other Natural Disasters</title>
+			<isbn>0446504777</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Wildwater Walking Club</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Distant Shores</title>
+			<isbn>0345450728</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Life Without Summer</title>
+			<isbn>0312383886</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Once in a Blue Moon</title>
+			<isbn>1593155344</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Criminals</title>
+			<isbn>0312424698</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Driftwood Summer</title>
+			<isbn>0451226887</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>So Happy Together</title>
+			<isbn>1401301487</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Beach Trip</title>
+			<isbn>0345505999</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Ocean Between Us</title>
+			<isbn>0778321479</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>While My Sister Sleeps</title>
+			<isbn>0385524927</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>LoveHampton: A Novel</title>
+			<isbn>0312380216</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

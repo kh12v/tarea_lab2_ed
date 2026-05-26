@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>125958</id>
+	<title>Skin</title>
+	<isbn>1595542779</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>3.80</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Monster</title>
+			<isbn>1595541217</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Deadfall (John Hutchinson, #1)</title>
+			<isbn>0785261796</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Hunted</title>
+			<isbn>1599792966</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>To Kill With Reason</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Never Let You Go</title>
+			<isbn>1595547509</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Field of Blood (Jerusalem's Undead Trilogy #1)</title>
+			<isbn>1595544585</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Rook (The Patrick Bowers Files, #2)</title>
+			<isbn>0800732693</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Scarlet Trefoil (Tahn Dorn #3)</title>
+			<isbn>0800731565</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Dominion (Ollie Chandler #2)</title>
+			<isbn>1590525930</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Demon</title>
+			<isbn>1600061230</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>First the Dead</title>
+			<isbn>1595540245</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>102957</id>
+	<title>Preacher, Volume 6: War in the Sun</title>
+	<isbn>1563894904</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>The Reverend Jesse Custer faces his deadliest challenge yet in this, the sixth Preacher collection. Jesse, along with his gun-toting girlfriend, Tulip, and the hard-drinking Irish vampire Cassidy, faces a deadly showdown in the desert with the ruthless Starr and the forces of the U.S. military -- including a nuclear warhead.</description>
+	<average_rating>4.34</average_rating>
+	<num_pages>240</num_pages>
+	<similar_books>
+		<book>
+			<title>Transmetropolitan, Vol. 7: Spider's Thrash (Transmetropolitan, #7)</title>
+			<isbn>1563898942</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>100 Bullets, Vol. 7: Samurai</title>
+			<isbn>140120189X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>DMZ, Vol. 3: Public Works</title>
+			<isbn>1401214762</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Y: The Last Man, Vol. 7: Paper Dolls (Y: The Last Man, #7)</title>
+			<isbn>1401210090</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Scalped, Vol. 3: Dead Mothers</title>
+			<isbn>184576997X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Lucifer, Vol. 2: Children and Monsters</title>
+			<isbn>1563898004</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

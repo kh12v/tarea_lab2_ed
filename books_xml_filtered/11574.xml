@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>11574</id>
+	<title>The Body</title>
+	<isbn>0582418178</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>In 1960s America, four young boys go on a journey to search for the body of a boy killed by a train. As they travel, they discover how cruel the world can be, but also how wondrous.</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>80</num_pages>
+	<similar_books>
+		<book>
+			<title>Rage</title>
+			<isbn>0451076451</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Lost Work Of Stephen King: A Guide to Unpublished Manuscripts, Story Fragments, Alternative Versions and Oddities</title>
+			<isbn>1559724692</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Stephen King's The Dark Tower: A Concordance, #2</title>
+			<isbn>074325208X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Stephen King Companion</title>
+			<isbn>0836279786</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Creepshow</title>
+			<isbn>0452253802</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Black River </title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Twilight Zone: The Original Stories</title>
+			<isbn>038089601X</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>I Shudder at Your Touch</title>
+			<isbn>0451451600</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Max Quick: The Two Travelers (Max Quick, #2)</title>
+			<isbn>0985884541</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Pop Art</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Journals of Eleanor Druse: My Investigation of the Kingdom Hospital Incident</title>
+			<isbn>1587246708</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Martian Child: A Novel About a Single Father Adopting a Son</title>
+			<isbn>0765306026</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>If You Could See Me Now</title>
+			<isbn>0345438671</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Transgressions: Novellas 1-10</title>
+			<isbn>0765308517</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>One on One</title>
+			<isbn>0451179811</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>999: Twenty-nine Original Tales of Horror and Suspense</title>
+			<isbn>0380805189</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

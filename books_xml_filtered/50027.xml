@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>50027</id>
+	<title>Homeland (Forgotten Realms: The Dark Elf Trilogy, #1; Legend of Drizzt, #1)</title>
+	<isbn>0786939532</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>In exotic Menzoberranzan, the vast city of the drow is home to Icewind Dale prince Drizzt Do'Urden, who grows to maturity in the vile world of his dark elf kin. Possessing honor beyond the scope of his unprincipled society, can he live in world that rejects integrity?</description>
+	<average_rating>4.27</average_rating>
+	<num_pages>343</num_pages>
+	<similar_books>
+		<book>
+			<title>Extinction (Forgotten Realms: War of the Spider Queen, #4)</title>
+			<isbn>0786929898</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tangled Webs (Starlight &amp; Shadows #2)</title>
+			<isbn>0786929596</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Condemnation (Forgotten Realms: War of the Spider Queen, #3)</title>
+			<isbn>0786932023</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Song Of The Saurials (Forgotten Realms: Finder's Stone, #3)</title>
+			<isbn>0140159665</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Insurrection (Forgotten Realms: War of the Spider Queen, #2)</title>
+			<isbn>0786930330</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dissolution (Forgotten Realms: War of the Spider Queen, #1)</title>
+			<isbn>0786929448</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Shadowrealm (Forgotten Realms: The Twilight War, #3)</title>
+			<isbn>0786948639</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Crucible: The Trial of Cyric the Mad (Forgotten Realms: Avatar, #5)</title>
+			<isbn>0786931175</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Annihilation (Forgotten Realms: War of the Spider Queen, #5)</title>
+			<isbn>0786937521</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Prince of Lies (Forgotten Realms: Avatar, #4)</title>
+			<isbn>1560766263</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Tantras (Forgotten Relalms: Avatar #2)</title>
+			<isbn>0880387483</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Elminster in Myth Drannor (Forgotten Realms: Elminster, #2)</title>
+			<isbn>0786911905</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

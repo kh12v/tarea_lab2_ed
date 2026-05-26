@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>402017</id>
+	<title>The Cake Mix Doctor</title>
+	<isbn>0761117199</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>3.95</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Betty Crocker's Cooky Book</title>
+			<isbn>0764566377</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Lady &amp; Sons Just Desserts: More Than 120 Sweet Temptations from Savannah's Favorite Restaurant</title>
+			<isbn>0743290208</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Taste of Home Baking Book</title>
+			<isbn>0898215285</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Top Secret Restaurant Recipes: Creating Kitchen Clones from America's Favorite Restaurant Chains</title>
+			<isbn>0452275873</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Gourmet Cookie Book: The Single Best Recipe from Each Year 1941-2009</title>
+			<isbn>0547328168</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Martha Stewart's Cupcakes: 175 Inspired Ideas for Everyone's Favorite Treat</title>
+			<isbn>0307460444</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Confetti Cakes Cookbook: Spectacular Cookies, Cakes, and Cupcakes from New York City's Famed Bakery</title>
+			<isbn>0316113077</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Fix-It and Forget-It Lightly: Healthy, Low-Fat Recipes for Your Slow Cooker</title>
+			<isbn>1561484318</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Crazy About Cupcakes</title>
+			<isbn>1402719949</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>King Arthur Flour Whole Grain Baking: Delicious Recipes Using Nutritious Whole Grains</title>
+			<isbn>0881507199</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Complete Cooking Light Cookbook</title>
+			<isbn>084871945X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Mrs. Fields Cookie Book: 100 Recipes from the Kitchen of Mrs. Fields</title>
+			<isbn>0809467151</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Emeril's TV Dinners: Kickin' It Up A Notch With Recipes From Emeril Live And Essence Of Emeril</title>
+			<isbn>0688163785</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>30-Minute Meals</title>
+			<isbn>1891105035</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Southern Cakes: Sweet and Irresistible Recipes for Everyday Celebrations</title>
+			<isbn>0811853705</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>BabyCakes: Vegan, (Mostly) Gluten-Free, and (Mostly) Sugar-Free Recipes from New York's Most Talked-About Bakery</title>
+			<isbn>0307408833</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Hello, Cupcake</title>
+			<isbn>0618829253</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>7911</id>
+	<title>Five Little Peppers and How They Grew</title>
+	<isbn>1416916172</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;Five Little Peppers and How They Grew&lt;/i&gt; was originally serialized in an 1880 edition of &lt;i&gt;Wide Awake&lt;/i&gt;, a children's magazine. The publisher of the magazine, Daniel Lothrop, loved the Pepper stories so much that he published a hard-cover edition of the story -- and married the author in 1881. In 1883 the couple moved to historic Concord, Massachusetts, and resided in a house called the Wayside, which had previously been home to Nathaniel Hawthorne and also to Louisa May Alcott, the author of &lt;i&gt;Little Women&lt;/i&gt;.</description>
+	<average_rating>4.03</average_rating>
+	<num_pages>352</num_pages>
+	<similar_books>
+		<book>
+			<title>Understood Betsy</title>
+			<isbn>1887840133</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>All-of-a-Kind Family Uptown (All-of-a-Kind Family, #4)</title>
+			<isbn>0929093097</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Hans Brinker, or the Silver Skates</title>
+			<isbn>1596056665</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Then There Were Five (The Melendy Family, #3)</title>
+			<isbn>0805070621</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Jack and Jill</title>
+			<isbn>0316030848</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Betsy and Tacy Go Over the Big Hill (Betsy-Tacy, #3)</title>
+			<isbn>0064400999</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Burgess Animal Book for Children</title>
+			<isbn>0486437450</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Rebecca of Sunnybrook Farm</title>
+			<isbn>1598183605</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Moffats (The Moffats, #1)</title>
+			<isbn>0152025413</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Bobbsey Twins of Lakeport (Bobbsey Twins, #1)</title>
+			<isbn>044843752X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Child's History of the World</title>
+			<isbn>0899669387</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Hitty, Her First Hundred Years</title>
+			<isbn>0689822847</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Joan of Arc</title>
+			<isbn>0064437485</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Good Master </title>
+			<isbn>014030133X</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+	</similar_books>
+</book>

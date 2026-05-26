@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>5053</id>
+	<title>The Man From St. Petersburg</title>
+	<isbn>0451208706</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>His name was Feliks.  He came to London to commit a murder that would change history.  A master manipulator, he had many weapons at his command, but against him were ranged the whole of the English police, a brilliant and powerful lord, and the young Winston Churchill himself.  These odds would have stopped any man in the world-except the man from St. Petersburg...</description>
+	<average_rating>3.84</average_rating>
+	<num_pages>320</num_pages>
+	<similar_books>
+		<book>
+			<title>Okinawa: The Last Battle of World War II</title>
+			<isbn>0140173897</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Beautiful Assassin</title>
+			<isbn>0061691216</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Undersea Prison (Stratton, #4)</title>
+			<isbn>1847440673</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Last Night Another Soldier</title>
+			<isbn>0552161683</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Texas by the Tail</title>
+			<isbn>0316403741</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Deep as the Marrow</title>
+			<isbn>0312862644</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Night Judgement at Sinos</title>
+			<isbn>0440162637</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>A Thousand Suns</title>
+			<isbn>0752881353</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Icon</title>
+			<isbn>0553574604</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Scarlatti Inheritance</title>
+			<isbn>0752858653</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Honor of Spies (Honor Bound, #5)</title>
+			<isbn>0399156054</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Gifts of War</title>
+			<isbn>0385528957</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Arms Maker of Berlin</title>
+			<isbn>0307268373</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Our Game</title>
+			<isbn>0340640278</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Floodgate</title>
+			<isbn>0006169112</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

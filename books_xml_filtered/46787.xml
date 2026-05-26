@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>46787</id>
+	<title>Uncle Tom's Cabin</title>
+	<isbn>1840224029</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>The narrative drive of Stowe's classic novel is often overlooked in the heat of the controversies surrounding its anti-slavery sentiments. In fact, it is a compelling adventure story with richly drawn characters and has earned a place in both literary and American history. Stowe's puritanical religious beliefs show up in the novel's final, overarching theme—the exploration of the nature of Christianity and how Christian theology is fundamentally incompatible with slavery.</description>
+	<average_rating>3.83</average_rating>
+	<num_pages>438</num_pages>
+	<similar_books>
+		<book>
+			<title>The Last of the Mohicans (The Leatherstocking Tales #2)</title>
+			<isbn>0553213296</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Song of the Simple Truth: The Complete Poems of Julia de Burgos</title>
+			<isbn>1880684241</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Ramona</title>
+			<isbn>0451528425</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Babbitt</title>
+			<isbn>142640607X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Vanishing Newspaper: Saving Journalism in the Information Age</title>
+			<isbn>0826215688</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Hope Leslie: or, Early Times in the Massachusetts</title>
+			<isbn>0140436766</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Lady of the Lake</title>
+			<isbn>1596054727</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Clotel: or, The President's Daughter</title>
+			<isbn>0142437727</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Our Mutual Friend</title>
+			<isbn>0375761144</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Iola Leroy: Shadows Uplifted</title>
+			<isbn>1426460287</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Jungle</title>
+			<isbn>1884365302</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Gulliver's Travels</title>
+			<isbn>0141439491</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The House of the Seven Gables</title>
+			<isbn>0393924769</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Rise of Silas Lapham</title>
+			<isbn>0140390308</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Incidents in the Life of a Slave Girl</title>
+			<isbn>0486419312</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Swimming with Giants: My Encounters with Whales, Dolphins and Seals</title>
+			<isbn>1571312447</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Four Million</title>
+			<isbn>1434625818</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Absentee</title>
+			<isbn>0140436456</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

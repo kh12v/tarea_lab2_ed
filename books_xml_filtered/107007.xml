@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>107007</id>
+	<title>The League of Extraordinary Gentlemen, Vol. 2</title>
+	<isbn>1401201180</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Written by Alan Moore; Art and cover by Kevin O'Neill. &lt;br /&gt;&lt;br /&gt;It's one month after the events in League of Extraordinary Gentlemen Vol. 1, and the skies over England are filled with flaming rockets as Mars launches the first salvo of an invasion. Only our stalwart adventurers Allan Quatermain, Mina Harker, Captain Nemo, Hawley Griffin, and Mr. Edward Hyde can save mother England and the very Earth itself. But there are many startling revelations along the way, including the blossoming of love and the uncovering of a traitor in their midst!</description>
+	<average_rating>3.94</average_rating>
+	<num_pages>228</num_pages>
+	<similar_books>
+		<book>
+			<title>Planetary, Volume 2: The Fourth Man</title>
+			<isbn>1563897644</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>B.P.R.D., Vol. 4: The Dead (B.P.R.D., #4)</title>
+			<isbn>1593073801</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Sin City, Vol. 3: The Big Fat Kill (Sin City, #3)</title>
+			<isbn>1593072953</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Ex Machina, Vol. 6: Power Down (Ex Machina, #6)</title>
+			<isbn>1401214983</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Invisibles, Vol. 3: Entropy in the U.K.</title>
+			<isbn>1563897288</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>7959473</id>
+	<title>American Assassin (Mitch Rapp, #1)</title>
+	<isbn>141659518X</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description>Mitch Rapp is a gifted college athlete who just wants retribution for the Pan Am Lockerbie attack. He trains six months intensely with other clandestine operatives, under CIA Operations Director Thomas Stansfield and protégé Irene Kennedy, to stop terrorists before they reach America. The assassin leaves a trail of bodies from Istanbul across Europe to Beirut, where he needs every ounce of skill and cunning to survive the war-ravaged city and its deadly terrorist factions.</description>
+	<average_rating>4.24</average_rating>
+	<num_pages>435</num_pages>
+	<similar_books>
+		<book>
+			<title>Takedown (Scot Harvath, #5)</title>
+			<isbn>0743271181</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Midnight House (John Wells, #4)</title>
+			<isbn>0399156208</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Power Down (Dewey Andreas, #1)</title>
+			<isbn>0312580746</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>All Necessary Force (Pike Logan, #2)</title>
+			<isbn>110155990X</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Tier One Wild (Delta Force, #2)</title>
+			<isbn>1427226032</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+	</similar_books>
+</book>

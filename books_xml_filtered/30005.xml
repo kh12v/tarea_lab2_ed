@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>30005</id>
+	<title>Red Harvest</title>
+	<isbn>0752852612</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>The Continental Op first heard Personville called Poisonville by Hickey Dewey. But since Dewey also called a shirt a shoit, he didn't think anything of it. Until he went there and his client, the only honest man in Poisonville, was murdered. Then the Op decided to stay on to punish the guilty. and that meant taking on the entire town...&lt;br /&gt;&lt;br /&gt;Dashiell Hammett's ground-breaking first novel is not only a superb piece of crime fiction, it is a classic exploration of corruption and violence.</description>
+	<average_rating>4.00</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>The High Window (Philip Marlowe, #3)</title>
+			<isbn>0394758269</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Moving Target</title>
+			<isbn>037570146X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Double Indemnity</title>
+			<isbn>0679723226</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>A Rage in Harlem (Harlem Cycle, #1)</title>
+			<isbn>0679720405</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Shoot the Piano Player</title>
+			<isbn>0679732543</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Dog Soldiers</title>
+			<isbn>0395860253</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Getaway</title>
+			<isbn>0316403970</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+	</similar_books>
+</book>

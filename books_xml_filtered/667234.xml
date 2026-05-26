@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>667234</id>
+	<title>The Cat in the Hat Comes Back</title>
+	<isbn>0394800028</isbn>
+	<publication_year>1958</publication_year>
+	<language_code>en-US</language_code>
+	<description>The Cat in the Hat returns for more out-of-control fun in this wintry Beginner Book by Dr. Seuss. It’s a snowy day and Dick and Sally are stuck shoveling . . . until the Cat in the Hat arrives to liven things up (to say the least!). Featuring the Cat’s helpers Little Cat A, Little Cat B, and so on, and ending with a gigantic Voom, &lt;i&gt;The Cat in the Hat Comes Back&lt;/i&gt; is a riotous, fun-filled follow-up to Dr. Seuss’s classic &lt;i&gt;The Cat in the Hat.&lt;/i&gt; &lt;br /&gt;&lt;br /&gt;Originally created by Dr. Seuss, Beginner Books encourage children to read all by themselves, with simple words and illustrations that give clues to their meaning.</description>
+	<average_rating>3.83</average_rating>
+	<num_pages>63</num_pages>
+	<similar_books>
+		<book>
+			<title>The Berenstain Bears Go to Camp (First Look Books, #7)</title>
+			<isbn>0394851315</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>On Beyond Bugs (Cat In The Hat's Learning Library)</title>
+			<isbn>000711110X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Flap Your Wings</title>
+			<isbn>0375802436</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>All by Myself</title>
+			<isbn>0307119386</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Murmel, Murmel, Murmel</title>
+			<isbn>0920236316</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Mr. Nonsense</title>
+			<isbn>0843178396</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

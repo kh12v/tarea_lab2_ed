@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>132626</id>
+	<title>On the Genealogy of Morals/Ecce Homo</title>
+	<isbn>0679724621</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>en-US</language_code>
+	<description>The great philosopher's major work on ethics, along with ECCE HOMO, Nietzche's remarkable review of his life and works. Translated by Walter Kaufmann.</description>
+	<average_rating>4.14</average_rating>
+	<num_pages>367</num_pages>
+	<similar_books>
+		<book>
+			<title>Groundwork of the Metaphysics of Morals</title>
+			<isbn>0521626951</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Nietzsche: Philosopher, Psychologist, Antichrist</title>
+			<isbn>0691019835</isbn>
+			<publication_year>1974</publication_year>
+		</book>
+		<book>
+			<title>Basic Writings: Ten Key Essays, plus the Introduction to Being and Time</title>
+			<isbn>0060637633</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Fear and Trembling/Repetition</title>
+			<isbn>0691020264</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Nietzsche and Philosophy (European Perspectives)</title>
+			<isbn>0231138776</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Foucault Reader: An Introduction to Foucault's Thought</title>
+			<isbn>0394713400</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The World as Will and Representation, Vol 1</title>
+			<isbn>0486217612</isbn>
+			<publication_year>1966</publication_year>
+		</book>
+		<book>
+			<title>The Marx-Engels Reader</title>
+			<isbn>039309040X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Phenomenology of Spirit</title>
+			<isbn>0198245971</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Ethics/Treatise on the Emendation of the Intellect/Selected Letters</title>
+			<isbn>0872201309</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Theory of Religion</title>
+			<isbn>0942299094</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>An Enquiry Concerning Human Understanding</title>
+			<isbn>1420926993</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Tractatus Logico-Philosophicus</title>
+			<isbn>0415254086</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Cambridge Companion to Nietzsche</title>
+			<isbn>0521367670</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>55401</id>
+	<title>Deadhouse Gates (The Malazan Book of the Fallen, #2)</title>
+	<isbn>0765310023</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>In the vast dominion of Seven Cities, in the Holy Desert Raraku, the seer Sha’ik and her followers prepare for the long-prophesied uprising known as the Whirlwind. Unprecedented in size and savagery, this maelstrom of fanaticism and bloodlust will embroil the Malazan Empire in one of the bloodiest conflicts it has ever known, shaping destinies and giving birth to legends.</description>
+	<average_rating>4.25</average_rating>
+	<num_pages>604</num_pages>
+	<similar_books>
+		<book>
+			<title>Night of Knives (Malazan Empire, #1)</title>
+			<isbn>0593057813</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Warrior Prophet (The Prince of Nothing, #2)</title>
+			<isbn>1585677280</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The White Rose (The Chronicles of the Black Company, #3)</title>
+			<isbn>0812508440</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>A Betrayal in Winter (Long Price Quartet, #2)</title>
+			<isbn>0765313413</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

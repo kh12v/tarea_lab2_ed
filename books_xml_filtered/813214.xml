@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>813214</id>
+	<title>The Mist</title>
+	<isbn>0451223292</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>en-US</language_code>
+	<description>It's a hot, lazy day, perfect for a cookout, until you see those strange dark clouds. Suddenly a violent storm sweeps across the lake and ends as abruptly and unexpectedly as it had begun. Then comes the mist...creeping slowly, inexorably into town, where it settles and waits, trapping you in the supermarket with dozens of others, cut off from your families and the world. The mist is alive, seething with unearthly sounds and movements. What unleashed this terror? Was it the Arrowhead Project---the top secret government operation that everyone has noticed but no one quite understands? And what happens when the provisions have run out and you're forced to make your escape, edging blindly through the dim light?</description>
+	<average_rating>3.92</average_rating>
+	<num_pages>230</num_pages>
+	<similar_books>
+		<book>
+			<title>The Regulators</title>
+			<isbn>0451191013</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Source (Necroscope, #3)</title>
+			<isbn>0812521277</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Off Season (Dead River, #1)</title>
+			<isbn>0843956968</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Books of Blood: Volumes One to Three (Books of Blood #1-3)</title>
+			<isbn>0425165582</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Dark Tower: Treachery</title>
+			<isbn>078513574X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Conqueror Worms</title>
+			<isbn>0843954167</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Loop (Ring, #3)</title>
+			<isbn>193223425X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Twilight Eyes</title>
+			<isbn>0425100650</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Creepshow</title>
+			<isbn>0452253802</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>The Stephen King Companion</title>
+			<isbn>0836279786</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>They Thirst</title>
+			<isbn>0913165603</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Stephen King Universe</title>
+			<isbn>1580631606</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

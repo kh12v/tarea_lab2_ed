@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>100924</id>
+	<title>Perelandra (Space Trilogy, #2)</title>
+	<isbn>0007157169</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>en-US</language_code>
+	<description>The second novel in Lewis's science fiction trilogy tells of Dr Ransom's voyage to the planet of Perelandra (Venus). Dr Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.</description>
+	<average_rating>3.97</average_rating>
+	<num_pages>314</num_pages>
+	<similar_books>
+		<book>
+			<title>War in Heaven</title>
+			<isbn />
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Lilith</title>
+			<isbn>1587159260</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Manalive</title>
+			<isbn>0486414051</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Monster in the Hollows (The Wingfeather Saga, #3)</title>
+			<isbn>0982621434</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Empire of Bones (Ashtown Burials #3)</title>
+			<isbn>0375864415</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Silver Hand (The Song of Albion, #2)</title>
+			<isbn>1595542205</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Planet Narnia: The Seven Heavens in the Imagination of C.S. Lewis</title>
+			<isbn>0195313879</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>C. S. Lewis: A Life: Eccentric Genius, Reluctant Prophet</title>
+			<isbn>1414339356</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>What I Learned in Narnia</title>
+			<isbn>1591284384</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

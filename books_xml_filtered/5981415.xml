@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>5981415</id>
+	<title>Summer on Blossom Street (Blossom Street, #6)</title>
+	<isbn>0778326438</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.19</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Quilter's Legacy (Elm Creek Quilts, #5)</title>
+			<isbn>0452284678</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Lakeshore Christmas (Lakeshore Chronicles, #6)</title>
+			<isbn>1423351967</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Flowers on Main (Chesapeake Shores, #2)</title>
+			<isbn>0778326349</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Sweetgum Ladies Knit for Love (Sweetgum Knit #2)</title>
+			<isbn>1400073952</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Knitting Bones (A Needlecraft Mystery, #11)</title>
+			<isbn>0425217523</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lover's Knot</title>
+			<isbn>0778323226</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Fleece Navidad (A Knitting Mystery, # 6)</title>
+			<isbn>0425223604</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

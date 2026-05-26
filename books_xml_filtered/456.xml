@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>456</id>
+	<title>Leviathan</title>
+	<isbn>0140178139</isbn>
+	<publication_year>1993</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;New York Times &lt;/i&gt;bestselling author Paul Auster (&lt;i&gt;The New York Trilogy&lt;/i&gt;) opens &lt;i&gt;Leviathan&lt;/i&gt; with the tearing of a bomb explosion and the death of one Benjamin Sachs. Ben’s one-time best friend, Peter Aaron, begins to retrospectively investigate the transformation that led Ben from his enviable, stable life to one of a recluse. Both were once intelligent, yet struggling novelists until Ben’s near-death experience falling from a fire escape triggers a tumble in which he becomes withdrawn and disturbed, living alone and building bombs in a far-off cabin. That is, until he mysteriously disappears, leaving behind only a manuscript titled &lt;i&gt;Leviathan&lt;/i&gt;, pages rustling in the wind.</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>275</num_pages>
+	<similar_books>
+		<book>
+			<title>The Blindfold</title>
+			<isbn>031242275X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Exit Ghost</title>
+			<isbn>0618915478</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Lost Swimmer</title>
+			<isbn />
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Single Jewish Male Seeking Soul Mate</title>
+			<isbn>1558618872</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Double Game</title>
+			<isbn>1900828065</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A View from the Bridge / All My Sons</title>
+			<isbn>0141183500</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Triste, solitario y final</title>
+			<isbn>880618184X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Saree</title>
+			<isbn>1922052930</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Papeles en el viento</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Reader’s Block</title>
+			<isbn>1564781321</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Submarino</title>
+			<isbn>3608501053</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Mao II</title>
+			<isbn>0140152741</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Up-Tight: The Velvet Underground Story</title>
+			<isbn>0815412851</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Eve of St Venus</title>
+			<isbn>1843914166</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Is This My Beautiful Life?</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Tomorrow in the Battle Think on Me</title>
+			<isbn>0811214826</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Adversary: A True Story of Monstrous Deception</title>
+			<isbn>0312420609</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Tango Singer</title>
+			<isbn>1582346011</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

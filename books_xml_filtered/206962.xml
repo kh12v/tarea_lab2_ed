@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>206962</id>
+	<title>Hop On Pop</title>
+	<isbn>0007158491</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>This charming book introduces young children to words that rhyme, such as Hop and Pop, Cup and Pup, Mouse and House, Tall and Small. And once they have learned to recognize one word, children soon find to their delight they can read another simply by changing the first letter.</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>64</num_pages>
+	<similar_books>
+		<book>
+			<title>Horns to Toes and in Between</title>
+			<isbn>0671493191</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears and the Spooky Old Tree</title>
+			<isbn>0394839102</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>It's Not Easy Being Big! (Bright &amp; Early Books)</title>
+			<isbn>0679888101</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Thomas and the School Trip (Thomas &amp; Friends)</title>
+			<isbn>0679843655</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Are You Ready to Play Outside? (Elephant &amp; Piggie, #7)</title>
+			<isbn>1423113470</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Cars and Trucks and Things That Go</title>
+			<isbn />
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Nose Book</title>
+			<isbn>0375812121</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

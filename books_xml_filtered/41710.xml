@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>41710</id>
+	<title>Iceberg (Dirk Pitt, #3)</title>
+	<isbn>0425197387</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Frozen inside a million-ton mass of ice-the charred remains of a long missing luxury yacht, vanished en route to a secret White House rendezvous.  The only clue to the ship's priceless-and missing-cargo: nine ornately carved rings and the horribly burned bodies of its crew.</description>
+	<average_rating>3.83</average_rating>
+	<num_pages>340</num_pages>
+	<similar_books>
+		<book>
+			<title>Havoc (Philip Mercer, #7)</title>
+			<isbn>0525948821</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>H.M.S. Unseen (Admiral Arnold Morgan, #3)</title>
+			<isbn>0061098019</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Hungry as the Sea</title>
+			<isbn>0333782151</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Honor Bound (Honor Bound, #1)</title>
+			<isbn>0515114863</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Night of the Hawk (Patrick McLanahan, #2)</title>
+			<isbn>0425136612</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>SSN: A Strategy Guide to Submarine Warfare</title>
+			<isbn>0425173534</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Excavation</title>
+			<isbn>038081093X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Cult Of Osiris (Nina Wilde &amp; Eddie Chase, #5)</title>
+			<isbn>0755354621</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>State of Siege (Tom Clancy's Op-Center, #6)</title>
+			<isbn>0425168220</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

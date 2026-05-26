@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>3217221</id>
+	<title>Locke &amp; Key, Vol. 1: Welcome to Lovecraft</title>
+	<isbn>1600102379</isbn>
+	<publication_year>2013</publication_year>
+	<language_code>en-US</language_code>
+	<description>Locke &amp;amp; Key tells of Keyhouse, an unlikely New England mansion, with fantastic doors that transform all who dare to walk through them. Home to a hate-filled and relentless creature that will not rest until it forces open the most terrible door of them all...</description>
+	<average_rating>4.18</average_rating>
+	<num_pages>168</num_pages>
+	<similar_books>
+		<book>
+			<title>The Unwritten, Vol. 5: On to Genesis</title>
+			<isbn>1401233597</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>American Vampire, Vol. 2</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Chew, Vol. 2: International Flavor</title>
+			<isbn>1607062607</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Morning Glories, Vol. 3: P.E.</title>
+			<isbn>1607065584</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Revival, Vol. 2: Live Like You Mean It</title>
+			<isbn>1607067544</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Fables, Vol. 16: Super Team</title>
+			<isbn>1401233066</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Walking Dead, Vol. 14: No Way Out</title>
+			<isbn>1607063921</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Fatale, Book Two: The Devil's Business (Fatale, #2)</title>
+			<isbn>1607066181</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Rachel Rising, Volume 1: The Shadow of Death</title>
+			<isbn>1892597519</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Afterlife with Archie, Vol. 1: Escape from Riverdale</title>
+			<isbn>1619889080</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Sweet Tooth, Volume 4: Endangered Species</title>
+			<isbn>1401233619</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Sixth Gun, Vol. 1: Cold Dead Fingers (The Sixth Gun, #1)</title>
+			<isbn>1934964603</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Boys, Volume 3: Good For The Soul</title>
+			<isbn>1933305924</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

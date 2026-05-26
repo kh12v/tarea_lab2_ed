@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>280240</id>
+	<title>Rumpelstiltskin</title>
+	<isbn>0140558640</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>eng</language_code>
+	<description>Richly hued oil paintings complement a story simply and gracefully told."Children...love the story for its mystery, and its familiarity. Adults will find that, like most classic fairy tales, this one rewards periodic rethinking." --&lt;i&gt;New York Times Book Review&lt;/i&gt;"Zelinsky's smooth retelling and glowing pictures cast the story in a new and beautiful light." -- &lt;i&gt;School Library Journal&lt;/i&gt;</description>
+	<average_rating>4.23</average_rating>
+	<num_pages>40</num_pages>
+	<similar_books>
+		<book>
+			<title>Swamp Angel</title>
+			<isbn>0140559086</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>It Could Always Be Worse: A Yiddish Folk Tale</title>
+			<isbn>0374436363</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Puss in Boots</title>
+			<isbn>0374460345</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Girl Who Spun Gold</title>
+			<isbn>0590473786</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Twelve Dancing Princesses</title>
+			<isbn>0688080510</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Elves and the Shoemaker</title>
+			<isbn>0811834778</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Little Red Riding Hood</title>
+			<isbn>0823404706</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Glass Slipper, Gold Sandal: A Worldwide Cinderella</title>
+			<isbn>080507953X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Talking Eggs</title>
+			<isbn>0803706197</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>John Henry</title>
+			<isbn>0140566228</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Hansel and Gretel</title>
+			<isbn>0888992122</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Saint George and the Dragon</title>
+			<isbn>0316367958</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Mufaro's Beautiful Daughters: An African Tale</title>
+			<isbn>0688040454</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Raven: A Trickster Tale from the Pacific Northwest</title>
+			<isbn>0152024492</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>A Child's Calendar</title>
+			<isbn>0823417662</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Rumpelstiltskin's Daughter</title>
+			<isbn>0064410951</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Goldilocks and the Three Bears</title>
+			<isbn>0803705425</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Princess and the Pea</title>
+			<isbn>0823404420</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+	</similar_books>
+</book>

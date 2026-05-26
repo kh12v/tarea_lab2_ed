@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>2449962</id>
+	<title>Twenty Wishes (Blossom Street, #5)</title>
+	<isbn>0778325504</isbn>
+	<publication_year>2008</publication_year>
+	<language_code>eng</language_code>
+	<description>Anne Marie Roche wants to find happiness again. At 38, her life is not what she'd expected. She's childless, recently widowed, alone. She starts a list of things she'd like to do. One of her wishes brings her into contact with Ellen, an eight-year-old girl. The relationship that develops is far more involving than Anne Marie could have imagined.</description>
+	<average_rating>4.16</average_rating>
+	<num_pages>360</num_pages>
+	<similar_books>
+		<book>
+			<title>Welcome to Serenity (The Sweet Magnolias #4)</title>
+			<isbn>077832589X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Snowfall at Willow Lake (Lakeshore Chronicles, #4)</title>
+			<isbn>0778324931</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Winding Ways Quilt (Elm Creek Quilts, #12)</title>
+			<isbn>1416533141</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Lover's Knot</title>
+			<isbn>0778323226</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

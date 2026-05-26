@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>2</id>
+	<title>Harry Potter and the Order of the Phoenix (Harry Potter, #5)</title>
+	<isbn>0439358078</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Harry Potter is due to start his fifth year at Hogwarts School of Witchcraft and Wizardry. His best friends Ron and Hermione have been very secretive all summer and he is desperate to get back to school and find out what has been going on. However, what Harry discovers is far more devastating than he could ever have expected...&lt;br /&gt;&lt;br /&gt;Suspense, secrets and thrilling action from the pen of J.K. Rowling ensure an electrifying adventure that is impossible to put down.</description>
+	<average_rating>4.46</average_rating>
+	<num_pages>870</num_pages>
+	<similar_books>
+		<book>
+			<title>Child of the Prophecy (Sevenwaters, #3)</title>
+			<isbn>0765345013</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Gregor and the Marks of Secret (Underland Chronicles, #4)</title>
+			<isbn>0439791464</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Emperor Mage (Immortals, #3)</title>
+			<isbn>1416903372</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Queen of Attolia (The Queen's Thief, #2)</title>
+			<isbn>0060841826</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Wizard's Dilemma (Young Wizards, #5)</title>
+			<isbn>015205491X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Awakening (Sweep, #5)</title>
+			<isbn>0142300454</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>A Ring of Endless Light (Austin Family, #4)</title>
+			<isbn>0440910811</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>A Muralha de Gelo (As Crónicas de Gelo e Fogo #2)</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Black Heart (Curse Workers, #3)</title>
+			<isbn>1442403462</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Indigo Spell (Bloodlines, #3)</title>
+			<isbn>159514319X</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Atlantis Complex (Artemis Fowl, #7)</title>
+			<isbn>1423128192</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Demon's Covenant (The Demon's Lexicon, #2)</title>
+			<isbn>1416963812</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Syren (Septimus Heap, #5)</title>
+			<isbn>0747594155</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Haunted (The Mediator, #5)</title>
+			<isbn>0060751649</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Farthest-Away Mountain</title>
+			<isbn>0440419263</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dark Whispers (Unicorn Chronicles, #3)</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Curse of the Blue Tattoo: Being an Account of the Misadventures of Jacky Faber, Midshipman and Fine Lady (Bloody Jack, #2)</title>
+			<isbn>0152054596</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Subtle Knife (His Dark Materials, #2)</title>
+			<isbn>0679879250</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>302625</id>
+	<title>Nemesis</title>
+	<isbn>0553286285</isbn>
+	<publication_year>1990</publication_year>
+	<language_code>eng</language_code>
+	<description>In the twenty-third century pioneers have escaped the crowded earth for life in self-sustaining orbital colonies.  One of the colonies, Rotor, has broken away from the solar system to create its own renegade utopia around an unknown red star two light-years from Earth:  a star named Nemesis.  Now a fifteen-year-old Rotorian girl has learned of the dire threat that nemesis poses to Earth's people--but she is prevented from warning them.  Soon she will realize that Nemesis endangers Rotor as well.  And so it will be up to her alone to save both Earth and Rotor as--drawn inexorably by Nemesis, the death star--they hurtle toward certain disaster.</description>
+	<average_rating>3.75</average_rating>
+	<num_pages>386</num_pages>
+	<similar_books>
+		<book>
+			<title>Imperial Earth</title>
+			<isbn>1416504540</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Isaac Asimov's Caliban (Isaac Asimov's Caliban, #1)</title>
+			<isbn>0441004822</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Eternity (The Way, #2)</title>
+			<isbn>0446601888</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Cosm</title>
+			<isbn>1857237242</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Foundation's Triumph (Second Foundation Trilogy #3)</title>
+			<isbn>0061056391</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The World at the End of Time</title>
+			<isbn>0586212752</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Footfall</title>
+			<isbn>0345418425</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>To Sail Beyond the Sunset</title>
+			<isbn>0441748600</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Refuge (Isaac Asimov's Robot City, #5)</title>
+			<isbn>0743487168</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

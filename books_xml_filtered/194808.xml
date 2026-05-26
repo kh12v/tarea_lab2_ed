@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>194808</id>
+	<title>To Build a Fire</title>
+	<isbn>0968709184</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>To Build a Fire is one of Jack London's most beloved short stories. A heartbreaking tale set in the vast wintry landscape of the North, it endures as one of the greatest adventures ever written.</description>
+	<average_rating>3.92</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>The Open Boat</title>
+			<isbn>0871918269</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Man from the South</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Ransom of Red Chief</title>
+			<isbn>0194232158</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>An Occurrence at Owl Creek Bridge</title>
+			<isbn>0874068134</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Paul's Case</title>
+			<isbn>142547859X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Bet and Other Stories</title>
+			<isbn>0207188742</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Swimmer</title>
+			<isbn>0517125870</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>A Rose for Emily</title>
+			<isbn>1563127881</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Lady or the Tiger? And, the Discourager of Hesitancy</title>
+			<isbn>0874067987</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Scarlet Ibis: The Collection of Wonder</title>
+			<isbn>0886820006</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Rocking Horse Winner (Travelman Classics)</title>
+			<isbn>1860920071</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Celebrated Jumping Frog of Calaveras County</title>
+			<isbn>0318518899</isbn>
+			<publication_year>1965</publication_year>
+		</book>
+		<book>
+			<title>A Clean Well Lighted Place</title>
+			<isbn>0886823455</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Editha</title>
+			<isbn>0886825857</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Everyday Use</title>
+			<isbn>0813520762</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Birds of Prey #1</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Harrison Bergeron</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Young Goodman Brown</title>
+			<isbn>1557423628</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

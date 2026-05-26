@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>92163</id>
+	<title>Sarum: The Novel of England</title>
+	<isbn>0517223546</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>A masterpiece that is breathtaking in its scope, &lt;i&gt;SARUM&lt;/i&gt; is an epic novel that traces the entire turbulent course of English history. This rich tapestry weaves a compelling saga of five families who preserve their own particular characteristics over the centuries, and offer a fascinating glimpse into the future.</description>
+	<average_rating>4.07</average_rating>
+	<num_pages>912</num_pages>
+	<similar_books>
+		<book>
+			<title>The Reckoning  (Welsh Princes, #3)</title>
+			<isbn>0345378881</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Brothers of Gwynedd (Brothers of Gwynedd #1-4)</title>
+			<isbn>0747232679</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Grass Crown (Masters of Rome, #2)</title>
+			<isbn>038071082X</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Covenant</title>
+			<isbn>0749311614</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Seventh Son</title>
+			<isbn>0747268495</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Founding (The Morland Dynasty, #1)</title>
+			<isbn>0751503827</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Hugh and Bess: A Love Story</title>
+			<isbn>1402215274</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mary Queen of Scotland and The Isles</title>
+			<isbn>0312155859</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>I Am the Chosen King (Saxon #1)</title>
+			<isbn>140224066X</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

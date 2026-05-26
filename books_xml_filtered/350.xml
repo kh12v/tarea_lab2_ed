@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>350</id>
+	<title>Stranger in a Strange Land</title>
+	<isbn>0441788386</isbn>
+	<publication_year>1991</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;NAME: Valentine Michael Smith&lt;br /&gt;ANCESTRY: Human&lt;br /&gt;ORIGIN: Mars&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Valentine Michael Smith is a human being raised on Mars, newly returned to Earth. Among his people for the first time, he struggles to understand the social mores and prejudices of human nature that are so alien to him, while teaching them his own fundamental beliefs in grokking, watersharing, and love.</description>
+	<average_rating>3.91</average_rating>
+	<num_pages>528</num_pages>
+	<similar_books>
+		<book>
+			<title>Nightfall</title>
+			<isbn>0553290991</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Blue Mars (Mars Trilogy, #3)</title>
+			<isbn>0553573357</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>To Your Scattered Bodies Go (Riverworld, #1)</title>
+			<isbn>0345419677</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Titan (Gaea, #1)</title>
+			<isbn>0441813046</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>This Immortal</title>
+			<isbn>0671698486</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Collected Stories of Philip K. Dick 4: The Minority Report</title>
+			<isbn>0806512768</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Hominids (Neanderthal Parallax, #1)</title>
+			<isbn>0765345005</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Light of Other Days</title>
+			<isbn>0812576403</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dhalgren</title>
+			<isbn>0375706682</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Demolished Man</title>
+			<isbn>1857988221</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Ringworld (Ringworld, #1)</title>
+			<isbn>0575077026</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Way Station</title>
+			<isbn>0020248717</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Destination Void</title>
+			<isbn>042507465X</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Science Fiction Hall of Fame: Volume II A (The Science Fiction Hall of Fame, #2A)</title>
+			<isbn>0380000385</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Earth</title>
+			<isbn>055329024X</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Where Late the Sweet Birds Sang</title>
+			<isbn>0060146540</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Cyteen (Cyteen, #1-3)</title>
+			<isbn>0446671274</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

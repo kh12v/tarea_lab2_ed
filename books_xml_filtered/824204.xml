@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>824204</id>
+	<title>The Little Engine That Could</title>
+	<isbn>0448405202</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.15</average_rating>
+	<num_pages>48</num_pages>
+	<similar_books>
+		<book>
+			<title>The Saggy Baggy Elephant (A Little Golden Book)</title>
+			<isbn>0307021106</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Scuffy the Tugboat (Big Little Golden Book)</title>
+			<isbn>0307105474</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Mike Mulligan and His Steam Shovel</title>
+			<isbn>0395169615</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Is Your Mama a Llama?</title>
+			<isbn>0590259385</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Pat the Bunny</title>
+			<isbn>0307444058</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>It's a Busy, Busy World</title>
+			<isbn>0307655393</isbn>
+			<publication_year>1965</publication_year>
+		</book>
+		<book>
+			<title>The Three Billy Goats Gruff</title>
+			<isbn>0899190359</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Stone Soup</title>
+			<isbn>043933909X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears Get the Gimmies</title>
+			<isbn>0394805666</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Little Red Hen (Little Golden Book)</title>
+			<isbn>0307960307</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Curious George</title>
+			<isbn>039515023X</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>The Real Mother Goose</title>
+			<isbn>0590225170</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Little Red Caboose (Little Golden Book)</title>
+			<isbn>0307021521</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Danny and the Dinosaur (An I Can Read Book)</title>
+			<isbn>0064440028</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>A Pocket for Corduroy</title>
+			<isbn>067056172X</isbn>
+			<publication_year>1978</publication_year>
+		</book>
+		<book>
+			<title>The Runaway Bunny</title>
+			<isbn>0060775823</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Harry the Dirty Dog</title>
+			<isbn>0060268654</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Make Way for Ducklings</title>
+			<isbn>0670035386</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

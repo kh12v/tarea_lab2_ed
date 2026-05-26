@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>30597</id>
+	<title>The Hunchback of Notre-Dame</title>
+	<isbn>0451527887</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>This extraordinary historical novel, set in Medieval Paris under the twin towers of its greatest structure and supreme symbol, the cathedral of Notre-Dame, is the haunting drama of Quasimodo, the hunchback; Esmeralda, the gypsy dancer; and Claude Frollo, the priest tortured by the specter of his own damnation. Shaped by a profound sense of tragic irony, it is a work that gives full play to Victor Hugo's brilliant historical imagination and his remarkable powers of description.</description>
+	<average_rating>3.97</average_rating>
+	<num_pages>510</num_pages>
+	<similar_books>
+		<book>
+			<title>Nana (Les Rougon-Macquart, #9)</title>
+			<isbn>3746611091</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Queen Margot, or Marguerite de Valois (The Last Valois, #1)</title>
+			<isbn>0786880821</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Lost Illusions (La Comédie Humaine)</title>
+			<isbn>1406506583</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Charterhouse of Parma</title>
+			<isbn>0679783180</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Nun</title>
+			<isbn>0192804308</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Three Tales</title>
+			<isbn>0140448004</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Vanity Fair</title>
+			<isbn>0141439831</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Master of Ballantrae</title>
+			<isbn>0543896722</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Julie, or the New Heloise</title>
+			<isbn>0874518253</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

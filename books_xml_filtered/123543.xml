@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>123543</id>
+	<title>The Bourne Legacy (Jason Bourne, #4)</title>
+	<isbn>0312999526</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;JASON BOURNE RETURNS FROM THE SHADOWS AS THE WORLD'S #1 ASSASSIN…&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Once, Jason Bourne was notorious in the clandestine world of covert-ops as one of the CIA's most expert international killers for hire. Out of the ashes of his violent past he's emerged today as a Georgetown professor, living a quiet life, retired from danger—until he narrowly escapes the bullet of a faceless assassin. And when two of Bourne's closest associates are murdered, Bourne knows that his legacy has followed him—and set him up as prime suspect for the brutal crimes.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;AND THE WORLD'S #1 TARGET.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The quicksand of lies and betrayals is deeper than Bourne ever imagined. Hunted by the CIA as a dangerous rogue agent, he has only one option to stay alive—and one last chance to stay one step ahead of an unseen assailant whose vengeance is personal. Pursued across the globe, Bourne's on the run, and on the edge of discovering the truth—that he's become the expendable pawn in an international terrorist plot. One that's taking every living witness with it and plunging Bourne one step closer to the world-shattering consequences of…&lt;br /&gt;&lt;br /&gt;&lt;b&gt;THE BOURNE LEGACY&lt;/b&gt;</description>
+	<average_rating>3.86</average_rating>
+	<num_pages>597</num_pages>
+	<similar_books>
+		<book>
+			<title>The Bancroft Strategy</title>
+			<isbn>0312316739</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Altman Code (Covert-One, #4)</title>
+			<isbn />
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Lazarus Vendetta (Covert-One, #5)</title>
+			<isbn>0312990723</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Arctic Event (Covert-One, #7)</title>
+			<isbn>0446699071</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

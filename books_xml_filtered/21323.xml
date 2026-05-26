@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>21323</id>
+	<title>Cold Fire / Hideaway / The Key to Midnight</title>
+	<isbn>0399146261</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>A collection of three previously published Koontz novels. This will be the first time The Key To Midnight will be available in hardcover.</description>
+	<average_rating>4.16</average_rating>
+	<num_pages>784</num_pages>
+	<similar_books>
+		<book>
+			<title>The Dean Koontz Companion</title>
+			<isbn>0425141357</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Dean Koontz's Frankenstein, Volume 1: Prodigal Son</title>
+			<isbn>0345506405</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Darkness</title>
+			<isbn>0553297260</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Chase</title>
+			<isbn>0747235252</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Hellfire Club</title>
+			<isbn>0345477278</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Fifth Dominion (Imajica Part #1/2)</title>
+			<isbn>0061094145</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Roadwork</title>
+			<isbn>0451197879</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Mine</title>
+			<isbn>0671739441</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Stand: Soul Survivors</title>
+			<isbn>0785136223</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Stephen King Universe</title>
+			<isbn>1580631606</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Audrey Rose</title>
+			<isbn>0446324825</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Stephen King Companion</title>
+			<isbn>0836279786</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+	</similar_books>
+</book>

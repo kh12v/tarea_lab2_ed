@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>420297</id>
+	<title>Curious George</title>
+	<isbn>039515023X</isbn>
+	<publication_year>1969</publication_year>
+	<language_code>en-CA</language_code>
+	<description>The first adventure in this highly popular series tells how the little monkey Curious George, caught in the jungle and brought back to the city by a man in a yellow hat, can't help being interested in all the new things around him. Though well meaning, George's curiosity always gets him into trouble. Young readers can easily relate, and Rey's cheerful illustrations celebrate Curious George's innocence.</description>
+	<average_rating>4.13</average_rating>
+	<num_pages>48</num_pages>
+	<similar_books>
+		<book>
+			<title>Curious George Goes to the Hospital</title>
+			<isbn>0395181585</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Inside the Human Body (The Magic School Bus, #3)</title>
+			<isbn>0590414275</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Little Engine That Could</title>
+			<isbn>0448405202</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Clifford the Big Red Dog</title>
+			<isbn>059044297X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears No Girls Allowed</title>
+			<isbn>0394873319</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Story of Babar</title>
+			<isbn>0394805755</isbn>
+			<publication_year>1937</publication_year>
+		</book>
+		<book>
+			<title>Eloise </title>
+			<isbn>067122350X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Frog and Toad Are Friends (Frog and Toad, #1)</title>
+			<isbn>0064440206</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Amelia Bedelia  (Amelia Bedelia #1)</title>
+			<isbn>0064441555</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Story About Ping</title>
+			<isbn>0448421658</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Just for You (Little Critter)</title>
+			<isbn>030711838X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Lyle, Lyle, Crocodile</title>
+			<isbn>0395137209</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Scuffy the Tugboat (Big Little Golden Book)</title>
+			<isbn>0307105474</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Little Bear</title>
+			<isbn>0590319671</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Little House</title>
+			<isbn>0395181569</isbn>
+			<publication_year>1942</publication_year>
+		</book>
+	</similar_books>
+</book>

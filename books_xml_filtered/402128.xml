@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>402128</id>
+	<title>Old Possum's Book of Practical Cats</title>
+	<isbn>0151686564</isbn>
+	<publication_year>1982</publication_year>
+	<language_code>en-US</language_code>
+	<description>T. S. Eliot's playful cat poems have delighted readers and cat lovers around the world ever since they were first published in 1939. They were originally composed for his godchildren, with Eliot posing as Old Possum himself, and later inspired the legendary musical &lt;i&gt;Cats.&lt;/i&gt;</description>
+	<average_rating>4.09</average_rating>
+	<num_pages>56</num_pages>
+	<similar_books>
+		<book>
+			<title>Poetry for Cats: The Definitive Anthology of Distinguished Feline Verse</title>
+			<isbn>0679435824</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Complete Verse and Other Nonsense</title>
+			<isbn>0142002275</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Making Cocoa for Kingsley Amis</title>
+			<isbn>0571137474</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Amphigorey Too (Amphigorey, #2)</title>
+			<isbn>0399504206</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tell Me the Truth about Love</title>
+			<isbn>0571202608</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Rattle Bag</title>
+			<isbn>057111976X</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Kid</title>
+			<isbn>0571166075</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The School for Cats</title>
+			<isbn>159017173X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Angus and the Cat</title>
+			<isbn>0374403821</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>High Windows</title>
+			<isbn>0571114512</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>Archy and Mehitabel</title>
+			<isbn>0385094787</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Donald Has a Difficulty</title>
+			<isbn>0810948354</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The War Poems</title>
+			<isbn>0571202659</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Collected Poems</title>
+			<isbn>0060908890</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Bat-Poet</title>
+			<isbn>0062050842</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

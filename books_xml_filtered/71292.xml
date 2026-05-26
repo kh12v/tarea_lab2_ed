@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>71292</id>
+	<title>Asterix the Gaul (Asterix, #1)</title>
+	<isbn>0752866052</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>The year is 50BC, and all Gaul is occupied. Only one small village of indomitable Gauls still holds out against the invaders. But how much longer can Asterix, Obelix and their friends resist the mighty Roman legions of Julius Caesar? Anything is possible, with a little cunning plus the druid Getafix's magic potions! Their effects can be truly hair-raising...</description>
+	<average_rating>4.18</average_rating>
+	<num_pages>48</num_pages>
+	<similar_books>
+		<book>
+			<title>Asterix and the Great Divide (Asterix #25)</title>
+			<isbn>0752847732</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Red Rackham's Treasure (Tintin, #12)</title>
+			<isbn>1405206233</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Le Nid des Marsupilamis (Spirou et Fantasio, #12)</title>
+			<isbn>2800100141</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Le Daily Star (Lucky Luke)</title>
+			<isbn>2205026925</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

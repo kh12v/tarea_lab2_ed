@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>7668</id>
+	<title>Rising Sun</title>
+	<isbn>0606298231</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>In a novel set within the arena of volatile Japanese-American relations, business moguls compete for control of the international electronics industry.</description>
+	<average_rating>3.61</average_rating>
+	<num_pages>399</num_pages>
+	<similar_books>
+		<book>
+			<title>Binary</title>
+			<isbn>1783291257</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Wild Town</title>
+			<isbn>0316404047</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Clandestine</title>
+			<isbn>0380805294</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Union Club Mysteries</title>
+			<isbn>0449205258</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Red Fox</title>
+			<isbn>0140083987</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Magdalene Scrolls</title>
+			<isbn>0380454769</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Be Cool (Chili Palmer, #2)</title>
+			<isbn>0141020482</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Debt of Honor (Jack Ryan Universe, #8)</title>
+			<isbn>0425147584</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>825</id>
+	<title>Zodiac</title>
+	<isbn>0553573861</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Sangaman Taylor is Boston's modern-day Paul Revere, spreading the word from a 40-horsepower Zodiac raft. Embarrassing powerful corporations in highly telegenic ways is the perfect method of making enemies, and Taylor has a collection that would do any rabble-rouser proud.</description>
+	<average_rating>3.70</average_rating>
+	<num_pages>308</num_pages>
+	<similar_books>
+		<book>
+			<title>Heavy Weather</title>
+			<isbn>055357292X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>All Tomorrow's Parties (Bridge, #3)</title>
+			<isbn>0425190447</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Wetware (Ware #2)</title>
+			<isbn>0380701782</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Roadmarks</title>
+			<isbn>0345345150</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Eternal Prison (Avery Cates, #3)</title>
+			<isbn>031602211X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Headcrash</title>
+			<isbn>0446673145</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Glasshouse</title>
+			<isbn>0441014038</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Antarctica</title>
+			<isbn>0553574027</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Quarantine (Subjective Cosmology #1)</title>
+			<isbn>0061054232</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

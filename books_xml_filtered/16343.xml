@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>16343</id>
+	<title>The Mysterious Affair at Styles (Hercule Poirot, #1)</title>
+	<isbn>0646418432</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Poirot, a Belgian refugee of the Great War, is settling in England near the home of Emily Inglethorp, who helped him to his new life. His friend Hastings arrives as a guest at her home. When the woman is killed, Poirot uses his detective skills to solve the mystery.</description>
+	<average_rating>3.98</average_rating>
+	<num_pages>294</num_pages>
+	<similar_books>
+		<book>
+			<title>Unnatural Death (Lord Peter Wimsey, #3)</title>
+			<isbn>0061043583</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Death in a White Tie (Roderick Alleyn, #7)</title>
+			<isbn>0006512577</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Police at the Funeral (Albert Campion Mystery #4)</title>
+			<isbn>009950734X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Circular Staircase</title>
+			<isbn>0809593475</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

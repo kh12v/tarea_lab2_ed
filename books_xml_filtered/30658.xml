@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>30658</id>
+	<title>Meditations on First Philosophy</title>
+	<isbn>0872201929</isbn>
+	<publication_year>1993</publication_year>
+	<language_code>eng</language_code>
+	<description>Descartes's &lt;i&gt;Meditations on First Philosophy&lt;/i&gt;, the fundamental and originating work of the modern era in Western philosophy, is presented here in Donald Cress's completely revised edition of his well-established translation, bringing this version even closer to Descartes's original, while maintaining its clear and accessible style.</description>
+	<average_rating>3.69</average_rating>
+	<num_pages>59</num_pages>
+	<similar_books>
+		<book>
+			<title>Meno</title>
+			<isbn>0915144247</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Three Dialogues Between Hylas and Philonous</title>
+			<isbn>0915144611</isbn>
+			<publication_year>1979</publication_year>
+		</book>
+		<book>
+			<title>An Enquiry Concerning Human Understanding</title>
+			<isbn>1420926993</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Prolegomena to Any Future Metaphysics</title>
+			<isbn>0872205932</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>An Essay Concerning Human Understanding</title>
+			<isbn>1406790273</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Philosophical Essays</title>
+			<isbn>0872200620</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Theological-Political Treatise</title>
+			<isbn>0872206076</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Utilitarianism</title>
+			<isbn>087220605X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Discourse on the Origin of Inequality</title>
+			<isbn>0486434141</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Word and Object</title>
+			<isbn>0262670011</isbn>
+			<publication_year>1964</publication_year>
+		</book>
+		<book>
+			<title>Metaphysics</title>
+			<isbn>1888009039</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

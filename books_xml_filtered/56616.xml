@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>56616</id>
+	<title>Double Indemnity</title>
+	<isbn>0679723226</isbn>
+	<publication_year>1989</publication_year>
+	<language_code>eng</language_code>
+	<description>Tautly narrated and excruciatingly suspenseful, &lt;b&gt;Double Indemnity&lt;/b&gt; gives us an X-ray view of guilt, of duplicity, and of the kind of obsessive, loveless love that devastates everything it touches. First published in 1935, this novel reaffirmed James M. Cain as a virtuoso of the &lt;i&gt;roman noir&lt;/i&gt;.</description>
+	<average_rating>4.12</average_rating>
+	<num_pages>115</num_pages>
+	<similar_books>
+		<book>
+			<title>The Grifters</title>
+			<isbn>0316404055</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Shoot the Piano Player</title>
+			<isbn>0679732543</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Bride Wore Black</title>
+			<isbn>0743413164</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Glass Key</title>
+			<isbn>0752851330</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Drowning Pool (Vintage Crime/Black Lizard)</title>
+			<isbn>0679768068</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>In a Lonely Place</title>
+			<isbn>1558614559</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Big Clock</title>
+			<isbn>1590171810</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The High Window (Philip Marlowe, #3)</title>
+			<isbn>0394758269</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Hot Spot</title>
+			<isbn>0679733299</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>They Shoot Horses, Don't They?</title>
+			<isbn>185242401X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

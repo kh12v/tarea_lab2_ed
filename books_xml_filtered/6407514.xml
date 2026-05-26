@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>6407514</id>
+	<title>Forest Born (The Books of Bayern, #4)</title>
+	<isbn>1599901676</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.01</average_rating>
+	<num_pages>389</num_pages>
+	<similar_books>
+		<book>
+			<title>Dragon Spear (Dragon Slippers, #3)</title>
+			<isbn>1599903695</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Princess Ben</title>
+			<isbn>0618959718</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Dragon Kiss (The Tales of the Frog Princess, #7)</title>
+			<isbn>1599903482</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Princess and the Bear (The Hound Saga, #2)</title>
+			<isbn>006155314X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Posse of Princesses</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Thirteenth Princess</title>
+			<isbn>0061824992</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Secondhand Charm</title>
+			<isbn>1599905116</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Before Midnight: A Retelling of Cinderella (Once Upon a Time, #11)</title>
+			<isbn>1416934715</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Cybele's Secret (Wildwood, #2)</title>
+			<isbn>037583365X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Palace of Mirrors (The Palace Chronicles, #2)</title>
+			<isbn>1416939156</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Truth-Teller's Tale (Safe-Keepers, #2)</title>
+			<isbn>0142407844</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

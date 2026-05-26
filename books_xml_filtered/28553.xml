@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>28553</id>
+	<title>Dragondrums (Harper Hall, #3)</title>
+	<isbn>0689860064</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;Dragondrums&lt;/i&gt; is the coming of age story of Piemur, a small, quick, clever apprentice at Harper Hall. When Piemur's clear treble voice changes at puberty, his place among the Harpers is no longer certain.</description>
+	<average_rating>4.04</average_rating>
+	<num_pages>243</num_pages>
+	<similar_books>
+		<book>
+			<title>The People of Pern</title>
+			<isbn>0898656354</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Atlas of Pern</title>
+			<isbn>0345314344</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Dragonlover's Guide to Pern</title>
+			<isbn>0345412745</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Forbidden Tower (Darkover, #12)</title>
+			<isbn>0727845896</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Anne McCaffrey's Dragonflight #2</title>
+			<isbn>1560600756</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Dragonholder: The Life and Dreams (So Far) of Anne McCaffrey</title>
+			<isbn>0345422171</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Arrow's Fall (Heralds of Valdemar, #3)</title>
+			<isbn>0886774004</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>512475</id>
+	<title>The Cradle Will Fall</title>
+	<isbn>0743484274</isbn>
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description>This hospital-based horror tale features abduction and a research project that violates every principle of modern medicine. This is a reissue of a novel by a popular author often described as the 'Queen of Suspense'.</description>
+	<average_rating>3.89</average_rating>
+	<num_pages>314</num_pages>
+	<similar_books>
+		<book>
+			<title>Silent Night: The Remarkable Christmas Truce of 1914</title>
+			<isbn>0743450302</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Iced  (Regan Reilly Mysteries, #3)</title>
+			<isbn>0446601985</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Let Me Whisper In Your Ear (KEY News #3)</title>
+			<isbn>0312938098</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Fiesta Moon (Moonstruck #2)</title>
+			<isbn>0785260633</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tell Me No Secrets</title>
+			<isbn>0380721228</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Lady Here's Your Wreath</title>
+			<isbn>0786258357</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Double, Double  (Ellery Queen Detective, #21)</title>
+			<isbn>0345244311</isbn>
+			<publication_year>1975</publication_year>
+		</book>
+		<book>
+			<title>The Stone Bull </title>
+			<isbn>019771921X</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+	</similar_books>
+</book>

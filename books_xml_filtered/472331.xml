@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>472331</id>
+	<title>Watchmen</title>
+	<isbn>0930289234</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>en-US</language_code>
+	<description>This Hugo Award-winning graphic novel chronicles the fall from grace of a group of super-heroes plagued by all-too-human failings. Along the way, the concept of the super-hero is dissected as the heroes are stalked by an unknown assassin.&lt;br /&gt;&lt;br /&gt;One of the most influential graphic novels of all time and a perennial best-seller, &lt;i&gt;Watchmen&lt;/i&gt; has been studied on college campuses across the nation and is considered a gateway title, leading readers to other graphic novels such as &lt;i&gt;V for Vendetta&lt;/i&gt;, &lt;i&gt;Batman: The Dark Knight Returns&lt;/i&gt; and &lt;i&gt;The Sandman&lt;/i&gt; series.</description>
+	<average_rating>4.35</average_rating>
+	<num_pages>416</num_pages>
+	<similar_books>
+		<book>
+			<title>The Wake (The Sandman #10)</title>
+			<isbn>1563892871</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Planetary, Volume 2: The Fourth Man</title>
+			<isbn>1563897644</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Y: The Last Man, Vol. 3: One Small Step (Y: The Last Man, #3)</title>
+			<isbn>1401202012</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Fables, Vol. 5: The Mean Seasons</title>
+			<isbn>1401204864</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Preacher, Volume 9: Alamo</title>
+			<isbn>1563897156</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sin City, Vol. 3: The Big Fat Kill (Sin City, #3)</title>
+			<isbn>1593072953</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Invisibles, Vol. 4: Bloody Hell in America</title>
+			<isbn>1563894440</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

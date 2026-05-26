@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>770040</id>
+	<title>Llama Llama Mad at Mama</title>
+	<isbn>0670062405</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.28</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Bear Feels Sick</title>
+			<isbn>0689859856</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>How Do Dinosaurs Say I Love You?</title>
+			<isbn>0545143144</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Bears on Chairs</title>
+			<isbn>076363588X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Pete the Cat: Rocking in My School Shoes</title>
+			<isbn>0061910244</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Knuffle Bunny Free: An Unexpected Diversion (Knuffle Bunny, #3)</title>
+			<isbn>0061929573</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>When a Dragon Moves In</title>
+			<isbn>0979974674</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Who Ate All the Cookie Dough?</title>
+			<isbn>0805082670</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Read to Tiger</title>
+			<isbn>0670011401</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Love, Splat (Splat the Cat)</title>
+			<isbn>006083157X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Pigs Love Potatoes</title>
+			<isbn>0399240365</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Grumpy Bird</title>
+			<isbn>0439851475</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Perfect Nest</title>
+			<isbn>0763624306</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>LMNO Peas</title>
+			<isbn>1416991417</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Dooby Dooby Moo</title>
+			<isbn>0689845073</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

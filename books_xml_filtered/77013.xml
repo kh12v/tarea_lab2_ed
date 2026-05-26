@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>77013</id>
+	<title>As I Lay Dying</title>
+	<isbn>067973225X</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;As I Lay Dying&lt;/i&gt; is Faulkner's harrowing account of the Bundren family's odyssey across the Mississippi countryside to bury Addie, their wife and mother. Told in turns by each of the family members—including Addie herself—the novel ranges in mood from dark comedy to the deepest pathos.</description>
+	<average_rating>3.72</average_rating>
+	<num_pages>267</num_pages>
+	<similar_books>
+		<book>
+			<title>Studs Lonigan</title>
+			<isbn>1931082553</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Violent Bear It Away</title>
+			<isbn>0374505241</isbn>
+			<publication_year>1960</publication_year>
+		</book>
+		<book>
+			<title>The Archidamian War</title>
+			<isbn>0801497140</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>USA: The 42nd Parallel / 1919 / The Big Money</title>
+			<isbn>1883011140</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>A Bolt from the Blue and Other Essays</title>
+			<isbn>1590170105</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Nostromo</title>
+			<isbn>0486424529</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Augie March</title>
+			<isbn>0143039571</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Brigadoon (Vocal Score)</title>
+			<isbn>0769202225</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Novels, 1930-1942: Dance Night / Come Back to Sorrento / Turn, Magic Wheel / Angels on Toast / A Time to Be Born</title>
+			<isbn>1931082014</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Winesburg, Ohio</title>
+			<isbn>0192839772</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Art of Fiction</title>
+			<isbn>1172438099</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Treasure Hunt: A Little Bill Book</title>
+			<isbn>0590956183</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Zuleika Dobson</title>
+			<isbn>037575248X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Collected Stories</title>
+			<isbn>0156189216</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Dance to the Music of Time: 4th Movement (A Dance to the Music of Time, #10-12)</title>
+			<isbn>0226677184</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Orchard Keeper</title>
+			<isbn>0330314912</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Appointment in Samarra</title>
+			<isbn>0375719202</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Cane</title>
+			<isbn>0871401517</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

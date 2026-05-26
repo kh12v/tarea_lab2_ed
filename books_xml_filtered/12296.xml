@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>12296</id>
+	<title>The Scarlet Letter</title>
+	<isbn>0142437263</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>Set in the harsh Puritan community of seventeenth-century Boston, this tale of an adulterous entanglement that results in an illegitimate birth reveals Nathaniel Hawthorne's concerns with the tension between the public and the private selves. Publicly disgraced and ostracized, Hester Prynne draws on her inner strength and certainty of spirit to emerge as the first true heroine of American fiction. Arthur Dimmesdale, trapped by the rules of society, stands as a classic study of a self divided.</description>
+	<average_rating>3.37</average_rating>
+	<num_pages>238</num_pages>
+	<similar_books>
+		<book>
+			<title>Daniel Deronda</title>
+			<isbn>037576013X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Sister Carrie</title>
+			<isbn>0393960420</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Portrait of a Lady</title>
+			<isbn>0141439637</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Legend Of Sleepy Hollow and Rip Van Winkle</title>
+			<isbn>0893753483</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>The Riverside Shakespeare</title>
+			<isbn>0395754909</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Picture of Dorian Gray and Other Writings</title>
+			<isbn>0553212540</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Country of the Pointed Firs</title>
+			<isbn>156792140X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Hard Times</title>
+			<isbn>0321107217</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Red Badge of Courage and Other Stories </title>
+			<isbn>0143039350</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Walden and Other Writings (Modern Library Classics)</title>
+			<isbn>0679783342</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Moll Flanders</title>
+			<isbn>1853260738</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Typee: A Peep at Polynesian Life</title>
+			<isbn>0140434887</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Babbitt</title>
+			<isbn>142640607X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>A Connecticut Yankee in King Arthur's Court</title>
+			<isbn>1416534733</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Lorna Doone</title>
+			<isbn>0143039326</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Song of Myself</title>
+			<isbn>142092706X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Absentee</title>
+			<isbn>0140436456</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Way of All Flesh</title>
+			<isbn>0486434664</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

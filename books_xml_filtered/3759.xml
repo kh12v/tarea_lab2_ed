@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>3759</id>
+	<title>Goldfinger (James Bond, #7)</title>
+	<isbn>0142002046</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Auric Goldfinger, the most phenomenal criminal Bond has ever faced, is an evil genius who likes his cash in gold bars and his women dressed only in gold paint. After smuggling tons of gold out of Britain into secret vaults in Switzerland, this powerful villain is planning the biggest and most daring heist in history—robbing all the gold in Fort Knox. That is, unless Secret Agent 007 can foil his plan.&lt;br /&gt;&lt;br /&gt;In one of Ian Fleming's most popular adventures, James Bond tracks this most dangerous foe across two continents and takes on two of the most memorable villains ever created—a human weapon named Oddjob and a luscious female crime boss named Pussy Galore.</description>
+	<average_rating>3.80</average_rating>
+	<num_pages>264</num_pages>
+	<similar_books>
+		<book>
+			<title>For Special Services (John Gardner's Bond, #2)</title>
+			<isbn>0425058603</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Colonel Sun (James Bond, #15)</title>
+			<isbn>0786120762</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Doubleshot (James Bond, #4)</title>
+			<isbn>0515130613</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Devil May Care (James Bond, #36)</title>
+			<isbn>0385524285</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

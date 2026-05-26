@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>138069</id>
+	<title>The Three Pigs</title>
+	<isbn>0618007016</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.15</average_rating>
+	<num_pages>38</num_pages>
+	<similar_books>
+		<book>
+			<title>My Friend Rabbit</title>
+			<isbn>031236752X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Black and White</title>
+			<isbn>0618636870</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>So You Want to Be President?</title>
+			<isbn>0399243178</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Snowflake Bentley</title>
+			<isbn>0395861624</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Hey, Al</title>
+			<isbn>0374330603</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Frog Went a-Courtin'</title>
+			<isbn>0156339005</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Smoky Night</title>
+			<isbn>0152018840</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Lion and the Mouse</title>
+			<isbn>0316013560</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Joseph Had a Little Overcoat</title>
+			<isbn>0670878553</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Many Moons</title>
+			<isbn>0152518738</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Man Who Walked Between the Towers</title>
+			<isbn>0439700418</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Golem</title>
+			<isbn>0395726182</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Lon Po Po: A Red-Riding Hood Story from China</title>
+			<isbn>0399216197</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Red Book</title>
+			<isbn>0618428585</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>A Ball for Daisy</title>
+			<isbn>037585861X</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Hello, Goodbye Window</title>
+			<isbn>0786809140</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Kitten's First Full Moon</title>
+			<isbn>0060588284</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Red Sings from Treetops: A Year in Colors</title>
+			<isbn>0547014945</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

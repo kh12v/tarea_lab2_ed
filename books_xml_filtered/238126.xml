@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>238126</id>
+	<title>Immortal in Death (In Death, #3)</title>
+	<isbn>0749934085</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>When Police Lieutenant Eve Dallas investigates the murder of a top model, she is putting her career on the line, because the prime suspect is her best friend. Eve's investigations lead her into the glamorous world of high fashion.</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>345</num_pages>
+	<similar_books>
+		<book>
+			<title>Remember When (In Death, #17.5)</title>
+			<isbn>0399151060</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Don't Look Down (Samantha Jellicoe, #2)</title>
+			<isbn>0060593644</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Gone Too Far (Troubleshooters, #6)</title>
+			<isbn>0345456939</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Naked Edge (I-Team, #4)</title>
+			<isbn>0425219763</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Fatal Deception (Fatal, #5)</title>
+			<isbn>1426894864</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Heart of Fire</title>
+			<isbn>0671019740</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Deadly Fear (Deadly, #1)</title>
+			<isbn>0446559245</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Orchid (St. Helen's, #3)</title>
+			<isbn>0671569023</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

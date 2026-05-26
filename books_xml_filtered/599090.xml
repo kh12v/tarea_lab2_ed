@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<book>
+	<id>599090</id>
+	<title>A New Hope  (Star Wars: Novelizations #4)</title>
+	<isbn>1857239407</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;blockquote&gt;
+  &lt;b&gt;Luke Skywalker challenged the stormtroopers of a distant galaxy on a daring mission - where a force of life became the power of death!&lt;/b&gt;
+&lt;/blockquote&gt;Luke Skywalker was a twenty-year-old who lived and worked on his uncle's farm on the remote planet of Tatooine ... and he was bored beyond belief. He yearned for adventures out among the stars—adventures that would take him beyond the farthest galaxies to distant and alien worlds.&lt;p&gt;But Luke got more than he bargained for when he intercepted a cryptic message from a beautiful princess held captive by a dark and powerful warlord. Luke didn't know who she was, but he knew he had to save her—and soon, because time was running out.&lt;/p&gt;&lt;p&gt;Armed only with courage and with the light saber that had been his father's, Luke was catapulted into the middle of the most savage space war ever ... and he was headed straight for a desperate encounter on the enemy battle station known as the Death Star!&lt;/p&gt;</description>
+	<average_rating>4.07</average_rating>
+	<num_pages>247</num_pages>
+	<similar_books>
+		<book>
+			<title>Return of the Jedi</title>
+			<isbn>0345307674</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Empire Strikes Back (Star Wars - Episode V)</title>
+			<isbn>0345283929</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Star Wars - Episode II: Attack of the Clones</title>
+			<isbn>0099410575</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Star Wars: Episode III - Revenge of the Sith</title>
+			<isbn>0345428838</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Jedi Healer (Medstar, #2)</title>
+			<isbn>0345463110</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Mandalorian Armor (Star Wars: The Bounty Hunter Wars, #1)</title>
+			<isbn>0553578855</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Survivor's Quest (Star Wars)</title>
+			<isbn>0099472635</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Han Solo and the Lost Legacy (Star Wars: The Han Solo Adventures, #3)</title>
+			<isbn>0345345142</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Star Wars - Episode I: The Phantom Menace</title>
+			<isbn>0099409968</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Heirs of the Force (Star Wars: Young Jedi Knights, #1)</title>
+			<isbn>0425169499</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Iron Fist (Star Wars: X-Wing, #6)</title>
+			<isbn>0553578979</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The New Rebellion (Star Wars)</title>
+			<isbn>0553574140</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Yoda: Dark Rendezvous</title>
+			<isbn>0345463099</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Tales from the Empire (Star Wars)</title>
+			<isbn>0553578766</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Isard's Revenge (Star Wars: X-Wing, #8)</title>
+			<isbn>0553506889</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shadows of the Empire (Star Wars)</title>
+			<isbn>0553574132</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

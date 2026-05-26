@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>10803121</id>
+	<title>The Alloy of Law (Mistborn, #4)</title>
+	<isbn>0765330423</isbn>
+	<publication_year>2011</publication_year>
+	<language_code>eng</language_code>
+	<description>Centuries after the Mistborn trilogy, Scadrial is on the verge of modernity - railroads, electric street lights, and skyscrapers. Waxillium Ladrian can Push on metals with his Allomancy and use Feruchemy to become lighter or heavier at will. After 20 years in the dusty Roughs, in the city of Elendel, the new head of a noble house may need to keep his guns.</description>
+	<average_rating>4.20</average_rating>
+	<num_pages>332</num_pages>
+	<similar_books>
+		<book>
+			<title>Wintertide (The Riyria Revelations, #5)</title>
+			<isbn>0982514581</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Forsworn (Powder Mage, #0.1)</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Daylight War (Demon Cycle, #3)</title>
+			<isbn>0345503821</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Broken Eye (Lightbringer, #3)</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>A Memory of Light (Wheel of Time, #14)</title>
+			<isbn>0765325950</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Tyrant's Law (The Dagger and the Coin, #3)</title>
+			<isbn>0316080705</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Princeps (Imager Portfolio, #5)</title>
+			<isbn>0765330954</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Bonehunters (Malazan Book of the Fallen, #6)</title>
+			<isbn>0553813153</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Academ's Fury (Codex Alera, #2)</title>
+			<isbn>0441013406</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Red Seas Under Red Skies (Gentleman Bastard, #2)</title>
+			<isbn>0553804685</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

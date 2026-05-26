@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<book>
+	<id>204045</id>
+	<title>Naruto, Vol. 05: Exam Hell (Naruto, #5)</title>
+	<isbn>1591163595</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>The three ninja-in-training have signed up for the Chūnin Selection Exams, which they must pass if they ever want to advance to the rank of full-fledged shinobi. They learn too late how grueling the exams are—and how dangerous. If the tests of skill, stealth, and battle prowess don't kill them, their fellow junior ninja will. And, since the three pass or fail as a group, they're only as strong as their weakest link: Naruto!</description>
+	<average_rating>4.44</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Bleach, Volume 10</title>
+			<isbn>1421500817</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>One Piece, Volume 02: Buggy the Clown (One Piece, #2)</title>
+			<isbn>159116057X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

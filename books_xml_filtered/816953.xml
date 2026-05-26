@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>816953</id>
+	<title>Someone Like You</title>
+	<isbn>0142401773</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Halley has always followed in the wake of her best friend, Scarlett. But when Scarlett learns that her boyfriend has been killed in a motorcycle accident, and that she's carrying his baby, she's devastated. For the first time ever, Scarlett really needs Halley. Their friendship may bend under the weight, but it'll never break—because a true friendship is a promise you keep forever.</description>
+	<average_rating>3.94</average_rating>
+	<num_pages>281</num_pages>
+	<similar_books>
+		<book>
+			<title>Take Me There</title>
+			<isbn>0670063339</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Charmed Thirds (Jessica Darling, #3)</title>
+			<isbn>1400080436</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Perfect You</title>
+			<isbn>1416953558</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Fortunes of Indigo Skye</title>
+			<isbn>1416910077</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Invitation Only (Private, #2)</title>
+			<isbn>1416918744</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Off Season (Dairy Queen, #2)</title>
+			<isbn>0618686959</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Last Summer (Summer Boys, #4)</title>
+			<isbn>0439867258</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cracked Up to Be</title>
+			<isbn>031238369X</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>We'll Always Have Summer (Summer, #3)</title>
+			<isbn>1416995587</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Pants on Fire</title>
+			<isbn>0060880155</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Just Like That</title>
+			<isbn>0803728409</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Saving Zoë</title>
+			<isbn>0312355106</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

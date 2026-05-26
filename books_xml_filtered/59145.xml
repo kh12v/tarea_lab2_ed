@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>59145</id>
+	<title>Père Goriot</title>
+	<isbn>039397166X</isbn>
+	<publication_year>1997</publication_year>
+	<language_code>en-US</language_code>
+	<description>'Pere Goriot' is the tragic story of a father whose obsessive love for his two daughters leads to his financial and personal ruin. Interwoven with this theme is that of the impoverished young aristocrat, Rastignac, come to Paris from the provinces to make his fortune, who befriends Goriot and becomes involved with the daughters. The story is set against the background of a whole society driven by social ambition and lust for money.'</description>
+	<average_rating>3.82</average_rating>
+	<num_pages>370</num_pages>
+	<similar_books>
+		<book>
+			<title>L'Assommoir (The Dram Shop) (Les Rougon-Macquart, #7)</title>
+			<isbn>0140447539</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Three Tales</title>
+			<isbn>0140448004</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Charterhouse of Parma</title>
+			<isbn>0679783180</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Jacques the Fatalist</title>
+			<isbn>0192838741</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Pierre et Jean</title>
+			<isbn>0543898466</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Princesse de Clèves</title>
+			<isbn>0192837265</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Counterfeiters</title>
+			<isbn>0394718429</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Gautier Récits Fantastiques</title>
+			<isbn>2081207214</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>La confession d'un enfant du siècle</title>
+			<isbn>0543897788</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

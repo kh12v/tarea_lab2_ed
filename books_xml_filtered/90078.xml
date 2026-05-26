@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>90078</id>
+	<title>An Essay Concerning Human Understanding</title>
+	<isbn>1406790273</isbn>
+	<publication_year>2007</publication_year>
+	<language_code />
+	<description>John Locke is widely regarded as the father of classical liberalism. This essay was groundbreaking in its approach to foundation of human knowledge and understanding, he describes the mind at birth as a blank slate filled later through experience, the essay became the principle sources of empiricism in modern philosophy and influenced many enlightenment philosophers. Many of the earliest books, particularly those dating back to the 1900s and before, are now extremely scarce and increasingly expensive. Pomona Press are republishing these classic works in affordable, high quality, modern editions, using the original text and artwork.</description>
+	<average_rating>3.82</average_rating>
+	<num_pages>384</num_pages>
+	<similar_books>
+		<book>
+			<title>Principles of Human Knowledge &amp; Three Dialogues Between Hylas and Philonous</title>
+			<isbn>0140432930</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>A Treatise of Human Nature</title>
+			<isbn>1406927554</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Philosophical Essays</title>
+			<isbn>0872200620</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Prolegomena to Any Future Metaphysics</title>
+			<isbn>0872205932</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Meditations on First Philosophy: With Selections from the Objections and Replies (Cambridge Texts in the History of Philosophy)</title>
+			<isbn>0521558182</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The New Organon</title>
+			<isbn>0521564832</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Word and Object</title>
+			<isbn>0262670011</isbn>
+			<publication_year>1964</publication_year>
+		</book>
+		<book>
+			<title>The Philosophy of History</title>
+			<isbn>0486437558</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Metaphysics</title>
+			<isbn>1888009039</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Ethics</title>
+			<isbn>0140435719</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Principia Ethica (Philosophical Classics)</title>
+			<isbn>0486437523</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Meno</title>
+			<isbn>0915144247</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Naming and Necessity</title>
+			<isbn>0674598466</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+	</similar_books>
+</book>

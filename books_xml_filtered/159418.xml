@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<book>
+	<id>159418</id>
+	<title>Discourse on Method</title>
+	<isbn>0872204227</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>By far the most widely used translation in North American college classrooms, Donald A. Cress's translation from the French of the Adam and Tannery critical edition is prized for its accuracy, elegance, and economy. The translation featured in the Third Edition has been thoroughly revised from the 1979 First Edition and includes page references to the critical edition for ease of comparison.</description>
+	<average_rating>3.70</average_rating>
+	<num_pages>58</num_pages>
+	<similar_books>
+		<book>
+			<title>A Treatise Concerning the Principles of Human Knowledge</title>
+			<isbn>1420926985</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Critique of Practical Reason (Texts in the History of Philosophy)</title>
+			<isbn>0521599628</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Meno</title>
+			<isbn>0915144247</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>Theological-Political Treatise</title>
+			<isbn>0872206076</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Metaphysics</title>
+			<isbn>1888009039</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Pensées</title>
+			<isbn>0140446451</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The New Organon</title>
+			<isbn>0521564832</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>An Enquiry Concerning the Principles of Morals</title>
+			<isbn>0915145456</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Discourse on the Origin of Inequality</title>
+			<isbn>0486434141</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>An Essay Concerning Human Understanding</title>
+			<isbn>1406790273</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Spirit of the Laws (Cambridge Texts in the History of Political Thought)</title>
+			<isbn>0521369746</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Epitome of Copernican Astronomy and Harmonies of the World</title>
+			<isbn>1573920363</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>On The Revolutions of Heavenly Spheres (On the Shoulders of Giants)</title>
+			<isbn>0762420219</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Philosophical Essays</title>
+			<isbn>0872200620</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Philosophy of History</title>
+			<isbn>0486437558</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

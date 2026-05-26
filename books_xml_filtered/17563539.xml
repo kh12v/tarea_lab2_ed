@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>17563539</id>
+	<title>The Egg</title>
+	<isbn />
+	<publication_year>2009</publication_year>
+	<language_code>eng</language_code>
+	<description>A short story about the universe.</description>
+	<average_rating>4.13</average_rating>
+	<num_pages>4</num_pages>
+	<similar_books>
+		<book>
+			<title>They're Made Out of Meat</title>
+			<isbn />
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Other People</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Last Answer</title>
+			<isbn />
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>The Star</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Lady Astronaut of Mars</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Memento mori</title>
+			<isbn />
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Brimstone and Marmalade</title>
+			<isbn>1466856394</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Exhalation</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Language of Knives</title>
+			<isbn />
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>The Last Night of the World</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Heads Will Roll (Necromancer, #0.1)</title>
+			<isbn>1466834013</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>In the Sight of Akresa</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Burning Girls</title>
+			<isbn>1466848057</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The End of the Party</title>
+			<isbn />
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>A Kiss With Teeth</title>
+			<isbn>146688455X</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Mimsy Were the Borogoves</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Fireflies</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Tlön, Uqbar, Orbis Tertius</title>
+			<isbn>0889840725</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+	</similar_books>
+</book>

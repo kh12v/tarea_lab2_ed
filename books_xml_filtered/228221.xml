@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>228221</id>
+	<title>The Mask</title>
+	<isbn>0425127583</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>She had appeared out of nowhere...in the middle of traffic, on a busy day, in front of Carol's car. A teenager with no past, no family - and no memories. Carol and Paul were instantly drawn to her, this girl they named Jane - she was the daughter they never had. It was almost too good to be true.</description>
+	<average_rating>3.75</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Vision</title>
+			<isbn>0425098605</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Face of Fear</title>
+			<isbn>042511984X</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Shadowfires</title>
+			<isbn>0380752136</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Shattered</title>
+			<isbn>0425099334</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Icebound</title>
+			<isbn>0553582909</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

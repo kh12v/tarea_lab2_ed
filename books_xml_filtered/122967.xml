@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>122967</id>
+	<title>The Ugly Duckling</title>
+	<isbn>068815932X</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>For over one hundred years The Ugly Duckling has been a childhood favorite, and Jerry Pinkney's spectacular new adaptation brings it triumphantly to new generations of readers. With keen emotion and fresh vision, the acclaimed artist captures the essence of the tale's timeless appeal: The journey of the awkward little bird -- marching bravely through hecklers, hunters, and cruel seasons -- is an unforgettable survival story; this blooming into a graceful swan is a reminder of the patience often necessary to discover true happiness. Splendid watercolors set in the lush countryside bring drama to life.</description>
+	<average_rating>4.10</average_rating>
+	<num_pages>40</num_pages>
+	<similar_books>
+		<book>
+			<title>The Princess and the Pea</title>
+			<isbn>0823404420</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Noah's Ark</title>
+			<isbn>1587172011</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Little Red Riding Hood</title>
+			<isbn>0823404706</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Thumbelina</title>
+			<isbn>0803728123</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Puss in Boots</title>
+			<isbn>0374460345</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Hansel and Gretel</title>
+			<isbn>0888992122</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Rumpelstiltskin</title>
+			<isbn>0140558640</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Faithful Friend</title>
+			<isbn>0027861317</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Snow White and the Seven Dwarfs (Little Golden Book)</title>
+			<isbn>0736421866</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Hot Air: The (Mostly) True Story of the First Hot-Air Balloon Ride</title>
+			<isbn>0689826427</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Child's Calendar</title>
+			<isbn>0823417662</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Three Billy Goats Gruff</title>
+			<isbn>0899190359</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>The Stray Dog</title>
+			<isbn>0439442540</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Bremen Town Musicians</title>
+			<isbn>0698400429</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Dinosaurs of Waterhouse Hawkins</title>
+			<isbn>0439114942</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Goldilocks and the Three Bears</title>
+			<isbn>0803705425</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Gone Wild: An Endangered Animal Alphabet</title>
+			<isbn>0802795633</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Boy of the Three-Year Nap</title>
+			<isbn>0395440904</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+	</similar_books>
+</book>

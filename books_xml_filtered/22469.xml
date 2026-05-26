@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>22469</id>
+	<title>Wolverine: Origin</title>
+	<isbn>0785123288</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>Edición argentina que reentapa los 6 números de la miniserie Origin, con el origen del mutante Wolverine.</description>
+	<average_rating>3.96</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Wolverine: Weapon X (Marvel Premiere Classic)</title>
+			<isbn>078512327X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Wolverine: Origins, Volume 5: Deadpool</title>
+			<isbn>0785126392</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Wolverine: Enemy of the State, Volume 1</title>
+			<isbn>0785114920</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Essential Wolverine, Vol. 1</title>
+			<isbn>0785118675</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>X-Force, Volume 1: Angels And Demons</title>
+			<isbn>0785129766</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Secret War</title>
+			<isbn>0785113312</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Civil War: Wolverine</title>
+			<isbn>0785119809</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>X-Men: Magneto Testament</title>
+			<isbn>0785138234</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Astonishing X-Men, Volume 4: Unstoppable</title>
+			<isbn>0785122540</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>X-Men: Age of Apocalypse – The Complete Epic, Book 1</title>
+			<isbn>0785117148</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Wolverine, Volume 1: The Brotherhood</title>
+			<isbn>0785111360</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>X-Men: Second Coming</title>
+			<isbn>0785146784</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Daredevil, Vol. 1: Guardian Devil</title>
+			<isbn>0785107371</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

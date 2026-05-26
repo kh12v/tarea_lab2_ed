@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>12857</id>
+	<title>The Gambler</title>
+	<isbn>0812966937</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>In this dark and compelling short novel, Fyodor Dostoevsky tells the story of Alexey Ivanovitch, a young tutor working in the household of an imperious Russian general. Alexey tries to break through the wall of the established order in Russia, but instead becomes mired in the endless downward spiral of betting and loss. His intense and inescapable addiction is accentuated by his affair with the General’s cruel yet seductive niece, Polina. In &lt;i&gt;The Gambler&lt;/i&gt;, Dostoevsky reaches the heights of drama with this stunning psychological portrait.</description>
+	<average_rating>3.88</average_rating>
+	<num_pages>188</num_pages>
+	<similar_books>
+		<book>
+			<title>Nouvelles de Petersbourg</title>
+			<isbn>2080710184</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Rudin</title>
+			<isbn>1426450427</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Sebastopol Sketches</title>
+			<isbn>0140444688</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>My Life</title>
+			<isbn>0974607827</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Golovlyov Family</title>
+			<isbn>0940322579</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Captain's Daughter</title>
+			<isbn>184391154X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Seven Who Were Hanged</title>
+			<isbn>1406933732</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>My Childhood</title>
+			<isbn>0140182853</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>117</id>
+	<title>Heretics of Dune (Dune Chronicles #5)</title>
+	<isbn>0441328008</isbn>
+	<publication_year>1987</publication_year>
+	<language_code>eng</language_code>
+	<description>With more than ten million copies sold, &lt;b&gt;Frank Herbert&lt;/b&gt;'s magnificent &lt;b&gt;Dune&lt;/b&gt; books stand among the major achievements of the human imagination. In this, the fifth and most spectacular &lt;b&gt;Dune&lt;/b&gt; book of all, the planet Arrakis--now called Rakis--is becoming desert again. The Lost Ones are returning home from the far reaches of space. The great sandworms are dying. And the children of Dune's children awaken from empire as from a dream, wielding the new power of a heresy called love...</description>
+	<average_rating>3.84</average_rating>
+	<num_pages>471</num_pages>
+	<similar_books>
+		<book>
+			<title>Hunters of Dune (Dune Chronicles #7)</title>
+			<isbn>0765312921</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dune Encyclopedia</title>
+			<isbn>0425068137</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Robots and Empire (Robot #4)</title>
+			<isbn>0586062009</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Rise of Endymion (Hyperion Cantos, #4)</title>
+			<isbn>0553572989</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Scattered Suns (The Saga of Seven Suns, #4)</title>
+			<isbn>0446615242</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

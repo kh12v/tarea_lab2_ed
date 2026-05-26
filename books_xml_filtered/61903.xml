@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>61903</id>
+	<title>Shards of Honour  (Vorkosigan Saga, #1)</title>
+	<isbn>0743468422</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>When Cordelia Naismith and her survey crew are attacked by a renegade group from Barrayar, she is taken prisoner by Aral Vorkosigan, commander of the Barrayan ship that has been taken over by an ambitious and ruthless crew member. Aral and Cordelia survive countless mishaps while their mutual admiration and even stronger feelings emerge.</description>
+	<average_rating>4.13</average_rating>
+	<num_pages>253</num_pages>
+	<similar_books>
+		<book>
+			<title>Conflict of Honors (Liaden Universe, #8)</title>
+			<isbn>0441009646</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Primary Inversion (Saga of the Skolian Empire, #1)</title>
+			<isbn>0812550234</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Service of the Sword (Worlds of Honor, #4)</title>
+			<isbn>0743488369</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Valor's Choice (Confederation #1)</title>
+			<isbn>0886778964</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Once a Hero (The Serrano Legacy, #4)</title>
+			<isbn>0613926234</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Warchild (Warchild, #1)</title>
+			<isbn>0446610771</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>203220</id>
+	<title>Les Fleurs du Mal</title>
+	<isbn>0879234628</isbn>
+	<publication_year>1983</publication_year>
+	<language_code>eng</language_code>
+	<description>Presents the first American translation of the complete text of Baudelaire's 1857 masterwork and includes the complete original French texts for easy comparison.</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>365</num_pages>
+	<similar_books>
+		<book>
+			<title>Alcools</title>
+			<isbn>0819512281</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Poésies complètes</title>
+			<isbn>2253096350</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Poèmes Saturniens</title>
+			<isbn>2253098302</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Collected Poems and Other Verse</title>
+			<isbn>019280362X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Paroles</title>
+			<isbn>2070367622</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Maldoror and the Complete Works</title>
+			<isbn>187897212X</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Cuttlefish Bones</title>
+			<isbn>0393311716</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Capital of Pain</title>
+			<isbn>0976844966</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Les Contemplations</title>
+			<isbn>2080708430</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Selected Poems</title>
+			<isbn>1590170911</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Duino Elegies</title>
+			<isbn>0393328848</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Aurélia</title>
+			<isbn>1892295466</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

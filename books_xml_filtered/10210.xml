@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>10210</id>
+	<title>Jane Eyre</title>
+	<isbn>0142437204</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Orphaned into the household of her Aunt Reed at Gateshead and subject to the cruel regime at Lowood charity school, Jane Eyre nonetheless emerges unbroken in spirit and integrity. She takes up the post of governess at Thornfield, falls in love with Mr. Rochester, and discovers the impediment to their lawful marriage in a story that transcends melodrama to portray a woman's passionate search for a wider and richer life than Victorian society traditionally allowed.&lt;br /&gt;&lt;br /&gt;With a heroine full of yearning, the dangerous secrets she encounters, and the choices she finally makes, Charlotte Bronte's innovative and enduring romantic novel continues to engage and provoke readers.</description>
+	<average_rating>4.10</average_rating>
+	<num_pages>507</num_pages>
+	<similar_books>
+		<book>
+			<title>The Blue Castle </title>
+			<isbn>0553280511</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Far from the Madding Crowd</title>
+			<isbn>0141439653</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Good Wives (Little Women, #1.5)</title>
+			<isbn>1419122126</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Twelfth Night</title>
+			<isbn>0743482778</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Silas Marner</title>
+			<isbn>1416500340</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Scapegoat</title>
+			<isbn>0316252980</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Ben-Hur: A Tale of the Christ</title>
+			<isbn>1934648205</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>New Grub Street</title>
+			<isbn>0140430326</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Woman in White</title>
+			<isbn>0141439610</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>North and South</title>
+			<isbn>0140620192</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Adventures and Memoirs of Sherlock Holmes</title>
+			<isbn>0375760024</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Mysteries of Udolpho</title>
+			<isbn>0140437592</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Our Mutual Friend</title>
+			<isbn>0375761144</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Lorna Doone</title>
+			<isbn>0143039326</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Life and Opinions of Tristram Shandy, Gentleman</title>
+			<isbn>0141439777</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>O Pioneers!</title>
+			<isbn>0679743626</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Last Chronicle of Barset (Chronicles of Barsetshire #6)</title>
+			<isbn>0140437525</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Unknown Ajax</title>
+			<isbn>0099474360</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>2744</id>
+	<title>Anansi Boys</title>
+	<isbn>0060515198</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>&lt;strong&gt;God is dead. Meet the kids.&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Fat Charlie Nancy's normal life ended the moment his father dropped dead on a Florida karaoke stage. Charlie didn't know his dad was a god. And he never knew he had a brother. &lt;br /&gt;&lt;br /&gt;Now brother Spider's on his doorstep -- about to make Fat Charlie's life more interesting... and a lot more dangerous.</description>
+	<average_rating>4.00</average_rating>
+	<num_pages>384</num_pages>
+	<similar_books>
+		<book>
+			<title>Monstrous Regiment (Discworld, #31; Industrial Revolution, #3)</title>
+			<isbn />
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Tapping the Dream Tree (Newford, #9)</title>
+			<isbn>0312868405</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Un Lun Dun</title>
+			<isbn>0345495160</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Earthquake Weather (Fault Lines, #3)</title>
+			<isbn>0812555198</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>In the Cities of Coin and Spice (The Orphan's Tales, #2)</title>
+			<isbn>055338404X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Innkeeper's Song</title>
+			<isbn>0451452887</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Tough Guide to Fantasyland</title>
+			<isbn>0142407224</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

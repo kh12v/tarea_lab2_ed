@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>32261</id>
+	<title>Tess of the D'Urbervilles</title>
+	<isbn>0141439599</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>When Tess Durbeyfield is driven by family poverty to claim kinship with the wealthy D'Urbervilles and seek a portion of their family fortune, meeting her 'cousin' Alec proves to be her downfall. A very different man, Angel Clare, seems to offer her love and salvation, but Tess must choose whether to reveal her past or remain silent in the hope of a peaceful future.</description>
+	<average_rating>3.77</average_rating>
+	<num_pages>518</num_pages>
+	<similar_books>
+		<book>
+			<title>The Mill on the Floss</title>
+			<isbn>0141439629</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>New Grub Street</title>
+			<isbn>0140430326</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Way We Live Now</title>
+			<isbn>1853262552</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Moll Flanders</title>
+			<isbn>1853260738</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Old Curiosity Shop</title>
+			<isbn>0140437428</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>East Lynne </title>
+			<isbn>0192804626</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>To Let</title>
+			<isbn>1853262269</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Cecilia</title>
+			<isbn>0192839098</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Life of Charlotte Brontë</title>
+			<isbn>0192838059</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Vanity Fair</title>
+			<isbn>0141439831</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Woman in White</title>
+			<isbn>0141439610</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

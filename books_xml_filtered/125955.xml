@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>125955</id>
+	<title>White: The Great Pursuit (The Circle, #3)</title>
+	<isbn>1595540350</isbn>
+	<publication_year>2005</publication_year>
+	<language_code />
+	<description>For Ingest Only - Data needs to be cleaned up for all products being loaded</description>
+	<average_rating>4.30</average_rating>
+	<num_pages>400</num_pages>
+	<similar_books>
+		<book>
+			<title>Shadow Over Kiriath (Legends of the Guardian-King, #3)</title>
+			<isbn>0764227963</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Visitation</title>
+			<isbn>1595541209</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Dominion (Ollie Chandler #2)</title>
+			<isbn>1590525930</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Scarlet Trefoil (Tahn Dorn #3)</title>
+			<isbn>0800731565</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Comes a Horseman</title>
+			<isbn>1595542299</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Demon</title>
+			<isbn>1600061230</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>All My Holy Mountain (Binding of the Blade, #5)</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Final Storm (The Door Within, #3)</title>
+			<isbn>140030783X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Fearless (Dominion, #2)</title>
+			<isbn>0764201786</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Silver Hand (The Song of Albion, #2)</title>
+			<isbn>1595542205</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

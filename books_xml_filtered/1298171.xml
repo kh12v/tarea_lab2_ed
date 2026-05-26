@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>1298171</id>
+	<title>Finding Nemo</title>
+	<isbn>1591827582</isbn>
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description>The hit movie from Pixar Studios and Disney is now available in it's very own Cine-Manga! Finding Nemo follows the epic journeys of two fish, the overly cautious Marlin and his curious son, Nemo, who become separated in the Great Barrier Reef when Nemo is taken from his ocean home. Despite his fears of the open sea, Marlin embarks on a dangerous trek to find Nemo. Buoyed by the companionship of a friendly but forgetful fish named Dory, Marlin finds himself the unlikely hero of a thrilling journey to rescue his son.</description>
+	<average_rating>4.47</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Alice in Wonderland (Walt Disney's Alice in Wonderland)</title>
+			<isbn>1570820317</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Lion King (Disney's Wonderful World of Reading)</title>
+			<isbn>0717283534</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Disney's the Lion King</title>
+			<isbn>1570820872</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Winnie The Pooh And The Honey Tree (Little Golden Book)</title>
+			<isbn>030798267X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Sleeping Beauty: a Little Golden Book (Disney Princess)</title>
+			<isbn>073642198X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Clifford The Firehouse Dog</title>
+			<isbn>0590484192</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Three Bears</title>
+			<isbn>0375825762</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Beauty and the Beast (Disney)</title>
+			<isbn>0736421971</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Three Little Pigs</title>
+			<isbn>0307020916</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sleeping Beauty (Disney Princess, 5)</title>
+			<isbn>1579731813</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Curious George Goes to the Beach</title>
+			<isbn>0395978343</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Frosty the Snowman (Frosty the Snowman)</title>
+			<isbn>0307960382</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Peter Pan (A Little Golden Book)</title>
+			<isbn>0307001040</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

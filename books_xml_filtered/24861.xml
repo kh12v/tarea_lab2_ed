@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<book>
+	<id>24861</id>
+	<title>Demian. Die Geschichte von Emil Sinclairs Jugend</title>
+	<isbn>3518367064</isbn>
+	<publication_year />
+	<language_code>ger</language_code>
+	<description>Emil Sinclair ist ein Junge, der in einem als "Scheinwelt" beschrieben bürgerlichen Elternhaus aufgewachsen ist. Dies ist die dramatische Geschichte seines Abstiegs - gesteuert durch sein frühreifen Schulkamerad Max Demian - in eine geheime und gefährliche Welt der Kleinkriminalität und Revolte gegen Konvention und seiner Erwachen zu Selbstheit.</description>
+	<average_rating>4.10</average_rating>
+	<num_pages>194</num_pages>
+	<similar_books>
+		<book>
+			<title>Tonio Kröger</title>
+			<isbn>185399345X</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Professor Unrat</title>
+			<isbn>3499100355</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Wilhelm Meister's Apprenticeship</title>
+			<isbn>0691043442</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Train Was on Time</title>
+			<isbn>0810111233</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Mephisto</title>
+			<isbn>0140189181</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Fragebogen</title>
+			<isbn>3518394525</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Znakovi pored puta</title>
+			<isbn>8607017942</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Jugend ohne Gott</title>
+			<isbn>3518388746</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Transit</title>
+			<isbn>3746651530</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>El espejo en el espejo</title>
+			<isbn>8420425419</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+	</similar_books>
+</book>

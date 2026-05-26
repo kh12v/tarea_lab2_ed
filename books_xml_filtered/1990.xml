@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>1990</id>
+	<title>Martin Chuzzlewit</title>
+	<isbn>0140436146</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Set partly in the United States, this novel includes a searing satire on mid-nineteenth-century America. &lt;i&gt;Martin Chuzzlewit&lt;/i&gt; is the story of two Chuzzlewits, Martin and Jonas, who have inherited the characteristic Chuzzlewit selfishness. It contrasts their diverse fates: moral redemption and worldly success for one and increasingly desperate crime for the other.</description>
+	<average_rating>3.82</average_rating>
+	<num_pages>830</num_pages>
+	<similar_books>
+		<book>
+			<title>Phineas Finn (Palliser, #2)</title>
+			<isbn>0140430857</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Born in Exile</title>
+			<isbn>140680942X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Hand of Ethelberta</title>
+			<isbn>0140435026</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Felix Holt: The Radical</title>
+			<isbn>0140434356</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Barry Lyndon</title>
+			<isbn>1406808466</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Albigenses</title>
+			<isbn />
+			<publication_year>1824</publication_year>
+		</book>
+		<book>
+			<title>Ormond</title>
+			<isbn>0140436448</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Master of Ballantrae</title>
+			<isbn>0543896722</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Expedition of Humphry Clinker</title>
+			<isbn>0140430210</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>14498</id>
+	<title>Neil Gaiman's Neverwhere</title>
+	<isbn>1401210074</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>Graphic adaptation of Neil Gaiman's Neverwhere collects all nine issues of the Vertigo maxiseries. &lt;br /&gt;An ordinary Londoner stops to help an enigmatic girl and joins a battle to save the strange underworld kingdom of London Below from destruction.</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>224</num_pages>
+	<similar_books>
+		<book>
+			<title>Death: The Time of Your Life</title>
+			<isbn>1563893339</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Thessaly: Witch for Hire</title>
+			<isbn>140120497X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Sandman: King of Dreams</title>
+			<isbn>0811835928</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Books of Magic, Volume 3: Reckonings</title>
+			<isbn>185286804X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

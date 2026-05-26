@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>141526</id>
+	<title>Pulp</title>
+	<isbn>0876859260</isbn>
+	<publication_year>2002</publication_year>
+	<language_code />
+	<description>Opening with the exotic Lady Death entering the gumshoe-writer's seedy office in pursuit of a writer named Celine, this novel demonstrates Bukowski's own brand of humour and realism, opening up a landscape of seamy Los Angeles.</description>
+	<average_rating>3.68</average_rating>
+	<num_pages>208</num_pages>
+	<similar_books>
+		<book>
+			<title>Dreaming of Babylon</title>
+			<isbn>0440021464</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Dreams from Bunker Hill (The Saga of Arthur Bandini, #4)</title>
+			<isbn>0876855281</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>جنگل واژگون</title>
+			<isbn>9648573299</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Charles Bukowski</title>
+			<isbn>1852272716</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Charles Bukowski: Locked in the Arms of a Crazy Life</title>
+			<isbn>0802136974</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>میرا</title>
+			<isbn>9648223092</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Wild at Heart</title>
+			<isbn>080213453X</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>خداحافظ گاری کوپر</title>
+			<isbn>9644481429</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Hank: The Life of Charles Bukowski</title>
+			<isbn>0394575261</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Dog Eat Dog</title>
+			<isbn>0312168187</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Chump Change</title>
+			<isbn>0941543234</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Interzone</title>
+			<isbn>0140094512</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Town and the City</title>
+			<isbn>0141182237</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Nexus (The Rosy Crucifixion, #3)</title>
+			<isbn>0802151787</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

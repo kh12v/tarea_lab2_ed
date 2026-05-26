@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>6654104</id>
+	<title>Percy Jackson &amp; the Olympians:  The Ultimate Guide</title>
+	<isbn>1423121716</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>It's the handbook no half-blood should be without: a fully illustrated, in-depth guide to gods, monsters, and all things Percy. This novelty companion to the best-selling series comes complete with trading cards, full-color diagrams, and maps, all packaged in a handy, "manual-size" POB with a crisp, magnetic flap enclosure.</description>
+	<average_rating>4.12</average_rating>
+	<num_pages>148</num_pages>
+	<similar_books>
+		<book>
+			<title>The Kane Chronicles Survival Guide</title>
+			<isbn>1423153626</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Black Book of Buried Secrets</title>
+			<isbn>0545285046</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Percy Jackson</title>
+			<isbn>6133790067</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Mythology (Ologies, #5)</title>
+			<isbn>0763634034</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Percy Jackson and the Olympians: List of Percy Jackson and the Olympians Characters</title>
+			<isbn>1155384520</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tales of the Greek Heroes: Retold From the Ancient Authors</title>
+			<isbn>0140366830</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Eragon's Guide to Alagaesia</title>
+			<isbn>0375858237</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

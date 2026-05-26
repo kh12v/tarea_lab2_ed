@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>400924</id>
+	<title>Chronicles of the Black Company (The Chronicles of the Black Company, #1-3)</title>
+	<isbn>0765319233</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.20</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Memories of Ice (The Malazan Book of the Fallen, #3)</title>
+			<isbn>0765348802</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Return of the Crimson Guard (Malazan Empire, #2)</title>
+			<isbn>0593058097</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Hawkwood and the Kings (Monarchies of God, #1-2)</title>
+			<isbn>1906735700</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Warrior Prophet (The Prince of Nothing, #2)</title>
+			<isbn>1585677280</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>An Autumn War (Long Price Quartet, #3)</title>
+			<isbn>0765313421</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Best Served Cold</title>
+			<isbn>0575082453</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Escapement (Engineer Trilogy, #3)</title>
+			<isbn>0316003409</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

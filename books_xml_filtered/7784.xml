@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>7784</id>
+	<title>The Lorax</title>
+	<isbn>0679889108</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>eng</language_code>
+	<description>"UNLESS someone like you...cares a whole awful lot...nothing is going to get better...It's not." Long before saving the earth became a global concern, Dr. Seuss, speaking through his character the Lorax, warned against mindless progress and the danger it posed to the earth's natural beauty. His classic cautionary tale is now available in an irresistible mini-edition, perfect for backpack or briefcase, for Arbor Day, Earth Day, and every day.</description>
+	<average_rating>4.35</average_rating>
+	<num_pages>72</num_pages>
+	<similar_books>
+		<book>
+			<title>Animalia</title>
+			<isbn>0810918684</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Pigs Make Me Sneeze! (Elephant &amp; Piggie, #10)</title>
+			<isbn>1423114116</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Paper Bag Princess</title>
+			<isbn>0920236162</isbn>
+			<publication_year>1980</publication_year>
+		</book>
+		<book>
+			<title>The Wump World</title>
+			<isbn>0395311292</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Serendipity</title>
+			<isbn>084313819X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears Get the Gimmies</title>
+			<isbn>0394805666</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Blueberries for Sal</title>
+			<isbn>0670175919</isbn>
+			<publication_year>1948</publication_year>
+		</book>
+		<book>
+			<title>Go, Dog. Go!</title>
+			<isbn>0394800206</isbn>
+			<publication_year>1961</publication_year>
+		</book>
+		<book>
+			<title>The Three Questions</title>
+			<isbn>0439199964</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Everyone Poops</title>
+			<isbn>192913214X</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Squids Will be Squids: Fresh Morals, Beastly Fables (Picture Puffin)</title>
+			<isbn>014056523X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Story of Ferdinand</title>
+			<isbn>0670674249</isbn>
+			<publication_year>1936</publication_year>
+		</book>
+		<book>
+			<title>A Sick Day for Amos McGee</title>
+			<isbn>1596434023</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>George Shrinks</title>
+			<isbn>0064431290</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Pierre: A Cautionary Tale in Five Chapters and a Prologue</title>
+			<isbn>0064432521</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Mixed-Up Chameleon</title>
+			<isbn>0694011479</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

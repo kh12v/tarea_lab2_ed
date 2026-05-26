@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>12191246</id>
+	<title>Second Son (Jack Reacher, #15.5)</title>
+	<isbn />
+	<publication_year>2011</publication_year>
+	<language_code />
+	<description>Ever wondered what early experiences shaped Reacher's explosive career as butt-kicker supreme the one-man guided-missile battler for justice? This short story features an incident in Jack's teen years as the youngest son of a tough career US Marine on a faraway military base in the Pacific.</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>Angle of Investigation (Harry Bosch #16.2)</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Jack in a Box (Hunt for Reacher, #2)</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Taken (Elvis Cole, #15; Joe Pike, #4)</title>
+			<isbn>0399158278</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Dead Zero (Bob Lee Swagger, #7; Ray Cruz, #1)</title>
+			<isbn>1439138656</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Last Man (Mitch Rapp, #13)</title>
+			<isbn>141659521X</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Stolen Prey (Lucas Davenport, #22)</title>
+			<isbn>0399157689</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Khmer Kill</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Just Another Job (Jonathan Quinn, #0.2)</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+	</similar_books>
+</book>

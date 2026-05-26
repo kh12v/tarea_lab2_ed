@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<book>
+	<id>179174</id>
+	<title>The Secret of the Unicorn (Tintin, #11)</title>
+	<isbn>0316358320</isbn>
+	<publication_year>1974</publication_year>
+	<language_code>eng</language_code>
+	<description>In this classic graphic novel: Tintin stumbles across a model ship at the Old Street Market. Only it isn't just any model ship-it's the Unicorn, carved by one of Haddock's ancestors, and it holds a clue to finding pirate treasure!</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>62</num_pages>
+	<similar_books>
+		<book>
+			<title>Asterix and Cleopatra (Asterix, #6)</title>
+			<isbn>0752866079</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Asterix and the Black Gold (Asterix, #26)</title>
+			<isbn>0752847740</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

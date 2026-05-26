@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>99107</id>
+	<title>Winnie-the-Pooh (Winnie-the-Pooh, #1)</title>
+	<isbn>0525467564</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>The Bear of Very Little Brain and his friends from the Hundred Acre Wood have delighted generations of readers since &lt;i&gt;Winnie-the-Pooh&lt;/i&gt; was first published in 1926.&lt;br /&gt;&lt;br /&gt;Back by popular demand, the four full-color gift editions of the original Pooh classics are available again. These elegant books, larger in format than the classic editions, include all of Ernest H. Shepard's illustrations, each meticulously hand-painted in delicate watercolors.&lt;br /&gt;&lt;br /&gt;Here are the two great storybooks chronicling the adventures of Christopher Robin and all the inhabitants of the Hundred Acre Wood, as well as the two charming volumes of poems. Bright in color and true in spirit, these are books for giving--To Pooh fans of all ages.</description>
+	<average_rating>4.34</average_rating>
+	<num_pages>145</num_pages>
+	<similar_books>
+		<book>
+			<title>The Tale of Jemima Puddle-Duck </title>
+			<isbn>0723247781</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Finn Family Moomintroll (The Moomins, #3)</title>
+			<isbn>0374423075</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Children of Noisy Village</title>
+			<isbn>014032609X</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>A Bear Called Paddington (Paddington, #1)</title>
+			<isbn>0007174160</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Five Children and It (Five Children, #1)</title>
+			<isbn>0140367357</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>The Wolves of Willoughby Chase (The Wolves Chronicles, #1)</title>
+			<isbn>0385327900</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Story of Ferdinand</title>
+			<isbn>0670674249</isbn>
+			<publication_year>1936</publication_year>
+		</book>
+		<book>
+			<title>The Emperor's New Clothes</title>
+			<isbn>0618344217</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Faraway Tree Stories (The Faraway Tree #1-3)</title>
+			<isbn>1405201711</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

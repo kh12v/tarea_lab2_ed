@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>111332</id>
+	<title>Into the Wild (Warriors, #1)</title>
+	<isbn>0061284203</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>For generations, four Clans of wild cats have shared the forest according to the laws laid down by their warrior ancestors. But the ThunderClan cats are in grave danger, and the sinister ShadowClan grows stronger every day. Noble warriors are dying-- and some deaths are more mysterious than others. In the midst of this turmoil appears an ordinary house cat named Rusty . . . who may turn out to be the bravest warrior of them all.</description>
+	<average_rating>4.29</average_rating>
+	<num_pages>288</num_pages>
+	<similar_books>
+		<book>
+			<title>The Burning (Guardians of Ga'Hoole, #6)</title>
+			<isbn>0439405629</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Silverwing (Silverwing, #1)</title>
+			<isbn>0006481795</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Sight (Sight, #1)</title>
+			<isbn>014250047X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Varjak Paw  (Varjak Paw #1)</title>
+			<isbn>0440420768</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Lost Heir (Wings of Fire, #2)</title>
+			<isbn>0545349192</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Guide Book To The Great Tree (Guardians Of Ga'hoole)</title>
+			<isbn>0439931886</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Secret of the Unicorn (Avalon: Web of Magic #4)</title>
+			<isbn />
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

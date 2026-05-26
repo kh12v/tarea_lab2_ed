@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>42407</id>
+	<title>Babar the King</title>
+	<isbn>1405204664</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>en-US</language_code>
+	<description>Babar establishes Celesteville, the beautiful and happy city over which he and his queen reign.</description>
+	<average_rating>4.18</average_rating>
+	<num_pages>52</num_pages>
+	<similar_books>
+		<book>
+			<title>Madeline and the Bad Hat</title>
+			<isbn>0670446149</isbn>
+			<publication_year>1957</publication_year>
+		</book>
+		<book>
+			<title>Curious George Gets a Medal</title>
+			<isbn>0395185599</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Little Bear's Friend</title>
+			<isbn>0064440516</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Tale of the Flopsy Bunnies</title>
+			<isbn>072324779X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Amelia Bedelia and the Surprise Shower</title>
+			<isbn>0064440192</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Eloise in Paris</title>
+			<isbn>0689827040</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Bargain for Frances</title>
+			<isbn>006444001X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Country Bunny and the Little Gold Shoes</title>
+			<isbn>0395159903</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>Richard Scarry's Best Word Book Ever</title>
+			<isbn>0307155102</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>No Roses for Harry!</title>
+			<isbn>0064430111</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Meet Babar and His Family</title>
+			<isbn>0810905558</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Curious George Goes to the Hospital</title>
+			<isbn>0395181585</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Frog and Toad All Year (Frog and Toad, #3)</title>
+			<isbn>0064440591</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>George and Martha</title>
+			<isbn>0395199727</isbn>
+			<publication_year>1974</publication_year>
+		</book>
+	</similar_books>
+</book>

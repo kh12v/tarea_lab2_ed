@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>194870</id>
+	<title>The Complete Adventures of Peter Rabbit</title>
+	<isbn>072324734X</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>This is a collection of all the Beatrix Potter stories featuring Peter Rabbit so that his escapades can be followed as a continuous saga. It includes The Tale of Peter Rabbit, The Tale of Benjamin Bunny, The Tale of the Flopsy Bunnies and The Tale of Mr Tod.</description>
+	<average_rating>4.46</average_rating>
+	<num_pages>96</num_pages>
+	<similar_books>
+		<book>
+			<title>Classic Tales of Brer Rabbit</title>
+			<isbn>0762417129</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Uncle Wiggily's Story Book</title>
+			<isbn>0448400901</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>The Year At Maple Hill Farm</title>
+			<isbn>0689845006</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Children's Book of Virtues</title>
+			<isbn>068481353X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Stories from Around the World</title>
+			<isbn>0746042078</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Richard Scarry's Please and Thank You Book</title>
+			<isbn>0394826817</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>The Lion Storyteller Bedtime Book: World Folk Tales Especially for Reading Aloud</title>
+			<isbn>0745946542</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Why Do Tigers Have Stripes?</title>
+			<isbn>1580869394</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>What's Smaller Than a Pygmy Shrew?</title>
+			<isbn>0807588377</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Eric Carle's Animals Animals</title>
+			<isbn>0698118553</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears' Big Book of Science and Nature</title>
+			<isbn>0679886524</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>How to Dig a Hole to the Other Side of the World</title>
+			<isbn>0064432181</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>What's Under The Sea? (Usborne Starting Point Science)</title>
+			<isbn>0746009682</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The 20th Century Children's Book Treasury: Celebrated Picture Books and Stories to Read Aloud</title>
+			<isbn>0679886478</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Things People Do</title>
+			<isbn>0860208648</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Child's Book of Art: Great Pictures First Words</title>
+			<isbn>1564582035</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Fuzzy Duckling (a Little Golden Book)</title>
+			<isbn>0307301184</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Pinocchio</title>
+			<isbn>0307021858</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>112520</id>
+	<title>Rama II (Rama, #2)</title>
+	<isbn>2290032042</isbn>
+	<publication_year>1996</publication_year>
+	<language_code>fre</language_code>
+	<description>70 years after the events of Rendezvous with Rama, a second Raman vessel enters our solar system. Its arrival is expected and an expedition is sent to unlock more of Rama's mysteries, but the crew are unprepared both for what they find and for the conflicts that arise between them.</description>
+	<average_rating>3.66</average_rating>
+	<num_pages>480</num_pages>
+	<similar_books>
+		<book>
+			<title>Double Full Moon Night (Rama, #1.75)</title>
+			<isbn>0553573365</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Fantastic Voyage II:  Destination Brain</title>
+			<isbn>0553273272</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Jupiter (The Grand Tour, #9)</title>
+			<isbn>0812579410</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Manifold: Origin (Manifold Trilogy)</title>
+			<isbn>0345430808</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Eternity (The Way, #2)</title>
+			<isbn>0446601888</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Ringworld Throne (Ringworld, #3)</title>
+			<isbn>0345412966</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Annals of the Heechee (Heechee Saga, #4)</title>
+			<isbn>0345325664</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+	</similar_books>
+</book>

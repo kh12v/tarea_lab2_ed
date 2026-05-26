@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>184661</id>
+	<title>The Third Option (Mitch Rapp, #4)</title>
+	<isbn>0743499697</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description>Mitch Rapp, CIA's top counterterrorism operative, is sent on his final mission. His target, a German Industrialist who has been selling sensitive equipment to the worlds most notorious sponsors of terrorism.</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>402</num_pages>
+	<similar_books>
+		<book>
+			<title>Takedown (Scot Harvath, #5)</title>
+			<isbn>0743271181</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Last Refuge (Dewey Andreas, #3)</title>
+			<isbn>1250015006</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Secret Soldier  (John Wells, #5)</title>
+			<isbn>0399157085</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Shooters (Presidential Agent, #4)</title>
+			<isbn>039915440X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Private Sector (Sean Drummond, #4)</title>
+			<isbn>0446613932</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Time to Hunt (Bob Lee Swagger, #3)</title>
+			<isbn>0440226457</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tsar (Alexander Hawke, #5)</title>
+			<isbn>1416550402</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

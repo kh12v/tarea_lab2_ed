@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>10009</id>
+	<title>Homo Faber</title>
+	<isbn>0156421356</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Walter Faber, engineer, is a man for whom only the tangible, calculable, verifiable exists. Dubbed Homo Faber (Man the Maker) by associates, he is devoted to the service of a purely technological world. This devoted service is not, however, without cost: on a flight to South America Faber succumbs to what he interprets as "fatigue phenomena," and we see him lose touch with reality. A return to New York and to his American mistress only convinces him of a need for further rest. Accordingly he boards a ship for Europe, where he encounters a girl who, for reasons of which he is unaware, strongly attracts him. They travel together to France, Italy, and finally Greece, where chance and fate, in an ironic twist on a theme of classic tragedy, make a blind man see.</description>
+	<average_rating>3.75</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Der Richter und sein Henker</title>
+			<isbn>0395044995</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Draußen vor der Tür</title>
+			<isbn>349910170X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Sansibar oder der letzte Grund</title>
+			<isbn>3257200552</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>The German Lesson</title>
+			<isbn>0811209822</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Fabian. Die Geschichte eines Moralisten</title>
+			<isbn>3423110066</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Der Untertan</title>
+			<isbn>3596136407</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Nathan der Weise</title>
+			<isbn>3150000033</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Effi Briest</title>
+			<isbn>0140441905</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Das siebte Kreuz</title>
+			<isbn>3746651514</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Die Erzählungen</title>
+			<isbn>3100485149</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Green Henry</title>
+			<isbn>1585674273</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Wilhelm Tell</title>
+			<isbn>3150000122</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Last World</title>
+			<isbn>0802134580</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Aus dem Leben eines Taugenichts</title>
+			<isbn>3150023548</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Small World</title>
+			<isbn>3257230885</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Jugend ohne Gott</title>
+			<isbn>3518388746</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Lost Honor of Katharina Blum</title>
+			<isbn>0140187286</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Bahnwärter Thiel</title>
+			<isbn>3150066174</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

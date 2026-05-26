@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>15613</id>
+	<title>Billy Budd, Sailor</title>
+	<isbn>1416523723</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>A handsome young sailor is unjustly accused of plotting mutiny in this timeless tale of the sea.</description>
+	<average_rating>3.09</average_rating>
+	<num_pages>160</num_pages>
+	<similar_books>
+		<book>
+			<title>In the Cage</title>
+			<isbn>1421809451</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Why Write?</title>
+			<isbn>1886224145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Joseph Andrews</title>
+			<isbn>0486415880</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>J.B.</title>
+			<isbn>0395083532</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Springs of Affection</title>
+			<isbn>0395937590</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Storming the Reality Studio: A Casebook of Cyberpunk &amp; Postmodern Science Fiction</title>
+			<isbn>0822311682</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Blithedale Romance</title>
+			<isbn>1406501336</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Love-Lies-Bleeding</title>
+			<isbn>0743273060</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>On the Motion of the Heart and Blood in Animals</title>
+			<isbn>1425464971</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence and the Methods of Scientific Investigation</title>
+			<isbn>1846649463</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Lord Jim</title>
+			<isbn>1551111721</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Country of the Pointed Firs and Other Stories</title>
+			<isbn>0451527577</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Elements of Chemistry</title>
+			<isbn>0486646246</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Open Boat and Other Stories</title>
+			<isbn>0486275477</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Born in Exile</title>
+			<isbn>140680942X</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Evangeline: A Tale of Acadie</title>
+			<isbn>1551094525</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Androcles and the Lion</title>
+			<isbn>0140450130</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Rudin a Romance and a King Lear of the Steppes</title>
+			<isbn>0548019274</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

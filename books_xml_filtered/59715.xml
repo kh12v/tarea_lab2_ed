@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<book>
+	<id>59715</id>
+	<title>The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury</title>
+	<isbn>0751507954</isbn>
+	<publication_year>1991</publication_year>
+	<language_code>eng</language_code>
+	<description>A collection of Calvin and Hobbes cartoons. The author won the 1986 Reuben Award as Outstanding Cartoonist of the Year and has also illustrated Something Under the Bed is Drooling, Calvin and Hobbes' Yukon Ho! and Weirdos From Another Planet.</description>
+	<average_rating>4.73</average_rating>
+	<num_pages>254</num_pages>
+	<similar_books>
+		<book>
+			<title>Beyond The Far Side</title>
+			<isbn>0836211499</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Assorted FoxTrot</title>
+			<isbn>0740705326</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Night of the Mary Kay Commandos: A Bloom County Book</title>
+			<isbn />
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

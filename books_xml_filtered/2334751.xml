@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>2334751</id>
+	<title>This Charming Man</title>
+	<isbn>0718149122</isbn>
+	<publication_year>2008</publication_year>
+	<language_code>eng</language_code>
+	<description>Ireland's debonair politician Paddy de Courcy -- the "John F. Kennedy Jr. of Dublin" -- has captured tabloid headlines and the imagination of his country with his charm and charisma. But the crushed hearts he's left behind him reveal more about his character than his winning, vote-getting smile. Lola, Grace, Marnie, and Alicia have all suffered from his selfishness and cruelty. But with Paddy's political star ascending, the time is finally ripe for redemption...and perhaps a bit of revenge.</description>
+	<average_rating>3.75</average_rating>
+	<num_pages>704</num_pages>
+	<similar_books>
+		<book>
+			<title>Good At Games</title>
+			<isbn>0747261326</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Girl Meets Ape</title>
+			<isbn>0340828064</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Once In A Lifetime</title>
+			<isbn>0007240414</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>How Will I Know?</title>
+			<isbn>0755307593</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>A Friend of the Family</title>
+			<isbn>0452285488</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Where Have All the Boys Gone?</title>
+			<isbn>0007159013</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Did the Earth Move?</title>
+			<isbn>0743493761</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Love of Her Life</title>
+			<isbn>0007243820</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Practically Perfect</title>
+			<isbn>0099472376</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Husbands</title>
+			<isbn>0141015454</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Chocolate Lovers' Club</title>
+			<isbn>0755335821</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

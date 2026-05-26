@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>191139</id>
+	<title>Oh, The Places You'll Go!</title>
+	<isbn>0679805273</isbn>
+	<publication_year>1990</publication_year>
+	<language_code>en-US</language_code>
+	<description>In this joyous ode to life, Dr. Seuss addresses graduates of all ages, from nursery school to medical school, and gives them the get-up-and-go to move mountains with the unrivaled exuberance and charm that have made Dr. Seuss's books favorites for years.</description>
+	<average_rating>4.34</average_rating>
+	<num_pages>44</num_pages>
+	<similar_books>
+		<book>
+			<title>The Very Lonely Firefly</title>
+			<isbn>0399227741</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Berenstain Bears and Too Much TV</title>
+			<isbn>0394865707</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Guess How Much I Love You</title>
+			<isbn>076360013X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Frog and Toad Together (Frog and Toad, #2)</title>
+			<isbn>069401298X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Mitten</title>
+			<isbn>039921920X</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Llama Llama Red Pajama</title>
+			<isbn>0670059838</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Serendipity</title>
+			<isbn>084313819X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Is Your Mama a Llama?</title>
+			<isbn>0590259385</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Giraffes Can't Dance</title>
+			<isbn>0439287197</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Pigeon Wants a Puppy!</title>
+			<isbn>1423109600</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Tell Me Again About the Night I Was Born</title>
+			<isbn>0064435814</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Curious George</title>
+			<isbn>039515023X</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Sheila Rae, the Brave</title>
+			<isbn>0688147380</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Jillian Jiggs</title>
+			<isbn>0590413406</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Purple, Green and Yellow</title>
+			<isbn>1550372564</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>The Napping House</title>
+			<isbn>0152026320</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The True Story of the 3 Little Pigs</title>
+			<isbn>0140544518</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+	</similar_books>
+</book>

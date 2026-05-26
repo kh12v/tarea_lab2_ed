@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>9646</id>
+	<title>Homage to Catalonia</title>
+	<isbn>0156421178</isbn>
+	<publication_year>1980</publication_year>
+	<language_code>eng</language_code>
+	<description>In 1936 Orwell went to Spain to report on the Civil War and instead joined the fight against the Fascists. This famous account describes the war and Orwell’s experiences. Introduction by Lionel Trilling.</description>
+	<average_rating>4.14</average_rating>
+	<num_pages>232</num_pages>
+	<similar_books>
+		<book>
+			<title>The Spanish Civil War</title>
+			<isbn>0141011610</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Battle for Spain: The Spanish Civil War 1936-1939</title>
+			<isbn>014303765X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Spanish Civil War: Reaction, Revolution, and Revenge</title>
+			<isbn>0393329879</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Memoirs of a Revolutionary</title>
+			<isbn>0877458278</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Free Women of Spain: Anarchism and the Struggle for the Emancipation of Women</title>
+			<isbn>1902593960</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Spanish Anarchists: The Heroic Years 1868-1936</title>
+			<isbn>187317604X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Anarcho-Syndicalism: Theory and Practice</title>
+			<isbn>1902593928</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Demanding the Impossible: A History of Anarchism</title>
+			<isbn>0006862454</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>As I Walked Out One Midsummer Morning</title>
+			<isbn>0140033181</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ten Days that Shook the World</title>
+			<isbn>0486452409</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>No Gods No Masters: An Anthology of Anarchism</title>
+			<isbn>1904859259</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Durruti in the Spanish Revolution</title>
+			<isbn>190485950X</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Mutual Aid</title>
+			<isbn>1426414595</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Black Flame: The Revolutionary Class Politics of Anarchism and Syndicalism (Counter-Power vol 1)</title>
+			<isbn>190485916X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Anatomy of Fascism</title>
+			<isbn>1400033918</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Living My Life, Vol. 2</title>
+			<isbn>0486225445</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>To the Finland Station</title>
+			<isbn>1590170334</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Why Orwell Matters</title>
+			<isbn>0465030505</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

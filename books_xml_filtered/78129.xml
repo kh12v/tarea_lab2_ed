@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>78129</id>
+	<title>Killing Floor (Jack Reacher, #1)</title>
+	<isbn>0515141429</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Ex-military policeman Jack Reacher is a drifter. He's just passing through Margrave, Georgia, and in less than an hour, he's arrested for murder. Not much of a welcome. All Jack knows is that he didn't kill anybody. At least not here. Not lately. But he doesn't stand a chance of convincing anyone. not in Margrave, Georgia. Not a chance in hell.</description>
+	<average_rating>4.04</average_rating>
+	<num_pages>525</num_pages>
+	<similar_books>
+		<book>
+			<title>The First Rule (Elvis Cole, #13; Joe Pike, #2)</title>
+			<isbn>0399156135</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Third Option (Mitch Rapp, #4)</title>
+			<isbn>0743499697</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Hot Springs (Earl Swagger, #1)</title>
+			<isbn>2913636365</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Last Coyote (Harry Bosch, #4; Harry Bosch Universe, #4)</title>
+			<isbn>075280944X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Extremis (John Rain, #5)</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Bad Blood (Virgil Flowers, #4)</title>
+			<isbn>0399156909</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Liberation Day (Nick Stone, #5)</title>
+			<isbn>0770428975</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Cleaner (Jonathan Quinn, #1)</title>
+			<isbn>044024370X</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

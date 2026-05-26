@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>39664</id>
+	<title>Rita Hayworth and Shawshank Redemption: A Story from Different Seasons</title>
+	<isbn>0896214400</isbn>
+	<publication_year>1982</publication_year>
+	<language_code>eng</language_code>
+	<description>A man convicted of murder lives in a prison brutally ruled by a sadistic warden and secretly run by a con who knows all the ropes and pulls all the strings.</description>
+	<average_rating>4.52</average_rating>
+	<num_pages>181</num_pages>
+	<similar_books>
+		<book>
+			<title>The Peace of Nicias and the Sicilian Expedition (Peloponnesian War)</title>
+			<isbn>0801499402</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Moliere: A Biography</title>
+			<isbn>0548869707</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>My Life As Author And Editor</title>
+			<isbn>0679413154</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Pushkin: A Biography</title>
+			<isbn>1400076528</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Vanishing Newspaper: Saving Journalism in the Information Age</title>
+			<isbn>0826215688</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Selected Letters, 1913-1965</title>
+			<isbn>0805065059</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Memento mori</title>
+			<isbn />
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Swimming with Giants: My Encounters with Whales, Dolphins and Seals</title>
+			<isbn>1571312447</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>My Lai 4: A Report on the Massacre and Its Aftermath</title>
+			<isbn>0394714504</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>The Mojo Collection: The Ultimate Music Companion</title>
+			<isbn>1841954381</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>New Poems of Emily Dickinson</title>
+			<isbn>0807844160</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Minority Report and Other Stories</title>
+			<isbn>0060095261</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>George W. Bushisms: The Slate Book of Accidental Wit and Wisdom of Our 43rd President</title>
+			<isbn>0743222229</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Robert's Rules of Order</title>
+			<isbn>0738203076</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Holy Barbarians</title>
+			<isbn />
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>A Monetary History of the United States 1867-1960</title>
+			<isbn>0691003548</isbn>
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>Gidget (Gidget series, #1)</title>
+			<isbn>0425179621</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Legend of Bagger Vance: A Novel of Golf and the Game of Life</title>
+			<isbn>0553813072</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

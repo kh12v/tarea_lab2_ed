@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>18667779</id>
+	<title>Everything Leads to You</title>
+	<isbn>0525425888</isbn>
+	<publication_year>2014</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;a novel about the L.A. film scene and unexpected love&lt;/i&gt;</description>
+	<average_rating>3.89</average_rating>
+	<num_pages>312</num_pages>
+	<similar_books>
+		<book>
+			<title>Tell Me Again How a Crush Should Feel</title>
+			<isbn>161620284X</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Summer I Wasn't Me</title>
+			<isbn>1402277881</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Not Otherwise Specified</title>
+			<isbn>1481405985</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Silhouette of a Sparrow</title>
+			<isbn>1571317015</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Under the Lights (Daylight Falls, #2)</title>
+			<isbn>1633920178</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Starting From Here</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>My Best Friend, Maybe</title>
+			<isbn>1599909707</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Georgia Peaches and Other Forbidden Fruit</title>
+			<isbn />
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Beauty of the Broken</title>
+			<isbn>1481407090</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Alex As Well</title>
+			<isbn>1922079235</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Dirty London</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Forgive Me If I've Told You This Before</title>
+			<isbn>1932010734</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Our Own Private Universe</title>
+			<isbn>0373211988</isbn>
+			<publication_year>2017</publication_year>
+		</book>
+		<book>
+			<title>Far From You</title>
+			<isbn>1780621655</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>About a Girl (Metamorphoses, #3)</title>
+			<isbn>1250068622</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>An Unstill Life</title>
+			<isbn />
+			<publication_year>2017</publication_year>
+		</book>
+		<book>
+			<title>Style</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Her Name in the Sky</title>
+			<isbn>1495335291</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+	</similar_books>
+</book>

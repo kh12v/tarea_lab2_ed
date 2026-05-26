@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>765427</id>
+	<title>The Faerie Queene </title>
+	<isbn>0140422072</isbn>
+	<publication_year>1978</publication_year>
+	<language_code>eng</language_code>
+	<description>The Faerie Queene was the first epic in English and one of the most influential poems in the language for later poets from Milton to Tennyson. Dedicating his work to Elizabeth I, Spenser brilliantly united medieval romance and renaissance epic to expound the glory of the Virgin Queen. The poem recounts the quests of knights including Sir Guyon, Knight of Constance, who resists temptation, and Artegall, Knight of Justice, whose story alludes to the execution of Mary Queen of Scots. Composed as an overt moral and political allegory, The Faerie Queene, with its dramatic episodes of chivalry, pageantry and courtly love, is also a supreme work of atmosphere, colour and sensuous description.</description>
+	<average_rating>3.55</average_rating>
+	<num_pages>1248</num_pages>
+	<similar_books>
+		<book>
+			<title>The Old Arcadia</title>
+			<isbn>019283956X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Complete English Poems</title>
+			<isbn>0140424555</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Complete Poems</title>
+			<isbn>0140424571</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Piers Plowman</title>
+			<isbn>0393975592</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Orlando Furioso</title>
+			<isbn>0192836773</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Orlando Innamorato (Orlando in Love)</title>
+			<isbn>1932559019</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Idylls of the King</title>
+			<isbn />
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Lais of Marie de France</title>
+			<isbn>0140447598</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Jerusalem Delivered</title>
+			<isbn>0801863236</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>John Milton: The Major Works</title>
+			<isbn>019280409X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Complete Poetry and Selected Prose</title>
+			<isbn>0375757341</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Troilus and Criseyde</title>
+			<isbn>0140442391</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Complete Poems</title>
+			<isbn>0140422773</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Don Juan</title>
+			<isbn>0140424520</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Ring and the Book</title>
+			<isbn>1551113724</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Song of Roland</title>
+			<isbn>0140440755</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Poetry and Prose</title>
+			<isbn>0393977528</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Hero and Leander</title>
+			<isbn>1434400905</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

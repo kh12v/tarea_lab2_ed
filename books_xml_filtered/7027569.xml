@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>7027569</id>
+	<title>Heartstone (Matthew Shardlake, #5)</title>
+	<isbn>0230711251</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description>Summer, 1545. England is at war. Henry VIII's invasion of France has gone badly wrong. Meanwhile Matthew Shardlake is given an intriguing legal case by an old servant of Queen Catherine Parr. He is asked to investigate claims of 'monstrous wrongs' committed against a young ward of the court, which have already involved one mysterious death.</description>
+	<average_rating>4.31</average_rating>
+	<num_pages>634</num_pages>
+	<similar_books>
+		<book>
+			<title>Sacrilege (Giordano Bruno, #3)</title>
+			<isbn>0385535473</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Revenger (John Shakespeare, #2)</title>
+			<isbn>1848540833</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>A Deadly Brew (Matthew Bartholomew, #4)</title>
+			<isbn>0751520071</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Sacred Treason (Clarenceux, #1)</title>
+			<isbn>1402272669</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Famine of Horses (Sir Robert Carey, #1)</title>
+			<isbn>1890208272</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+	</similar_books>
+</book>

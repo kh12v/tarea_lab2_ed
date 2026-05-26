@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>11012</id>
+	<title>Dubliners</title>
+	<isbn>0192839993</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>This work of art reflects life in Ireland at the turn of the last century, and by rejecting euphemism, reveals to the Irish their unromantic reality. Each of the 15 stories offers glimpses into the lives of ordinary Dubliners, and collectively they paint a portrait of a nation.</description>
+	<average_rating>3.85</average_rating>
+	<num_pages>207</num_pages>
+	<similar_books>
+		<book>
+			<title>The Last September</title>
+			<isbn>0385720149</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Far Away and Long Ago</title>
+			<isbn>1426413793</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Third Policeman</title>
+			<isbn>156478214X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Enormous Changes at the Last Minute</title>
+			<isbn>0374515247</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The New Bloomsday Book: A Guide Through Ulysses</title>
+			<isbn>0415138582</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>James Joyce</title>
+			<isbn>0195033817</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Death in Venice and Other Tales</title>
+			<isbn>0141181737</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Ulysses Annotated</title>
+			<isbn>0520067452</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Paris Stories</title>
+			<isbn>1590170229</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Blue Hotel</title>
+			<isbn>2867463211</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>In the Shadow of Young Girls in Flower (In Search of Lost Time, #2)</title>
+			<isbn>0143039075</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Murphy</title>
+			<isbn>0802150373</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Collected Stories</title>
+			<isbn>0394710487</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Sixty Stories</title>
+			<isbn>0141180935</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Collected Stories</title>
+			<isbn>0679744010</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Three Plays: Juno and the Paycock / The Shadow of a Gunman / The Plow and the Stars</title>
+			<isbn>0312802900</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Lord Jim</title>
+			<isbn>1551111721</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Three Lives</title>
+			<isbn>0486280594</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+	</similar_books>
+</book>

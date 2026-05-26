@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>9569</id>
+	<title>Villa Incognito</title>
+	<isbn>1842431021</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>3.65</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Conversations with Tom Robbins</title>
+			<isbn>160473826X</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Revenge of the Lawn / The Abortion / So the Wind Won't Blow it All Away</title>
+			<isbn>0395706742</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Nine Kinds of Naked</title>
+			<isbn>015603123X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Between Time and Timbuktu or Prometheus-5</title>
+			<isbn>0385280793</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Sex, Drugs and DNA: Science's Taboos Confronted</title>
+			<isbn>1403993424</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Widow's Son (Historical Illuminatus Chronicles 2)</title>
+			<isbn>1561841633</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Island of the Sequined Love Nun</title>
+			<isbn>0060735449</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Fool on the Hill</title>
+			<isbn>0802135358</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Western Swing</title>
+			<isbn>1573226319</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Kill Your Idols: A New Generation of Rock Writers Reconsiders the Classics</title>
+			<isbn>1569802769</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Homeland and Other Stories</title>
+			<isbn>0060917016</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Now Is the Time to Open Your Heart</title>
+			<isbn>0739309633</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

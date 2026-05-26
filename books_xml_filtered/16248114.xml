@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>16248114</id>
+	<title>Maya's Notebook</title>
+	<isbn>0062105620</isbn>
+	<publication_year>2013</publication_year>
+	<language_code>eng</language_code>
+	<description>Isabel Allende’s latest novel, set in the present day (a new departure for the author), tells the story of a 19-year-old American girl who finds refuge on a remote island off the coast of Chile after falling into a life of drugs, crime, and prostitution. There, in the company of a torture survivor, a lame dog, and other unforgettable characters, Maya Vidal writes her story, which includes pursuit by a gang of assassins, the police, the FBI, and Interpol. In the process, she unveils a terrible family secret, comes to understand the meaning of love and loyalty, and initiates the greatest adventure of her life: the journey into her own soul.</description>
+	<average_rating>3.80</average_rating>
+	<num_pages>387</num_pages>
+	<similar_books>
+		<book>
+			<title>Diez mujeres</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Donde siempre es otoño</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The House on the Lagoon</title>
+			<isbn>0452277078</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Dime quién soy</title>
+			<isbn>8401337550</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Edge of the Earth</title>
+			<isbn>1451683677</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Beyond the Ties of Blood</title>
+			<isbn>1605983284</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Perla</title>
+			<isbn>0307599590</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Swift as Desire</title>
+			<isbn>038572151X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Dark Bride</title>
+			<isbn>0060088958</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>On Sal Mal Lane</title>
+			<isbn>1555976425</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Cuentos De Mi Tia Panchita</title>
+			<isbn>9977231354</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>El testigo invisible</title>
+			<isbn>9788408034</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Queen of America</title>
+			<isbn>0316154865</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Quando Lisboa Tremeu</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Chiquita </title>
+			<isbn>9705803897</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Outside Providence</title>
+			<isbn>0385490585</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Conquistadora</title>
+			<isbn>0307268322</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Island of Eternal Love</title>
+			<isbn>1594489920</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

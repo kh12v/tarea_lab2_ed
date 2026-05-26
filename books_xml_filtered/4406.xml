@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>4406</id>
+	<title>East of Eden</title>
+	<isbn>0142000655</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Set in the rich farmland of California’s Salinas Valley, this sprawling and often brutal novel follows the intertwined destinies of two families—the Trasks and the Hamiltons—whose generations helplessly reenact the fall of Adam and Eve and the poisonous rivalry of Cain and Abel. Here Steinbeck created some of his most memorable characters and explored his most enduring themes: the mystery of identity; the inexplicability of love; and the murderous consequences of love’s absence.</description>
+	<average_rating>4.35</average_rating>
+	<num_pages>601</num_pages>
+	<similar_books>
+		<book>
+			<title>The Best Way to Play: A Little Bill Book</title>
+			<isbn>0590956175</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>For Whom the Bell Tolls</title>
+			<isbn>0684803356</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Crisis</title>
+			<isbn>1426418361</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Strenuous Life</title>
+			<isbn>1557091420</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>O Pioneers!</title>
+			<isbn>0679743626</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Wait Until Spring, Bandini (The Saga of Arthur Bandini, #1)</title>
+			<isbn>0876855540</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Roughing It</title>
+			<isbn>0743436504</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>How Green Was My Valley</title>
+			<isbn>0141185856</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Diamond as Big as the Ritz, and Other Stories</title>
+			<isbn>0486299910</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Confessions of Nat Turner</title>
+			<isbn>0679736638</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Absalom, Absalom!</title>
+			<isbn>0679732187</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Sometimes a Great Notion</title>
+			<isbn>0140045295</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>1919 (U.S.A., #2)</title>
+			<isbn>0618056823</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Young Man's Guide</title>
+			<isbn>1437806813</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Main Street</title>
+			<isbn>0375753141</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Journey to the End of the Night</title>
+			<isbn>0811216543</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Mother of Pearl</title>
+			<isbn>0671774670</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Things They Carried</title>
+			<isbn>0767902890</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

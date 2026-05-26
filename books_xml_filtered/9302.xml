@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>9302</id>
+	<title>The Other Side of the Story</title>
+	<isbn>0060731486</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>3.77</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Thirtynothing</title>
+			<isbn>0452282128</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Always and Forever</title>
+			<isbn>1416531580</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Straight Talking</title>
+			<isbn>0767915593</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Irish Girls about Town</title>
+			<isbn>0743483014</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Scent of Scandal</title>
+			<isbn>0060595639</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Fishbowl</title>
+			<isbn>0373250207</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Three In A Bed</title>
+			<isbn>0552149470</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Running in Heels</title>
+			<isbn>0060988258</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Fast Friends</title>
+			<isbn>0747267421</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Going Home</title>
+			<isbn>1416503951</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dot.Homme</title>
+			<isbn>0099465027</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>6694</id>
+	<title>The Giraffe and the Pelly and Me</title>
+	<isbn>0140568190</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>A small boy with a desire to own a candy shop meets a window-washing team of a giraffe, a pelican, and a monkey and together they go to work for the wealthy Duke of Hampshire, who makes all their dreams come true.</description>
+	<average_rating>3.80</average_rating>
+	<num_pages>32</num_pages>
+	<similar_books>
+		<book>
+			<title>I Was a Rat!</title>
+			<isbn>0440416612</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Tale of Johnny Town-Mouse </title>
+			<isbn>072324782X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Sophie Hits Six (Sophie, #3)</title>
+			<isbn>1844281310</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Worst Witch All at Sea (Worst Witch, #4)</title>
+			<isbn>014034389X</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>My Naughty Little Sister (Naughty Little Sister, #1)</title>
+			<isbn>1405202890</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Dragons of Blueland (My Father's Dragon, #3)</title>
+			<isbn>0394890507</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Lulu and the Brontosaurus</title>
+			<isbn>1416999612</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Harry and the Wrinklies</title>
+			<isbn>0439978378</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Muddle-Headed Wombat</title>
+			<isbn>0207167338</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Madicken dan Lisabet</title>
+			<isbn>9792204687</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The River of Adventure (Adventure, #8)</title>
+			<isbn>0330301764</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Owl Who Was Afraid of the Dark</title>
+			<isbn>074970795X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>I, Houdini</title>
+			<isbn>0380706490</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Ottoline and the Yellow Cat (Ottoline, #1)</title>
+			<isbn>1405050578</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

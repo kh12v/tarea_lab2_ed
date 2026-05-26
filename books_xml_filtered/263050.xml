@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>263050</id>
+	<title>The Death and Life of Charlie St. Cloud</title>
+	<isbn>0330488902</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.01</average_rating>
+	<num_pages>273</num_pages>
+	<similar_books>
+		<book>
+			<title>Letters to Juliet: Celebrating Shakespeare's Greatest Heroine, the Magical City of Verona, and the Power of Love</title>
+			<isbn>1584799129</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Locket (The Locket, #1)</title>
+			<isbn>0671004239</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Don't Die, My Love</title>
+			<isbn>0553567152</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Red Riding Hood</title>
+			<isbn>0316176044</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>My Best Friend's Girl</title>
+			<isbn>0385341326</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Mask Carver's Son</title>
+			<isbn>0425267261</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Alexandra, Gone</title>
+			<isbn>1439123330</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Follow the Stars Home</title>
+			<isbn>0553581023</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Bloom</title>
+			<isbn>1416926836</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Shoes (Christmas Hope #1)</title>
+			<isbn>0312289510</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>After You'd Gone</title>
+			<isbn>0142000329</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Nature of Jade</title>
+			<isbn>1416910050</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Even Now (Lost Love, #1)</title>
+			<isbn>0310247535</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Vow: The Kim &amp; Krickitt Carpenter Story</title>
+			<isbn>0805421300</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Playing Hurt</title>
+			<isbn>0738722871</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Driftwood Summer</title>
+			<isbn>0451226887</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>I Heart You, You Haunt Me</title>
+			<isbn>1416955208</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Guardian</title>
+			<isbn>0446696110</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>899608</id>
+	<title>A Fish Out of Water</title>
+	<isbn>0394800230</isbn>
+	<publication_year>1989</publication_year>
+	<language_code>eng</language_code>
+	<description>Illus. in color. "Comic pictures show how the fish rapidly outgrows its bowl, a vase, a cook pot, a bathtub."--&lt;i&gt;The New York Times.  &lt;/i&gt;</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>64</num_pages>
+	<similar_books>
+		<book>
+			<title>Robert the Rose Horse</title>
+			<isbn>0394800257</isbn>
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>A Fly Went by (Beginner Books(R))</title>
+			<isbn>0394800036</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I Wish That I Had Duck Feet</title>
+			<isbn>000717313X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Best Nest</title>
+			<isbn>0394800516</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>I'll Teach My Dog a Lot of Words</title>
+			<isbn>0375800999</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Inside, Outside, Upside Down (Berenstain Bears Bright and Early Board Book)</title>
+			<isbn>067988632X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Please Try to Remember the First of Octember!</title>
+			<isbn>0394835638</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>The King, the Mice and the Cheese</title>
+			<isbn>0001713353</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Snow (Beginner Books B-27)</title>
+			<isbn>0394800273</isbn>
+			<publication_year>1962</publication_year>
+		</book>
+		<book>
+			<title>The Ear Book (Bright &amp; Early Books)</title>
+			<isbn>0394811992</isbn>
+			<publication_year>1968</publication_year>
+		</book>
+		<book>
+			<title>It's Not Easy Being a Bunny</title>
+			<isbn>0394861027</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>All by Myself</title>
+			<isbn>0307119386</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>I Want to Be Somebody New! (Beginner Books(R))</title>
+			<isbn>0394876164</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

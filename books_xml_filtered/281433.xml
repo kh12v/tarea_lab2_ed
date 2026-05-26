@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>281433</id>
+	<title>Tick Tock</title>
+	<isbn>0345405137</isbn>
+	<publication_year>1996</publication_year>
+	<language_code />
+	<description>Tommy Phan, a successful detective novelist, comes home one evening to find a small rag doll on his doorstep. That night, with the popping of two stitches, something terrifying will emerge to tear apart the fabric of Tommy's reality--and his life. Updated author Web site at deankoontz.com.</description>
+	<average_rating>3.71</average_rating>
+	<num_pages>352</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Fall of the Dream Machine / The Star Venturers (Ace Double, 22600)</title>
+			<isbn>0441226000</isbn>
+			<publication_year>1969</publication_year>
+		</book>
+		<book>
+			<title>Dragonfly</title>
+			<isbn>0394492145</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dance with the Devil</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Invasion</title>
+			<isbn>0373720092</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>King Blood</title>
+			<isbn>1562870459</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Homing</title>
+			<isbn>0345454073</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+	</similar_books>
+</book>

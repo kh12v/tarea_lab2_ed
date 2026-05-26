@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>170641</id>
+	<title>I Heard That Song Before</title>
+	<isbn>0743268571</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>When Kay Lansing marries wealthy widower Peter Carrington, she is well aware of the rumours surrounding the mysterious death of Peter's first wife Grace, who was found floating in the family pool ten years ago, pregnant at the time. Kay also discovers that Peter is a chronic sleepwalker who suffers from periodic nightmares. When the police arrive at her doorstep with a warrant for Peter's arrest in connection with another murder - that of a woman Peter had escorted to a high school senior prom twenty-two years ago - Kay begins to fear that she has married a sleepwalking murderer, and she resolves to find out the truth behind the puzzling deaths. But are the two deaths linked? And why does a melody that Kay cannot identify keep playing in her head every time she approaches the family chapel?</description>
+	<average_rating>3.81</average_rating>
+	<num_pages>318</num_pages>
+	<similar_books>
+		<book>
+			<title>Silent Night: The Remarkable Christmas Truce of 1914</title>
+			<isbn>0743450302</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Hitched (Regan Reilly Mystery, #9)</title>
+			<isbn>0743289420</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Dancing in the Dark (KEY News #8)</title>
+			<isbn>0312994214</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Christmas Box</title>
+			<isbn>158288143X</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+	</similar_books>
+</book>

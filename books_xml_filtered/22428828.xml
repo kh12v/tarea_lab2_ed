@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>22428828</id>
+	<title>Welcome to Shadowhunter Academy (Tales from the Shadowhunter Academy, #1)</title>
+	<isbn />
+	<publication_year>2015</publication_year>
+	<language_code>eng</language_code>
+	<description>After living as a Mundane and a Vampire, Simon never thought he would become a Shadowhunter, but today he begins his training at Shadowhunter Academy.</description>
+	<average_rating>4.10</average_rating>
+	<num_pages>78</num_pages>
+	<similar_books>
+		<book>
+			<title>The Moment (Lila, #0.6)</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Mortal Heart (Beautiful Creatures: The Untold Stories, #1)</title>
+			<isbn />
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>The Night After I Lost You (The Lynburn Legacy, #1.5)</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Not for Humans</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>Leave the Window Open (The Archived, #2.5)</title>
+			<isbn />
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Die Once More (Revenants, #3.5)</title>
+			<isbn>0062379755</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Stopping Time (Wicked Lovely, #2.5)</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The First Kiss (The Iron Fey, #1.25)</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Ruby Circle (Bloodlines, #6)</title>
+			<isbn>159514322X</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Adela Arthur and the Creator's Clock (The Chronicles of A, #1)</title>
+			<isbn>1490322345</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Falling for an Angel (Falling, #1)</title>
+			<isbn>1479731617</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>Nachtland (Die Seiten der Welt, #2)</title>
+			<isbn>3841421660</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Night of Cake &amp; Puppets (Daughter of Smoke &amp; Bone, #2.5)</title>
+			<isbn>0316369853</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Eternity (Fury, #3)</title>
+			<isbn>1442422289</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>250024</id>
+	<title>The City and the Stars</title>
+	<isbn>1857987632</isbn>
+	<publication_year>2001</publication_year>
+	<language_code>eng</language_code>
+	<description>Clarke's masterful evocation of the far future of humanity, considered his finest novel.</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>255</num_pages>
+	<similar_books>
+		<book>
+			<title>Non-Stop</title>
+			<isbn>1585676837</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Complete Roderick</title>
+			<isbn>1585675873</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Downward to the Earth</title>
+			<isbn>0451044975</isbn>
+			<publication_year>1971</publication_year>
+		</book>
+		<book>
+			<title>Cities in Flight (Cities in Flight, #1-4)</title>
+			<isbn>1585676020</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Rediscovery of Man</title>
+			<isbn>1857988191</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Star Maker</title>
+			<isbn>1857988078</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Centauri Device</title>
+			<isbn>185798997X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Life During Wartime</title>
+			<isbn>0575077344</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Emphyrio</title>
+			<isbn>0440023459</isbn>
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Tau Zero</title>
+			<isbn>0575077328</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Space Merchants (The Space Merchants, #1)</title>
+			<isbn>0575075287</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Paradox Men</title>
+			<isbn>0450029964</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>Bring the Jubilee</title>
+			<isbn>1857987640</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Mission of Gravity (Mesklin, #1)</title>
+			<isbn>0515034797</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Dark Benediction</title>
+			<isbn>0575079770</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Mockingbird</title>
+			<isbn>0345431626</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Pavane</title>
+			<isbn>0345440919</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Dancers at the End of Time (Dancers at the End of Time, #1-3)</title>
+			<isbn>0575074760</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

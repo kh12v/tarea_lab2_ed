@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>32423</id>
+	<title>Watchers</title>
+	<isbn />
+	<publication_year>2003</publication_year>
+	<language_code />
+	<description>From a top secret government laboratory come two genetically altered life forms. One is a magnificent dog of astonishing intelligence. The other, a hybrid monster of a brutally violent nature. And both are on the loose…Bestselling author Dean Koontz presents his most terrifying, dramatic and moving novel: The explosive story of a man and a woman, caught in a relentless storm of mankind’s darkest creation…</description>
+	<average_rating>4.16</average_rating>
+	<num_pages>624</num_pages>
+	<similar_books>
+		<book>
+			<title>The Voice of the Night</title>
+			<isbn>0425128164</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Dean Koontz's Frankenstein, Volume 1: Prodigal Son</title>
+			<isbn>0345506405</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dean Koontz Companion</title>
+			<isbn>0425141357</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Hell's Gate</title>
+			<isbn />
+			<publication_year>1970</publication_year>
+		</book>
+		<book>
+			<title>Creature</title>
+			<isbn>0553284118</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Children of the Storm</title>
+			<isbn />
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>Stinger</title>
+			<isbn>0671737767</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Floating Dragon</title>
+			<isbn>0425189643</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Chase</title>
+			<isbn>0747235252</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+	</similar_books>
+</book>

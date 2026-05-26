@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>784222</id>
+	<title>Vampire Knight, Vol. 3 (Vampire Knight, #3)</title>
+	<isbn>1421513242</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>Kaname, the pureblood vampire, has kept to his room since learning of Yuki and Zero's forbidden act. However, the arrival of Ichijo's grandfather brings the entire Night Class together to greet one of the oldest vampires on the senate. Ichijo's grandfather says he's there merely to visit his grandson, but he's out for Kaname's blood.</description>
+	<average_rating>4.27</average_rating>
+	<num_pages>196</num_pages>
+	<similar_books>
+		<book>
+			<title>Fruits Basket, Vol. 21</title>
+			<isbn>9812695370</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Chibi Vampire, Vol. 05</title>
+			<isbn>1598163264</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Black Bird, Vol. 09 (Black Bird, #9)</title>
+			<isbn>1421537745</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Rosario+Vampire, Vol. 3 (Rosario+Vampire, #3)</title>
+			<isbn>1421519054</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

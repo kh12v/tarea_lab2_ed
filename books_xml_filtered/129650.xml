@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<book>
+	<id>129650</id>
+	<title>Mastering the Art of French Cooking</title>
+	<isbn>0375413405</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.33</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The French Laundry Cookbook</title>
+			<isbn>1579651267</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>French Provincial Cooking</title>
+			<isbn>0141181532</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Classic Italian Cook Book: The Art of Italian Cooking and the Italian Art of Eating</title>
+			<isbn>0394405102</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Splendid Table</title>
+			<isbn>0688089631</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Charcuterie: The Craft of Salting, Smoking, and Curing</title>
+			<isbn>0393058298</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Silver Spoon</title>
+			<isbn>0714845310</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Larousse Gastronomique: The World's Greatest Culinary Encyclopedia</title>
+			<isbn>0609609718</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Zuni Cafe Cookbook: A Compendium of Recipes and Cooking Lessons from San Francisco's Beloved Restaurant</title>
+			<isbn>0393020436</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Mexico One Plate At A Time</title>
+			<isbn>068484186X</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Baking with Julia: Sift, Knead, Flute, Flour, and Savor...</title>
+			<isbn />
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Chez Panisse Cafe Cookbook</title>
+			<isbn>0060175834</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Jacques Pépin's Complete Techniques: Featuring More Than 1,000 Cooking Methods and Recipes,  in Thousands of  Step-by-Step Photographs</title>
+			<isbn>1579121659</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Escoffier Cookbook and Guide to the Fine Art of Cookery: For Connoisseurs, Chefs, Epicures Complete With 2973 Recipes</title>
+			<isbn>0517506629</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Beard on Bread</title>
+			<isbn>0679755047</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>The Pleasures of Cooking for One</title>
+			<isbn>0307270726</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Bon Appetit Cookbook  </title>
+			<isbn>0764596861</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mario Batali Simple Italian Food: Recipes from My Two Villages</title>
+			<isbn>0609603000</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

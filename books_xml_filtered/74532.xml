@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>74532</id>
+	<title>George's Marvellous Medicine</title>
+	<isbn>0224064908</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>George's Grandma is a grizzly, grumpy, selfish old woman with pale brown teeth and a small puckered up mouth like a dog's bottom. Four times a day she takes a large spoonful of medicine, but it doesn't seem to do her any good. She's always just as poisonous after she's taken it as she was before. When George is left to look after her one morning, it's just the chance he needs . . .</description>
+	<average_rating>4.02</average_rating>
+	<num_pages>120</num_pages>
+	<similar_books>
+		<book>
+			<title>The Folk of the Faraway Tree (The Faraway Tree, #3)</title>
+			<isbn>0749732105</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Worst Witch (Worst Witch, #1)</title>
+			<isbn>0141319623</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Bad Girls</title>
+			<isbn>0440867622</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Rotten Romans</title>
+			<isbn>059003152X</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>My Naughty Little Sister (Naughty Little Sister, #1)</title>
+			<isbn>1405202890</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Please Mrs Butler</title>
+			<isbn>0140314946</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Iron Man</title>
+			<isbn>0571226124</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Owl Who Was Afraid of the Dark</title>
+			<isbn>074970795X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Mr Stink</title>
+			<isbn>0007279051</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Dragons of Blueland (My Father's Dragon, #3)</title>
+			<isbn>0394890507</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Meg and Mog</title>
+			<isbn>0140501177</isbn>
+			<publication_year>1975</publication_year>
+		</book>
+		<book>
+			<title>D is for Dahl: A gloriumptious A-Z guide to the world of Roald Dahl</title>
+			<isbn>0670060232</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

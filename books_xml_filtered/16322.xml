@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>16322</id>
+	<title>The A.B.C. Murders (Hercule Poirot, #13)</title>
+	<isbn>1579126243</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description>There's a serial killer on the loose, bent on working his way through the alphabet. And as a macabre calling card he leaves beside each victim's corpe the ABC Railway Guide open at the name of the town where the murder has taken place. Having begun with Andover, Bexhill and then Churston, there seems little chance of the murderer being caught - until he makes the crucial and vain mistake of challenging Hercule Poirot to frustrate his plans.</description>
+	<average_rating>3.98</average_rating>
+	<num_pages>247</num_pages>
+	<similar_books>
+		<book>
+			<title>Death in Ecstasy (Roderick Alleyn, #4)</title>
+			<isbn>0312963602</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Golden Spiders (Nero Wolfe, #22)</title>
+			<isbn>0553277804</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Clouds of Witness (Lord Peter Wimsey, #2)</title>
+			<isbn>0061043532</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Behold, Here's Poison (Inspector Hannasyde, #2)</title>
+			<isbn>0099493640</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>133394</id>
+	<title>Our Man in Havana</title>
+	<isbn>0140184937</isbn>
+	<publication_year>1991</publication_year>
+	<language_code>eng</language_code>
+	<description>Mr. Wormold, a vacuum cleaner salesman in a city of powercuts, becomes a spy to earn extra income.</description>
+	<average_rating>3.94</average_rating>
+	<num_pages>220</num_pages>
+	<similar_books>
+		<book>
+			<title>Lights Out</title>
+			<isbn>0345445783</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Family Values</title>
+			<isbn>0446605948</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>In the Night Season</title>
+			<isbn>0060930306</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Black Mischief</title>
+			<isbn>0316917338</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Latitude Zero</title>
+			<isbn>0752802097</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Harpole Report</title>
+			<isbn>0140069208</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>Common Carnage</title>
+			<isbn>0140587489</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Ennui</title>
+			<isbn>1409765539</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Adventures of Gil Blas</title>
+			<isbn>143410267X</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Epitaph for a Spy</title>
+			<isbn>0375713247</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Devil's Own Work</title>
+			<isbn>1941147380</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>A Good Man in Africa</title>
+			<isbn>1400030021</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Memoirs of a Gnostic Dwarf</title>
+			<isbn>1873982712</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Why Sinatra Matters</title>
+			<isbn>0316347965</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>A Firing Offense</title>
+			<isbn>0393346285</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Crater</title>
+			<isbn>068911107X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Dick Gibson Show</title>
+			<isbn>1564781984</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Furnace</title>
+			<isbn>0002257157</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

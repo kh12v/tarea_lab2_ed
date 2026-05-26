@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>95602</id>
+	<title>Mark of the Lion Trilogy</title>
+	<isbn>0842339523</isbn>
+	<publication_year>1998</publication_year>
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>4.76</average_rating>
+	<num_pages>1468</num_pages>
+	<similar_books>
+		<book>
+			<title>Song of Redemption (Chronicles of the Kings, #2)</title>
+			<isbn>0764229907</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Safely Home</title>
+			<isbn>0842337911</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Zion Covenant (Zion Covenant, #1-#6)</title>
+			<isbn>1556617607</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Mine Is the Night (Here Burns My Candle, #2)</title>
+			<isbn>1400070023</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Stonewycke Trilogy (Stonewycke, #1-3)</title>
+			<isbn>0764223240</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Abigail (The Wives of King David, #2)</title>
+			<isbn>0800733215</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>16396</id>
+	<title>The Inimitable Jeeves (Jeeves, #2)</title>
+	<isbn>0140284125</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>en-US</language_code>
+	<description>When Bingo Little falls in love at a Camberwell subscription dance and Bertie Wooster drops into the mulligatawny, there is work for a wet-nurse. Who better than Jeeves?</description>
+	<average_rating>4.26</average_rating>
+	<num_pages>240</num_pages>
+	<similar_books>
+		<book>
+			<title>Jeeves and the Wedding Bells (Jeeves, #16)</title>
+			<isbn>1250047595</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Trouble for Lucia (Lucia, #6)</title>
+			<isbn>1559212985</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Complete Yes Minister</title>
+			<isbn>0563206659</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Wodehouse: A Life</title>
+			<isbn>0393051595</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Decline and Fall</title>
+			<isbn>1417920769</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Prepared for the Worst: Selected Essays and Minority Reports</title>
+			<isbn>0809078678</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Three Men on the Bummel (Three Men, #2)</title>
+			<isbn>0140063927</isbn>
+			<publication_year>1983</publication_year>
+		</book>
+		<book>
+			<title>Will to Power: The Philosophy of Friedrich Nietzsche</title>
+			<isbn>1565853423</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Marrying Off Mother: And Other Stories</title>
+			<isbn>1559702133</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Trials of Rumpole</title>
+			<isbn>1562870068</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Secret of Father Brown (Father Brown, #4)</title>
+			<isbn>0755100271</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>The Complete Saki</title>
+			<isbn>0140184201</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>Diary of a Provincial Lady</title>
+			<isbn>1853753688</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Amazing Disgrace (Gerald Samper #2)</title>
+			<isbn>1933372192</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

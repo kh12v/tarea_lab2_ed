@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>227492</id>
+	<title>Friends and Lovers</title>
+	<isbn>0451201027</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;Love, betrayal, and friendship set in modern-day Los Angeles&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The lives of four young African Americans--two men and two women--are chronicled through the love and the laughter, heartache and pain, of not-so-everyday life. In contemporary mores and humanity, they investigate and celebrate the gender gap.</description>
+	<average_rating>4.21</average_rating>
+	<num_pages>416</num_pages>
+	<similar_books>
+		<book>
+			<title>And This Too Shall Pass</title>
+			<isbn>0385480318</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Disappearing Acts</title>
+			<isbn>0451209133</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Married Men</title>
+			<isbn>1575666960</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Soulmates Dissipate (Soulmates Dissipate, #1)</title>
+			<isbn>075820020X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Men Cry in the Dark</title>
+			<isbn>0743218027</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Sisters &amp; Lovers</title>
+			<isbn>0345409698</isbn>
+			<publication_year>1996</publication_year>
+		</book>
+		<book>
+			<title>Leslie</title>
+			<isbn>0743228707</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Casting the First Stone (Reverend Curtis Black, #1)</title>
+			<isbn>0758201796</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

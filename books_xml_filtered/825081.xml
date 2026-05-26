@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>825081</id>
+	<title>Lilly's Purple Plastic Purse</title>
+	<isbn>0688128971</isbn>
+	<publication_year />
+	<language_code />
+	<description />
+	<average_rating>4.20</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Mini Mia and Her Darling Uncle</title>
+			<isbn>9129667348</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Fred Stays With Me!</title>
+			<isbn>0316882690</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Big Red Lollipop</title>
+			<isbn>0670062871</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Here Comes the Garbage Barge!</title>
+			<isbn>0375852182</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>The Princess and the Pig</title>
+			<isbn>0802723349</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Hooway for Wodney Wat</title>
+			<isbn>061821612X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Widow's Broom</title>
+			<isbn>0395640512</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Amos &amp; Boris</title>
+			<isbn>2070548988</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Sandwich Swap</title>
+			<isbn>1423124847</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>A Splendid Friend, Indeed</title>
+			<isbn>1590782860</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Three Hens and a Peacock</title>
+			<isbn>1561455644</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Ruby The Copycat</title>
+			<isbn>0590474235</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>Flossie and the Fox</title>
+			<isbn>0803702507</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>Stand Tall, Molly Lou Melon</title>
+			<isbn>0399234160</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>A Pirate's Guide to First Grade</title>
+			<isbn>031236928X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>First Snow in the Woods: A Photographic Fantasy</title>
+			<isbn>0977010864</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Pirate of Kindergarten</title>
+			<isbn>1416950249</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Mrs. Katz and Tush</title>
+			<isbn>0440409365</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

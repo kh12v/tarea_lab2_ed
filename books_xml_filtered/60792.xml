@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>60792</id>
+	<title>The Accidental Tourist</title>
+	<isbn>0345452003</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Macon Leary is a travel writer who hates both travel and anything out of the ordinary. He is grounded by loneliness and an unwillingness to compromise his creature comforts when he meets Muriel, a deliciously peculiar dog-obedience trainer who up-ends Macon’s insular world–and thrusts him headlong into a remarkable engagement with life.</description>
+	<average_rating>3.90</average_rating>
+	<num_pages>352</num_pages>
+	<similar_books>
+		<book>
+			<title>One True Thing</title>
+			<isbn>0812976185</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Family Pictures</title>
+			<isbn>0575403217</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>The Stone Diaries</title>
+			<isbn>014023313X</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>A Thousand Acres</title>
+			<isbn>1400033837</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Terms of Endearment</title>
+			<isbn>075283455X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Ordinary Life: Stories</title>
+			<isbn>0812968131</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>A Map of the World</title>
+			<isbn>0385720106</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>George Mills</title>
+			<isbn>1564782921</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Look at Me</title>
+			<isbn>0140147454</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Angle of Repose</title>
+			<isbn>0140169300</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Charms for the Easy Life</title>
+			<isbn>0060760257</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Collected Stories</title>
+			<isbn>0743244990</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Ordinary People</title>
+			<isbn>0140065172</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>Persian Nights</title>
+			<isbn>0452279585</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Transit of Venus</title>
+			<isbn>1860491812</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>And Ladies of the Club</title>
+			<isbn>0425174409</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Nobody's Fool</title>
+			<isbn>0679753338</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>The Year of the French</title>
+			<isbn>159017108X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

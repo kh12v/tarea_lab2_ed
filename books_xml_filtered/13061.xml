@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>13061</id>
+	<title>Stormy Weather</title>
+	<isbn>0446677167</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>3.94</average_rating>
+	<num_pages>388</num_pages>
+	<similar_books>
+		<book>
+			<title>Torpedo Juice (Serge Storms, #7)</title>
+			<isbn>0060585617</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Naked Detective (Key West, #8)</title>
+			<isbn>0345432193</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>North of Havana (Doc Ford Mystery, #5)</title>
+			<isbn>042516294X</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Heart Seizure</title>
+			<isbn>0060815256</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+	</similar_books>
+</book>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<book>
+	<id>5607622</id>
+	<title>قمر على سمرقند</title>
+	<isbn />
+	<publication_year />
+	<language_code>ara</language_code>
+	<description />
+	<average_rating>3.90</average_rating>
+	<num_pages>713</num_pages>
+	<similar_books>
+		<book>
+			<title>نقطة النور</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>البستان</title>
+			<isbn>9770919527</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>السائرون نياماَ</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>لا أحد ينام في الإسكندرية</title>
+			<isbn />
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>ترانيم في ظل تمارا</title>
+			<isbn />
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>الطنطورية</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>شرف</title>
+			<isbn>9770705152</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>أبو عمر المصري</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>صالح هيصة</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>مالك الحزين</title>
+			<isbn />
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>الزيني بركات</title>
+			<isbn>9770912110</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>قرية ظالمة</title>
+			<isbn>9770919195</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

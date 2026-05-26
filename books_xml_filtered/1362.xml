@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>1362</id>
+	<title>The Histories</title>
+	<isbn>0140449086</isbn>
+	<publication_year>2003</publication_year>
+	<language_code>eng</language_code>
+	<description>One of the masterpieces of classical literature, the "Histories" describes how a small and quarrelsome band of Greek city states united to repel the might of the Persian empire. But while this epic struggle forms the core of his work, Herodotus' natural curiosity frequently gives rise to colorful digressions - a description of the natural wonders of Egypt; an account of European lake-dwellers; and far-fetched accounts of dog-headed men and gold-digging ants. With its kaleidoscopic blend of fact and legend, the "Histories" offers a compelling Greek view of the world of the fifth century BC.</description>
+	<average_rating>3.97</average_rating>
+	<num_pages>716</num_pages>
+	<similar_books>
+		<book>
+			<title>Plutarch's Lives, Vol 1</title>
+			<isbn>0375756760</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A History of My Times</title>
+			<isbn>0140441751</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Early History of Rome: (The History of Rome, #1-5)</title>
+			<isbn>0140448098</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Campaigns of Alexander</title>
+			<isbn>0140442537</isbn>
+			<publication_year>1976</publication_year>
+		</book>
+		<book>
+			<title>The Rise of the Roman Empire</title>
+			<isbn>0140443622</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>History of the Peloponnesian War</title>
+			<isbn>0140440399</isbn>
+			<publication_year>1972</publication_year>
+		</book>
+		<book>
+			<title>The Annals of Imperial Rome</title>
+			<isbn />
+			<publication_year>1959</publication_year>
+		</book>
+		<book>
+			<title>The Twelve Caesars</title>
+			<isbn>0140449213</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Oxford History of Greece and the Hellenistic World</title>
+			<isbn>0192801376</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Conquest of Gaul</title>
+			<isbn>0140444335</isbn>
+			<publication_year>1982</publication_year>
+		</book>
+		<book>
+			<title>The History of Alexander</title>
+			<isbn>0140444122</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Spartans: The World of the Warrior-heroes of Ancient Greece</title>
+			<isbn>1400078857</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Jugurthine War and the Conspiracy of Catiline</title>
+			<isbn>0140441328</isbn>
+			<publication_year>1964</publication_year>
+		</book>
+	</similar_books>
+</book>

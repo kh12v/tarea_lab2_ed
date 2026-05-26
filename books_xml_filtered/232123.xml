@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>232123</id>
+	<title>All That Remains (Kay Scarpetta, #3)</title>
+	<isbn>0684193957</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>In Richmond, Virginia, young lovers are dying. So far, four couples in the area have disappeared, only to be found months later as mutilated corpses. When the daughter of the president's newest drug czar vanishes along with her boyfriend, Dr. Kay Scarpetta knows time is short. Following a macabre trail of evidence that ties the present homicides to a grisly crime in the past, Kay must draw upon her own personal resources to track down a murderer who is as skilled at eliminating clues as Kay is at finding them....</description>
+	<average_rating>4.05</average_rating>
+	<num_pages>373</num_pages>
+	<similar_books>
+		<book>
+			<title>Deadly Decisions (Temperance Brennan, #3)</title>
+			<isbn>0671028367</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Monster (Alex Delaware, #13)</title>
+			<isbn>3442448182</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>I is for Innocent (Kinsey Millhone, #9)</title>
+			<isbn>0449221512</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+		<book>
+			<title>The Bone Vault (Alexandra Cooper, #5)</title>
+			<isbn>0743436679</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Twelfth Card (Lincoln Rhyme, #6)</title>
+			<isbn>0739455834</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Sinner (Rizzoli &amp; Isles, #3)</title>
+			<isbn>0553815024</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+	</similar_books>
+</book>

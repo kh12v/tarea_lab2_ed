@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>13064</id>
+	<title>Tourist Season</title>
+	<isbn>0446695718</isbn>
+	<publication_year />
+	<language_code>en-US</language_code>
+	<description>A bizarre series of killings in Florida lead a one-time journalist onto the trail of a former colleague. The columnist is conducting a vendetta against tourists spoiling the beauty of the area. His headquarters are somewhere in the Everglades, his gang are a mixed-up bunch.</description>
+	<average_rating>3.95</average_rating>
+	<num_pages>404</num_pages>
+	<similar_books>
+		<book>
+			<title>Torpedo Juice (Serge Storms, #7)</title>
+			<isbn>0060585617</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Mangrove Squeeze (Key West, #6)</title>
+			<isbn>0345433068</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>Maximum Bob</title>
+			<isbn>0060084081</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Bones of Coral</title>
+			<isbn>031299950X</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Tricky Business</title>
+			<isbn>0425192741</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

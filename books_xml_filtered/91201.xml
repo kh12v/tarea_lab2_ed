@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>91201</id>
+	<title>Doctors</title>
+	<isbn>0553278118</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description>Autor v knihe vykresľuje ustavičný boj s chorobami, v ktorom však lekári nie sú bezchybne fungujúce automaty, ale komplikované, neraz i zakomplexované a krehké ľudské bytosti, ktorých reakcie a schopnosti závisia do vnútornej vyrovnanosti a silnej ctižiadosti vyhrať každý boj o život a zdravie pacienta.</description>
+	<average_rating>4.00</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>The Final Diagnosis</title>
+			<isbn>0440125081</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>A Fool's Errand (The Gypsy King #2)</title>
+			<isbn>0670067652</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>The Prodigal Daughter (Kane &amp; Abel, #2)</title>
+			<isbn>0312997140</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Inscrutable Americans</title>
+			<isbn>1577310241</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Second Lady</title>
+			<isbn>0752999729</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Nothing Lasts Forever</title>
+			<isbn />
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Teka-Teki Terakhir</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Mutation</title>
+			<isbn>2266071319</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Swami and Friends</title>
+			<isbn>0226568318</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+	</similar_books>
+</book>

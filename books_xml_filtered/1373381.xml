@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>1373381</id>
+	<title>The Ship of Brides</title>
+	<isbn>0340830107</isbn>
+	<publication_year>2005</publication_year>
+	<language_code>en-US</language_code>
+	<description />
+	<average_rating>3.74</average_rating>
+	<num_pages>482</num_pages>
+	<similar_books>
+		<book>
+			<title>The Postcard</title>
+			<isbn />
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Letters From Home</title>
+			<isbn>0758246846</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Love 'N' Marriage</title>
+			<isbn>0373085222</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Land Girls</title>
+			<isbn>0349106010</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>A Touch of Stardust</title>
+			<isbn>0385539045</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Somerset</title>
+			<isbn>1455547387</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Before I Met You</title>
+			<isbn>1846059232</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Garden of Letters</title>
+			<isbn>0425266257</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Thornwood House</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>A Woman of Note</title>
+			<isbn>1503946835</isbn>
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Our Own Country (Midwife, #2)</title>
+			<isbn>1503954803</isbn>
+			<publication_year>2016</publication_year>
+		</book>
+		<book>
+			<title>Tiny Little Thing</title>
+			<isbn>0399171304</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Olive Branch</title>
+			<isbn>1472223705</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Forgotten Seamstress</title>
+			<isbn>0007480849</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Misbegotten</title>
+			<isbn>1409131467</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>City of Hope (Ellis Island, #2)</title>
+			<isbn>0062237284</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>A Gathering Storm</title>
+			<isbn>1849832889</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>The Book Lovers' Appreciation Society</title>
+			<isbn>1409117375</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+	</similar_books>
+</book>

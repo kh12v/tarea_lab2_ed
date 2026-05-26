@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<book>
+	<id>6604887</id>
+	<title>أنت لي</title>
+	<isbn />
+	<publication_year>2007</publication_year>
+	<language_code>ara</language_code>
+	<description />
+	<average_rating>4.03</average_rating>
+	<num_pages>1607</num_pages>
+	<similar_books>
+		<book>
+			<title>زوجي مازال حبيبي</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>رغم الفراق</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>الرجل ذو اللحية السوداء</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>لا شيء يشبهني</title>
+			<isbn />
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>على أجنحة الطير</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>حبة هوا...</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>مع وقف التنفيذ</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>يوميات بابا عمر وماما سارة</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>باسيكاليا</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>يوميات كهل صغير السن</title>
+			<isbn>1291032452</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>أنا عشقت</title>
+			<isbn />
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>ترانيم في ظل تمارا</title>
+			<isbn />
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>في معنى أن أكبر</title>
+			<isbn />
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>ألواح ودسر</title>
+			<isbn>9933100432</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>قطة في عرين الأسد</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>يوميات اتنين مخطوبين</title>
+			<isbn />
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

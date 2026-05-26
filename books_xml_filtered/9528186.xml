@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>9528186</id>
+	<title>Pretty Little Liars (TV Series)</title>
+	<isbn>613321368X</isbn>
+	<publication_year>2010</publication_year>
+	<language_code>eng</language_code>
+	<description>This is a print-on-demand book containing articles from Wikipedia -- the free encyclopedia -- about the Pretty Little Liars television show and related topics.</description>
+	<average_rating>4.46</average_rating>
+	<num_pages>286</num_pages>
+	<similar_books>
+		<book>
+			<title>Pretty Little Liars Box Set (Pretty Little Liars, #1-4)</title>
+			<isbn>0061801313</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Sarah Dessen Gift Set</title>
+			<isbn>0142405981</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Justin Bieber: The Unauthorized Biography</title>
+			<isbn>1843175231</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>A Tale of Two Pretties (The Clique, #14)</title>
+			<isbn>0316084425</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Revelation (Private, #8)</title>
+			<isbn>1416958835</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Rosewood Confidential: The Unofficial Companion to Pretty Little Liars</title>
+			<isbn>1770410953</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

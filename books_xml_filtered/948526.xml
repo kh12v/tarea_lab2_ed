@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<book>
+	<id>948526</id>
+	<title>The Knight at Dawn (Magic Tree House, #2)</title>
+	<isbn>067982412X</isbn>
+	<publication_year>1993</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;b&gt;
+  &lt;i&gt;Peacocks for dinner and boys in skirts?&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;That's what Jack and Annie find when the Magic Tree House whisks them back to the Middle Ages for another wild adventure. In the Great Gall of the castle, a feast is under way. But Jack and Annie aren't exactly welcome guests!</description>
+	<average_rating>3.86</average_rating>
+	<num_pages>66</num_pages>
+	<similar_books>
+		<book>
+			<title>Knights and Castles (Magic Tree House Research Guide, #2)</title>
+			<isbn>0439329442</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Junie B., First Grader: Toothless Wonder (Junie B. Jones, #20)</title>
+			<isbn>0375822232</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Space Explorers (The Magic School Bus Chapter Book, #4)</title>
+			<isbn>0439114934</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The School Skeleton (A to Z Mysteries, #19)</title>
+			<isbn>0375813683</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+	</similar_books>
+</book>

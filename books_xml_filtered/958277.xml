@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>958277</id>
+	<title>Junie B. Jones and the  Stupid Smelly Bus (Junie B. Jones, #1)</title>
+	<isbn>0679826424</isbn>
+	<publication_year>1992</publication_year>
+	<language_code>en-US</language_code>
+	<description>Remember when it was scary to go to school? 'Cause it was your first day and you didn't know anything. Meet Junie B. Jones, kindergartner. &lt;i&gt;She's&lt;/i&gt; so scared of the school bus and the meanies on it that when it's time to go home, she doesn't.</description>
+	<average_rating>3.90</average_rating>
+	<num_pages>69</num_pages>
+	<similar_books>
+		<book>
+			<title>Mummies in the Morning (Magic Tree House, #3)</title>
+			<isbn>0679824243</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Amber Brown Is Not a Crayon</title>
+			<isbn>0142406198</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Horrible Harry in Room 2B (Horrible Harry, #1)</title>
+			<isbn>0140385525</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>The Mystery of the Television Dog (Cam Jansen Mysteries, #4)</title>
+			<isbn>0142400130</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Judy Moody Predicts the Future (Judy Moody, #4)</title>
+			<isbn>1406302147</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Arthur and the Scare-Your-Pants-Off-Club (Arthur Chapter Book, #2)</title>
+			<isbn>0316115495</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+	</similar_books>
+</book>

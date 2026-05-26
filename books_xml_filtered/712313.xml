@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>712313</id>
+	<title>Barefoot</title>
+	<isbn>0316018589</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>en-US</language_code>
+	<description>When Vicki Stowe arrives in Nantucket for the summer with her two young sons, her best friend, Melanie, and her sister, Brenda, she is hoping for peace, rest and comfort. However, the women soon find life in a cramped cottage with only one bathroom not quite the idyll they imagined.</description>
+	<average_rating>3.77</average_rating>
+	<num_pages />
+	<similar_books>
+		<book>
+			<title>Summer House</title>
+			<isbn>0345498208</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Summer Island</title>
+			<isbn>0345483448</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Just Breathe</title>
+			<isbn>0778325776</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Shelter Me</title>
+			<isbn>0061673390</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Beach Trip</title>
+			<isbn>0345505999</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>While My Sister Sleeps</title>
+			<isbn>0385524927</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Life Without Summer</title>
+			<isbn>0312383886</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Deep Blue Sea for Beginners (Newport, Rhode Island, #2)</title>
+			<isbn>0553805142</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Life's a Beach</title>
+			<isbn />
+			<publication_year />
+		</book>
+		<book>
+			<title>The Beach House</title>
+			<isbn>0670018856</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Swimming Lessons </title>
+			<isbn>0778324621</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Driftwood Summer</title>
+			<isbn>0451226887</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Ten Beach Road (Ten Beach Road, #1)</title>
+			<isbn>042524086X</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

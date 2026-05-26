@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<book>
+	<id>3047849</id>
+	<title>Killer (Pretty Little Liars, #6)</title>
+	<isbn>0061566128</isbn>
+	<publication_year>2009</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.07</average_rating>
+	<num_pages>320</num_pages>
+	<similar_books>
+		<book>
+			<title>Pretty Little Liars (TV Series)</title>
+			<isbn>613321368X</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Untouchable (Private, #3)</title>
+			<isbn>1416918752</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>You Just Can't Get Enough (Gossip Girl: The Carlyles, #2)</title>
+			<isbn>0316020656</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Dylan (Clique Summer Collection, #2)</title>
+			<isbn>0316035653</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

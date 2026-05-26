@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>9014</id>
+	<title>The Long Walk</title>
+	<isbn>0451196716</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description>On the first day of May, 100 teenage boys meet for a race known as "The Long Walk." If you break the rules, you get three warnings. If you exceed your limit, what happens is absolutely terrifying.</description>
+	<average_rating>4.11</average_rating>
+	<num_pages>370</num_pages>
+	<similar_books>
+		<book>
+			<title>Rage</title>
+			<isbn>0451076451</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>The Girl Next Door</title>
+			<isbn>0843955430</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Turkish Connection (Birth of an Assassin)</title>
+			<isbn />
+			<publication_year>2015</publication_year>
+		</book>
+		<book>
+			<title>Stephen King Illustrated Companion Manuscripts, Correspondence, Drawings, and Memorabilia from the Master of Modern Horror</title>
+			<isbn>1435117662</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Books of Blood: Volume Six (Books of Blood, #6)</title>
+			<isbn>0722113757</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>Swan Song</title>
+			<isbn>0671741039</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Mystery</title>
+			<isbn>2266126075</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Depraved</title>
+			<isbn>0843962925</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Stephen King Companion</title>
+			<isbn>0836279786</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>Nightmare At 20,000 Feet: Horror Stories</title>
+			<isbn>0312878273</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>City of the Dead (The Rising #2)</title>
+			<isbn>0843954159</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Endless Night</title>
+			<isbn>0843951842</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+	</similar_books>
+</book>

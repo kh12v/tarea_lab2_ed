@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>106124</id>
+	<title>The Dragonslayer (Bone, #4)</title>
+	<isbn>0439706378</isbn>
+	<publication_year>2006</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.33</average_rating>
+	<num_pages>168</num_pages>
+	<similar_books>
+		<book>
+			<title>Usagi Yojimbo, Vol. 2: Samurai (Usagi Yojimbo, #2)</title>
+			<isbn>156097074X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Bone: Quest for the Spark, Vol. 2</title>
+			<isbn>0545141044</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Last Council (Amulet, #4)</title>
+			<isbn>0545208874</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Mouse Guard: Legends of the Guard, Vol. 1 (Mouse Guard)</title>
+			<isbn>1932386947</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Owly, Vol. 4:  A Time to Be Brave (Owly, #4)</title>
+			<isbn>1891830899</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Ferret's a Foot</title>
+			<isbn>0761356290</isbn>
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Korgi, Book 1: Sprouting Wings</title>
+			<isbn>1891830902</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+	</similar_books>
+</book>

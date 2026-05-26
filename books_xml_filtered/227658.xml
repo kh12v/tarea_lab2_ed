@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>227658</id>
+	<title>Running Out of Time</title>
+	<isbn>0439632501</isbn>
+	<publication_year>2004</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>3.98</average_rating>
+	<num_pages>184</num_pages>
+	<similar_books>
+		<book>
+			<title>The Music of Dolphins</title>
+			<isbn>0590897985</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Shakespeare's Scribe (Shakespeare Stealer, #2)</title>
+			<isbn>0142300667</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Both Sides of Time (Time Travelers, #1)</title>
+			<isbn>0385729480</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Time for Andrew: A Ghost Story</title>
+			<isbn>0380724693</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>From Anna</title>
+			<isbn>0064400441</isbn>
+			<publication_year>1973</publication_year>
+		</book>
+		<book>
+			<title>Bloomability</title>
+			<isbn>006440823X</isbn>
+			<publication_year>2012</publication_year>
+		</book>
+		<book>
+			<title>The Farthest-Away Mountain</title>
+			<isbn>0440419263</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Woman in the Wall</title>
+			<isbn>0141301244</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Survival (Island, #2)</title>
+			<isbn>0439164575</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>A Bone From a Dry Sea</title>
+			<isbn>0440219280</isbn>
+			<publication_year>1995</publication_year>
+		</book>
+		<book>
+			<title>Hidden Talents (Talents, #1)</title>
+			<isbn>0765357666</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Rodzina</title>
+			<isbn>044041993X</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>Nory Ryan's Song (Nory Ryan, #1)</title>
+			<isbn>0440418291</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The School Story</title>
+			<isbn>0689851863</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Time Windows</title>
+			<isbn>0152023992</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Seven Wonders of Sassafras Springs</title>
+			<isbn>1416934898</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Who Comes with Cannons?</title>
+			<isbn>0688110282</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Singularity</title>
+			<isbn>0844669032</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+	</similar_books>
+</book>

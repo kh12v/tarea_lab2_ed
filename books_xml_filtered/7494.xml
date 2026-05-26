@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<book>
+	<id>7494</id>
+	<title>Suzanne's Diary for Nicholas</title>
+	<isbn>0446611085</isbn>
+	<publication_year />
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.16</average_rating>
+	<num_pages>289</num_pages>
+	<similar_books>
+		<book>
+			<title>The Letter (The Christmas Box, #3)</title>
+			<isbn>0684834723</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Smoke Jumper</title>
+			<isbn>0440235162</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Three Weeks With My Brother</title>
+			<isbn>0446694851</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Between Friends</title>
+			<isbn>155166674X</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The House on Hope Street</title>
+			<isbn>0553502506</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>Beach Girls</title>
+			<isbn>0553587242</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Between Sisters</title>
+			<isbn>0345450744</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Secret Life of CeeCee Wilkes</title>
+			<isbn>0778325318</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Flirting With Pete</title>
+			<isbn>0743489608</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Where the River Ends</title>
+			<isbn>0767926986</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Christmas Shoes (Christmas Hope #1)</title>
+			<isbn>0312289510</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

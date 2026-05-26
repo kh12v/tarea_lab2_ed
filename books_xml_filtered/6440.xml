@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<book>
+	<id>6440</id>
+	<title>Ivanhoe</title>
+	<isbn>0140436588</isbn>
+	<publication_year>2000</publication_year>
+	<language_code>eng</language_code>
+	<description>&lt;i&gt;Ivanhoe&lt;/i&gt; (1819) was the first of Scott's novels to adopt a purely English subject and was also his first attempt to combine history and romance, which later influenced Victorian medievalism. Set at the time of the Norman Conquest, Ivanhoe returns from the Crusades to claim his inheritance and the love of Rowena and becomes involved in the struggle between Richard Coeur de Lion and his Norman brother John. The gripping narrative is structured by a series of conflicts: Saxon versus Norman, Christian versus Jew, men versus women, played out against Scott's unflinching moral realism.</description>
+	<average_rating>3.75</average_rating>
+	<num_pages>544</num_pages>
+	<similar_books>
+		<book>
+			<title>The White Company</title>
+			<isbn>0486437639</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Scaramouche</title>
+			<isbn>0451527976</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>The Black Arrow</title>
+			<isbn>0543896609</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Men of Iron</title>
+			<isbn>141793977X</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Lorna Doone</title>
+			<isbn>0143039326</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Ben-Hur: A Tale of the Christ</title>
+			<isbn>1934648205</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Barnaby Rudge</title>
+			<isbn>0140437282</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Quo Vadis</title>
+			<isbn>0781805503</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>The Vicomte de Bragelonne (The D'Artagnan Romances, #3.1)</title>
+			<isbn>0192834630</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>The Spy</title>
+			<isbn>0140436286</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Kim</title>
+			<isbn>0140183523</isbn>
+			<publication_year>1981</publication_year>
+		</book>
+		<book>
+			<title>Marius the Epicurean</title>
+			<isbn>0140432361</isbn>
+			<publication_year>1986</publication_year>
+		</book>
+		<book>
+			<title>The Absentee</title>
+			<isbn>0140436456</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Expedition of Humphry Clinker</title>
+			<isbn>0140430210</isbn>
+			<publication_year>1967</publication_year>
+		</book>
+		<book>
+			<title>Camilla</title>
+			<isbn>019283908X</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The History of Tom Jones, a Foundling</title>
+			<isbn>0140436227</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Last Days of Pompeii</title>
+			<isbn>158715739X</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>Mutiny on the Bounty (The Bounty Trilogy, #1)</title>
+			<isbn>0316611689</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

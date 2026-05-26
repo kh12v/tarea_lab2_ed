@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<book>
+	<id>96977</id>
+	<title>Castle Roogna (Xanth, #3)</title>
+	<isbn>0345418514</isbn>
+	<publication_year>1997</publication_year>
+	<language_code>eng</language_code>
+	<description>Millie, a ghost for 800 years wants only one man--Jonathan, and he's a zombie. To prove himself, Magician Dor volunteers to get the potion that can restore Jonathan to full life. But he has to go back through time to do it, to a peril-haunted, ancient Xanth, where danger lurks at every turn....</description>
+	<average_rating>3.87</average_rating>
+	<num_pages>336</num_pages>
+	<similar_books>
+		<book>
+			<title>Little Myth Marker (Myth Adventures, #6)</title>
+			<isbn>0441014372</isbn>
+			<publication_year>2006</publication_year>
+		</book>
+		<book>
+			<title>Wizard at Large (Magic Kingdom of Landover, #3)</title>
+			<isbn>1857231031</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Spellsinger (Spellsinger, #1)</title>
+			<isbn>0743498259</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Castle for Rent (Castle Perilous, #2)</title>
+			<isbn>0759232040</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Sword and the Chain (Guardians of the Flame, #2)</title>
+			<isbn>0451453514</isbn>
+			<publication_year>1984</publication_year>
+		</book>
+		<book>
+			<title>The Complete Book of Swords (Books of Swords, #1-3)</title>
+			<isbn>1568650094</isbn>
+			<publication_year>1985</publication_year>
+		</book>
+		<book>
+			<title>On a Pale Horse (Incarnations of Immortality, #4)</title>
+			<isbn>1565210174</isbn>
+			<publication_year>1993</publication_year>
+		</book>
+	</similar_books>
+</book>

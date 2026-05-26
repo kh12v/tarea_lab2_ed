@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<book>
+	<id>19314</id>
+	<title>Ronia, the Robber's Daughter</title>
+	<isbn>0140317201</isbn>
+	<publication_year>1985</publication_year>
+	<language_code>eng</language_code>
+	<description>Ronia, who lives with her father and his band of robbers in a castle in the woods, causes trouble when she befriends the son of a rival robber chieftain.</description>
+	<average_rating>4.27</average_rating>
+	<num_pages>176</num_pages>
+	<similar_books>
+		<book>
+			<title>Die kleine Hexe</title>
+			<isbn>352210580X</isbn>
+			<publication_year>1957</publication_year>
+		</book>
+		<book>
+			<title>Jim Knopf und die Wilde 13</title>
+			<isbn>3522149904</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Oh, wie schön ist Panama</title>
+			<isbn>3407805330</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Moominland Midwinter (The Moomins, #6)</title>
+			<isbn>0713639806</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Das doppelte Lottchen</title>
+			<isbn>3791530119</isbn>
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>Die rote Zora und ihre Bande</title>
+			<isbn>3794101227</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>Pettersson kriegt Weihnachtsbesuch</title>
+			<isbn>3789161748</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>De rode prinses</title>
+			<isbn>9025105777</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Karius und Baktus</title>
+			<isbn>3570016943</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

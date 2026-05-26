@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book>
+	<id>2049</id>
+	<title>The High Window (Philip Marlowe, #3)</title>
+	<isbn>0394758269</isbn>
+	<publication_year>1988</publication_year>
+	<language_code>eng</language_code>
+	<description>A wealthy Pasadena widow with a mean streak, a missing daughter-in-law with a past, and a gold coin worth a small fortune—the elements don't quite add up until Marlowe discovers evidence of murder, rape, blackmail, and the worst kind of human exploitation.&lt;br /&gt;&lt;br /&gt;"Raymond Chandler is a star of the first magnitude."-- Erle Stanley Gardner&lt;br /&gt;&lt;br /&gt;"Raymond Chandler has given us a detective who is hard-boiled enough to be convincing . . . and that is no mean achievement." -- The New York Times</description>
+	<average_rating>4.08</average_rating>
+	<num_pages>265</num_pages>
+	<similar_books>
+		<book>
+			<title>The Big Knockover: Selected Stories and Short Novels</title>
+			<isbn>0679722599</isbn>
+			<publication_year>1989</publication_year>
+		</book>
+		<book>
+			<title>The Ivory Grin</title>
+			<isbn>0307278999</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>The Bride Wore Black</title>
+			<isbn>0743413164</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Dark Passage</title>
+			<isbn>1853755087</isbn>
+			<publication_year>2003</publication_year>
+		</book>
+		<book>
+			<title>The Kill-Off</title>
+			<isbn>0316404004</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+	</similar_books>
+</book>

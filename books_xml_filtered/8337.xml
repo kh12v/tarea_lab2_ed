@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<book>
+	<id>8337</id>
+	<title>Little House in the Big Woods (Little House, #1)</title>
+	<isbn>0060885378</isbn>
+	<publication_year>2007</publication_year>
+	<language_code>eng</language_code>
+	<description>Laura Ingalls and her family live deep in the Big Woods of Wisconsin. Their log cabin is surrounded by miles of trees, and their closest neighbors are bears, wolves, and panthers. Daily chores keep Laura and her sister Mary busy, but they still find time to go exploring with their dog, Jack.</description>
+	<average_rating>4.16</average_rating>
+	<num_pages>198</num_pages>
+	<similar_books>
+		<book>
+			<title>Little Farm in the Ozarks (Little House: The Rocky Ridge Years, #2)</title>
+			<isbn>0064405109</isbn>
+			<publication_year>1994</publication_year>
+		</book>
+		<book>
+			<title>Down to the Bonny Glen (Little House: The Martha Years, #3)</title>
+			<isbn>0064407144</isbn>
+			<publication_year>2001</publication_year>
+		</book>
+		<book>
+			<title>Betsy-Tacy and Tib (Betsy-Tacy, #2)</title>
+			<isbn>0690138768</isbn>
+			<publication_year>1941</publication_year>
+		</book>
+		<book>
+			<title>Felicity Saves the Day: A Summer Story (American Girls: Felicity, #5)</title>
+			<isbn>1562470345</isbn>
+			<publication_year>1992</publication_year>
+		</book>
+		<book>
+			<title>Meet Kirsten: An American Girl (American Girls: Kirsten, #1)</title>
+			<isbn>0937295795</isbn>
+			<publication_year>1990</publication_year>
+		</book>
+		<book>
+			<title>Three Tales Of My Father's Dragon</title>
+			<isbn>0679889116</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>All-of-a-Kind Family Downtown (All-of-a-Kind Family, #2)</title>
+			<isbn>0929093216</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Emily's Runaway Imagination</title>
+			<isbn>0380709236</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+	</similar_books>
+</book>

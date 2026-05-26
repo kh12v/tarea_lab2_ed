@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<book>
+	<id>121809</id>
+	<title>Tennis Shoes Among the Nephites (Tennis Shoes, #1)</title>
+	<isbn>1577344677</isbn>
+	<publication_year>1999</publication_year>
+	<language_code>eng</language_code>
+	<description />
+	<average_rating>4.01</average_rating>
+	<num_pages>268</num_pages>
+	<similar_books>
+		<book>
+			<title>Come Unto Me (The Kingdom and the Crown #2)</title>
+			<isbn>1609079507</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>Since You Went Away (Children of the Promise, #2)</title>
+			<isbn>1590383397</isbn>
+			<publication_year>1997</publication_year>
+		</book>
+		<book>
+			<title>Charly</title>
+			<isbn>0875791212</isbn>
+			<publication_year>1987</publication_year>
+		</book>
+		<book>
+			<title>Where Angels Fall (The Great and Terrible, #2)</title>
+			<isbn>1590382897</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Freefall (Saint Squad, #1)</title>
+			<isbn>1598115103</isbn>
+			<publication_year>2008</publication_year>
+		</book>
+		<book>
+			<title>Pillar of Fire (The Promised Land, #1)</title>
+			<isbn>1577347226</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

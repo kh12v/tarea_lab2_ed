@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<book>
+	<id>6251012</id>
+	<title>UR</title>
+	<isbn />
+	<publication_year>2009</publication_year>
+	<language_code>eng</language_code>
+	<description>Reeling from a painful break-up, English instructor and avid book lover Wesley Smith is haunted by his ex-girlfriend's parting shot: "Why can't you just read off the computer like everyone else?" He buys an e-book reader out of spite, but soon finds he can use the device to glimpse realities he had never before imagined, discovering literary riches beyond his wildest dreams...and all-too-human tragedies that surpass his most terrible nightmares.</description>
+	<average_rating>3.65</average_rating>
+	<num_pages>61</num_pages>
+	<similar_books>
+		<book>
+			<title>Rage</title>
+			<isbn>0451076451</isbn>
+			<publication_year>1977</publication_year>
+		</book>
+		<book>
+			<title>The Dark Tower: The Gunslinger - The Little Sisters of Eluria</title>
+			<isbn>0785149317</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>To Read or Not to Read</title>
+			<isbn />
+			<publication_year>2011</publication_year>
+		</book>
+		<book>
+			<title>Night Visions 5</title>
+			<isbn>0913165328</isbn>
+			<publication_year>1988</publication_year>
+		</book>
+		<book>
+			<title>Darkness Under the Sun</title>
+			<isbn>0440423473</isbn>
+			<publication_year>2010</publication_year>
+		</book>
+		<book>
+			<title>Road Rage: Two Novellas (Duel &amp; Road Rage)</title>
+			<isbn>0061726354</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>Stephen King: Uncollected, Unpublished</title>
+			<isbn>1587671301</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Lost Work Of Stephen King: A Guide to Unpublished Manuscripts, Story Fragments, Alternative Versions and Oddities</title>
+			<isbn>1559724692</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Stephen King Illustrated Companion Manuscripts, Correspondence, Drawings, and Memorabilia from the Master of Modern Horror</title>
+			<isbn>1435117662</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Wolverton Station</title>
+			<isbn>0062341596</isbn>
+			<publication_year>2014</publication_year>
+		</book>
+		<book>
+			<title>The Sparrow (The Returned, #0.6)</title>
+			<isbn />
+			<publication_year>2013</publication_year>
+		</book>
+		<book>
+			<title>He Is Legend: An Anthology Celebrating Richard Matheson</title>
+			<isbn>1887368108</isbn>
+			<publication_year>2009</publication_year>
+		</book>
+		<book>
+			<title>The Cook's Illustrated How-to-Cook Library: An illustrated step-by-step guide to Foolproof Cooking</title>
+			<isbn />
+			<publication_year />
+		</book>
+	</similar_books>
+</book>

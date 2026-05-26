@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<book>
+	<id>33507</id>
+	<title>Twenty Thousand Leagues Under the Sea</title>
+	<isbn>076072850X</isbn>
+	<publication_year>2002</publication_year>
+	<language_code>eng</language_code>
+	<description>Twenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers) is a classic science fiction novel by French writer Jules Verne, published in 1870. It is about the fictional Captain Nemo and his submarine, Nautilus, as seen by one of his passengers, Professor Pierre Aronnax.</description>
+	<average_rating>3.86</average_rating>
+	<num_pages>394</num_pages>
+	<similar_books>
+		<book>
+			<title>The Lost World &amp; Other Stories</title>
+			<isbn>1853262455</isbn>
+			<publication_year>1998</publication_year>
+		</book>
+		<book>
+			<title>Sandokan: The Pirates of Malaysia</title>
+			<isbn>0978270738</isbn>
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Two Years Before the Mast: A Sailor's Life at Sea</title>
+			<isbn>1402179626</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Jungle Books</title>
+			<isbn>0451529758</isbn>
+			<publication_year>2005</publication_year>
+		</book>
+		<book>
+			<title>The Land That Time Forgot (Caspak, #1-3)</title>
+			<isbn>0803261543</isbn>
+			<publication_year>1999</publication_year>
+		</book>
+		<book>
+			<title>The Prince and the Pauper</title>
+			<isbn>0451528352</isbn>
+			<publication_year>2002</publication_year>
+		</book>
+		<book>
+			<title>The Coral Island</title>
+			<isbn />
+			<publication_year>2007</publication_year>
+		</book>
+		<book>
+			<title>Ivanhoe</title>
+			<isbn>0140436588</isbn>
+			<publication_year>2000</publication_year>
+		</book>
+		<book>
+			<title>The Legends of King Arthur and His Knights</title>
+			<isbn />
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>The Currents of Space (Galactic Empire #2)</title>
+			<isbn>0553293419</isbn>
+			<publication_year>1991</publication_year>
+		</book>
+		<book>
+			<title>The Food of the Gods</title>
+			<isbn>1570020159</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>The Strange Case of Dr. Jekyll and Mr. Hyde and Other Stories </title>
+			<isbn>1593081316</isbn>
+			<publication_year>2004</publication_year>
+		</book>
+		<book>
+			<title>Night Flight</title>
+			<isbn>1417996501</isbn>
+			<publication_year />
+		</book>
+		<book>
+			<title>Tanglewood Tales: A Wonder-Book for Girls and Boys</title>
+			<isbn>1402166516</isbn>
+			<publication_year />
+		</book>
+	</similar_books>
+</book>
