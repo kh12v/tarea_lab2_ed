@@ -4,8 +4,8 @@
 #include <stdexcept>
 
 // Node
-Tree::Node::Node(XmlNodeData value, Node* p) {
-    data = value;
+Tree::Node::Node(XmlNodeData&& value, Node* p) {
+    data = std::move(value);
     parent = p;
 }
 
@@ -24,51 +24,90 @@ int Tree::size() {
     return treeSize;
 }
 
-std::string Tree::root() {
+int Tree::root() {
     if (!rootNode) throw std::runtime_error("Árbol vacío");
     return rootNode->data.id;
 }
 
-Tree::Node* Tree::search(Node* node, std::string id) {
-    if (!node) return nullptr;
-    if (node->data.id == id) return node;
-
-    for (auto child : node->children) {
-        Node* found = search(child, id);
-        if (found) return found;
+Tree::Node* Tree::search(int id) {
+    auto it = node_directory.find(id);
+    if (it != node_directory.end()) {
+        return it->second;
     }
     return nullptr;
 }
+// Tree::Node* Tree::search(Node* node, int id) {
+//     if (!node) return nullptr;
+//     if (node->data.id == id) return node;
 
-bool Tree::insert(std::string parentId, XmlNodeData value) {
+//     for (auto child : node->children) {
+//         Node* found = search(child, id);
+//         if (found) return found;
+//     }
+//     return nullptr;
+// }
+
+bool Tree::insert(int parentId, XmlNodeData&& value) {
+    // 1. Bloqueamos el mutex. Ningún otro hilo pasará de esta línea 
+    // hasta que el hilo actual termine la función insert.
+    std::lock_guard<std::mutex> lock(tree_mutex);
+
+    int new_id = value.id;
+
     if (!rootNode) {
-        rootNode = new Node(value);
+        rootNode = new Node(std::move(value));
+        node_directory[new_id] = rootNode;
         treeSize++;
         return true;
     }
 
-    Node* parentNode = search(rootNode, parentId);
-    if (!parentNode) return false;
+    // Usamos la búsqueda directa O(1)
+    auto it = node_directory.find(parentId);
+    if (it == node_directory.end()) return false;
+    
+    Node* parentNode = it->second;
 
     if ((int)parentNode->children.size() >= k) return false;
 
-    Node* newNode = new Node(value, parentNode);
+    Node* newNode = new Node(std::move(value), parentNode);
     parentNode->children.push_back(newNode);
+    
+    node_directory[new_id] = newNode;
     treeSize++;
+    
     return true;
 }
+// bool Tree::insert(int parentId, XmlNodeData value) {
+//     if (!rootNode) {
+//         rootNode = new Node(value);
+//         treeSize++;
+//         return true;
+//     }
 
-std::string Tree::parent(std::string id) {
-    Node* node = search(rootNode, id);
+//     Node* parentNode = search(rootNode, parentId);
+//     if (!parentNode) return false;
+
+//     if ((int)parentNode->children.size() >= k) return false;
+
+//     Node* newNode = new Node(value, parentNode);
+//     parentNode->children.push_back(newNode);
+//     treeSize++;
+//     return true;
+// }
+
+int Tree::parent(int id) {
+    // Node* node = search(rootNode, id);
+    Node* node = search(id);
     if (!node || !node->parent)
         throw std::runtime_error("No tiene padre");
 
     return node->parent->data.id;
 }
 
-std::vector<std::string> Tree::children(std::string id) {
-    Node* node = search(rootNode, id);
-    std::vector<std::string> result;
+std::vector<int> Tree::children(int id) {
+    // Node* node = search(rootNode, id);
+    Node* node = search(id);
+    std::vector<int> result;
 
     if (!node) return result;
 
@@ -80,17 +119,32 @@ std::vector<std::string> Tree::children(std::string id) {
 
 void Tree::deleteSubtree(Node* node) {
     if (!node) return;
-    for (auto child : node->children)
+    for (auto child : node->children) {
         deleteSubtree(child);
+    }
+    // Borrar del directorio antes de destruir el nodo
+    node_directory.erase(node->data.id);
     delete node;
 }
+// void Tree::deleteSubtree(Node* node) {
+//     if (!node) return;
+//     for (auto child : node->children)
+//         deleteSubtree(child);
+//     delete node;
+// }
 
-bool Tree::remove(std::string id) {
-    Node* node = search(rootNode, id);
-    if (!node) return false;
+bool Tree::remove(int id) {
+    // 2. También bloqueamos al eliminar, para evitar que un hilo 
+    // intente insertar un hijo en un nodo que otro hilo está borrando.
+    std::lock_guard<std::mutex> lock(tree_mutex);
+
+    auto it = node_directory.find(id);
+    if (it == node_directory.end()) return false;
+    
+    Node* node = it->second;
 
     if (node == rootNode) {
-        deleteSubtree(rootNode);
+        deleteSubtree(rootNode); // deleteSubtree ya borra del node_directory
         rootNode = nullptr;
         treeSize = 0;
         return true;
@@ -99,44 +153,70 @@ bool Tree::remove(std::string id) {
     Node* parent = node->parent;
     auto& siblings = parent->children;
 
-    siblings.erase(
-        std::remove(siblings.begin(), siblings.end(), node),
-        siblings.end()
-    );
+    // Eliminar el puntero de la lista de hijos del padre
+    for (auto it_sib = siblings.begin(); it_sib != siblings.end(); ++it_sib) {
+        if (*it_sib == node) {
+            siblings.erase(it_sib);
+            break;
+        }
+    }
 
     deleteSubtree(node);
     treeSize--;
     return true;
 }
+// bool Tree::remove(int id) {
+//     Node* node = search(rootNode, id);
+//     if (!node) return false;
 
-void Tree::preOrder(Node* node, std::vector<std::string>& result) {
+//     if (node == rootNode) {
+//         deleteSubtree(rootNode);
+//         rootNode = nullptr;
+//         treeSize = 0;
+//         return true;
+//     }
+
+//     Node* parent = node->parent;
+//     auto& siblings = parent->children;
+
+//     siblings.erase(
+//         std::remove(siblings.begin(), siblings.end(), node),
+//         siblings.end()
+//     );
+
+//     deleteSubtree(node);
+//     treeSize--;
+//     return true;
+// }
+
+void Tree::preOrder(Node* node, std::vector<int>& result) {
     if (!node) return;
     result.push_back(node->data.id);
     for (auto child : node->children)
         preOrder(child, result);
 }
 
-std::vector<std::string> Tree::preOrder() {
-    std::vector<std::string> result;
+std::vector<int> Tree::preOrder() {
+    std::vector<int> result;
     preOrder(rootNode, result);
     return result;
 }
 
-void Tree::postOrder(Node* node, std::vector<std::string>& result) {
+void Tree::postOrder(Node* node, std::vector<int>& result) {
     if (!node) return;
     for (auto child : node->children)
         postOrder(child, result);
     result.push_back(node->data.id);
 }
 
-std::vector<std::string> Tree::postOrder() {
-    std::vector<std::string> result;
+std::vector<int> Tree::postOrder() {
+    std::vector<int> result;
     postOrder(rootNode, result);
     return result;
 }
 
-std::vector<std::string> Tree::inOrder() {
-    std::vector<std::string> result;
+std::vector<int> Tree::inOrder() {
+    std::vector<int> result;
 
     std::function<void(Node*)> inorder = [&](Node* node) {
         if (!node) return;
