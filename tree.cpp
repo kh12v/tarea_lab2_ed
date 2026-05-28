@@ -202,6 +202,25 @@ std::vector<int> Tree::preOrder() {
     return result;
 }
 
+//primera funcion listar
+void Tree::listar(Node* node, std::vector<int>& result) {
+    if (!node) return;
+    
+
+    if (node->data.tag == "book") {
+        result.push_back(node->data.id);
+    }
+    
+    for (auto child : node->children)
+        listar(child, result);
+}
+
+std::vector<int> Tree::listar() {
+    std::vector<int> result;
+    listar(rootNode, result);
+    return result;
+}
+
 void Tree::postOrder(Node* node, std::vector<int>& result) {
     if (!node) return;
     for (auto child : node->children)

@@ -31,6 +31,7 @@ private:
     std::mutex tree_mutex;
 
     void preOrder(Node* node, std::vector<int>& result);
+    void listar(Node* node, std::vector<int>& result);
     void postOrder(Node* node, std::vector<int>& result);
     void deleteSubtree(Node* node); //si se borra un nodo, se borran todos sus hijos y luego ese nodo.
     void printTree(Node* node, int depth);
@@ -53,6 +54,7 @@ public:
     Node* search(int id);
 
     std::vector<int> preOrder();
+    std::vector<int> listar();
     std::vector<int> postOrder();
     std::vector<int> inOrder();
     
