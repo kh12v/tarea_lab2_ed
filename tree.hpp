@@ -32,6 +32,7 @@ private:
 
     void preOrder(Node* node, std::vector<int>& result);
     void listar(Node* node, std::vector<int>& result);
+    void precursores(Node* node, std::vector<int>& result);
     void postOrder(Node* node, std::vector<int>& result);
     void deleteSubtree(Node* node); //si se borra un nodo, se borran todos sus hijos y luego ese nodo.
     void printTree(Node* node, int depth);
@@ -55,6 +56,7 @@ public:
 
     std::vector<int> preOrder();
     std::vector<int> listar();
+    std::vector<int> precursores();
     std::vector<int> postOrder();
     std::vector<int> inOrder();
     

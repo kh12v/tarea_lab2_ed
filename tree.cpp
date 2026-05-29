@@ -202,6 +202,56 @@ std::vector<int> Tree::preOrder() {
     return result;
 }
 
+//funciones para precursores
+
+void Tree::precursores(Node* node, std::vector<int>& result) {
+    if (!node) return;
+
+    int year = 0;
+    bool precursor = true;
+
+    
+    for (auto child : node->children){
+        if(child->data.tag == "publication_year"){
+            year = std::stoi(child->data.text_content);
+        }
+    }
+
+    for(auto child : node->children){
+        if(child->data.tag == "similar_books"){
+            for(auto similar_book : child->children){
+                int similar_book_year = 0;
+                for (auto similar : similar_book->children) {
+                    if (similar->data.tag == "publication_year"){
+                        similar_book_year = std::stoi(similar->data.text_content);
+                        if (!similar->data.text_content.empty()) {
+                            similar_book_year = std::stoi(similar->data.text_content);
+                            if (similar_book_year <= year) {
+                                precursor = false;
+                                break;
+                            }
+                        }
+                    }
+                }
+                if (!precursor) break;
+            }
+        }
+    }
+
+    if (precursor && node->data.tag == "book"){
+        result.push_back(node->data.id);
+    }
+    for (auto child : node->children)
+        precursores(child, result);
+}
+
+std::vector<int> Tree::precursores() {
+    std::vector<int> result;
+    precursores(rootNode, result);
+    return result;
+}
+
+
 //primera funcion listar
 void Tree::listar(Node* node, std::vector<int>& result) {
     if (!node) return;
