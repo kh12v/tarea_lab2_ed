@@ -221,6 +221,27 @@ std::vector<int> Tree::listar() {
     return result;
 }
 
+void Tree::borrar_ratings(double r){
+
+    std::vector<int> ids_to_remove;
+
+    for (auto book : rootNode->children){
+        for (auto child : book->children){
+            if(child->data.tag == "average_rating"){
+                double ranking = std::stod(child->data.text_content);
+                if(ranking <= r){
+                    ids_to_remove.push_back(book->data.id);
+                }
+            }
+        }
+    }
+
+    // Recorremos el vector de IDs a borrar y llamamos a remove
+    for (int id : ids_to_remove) {
+        remove(id);
+    }
+}
+
 void Tree::postOrder(Node* node, std::vector<int>& result) {
     if (!node) return;
     for (auto child : node->children)

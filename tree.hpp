@@ -59,6 +59,8 @@ public:
     std::vector<int> inOrder();
     
     void printTree();
+
+    void borrar_ratings(double r);
 };
 
 #endif
