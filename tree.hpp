@@ -4,9 +4,11 @@
 #include <vector>
 #include <iostream>
 #include <string>
+#include <unordered_map>
+#include <mutex>
 
 struct XmlNodeData {
-    std::string id;
+    int id;
     std::string tag;
     std::string text_content;
 };
@@ -18,15 +20,20 @@ private:
         Node* parent;
         std::vector<Node*> children;
 
-        Node(XmlNodeData value, Node* p = nullptr);
+        Node(XmlNodeData&& value, Node* p = nullptr);
     };
 
     Node* rootNode;
     int treeSize;
     int k;
+    std::unordered_map<int, Node*> node_directory;
 
-    void preOrder(Node* node, std::vector<std::string>& result);
-    void postOrder(Node* node, std::vector<std::string>& result);
+    std::mutex tree_mutex;
+
+    void preOrder(Node* node, std::vector<int>& result);
+    void listar(Node* node, std::vector<int>& result);
+    void precursores(Node* node, std::vector<int>& result);
+    void postOrder(Node* node, std::vector<int>& result);
     void deleteSubtree(Node* node); //si se borra un nodo, se borran todos sus hijos y luego ese nodo.
     void printTree(Node* node, int depth);
 
@@ -36,21 +43,26 @@ public:
     bool isEmpty();
     int size();
 
-    std::string root();
+    int root();
 
-    std::string parent(std::string id);
-    std::vector<std::string> children(std::string id);
+    int parent(int id);
+    std::vector<int> children(int id);
 
-    bool insert(std::string parentId, XmlNodeData value);
-    bool remove(std::string id);
+    bool insert(int parentId, XmlNodeData&& value);
+    bool remove(int id);
     
-    Node* search(Node* node, std::string id);
+    // Node* search(Node* node, int id);
+    Node* search(int id);
 
-    std::vector<std::string> preOrder();
-    std::vector<std::string> postOrder();
-    std::vector<std::string> inOrder();
+    std::vector<int> preOrder();
+    std::vector<int> listar();
+    std::vector<int> precursores();
+    std::vector<int> postOrder();
+    std::vector<int> inOrder();
     
     void printTree();
+
+    void borrar_ratings(double r);
 };
 
 #endif

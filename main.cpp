@@ -1,15 +1,22 @@
 #include <iostream>
 #include <filesystem>
 #include <string>
+#include <vector>
+#include <thread>
+#include <mutex>
+#include <atomic>
+#include <utility>
 #include "pugixml/pugixml.hpp"
 #include "tree.hpp"
 
 namespace fs = std::filesystem;
 
-void populate_tree(pugi::xml_node pugi_node, Tree& tree, const std::string& parent_id, int& id_counter) {
+std::mutex mega_tree_mutex;
+
+void populate_tree(pugi::xml_node pugi_node, Tree& tree, int parent_id, std::atomic<int>& id_counter) {
     for (pugi::xml_node child = pugi_node.first_child(); child; child = child.next_sibling()) {
         if (child.type() == pugi::node_element) {
-            std::string current_id = "node_" + std::to_string(++id_counter);
+            int current_id = ++id_counter;
             XmlNodeData data;
             data.id = current_id;
             data.tag = child.name();
@@ -23,7 +30,10 @@ void populate_tree(pugi::xml_node pugi_node, Tree& tree, const std::string& pare
                 data.text_content = "";
             }
 
-            tree.insert(parent_id, data);
+            {
+                std::lock_guard<std::mutex> lock(mega_tree_mutex);
+                tree.insert(parent_id, std::move(data));
+            }
             
             // Recursively populate children
             populate_tree(child, tree, current_id, id_counter);
@@ -39,60 +49,106 @@ int main() {
         return 1;
     }
 
-    int count = 0;
+    // 1. Instanciar el árbol ÚNICO fuera del bucle (con mayor capacidad para alojar todo)
+    Tree mega_tree(5000); 
+    
+    // 2. Mantener el contador de IDs fuera para que sea global y único, ahora atómico
+    std::atomic<int> id_counter{0}; 
+
+    // 3. Crear e insertar el Nodo Raíz Global
+    int global_root_id = ++id_counter;
+    XmlNodeData global_root_data;
+    global_root_data.id = global_root_id;
+    global_root_data.tag = "root_catalogo"; // Nombre representativo para el contenedor global
+    global_root_data.text_content = "Contenedor de todos los libros XML";
+    
+    mega_tree.insert(0, std::move(global_root_data)); // Se inserta sin padre por ser la raíz absoluta
+
     std::cout << "Reading XML files from " << folder_path << "..." << std::endl;
 
+    std::vector<fs::path> files;
     for (const auto& entry : fs::directory_iterator(folder_path)) {
         if (entry.path().extension() == ".xml") {
+            files.push_back(entry.path());
+        }
+    }
+
+    std::atomic<size_t> file_index{0};
+    std::atomic<int> count{0};
+    int num_threads = std::thread::hardware_concurrency();
+    if (num_threads == 0) num_threads = 4;
+    std::vector<std::thread> threads;
+
+    auto worker = [&]() {
+        while (true) {
+            size_t i = file_index.fetch_add(1);
+            if (i >= files.size()) break;
+            
+            const auto& filepath = files[i];
+            
             pugi::xml_document doc;
-            pugi::xml_parse_result result = doc.load_file(entry.path().c_str());
+            pugi::xml_parse_result result = doc.load_file(filepath.c_str());
 
             if (result) {
-                std::cout << "\n============================================\n";
-                std::cout << "Archivo: " << entry.path().filename() << "\n";
                 pugi::xml_node book_node = doc.child("book");
+                
                 if (book_node) {
-                    Tree book_tree(100); // Create tree with high k capacity for XML
-                    int id_counter = 0;
-                    std::string root_id = "node_" + std::to_string(++id_counter);
+                    // 4. El nodo <book> de ESTE archivo ahora será hijo de la raíz global
+                    int book_root_id = ++id_counter;
                     
-                    XmlNodeData root_data;
-                    root_data.id = root_id;
-                    root_data.tag = book_node.name();
+                    XmlNodeData book_root_data;
+                    book_root_data.id = book_root_id;
+                    book_root_data.tag = book_node.name(); // "book"
                     
                     std::string root_text = book_node.child_value();
                     size_t start = root_text.find_first_not_of(" \t\n\r");
                     if (start != std::string::npos) {
                         size_t end = root_text.find_last_not_of(" \t\n\r");
-                        root_data.text_content = root_text.substr(start, end - start + 1);
+                        book_root_data.text_content = root_text.substr(start, end - start + 1);
+                    } else {
+                        book_root_data.text_content = "";
                     }
                     
-                    book_tree.insert("", root_data); // insert root
+                    // IMPORTANTE: Se inserta pasando 'global_root_id' como el padre
+                    {
+                        std::lock_guard<std::mutex> lock(mega_tree_mutex);
+                        mega_tree.insert(global_root_id, std::move(book_root_data)); 
+                    }
                     
-                    populate_tree(book_node, book_tree, root_id, id_counter);
-                    
-                    book_tree.printTree();
+                    // 5. Población recursiva usando el mismo árbol global
+                    populate_tree(book_node, mega_tree, book_root_id, id_counter);
                     
                 } else {
-                    std::cerr << "Error: No se encontro el nodo <book> en el XML.\n";
+                    std::cerr << "Error: No se encontro el nodo <book> en " << filepath.filename() << "\n";
                 }
             } else {
-                std::cerr << "Failed to parse " << entry.path().filename() 
+                std::cerr << "Failed to parse " << filepath.filename() 
                           << " - Error: " << result.description() << std::endl;
             }
 
-            count++;
-            // Limit to 5 files for the sample output
-            if (count >= 1) {
-                std::cout << "Stopping after 5 files for this sample demonstration." << std::endl;
-                break;
+            int current_count = ++count;
+            if (current_count % 100 == 0) {
+                std::cout << "Procesados: " << current_count << std::endl;
             }
+        }
+    };
+
+    for (int i = 0; i < num_threads; ++i) {
+        threads.emplace_back(worker);
+    }
+
+    for (auto& t : threads) {
+        if (t.joinable()) {
+            t.join();
         }
     }
 
-    if (count == 0) {
-        std::cout << "No XML files found in the directory." << std::endl;
-    }
+    // 6. Imprimir el árbol gigante final una sola vez, cuando ya se procesaron todos los archivos
+    std::cout << "Count: " << count << std::endl;
+    std::cout << "\n============================================\n";
+    std::cout << "ESTRUCTURA DEL ARBOL GLOBAL UNIFICADO:\n";
+    std::cout << "============================================\n";
+    // mega_tree.printTree();
 
     return 0;
 }
