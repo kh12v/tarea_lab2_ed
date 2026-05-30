@@ -144,11 +144,41 @@ int main() {
     }
 
     // 6. Imprimir el árbol gigante final una sola vez, cuando ya se procesaron todos los archivos
-    std::cout << "Count: " << count << std::endl;
     std::cout << "\n============================================\n";
-    std::cout << "ESTRUCTURA DEL ARBOL GLOBAL UNIFICADO:\n";
+    std::cout << "ESTRUCUTRA DEL ARBOL CREADA:\n";
     std::cout << "============================================\n";
     // mega_tree.printTree();
 
+    // ---------------------------------------
+    // Utilizar funciones aquí:
+
+    std::cout << "\n--- Probando listar() ---\n";
+    std::vector<int> listados = mega_tree.listar();
+    std::cout << "Se han listado " << listados.size() << " elementos.\n";
+    if (!listados.empty()) {
+        std::cout << "Primeros elementos listados: ";
+        for (size_t i = 0; i < 5 && i < listados.size(); ++i) {
+            std::cout << listados[i] << " ";
+        }
+        std::cout << "...\n";
+    }
+    
+    std::cout << "\n--- Probando precursores() ---\n";
+    std::vector<int> prec = mega_tree.precursores();
+    std::cout << "Se encontraron " << prec.size() << " precursores.\n";
+    if (!prec.empty()) {
+        std::cout << "Primeros precursores encontrados: ";
+        for (size_t i = 0; i < 5 && i < prec.size(); ++i) {
+            std::cout << prec[i] << " ";
+        }
+        std::cout << "...\n";
+    }
+
+    std::cout << "\n--- Probando borrar_ratings(3.5) ---\n";
+    std::cout << "Tamano del arbol antes de borrar: " << mega_tree.size() << "\n";
+    mega_tree.borrar_ratings(3.5);
+    std::cout << "Tamano del arbol despues de borrar: " << mega_tree.size() << "\n";
+
+    // ---------------------------------------
     return 0;
 }

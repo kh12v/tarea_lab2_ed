@@ -207,40 +207,57 @@ std::vector<int> Tree::preOrder() {
 void Tree::precursores(Node* node, std::vector<int>& result) {
     if (!node) return;
 
-    int year = 0;
-    bool precursor = true;
+    if (node->data.tag == "book") {
+        int year = 0;
+        bool has_year = false;
+        bool precursor = true;
+        bool has_similar = false;
 
-    
-    for (auto child : node->children){
-        if(child->data.tag == "publication_year"){
-            year = std::stoi(child->data.text_content);
+        // Obtain publication year of the current book
+        for (auto child : node->children) {
+            if (child->data.tag == "publication_year") {
+                if (!child->data.text_content.empty()) {
+                    try {
+                        year = std::stoi(child->data.text_content);
+                        has_year = true;
+                    } catch (...) {}
+                }
+            }
         }
-    }
 
-    for(auto child : node->children){
-        if(child->data.tag == "similar_books"){
-            for(auto similar_book : child->children){
-                int similar_book_year = 0;
-                for (auto similar : similar_book->children) {
-                    if (similar->data.tag == "publication_year"){
-                        similar_book_year = std::stoi(similar->data.text_content);
-                        if (!similar->data.text_content.empty()) {
-                            similar_book_year = std::stoi(similar->data.text_content);
-                            if (similar_book_year <= year) {
-                                precursor = false;
-                                break;
+        // Only evaluate if the current book has a valid year
+        if (has_year) {
+            for (auto child : node->children) {
+                if (child->data.tag == "similar_books") {
+                    for (auto similar_book : child->children) {
+                        has_similar = true; // Found at least one similar book
+                        
+                        for (auto similar : similar_book->children) {
+                            if (similar->data.tag == "publication_year") {
+                                if (!similar->data.text_content.empty()) {
+                                    try {
+                                        int similar_book_year = std::stoi(similar->data.text_content);
+                                        // If a similar book is not strictly published in a later year, it's not a precursor
+                                        if (similar_book_year <= year) {
+                                            precursor = false;
+                                        }
+                                    } catch (...) {}
+                                }
                             }
                         }
                     }
                 }
-                if (!precursor) break;
             }
+        } else {
+            precursor = false;
+        }
+
+        // If it has a year, has similar books, and ALL of them were published after: it is a precursor
+        if (has_year && has_similar && precursor) {
+            result.push_back(node->data.id);
         }
     }
 
-    if (precursor && node->data.tag == "book"){
-        result.push_back(node->data.id);
-    }
     for (auto child : node->children)
         precursores(child, result);
 }
@@ -255,10 +272,23 @@ std::vector<int> Tree::precursores() {
 //primera funcion listar
 void Tree::listar(Node* node, std::vector<int>& result) {
     if (!node) return;
-    
 
     if (node->data.tag == "book") {
-        result.push_back(node->data.id);
+        int xml_id = -1;
+        // Buscar el tag <id> entre los hijos
+        for (auto child : node->children) {
+            if (child->data.tag == "id" && !child->data.text_content.empty()) {
+                try {
+                    xml_id = std::stoi(child->data.text_content);
+                } catch (...) {}
+                break;
+            }
+        }
+        
+        // Solo lo agregamos si se encontró un ID válido (esto ignora los libros similares que no tienen ID)
+        if (xml_id != -1) {
+            result.push_back(xml_id);
+        }
     }
     
     for (auto child : node->children)
@@ -277,10 +307,14 @@ void Tree::borrar_ratings(double r){
 
     for (auto book : rootNode->children){
         for (auto child : book->children){
-            if(child->data.tag == "average_rating"){
-                double ranking = std::stod(child->data.text_content);
-                if(ranking <= r){
-                    ids_to_remove.push_back(book->data.id);
+            if(child->data.tag == "average_rating" && !child->data.text_content.empty()){
+                try {
+                    double ranking = std::stod(child->data.text_content);
+                    if(ranking <= r){
+                        ids_to_remove.push_back(book->data.id);
+                    }
+                } catch (...) {
+                    // Ignorar si el string no es un double válido
                 }
             }
         }
