@@ -146,7 +146,13 @@ std::vector<int> Tree::preOrder() {
     return result;
 }
 
-// Método auxiliar para precursores
+// Método auxiliar para precursores.
+// Este método recorre recursivamente el árbol buscando nodos cuya etiqueta (tag) sea "book"
+// Un libro se clasifica como "precursor" únicamente si cumple con estas tres condiciones:
+// 1. Contiene una etiqueta "publication_year" con un valor numérico válido
+// 2. Posee una sección de "similar_books" con al menos un libro similar registrado
+// 3. Todos los libros similares (que tengan un año válido) fueron publicados en un 
+//    año estrictamente posterior al libro evaluado
 void Tree::precursores(Node* node, std::vector<int>& result) {
     if (!node) return;
 
@@ -213,7 +219,11 @@ std::vector<int> Tree::precursores() {
 }
 
 
-// Método auxiliar para listar
+// Método auxiliar para listar.
+// Recorre el árbol en pre-orden para extraer y listar los identificadores (IDs) de todos los libros principales.
+// Este método busca recursivamente nodos cuya etiqueta (tag) sea "book". Al encontrar uno, 
+// inspecciona sus nodos hijos directos en busca de la etiqueta "id". Si la encuentra y contiene 
+// texto, intenta convertir este valor a un número entero para añadirlo a la lista de resultados.
 void Tree::listar(Node* node, std::vector<int>& result) {
     if (!node) return;
 
@@ -246,7 +256,10 @@ std::vector<int> Tree::listar() {
     return result;
 }
 
-// Borra los ratings de los libros cuyo rating sea menor a r. O(n^2) peor caso, n número de nodos en el árbol
+// Borra los ratings de los libros cuyo rating sea menor a r. O(n^2) peor caso, n número de nodos en el árbol.
+// Elimina del árbol todos los libros cuya calificación promedio sea menor o igual a el valor de 'r'.
+// Este método evalúa los nodos hijos directos del nodo raíz y busca la etiqueta "average_rating".
+// Si se encuentra la etiqueta y la calificación del libro es menor o igual a 'r', el libro es eliminado del árbol.
 void Tree::borrar_ratings(double r){
     std::vector<int> ids_to_remove;
 

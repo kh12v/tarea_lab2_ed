@@ -110,14 +110,14 @@ int main() {
 
         int current_count = ++count;
         if (current_count % 100 == 0) {
-            std::cout << "Procesados: " << current_count << std::endl;
+            std::cout << "Procesados: " << current_count << "/10000" << std::endl;
         }
     }
 
     // 6. Imprimir el árbol gigante final una sola vez, cuando ya se procesaron todos los archivos
-    std::cout << "\n============================================\n";
+    std::cout << "\n============================\n";
     std::cout << "ESTRUCUTRA DEL ARBOL CREADA:\n";
-    std::cout << "============================================\n";
+    std::cout << "============================\n";
     // mega_tree.printTree();
 
     // ---------------------------------------
