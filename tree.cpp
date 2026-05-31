@@ -3,32 +3,36 @@
 #include <functional>
 #include <stdexcept>
 
-// Node
+// Constructor del nodo
 Tree::Node::Node(XmlNodeData&& value, Node* p) {
     data = std::move(value);
     parent = p;
 }
 
-// Constructor
+// Constructor del árbol.
 Tree::Tree(int k) {
     this->k = k;
     rootNode = nullptr;
     treeSize = 0;
 }
 
+// Retorna true si el árbol está vacío, false en caso contrario.
 bool Tree::isEmpty() {
     return treeSize == 0;
 }
 
+// Retorna el tamaño del árbol.
 int Tree::size() {
     return treeSize;
 }
 
+// Retorna el ID de la raíz.
 int Tree::root() {
     if (!rootNode) throw std::runtime_error("Árbol vacío");
     return rootNode->data.id;
 }
 
+// Busca el nodo según id. O(1) utilizando unordered_map
 Tree::Node* Tree::search(int id) {
     auto it = node_directory.find(id);
     if (it != node_directory.end()) {
@@ -36,22 +40,9 @@ Tree::Node* Tree::search(int id) {
     }
     return nullptr;
 }
-// Tree::Node* Tree::search(Node* node, int id) {
-//     if (!node) return nullptr;
-//     if (node->data.id == id) return node;
 
-//     for (auto child : node->children) {
-//         Node* found = search(child, id);
-//         if (found) return found;
-//     }
-//     return nullptr;
-// }
-
+// Inserta un nuevo nodo. O(1)
 bool Tree::insert(int parentId, XmlNodeData&& value) {
-    // 1. Bloqueamos el mutex. Ningún otro hilo pasará de esta línea 
-    // hasta que el hilo actual termine la función insert.
-    std::lock_guard<std::mutex> lock(tree_mutex);
-
     int new_id = value.id;
 
     if (!rootNode) {
@@ -77,26 +68,9 @@ bool Tree::insert(int parentId, XmlNodeData&& value) {
     
     return true;
 }
-// bool Tree::insert(int parentId, XmlNodeData value) {
-//     if (!rootNode) {
-//         rootNode = new Node(value);
-//         treeSize++;
-//         return true;
-//     }
 
-//     Node* parentNode = search(rootNode, parentId);
-//     if (!parentNode) return false;
-
-//     if ((int)parentNode->children.size() >= k) return false;
-
-//     Node* newNode = new Node(value, parentNode);
-//     parentNode->children.push_back(newNode);
-//     treeSize++;
-//     return true;
-// }
-
+// Retorna el padre del nodo según id. O(1)
 int Tree::parent(int id) {
-    // Node* node = search(rootNode, id);
     Node* node = search(id);
     if (!node || !node->parent)
         throw std::runtime_error("No tiene padre");
@@ -104,8 +78,8 @@ int Tree::parent(int id) {
     return node->parent->data.id;
 }
 
+// Retorna los hijos del nodo según id. O(c), c número de hijos del nodo
 std::vector<int> Tree::children(int id) {
-    // Node* node = search(rootNode, id);
     Node* node = search(id);
     std::vector<int> result;
 
@@ -117,6 +91,7 @@ std::vector<int> Tree::children(int id) {
     return result;
 }
 
+// Elimina los nodos de un subtree. O(n), n número de nodos en el subtree
 void Tree::deleteSubtree(Node* node) {
     if (!node) return;
     for (auto child : node->children) {
@@ -125,28 +100,19 @@ void Tree::deleteSubtree(Node* node) {
     // Borrar del directorio antes de destruir el nodo
     node_directory.erase(node->data.id);
     delete node;
+    treeSize--; 
 }
-// void Tree::deleteSubtree(Node* node) {
-//     if (!node) return;
-//     for (auto child : node->children)
-//         deleteSubtree(child);
-//     delete node;
-// }
 
+// Elimina un nodo y todos sus hijos. O(m + c), m número de nodos en el subtree, c número de hermanos del nodo
 bool Tree::remove(int id) {
-    // 2. También bloqueamos al eliminar, para evitar que un hilo 
-    // intente insertar un hijo en un nodo que otro hilo está borrando.
-    std::lock_guard<std::mutex> lock(tree_mutex);
-
     auto it = node_directory.find(id);
     if (it == node_directory.end()) return false;
     
     Node* node = it->second;
 
     if (node == rootNode) {
-        deleteSubtree(rootNode); // deleteSubtree ya borra del node_directory
+        deleteSubtree(rootNode);
         rootNode = nullptr;
-        treeSize = 0;
         return true;
     }
 
@@ -162,33 +128,10 @@ bool Tree::remove(int id) {
     }
 
     deleteSubtree(node);
-    treeSize--;
     return true;
 }
-// bool Tree::remove(int id) {
-//     Node* node = search(rootNode, id);
-//     if (!node) return false;
 
-//     if (node == rootNode) {
-//         deleteSubtree(rootNode);
-//         rootNode = nullptr;
-//         treeSize = 0;
-//         return true;
-//     }
-
-//     Node* parent = node->parent;
-//     auto& siblings = parent->children;
-
-//     siblings.erase(
-//         std::remove(siblings.begin(), siblings.end(), node),
-//         siblings.end()
-//     );
-
-//     deleteSubtree(node);
-//     treeSize--;
-//     return true;
-// }
-
+// Método auxiliar para preOrder
 void Tree::preOrder(Node* node, std::vector<int>& result) {
     if (!node) return;
     result.push_back(node->data.id);
@@ -196,14 +139,14 @@ void Tree::preOrder(Node* node, std::vector<int>& result) {
         preOrder(child, result);
 }
 
+// Retorna los IDs de los nodos según preOrder. O(n), n número de nodos en el árbol
 std::vector<int> Tree::preOrder() {
     std::vector<int> result;
     preOrder(rootNode, result);
     return result;
 }
 
-//funciones para precursores
-
+// Método auxiliar para precursores
 void Tree::precursores(Node* node, std::vector<int>& result) {
     if (!node) return;
 
@@ -213,7 +156,7 @@ void Tree::precursores(Node* node, std::vector<int>& result) {
         bool precursor = true;
         bool has_similar = false;
 
-        // Obtain publication year of the current book
+        // Obtiene el año de publicación del libro actual
         for (auto child : node->children) {
             if (child->data.tag == "publication_year") {
                 if (!child->data.text_content.empty()) {
@@ -225,19 +168,19 @@ void Tree::precursores(Node* node, std::vector<int>& result) {
             }
         }
 
-        // Only evaluate if the current book has a valid year
+        // Solamente evalua si el libro actual tiene un año válido
         if (has_year) {
             for (auto child : node->children) {
                 if (child->data.tag == "similar_books") {
                     for (auto similar_book : child->children) {
-                        has_similar = true; // Found at least one similar book
+                        has_similar = true;
                         
                         for (auto similar : similar_book->children) {
                             if (similar->data.tag == "publication_year") {
                                 if (!similar->data.text_content.empty()) {
                                     try {
                                         int similar_book_year = std::stoi(similar->data.text_content);
-                                        // If a similar book is not strictly published in a later year, it's not a precursor
+                                        // Si un libro similar no a sido publicado en un año posterior, no es precursor
                                         if (similar_book_year <= year) {
                                             precursor = false;
                                         }
@@ -252,7 +195,7 @@ void Tree::precursores(Node* node, std::vector<int>& result) {
             precursor = false;
         }
 
-        // If it has a year, has similar books, and ALL of them were published after: it is a precursor
+        // Si tiene un año, tiene libros similares y todos ellos fueron publicados despues entonces es un precursor
         if (has_year && has_similar && precursor) {
             result.push_back(node->data.id);
         }
@@ -262,6 +205,7 @@ void Tree::precursores(Node* node, std::vector<int>& result) {
         precursores(child, result);
 }
 
+// Retorna los IDs de los libros que son precursores. O(n), n número de nodos en el árbol
 std::vector<int> Tree::precursores() {
     std::vector<int> result;
     precursores(rootNode, result);
@@ -269,7 +213,7 @@ std::vector<int> Tree::precursores() {
 }
 
 
-//primera funcion listar
+// Método auxiliar para listar
 void Tree::listar(Node* node, std::vector<int>& result) {
     if (!node) return;
 
@@ -295,14 +239,15 @@ void Tree::listar(Node* node, std::vector<int>& result) {
         listar(child, result);
 }
 
+// Retorna los IDs de los libros en preOrder. O(n), n número de nodos en el árbol
 std::vector<int> Tree::listar() {
     std::vector<int> result;
     listar(rootNode, result);
     return result;
 }
 
+// Borra los ratings de los libros cuyo rating sea menor a r. O(n^2) peor caso, n número de nodos en el árbol
 void Tree::borrar_ratings(double r){
-
     std::vector<int> ids_to_remove;
 
     for (auto book : rootNode->children){
@@ -326,6 +271,7 @@ void Tree::borrar_ratings(double r){
     }
 }
 
+// Método auxiliar para postOrder
 void Tree::postOrder(Node* node, std::vector<int>& result) {
     if (!node) return;
     for (auto child : node->children)
@@ -333,12 +279,14 @@ void Tree::postOrder(Node* node, std::vector<int>& result) {
     result.push_back(node->data.id);
 }
 
+// Retorna los IDs de los nodos según postOrder. O(n), n número de nodos en el árbol
 std::vector<int> Tree::postOrder() {
     std::vector<int> result;
     postOrder(rootNode, result);
     return result;
 }
 
+// Retorna los IDs de los nodos según inOrder. O(n), n número de nodos en el árbol
 std::vector<int> Tree::inOrder() {
     std::vector<int> result;
 
@@ -360,6 +308,7 @@ std::vector<int> Tree::inOrder() {
     return result;
 }
 
+// Método auxiliar para imprimir el árbol
 void Tree::printTree(Node* node, int depth) {
     if (!node) return;
 
@@ -381,6 +330,7 @@ void Tree::printTree(Node* node, int depth) {
     }
 }
 
+// Imprime el árbol. O(n), n número de nodos en el árbol
 void Tree::printTree() {
     printTree(rootNode, 0);
 }
